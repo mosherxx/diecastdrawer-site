@@ -4,144 +4,159 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>DiecastDrawer — The vault for your diecast collection</title>
-<meta name="description" content="DiecastDrawer is a premium iOS app for diecast car collectors. Catalog your 1:64 collection, browse new releases from MiniGT, Kaido House, Inno64, Pop Race and more, track value, and connect with collectors.">
+<meta name="description" content="DiecastDrawer is a premium iOS app for diecast car collectors. Catalog your 1:64 collection, browse new releases, track value, and connect with collectors.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
     --bg0:#0E0E10; --bg1:#15151A; --bg2:#1D1D24; --line:#2A2A33;
     --gold:#C8A96E; --gold-2:#8B6E3D; --gold-lt:#E4CFA0;
     --txt1:#F4F1EA; --txt2:#A9A6A0; --txt3:#6E6B66;
-    --maxw:1080px;
+    --maxw:1180px;
   }
   *{box-sizing:border-box;margin:0;padding:0}
   html{scroll-behavior:smooth}
   body{background:var(--bg0);color:var(--txt1);font-family:'Inter',system-ui,sans-serif;line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
-  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px;position:relative;z-index:2}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 32px;position:relative;z-index:2}
   a{color:inherit;text-decoration:none}
-  .display{font-family:'Fraunces',Georgia,serif;font-weight:600;letter-spacing:-.02em;line-height:1.05}
-  .eyebrow{font-size:.72rem;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:600}
+  .serif{font-family:'Fraunces',Georgia,serif;font-weight:400;letter-spacing:-.01em;line-height:1.02}
 
+  /* spaced-letter marker — irinamoi signature */
+  .spaced{font-size:.74rem;letter-spacing:.6em;text-transform:uppercase;color:var(--gold);font-weight:600;padding-left:.6em}
+  .label{font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--txt3);font-weight:600}
+
+  /* ambient bg */
   .bg-fx{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
-  .bg-fx .orb{position:absolute;border-radius:50%;filter:blur(60px);opacity:.5;animation:drift 26s ease-in-out infinite}
-  .orb.a{width:480px;height:480px;background:radial-gradient(circle,rgba(200,169,110,.22),transparent 70%);top:-140px;right:-100px}
-  .orb.b{width:420px;height:420px;background:radial-gradient(circle,rgba(139,110,61,.18),transparent 70%);bottom:-120px;left:-120px;animation-delay:-9s}
-  .orb.c{width:300px;height:300px;background:radial-gradient(circle,rgba(228,207,160,.10),transparent 70%);top:46%;left:40%;animation-delay:-15s}
-  @keyframes drift{0%,100%{transform:translate(0,0) scale(1)}33%{transform:translate(40px,-30px) scale(1.08)}66%{transform:translate(-30px,25px) scale(.96)}}
+  .orb{position:absolute;border-radius:50%;filter:blur(70px);opacity:.45;animation:drift 30s ease-in-out infinite}
+  .orb.a{width:520px;height:520px;background:radial-gradient(circle,rgba(200,169,110,.22),transparent 70%);top:-160px;right:-120px}
+  .orb.b{width:460px;height:460px;background:radial-gradient(circle,rgba(139,110,61,.18),transparent 70%);bottom:-140px;left:-140px;animation-delay:-10s}
+  .orb.c{width:340px;height:340px;background:radial-gradient(circle,rgba(228,207,160,.10),transparent 70%);top:50%;left:42%;animation-delay:-18s}
+  @keyframes drift{0%,100%{transform:translate(0,0) scale(1)}33%{transform:translate(50px,-36px) scale(1.08)}66%{transform:translate(-36px,30px) scale(.95)}}
+  .bg-grid{position:fixed;inset:0;z-index:0;pointer-events:none;background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);background-size:72px 72px;opacity:.045;mask-image:radial-gradient(ellipse at 50% 0%,#000 5%,transparent 72%)}
 
-  .bg-grid{position:fixed;inset:0;z-index:0;pointer-events:none;
-    background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);
-    background-size:64px 64px;opacity:.05;mask-image:radial-gradient(ellipse at 50% 0%,#000 10%,transparent 70%);animation:gridpan 40s linear infinite}
-  @keyframes gridpan{from{background-position:0 0}to{background-position:0 64px}}
-
-  header{position:sticky;top:0;z-index:50;background:rgba(14,14,16,.7);backdrop-filter:blur(16px);border-bottom:1px solid var(--line)}
-  nav{display:flex;align-items:center;justify-content:space-between;height:64px}
-  .brand{display:flex;align-items:center;gap:11px;font-family:'Fraunces',serif;font-weight:600;font-size:1.15rem}
-  .brand .mark{width:30px;height:30px;border-radius:8px;background:linear-gradient(140deg,var(--gold-lt),var(--gold-2));display:grid;place-items:center;box-shadow:0 2px 10px rgba(200,169,110,.3)}
-  .nav-links{display:flex;gap:28px;align-items:center}
-  .nav-links a{color:var(--txt2);font-size:.9rem;font-weight:500;transition:color .2s}
+  /* nav */
+  header{position:fixed;top:0;left:0;right:0;z-index:50;background:rgba(14,14,16,.6);backdrop-filter:blur(18px);border-bottom:1px solid transparent;transition:border-color .3s,background .3s}
+  header.scrolled{border-bottom-color:var(--line);background:rgba(14,14,16,.82)}
+  nav{display:flex;align-items:center;justify-content:space-between;height:72px;max-width:var(--maxw);margin:0 auto;padding:0 32px}
+  .brand{display:flex;align-items:center;gap:12px;font-family:'Fraunces',serif;font-weight:600;font-size:1.15rem}
+  .brand .mark{width:32px;height:32px;border-radius:9px;background:linear-gradient(140deg,var(--gold-lt),var(--gold-2));display:grid;place-items:center;box-shadow:0 2px 12px rgba(200,169,110,.3)}
+  .nav-links{display:flex;gap:30px;align-items:center}
+  .nav-links a{color:var(--txt2);font-size:.86rem;font-weight:500;letter-spacing:.02em;transition:color .2s}
   .nav-links a:hover{color:var(--txt1)}
-  .btn{display:inline-flex;align-items:center;gap:8px;background:linear-gradient(140deg,var(--gold-lt),var(--gold-2));color:#0E0E10;font-weight:600;padding:11px 19px;border-radius:11px;font-size:.9rem;transition:transform .15s,box-shadow .25s}
+  .btn{display:inline-flex;align-items:center;gap:8px;background:linear-gradient(140deg,var(--gold-lt),var(--gold-2));color:#0E0E10;font-weight:600;padding:11px 20px;border-radius:11px;font-size:.86rem;transition:transform .15s,box-shadow .25s}
   .btn:hover{transform:translateY(-1px);box-shadow:0 10px 30px rgba(200,169,110,.3)}
   .btn-ghost{background:transparent;border:1px solid var(--line);color:var(--txt1)}
   .btn-ghost:hover{border-color:var(--gold);box-shadow:none}
-  @media(max-width:680px){.nav-links a:not(.btn){display:none}}
+  @media(max-width:720px){.nav-links a:not(.btn){display:none}}
 
-  .hero{position:relative;padding:90px 0 60px}
-  .hero-grid{display:grid;grid-template-columns:1.02fr .98fr;gap:48px;align-items:center}
-  @media(max-width:880px){.hero-grid{grid-template-columns:1fr;gap:36px}}
-  .hero h1{font-size:clamp(2.6rem,6vw,4.4rem);margin:18px 0 22px}
-  .hero h1 em{font-style:italic;color:var(--gold)}
-  .hero p.lead{font-size:1.12rem;color:var(--txt2);max-width:32ch;margin-bottom:30px}
+  /* HERO — editorial, oversized serif, parallax drawer */
+  .hero{position:relative;min-height:100vh;display:flex;flex-direction:column;justify-content:center;padding:130px 0 70px}
+  .hero-top{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:5vh}
+  .hero h1{font-size:clamp(3rem,9vw,8rem);font-weight:300;line-height:.95;margin:0}
+  .hero h1 .it{font-style:italic;font-weight:400;color:var(--gold)}
+  .hero-sub{display:flex;justify-content:space-between;align-items:flex-end;gap:40px;margin-top:5vh;flex-wrap:wrap}
+  .hero-sub p{font-size:1.12rem;color:var(--txt2);max-width:38ch}
   .hero-cta{display:flex;gap:14px;flex-wrap:wrap}
 
-  .drawer-stage{perspective:1100px}
-  .drawer{position:relative;border-radius:18px;background:linear-gradient(180deg,#202028,#141418);border:1px solid var(--line);box-shadow:0 40px 90px -30px rgba(0,0,0,.85), inset 0 1px 0 rgba(255,255,255,.04);padding:16px;overflow:hidden;transform:rotateX(8deg)}
-  .drawer-rail{height:8px;border-radius:6px;background:linear-gradient(90deg,transparent,var(--line),transparent);margin:0 auto 14px;width:38%}
-  .drawer-track{position:relative;height:300px;border-radius:12px;background:radial-gradient(ellipse at 50% 120%,rgba(200,169,110,.08),transparent 60%),repeating-linear-gradient(180deg,#16161b 0 38px,#191920 38px 39px);overflow:hidden}
-  .lanes{position:absolute;inset:0;background:repeating-linear-gradient(90deg,transparent 0 70px,rgba(200,169,110,.10) 70px 100px);animation:lanes 1.1s linear infinite}
-  @keyframes lanes{from{background-position:0 0}to{background-position:-100px 0}}
-  .streak{position:absolute;height:2px;border-radius:2px;background:linear-gradient(90deg,transparent,var(--gold),transparent);opacity:0;animation:streak 1.6s linear infinite}
-  .streak:nth-child(1){top:24%;width:120px;animation-delay:.1s}
-  .streak:nth-child(2){top:52%;width:90px;animation-delay:.6s}
-  .streak:nth-child(3){top:74%;width:140px;animation-delay:1s}
-  @keyframes streak{0%{transform:translateX(640px);opacity:0}10%{opacity:.7}90%{opacity:.7}100%{transform:translateX(-220px);opacity:0}}
-  .racer{position:absolute;left:-220px;will-change:transform}
-  .racer svg{display:block;filter:drop-shadow(0 8px 10px rgba(0,0,0,.55))}
-  .racer.jdm{top:20%;animation:race 4.2s cubic-bezier(.4,0,.5,1) infinite}
-  .racer.muscle{top:46%;animation:race 5.4s cubic-bezier(.4,0,.5,1) infinite;animation-delay:1.4s}
-  .racer.exotic{top:70%;animation:race 3.6s cubic-bezier(.4,0,.5,1) infinite;animation-delay:.7s}
-  @keyframes race{0%{transform:translateX(0)}100%{transform:translateX(760px)}}
-  .wheel{transform-origin:center;animation:spin .35s linear infinite}
+  /* parallax drawer band */
+  .drawer-band{position:relative;margin:9vh 0 0;border-radius:20px;overflow:hidden;border:1px solid var(--line);background:linear-gradient(180deg,#1c1c22,#141418);box-shadow:0 50px 120px -40px rgba(0,0,0,.9)}
+  .drawer-track{position:relative;height:340px;background:radial-gradient(ellipse at 50% 130%,rgba(200,169,110,.08),transparent 60%),repeating-linear-gradient(180deg,#16161b 0 40px,#191920 40px 41px);overflow:hidden}
+  .lanes{position:absolute;inset:0;background:repeating-linear-gradient(90deg,transparent 0 80px,rgba(200,169,110,.10) 80px 112px);animation:lanes 1s linear infinite}
+  @keyframes lanes{from{background-position:0 0}to{background-position:-112px 0}}
+  .streak{position:absolute;height:2px;border-radius:2px;background:linear-gradient(90deg,transparent,var(--gold),transparent);opacity:0;animation:streak 1.5s linear infinite}
+  .streak:nth-of-type(1){top:22%;width:140px}
+  .streak:nth-of-type(2){top:50%;width:100px;animation-delay:.5s}
+  .streak:nth-of-type(3){top:76%;width:160px;animation-delay:.9s}
+  @keyframes streak{0%{transform:translateX(900px);opacity:0}10%{opacity:.7}90%{opacity:.7}100%{transform:translateX(-260px);opacity:0}}
+  .racer{position:absolute;left:-240px;will-change:transform}
+  .racer svg{display:block;filter:drop-shadow(0 8px 12px rgba(0,0,0,.55))}
+  .racer.jdm{top:18%;animation:race 4s cubic-bezier(.4,0,.5,1) infinite}
+  .racer.muscle{top:44%;animation:race 5.2s cubic-bezier(.4,0,.5,1) infinite;animation-delay:1.3s}
+  .racer.exotic{top:70%;animation:race 3.4s cubic-bezier(.4,0,.5,1) infinite;animation-delay:.6s}
+  @keyframes race{0%{transform:translateX(0)}100%{transform:translateX(1420px)}}
+  .wheel{transform-origin:center;animation:spin .32s linear infinite}
   @keyframes spin{to{transform:rotate(360deg)}}
-  .drawer-foot{display:flex;justify-content:space-between;align-items:center;padding:14px 8px 4px;color:var(--txt3);font-size:.74rem;font-variant-numeric:tabular-nums}
-  .drawer-foot .live{display:inline-flex;align-items:center;gap:6px;color:var(--gold)}
-  .drawer-foot .dot{width:7px;height:7px;border-radius:50%;background:var(--gold);animation:pulse 1.8s infinite}
+  .drawer-cap{display:flex;justify-content:space-between;align-items:center;padding:16px 22px;border-top:1px solid var(--line);color:var(--txt3);font-size:.74rem;letter-spacing:.12em}
+  .drawer-cap .live{display:inline-flex;align-items:center;gap:7px;color:var(--gold)}
+  .drawer-cap .dot{width:7px;height:7px;border-radius:50%;background:var(--gold);animation:pulse 1.8s infinite}
   @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(200,169,110,.5)}70%{box-shadow:0 0 0 9px rgba(200,169,110,0)}100%{box-shadow:0 0 0 0 rgba(200,169,110,0)}}
 
-  .brands{border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:26px 0;margin-top:10px;overflow:hidden}
-  .bchip-label{font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--txt3);margin-bottom:16px;text-align:center}
-  .marquee{display:flex;gap:14px;width:max-content;animation:marq 26s linear infinite}
-  .marquee:hover{animation-play-state:paused}
-  .bchip{font-size:.85rem;font-weight:600;padding:8px 16px;border-radius:999px;border:1px solid var(--line);color:var(--txt2);white-space:nowrap}
+  /* marquee */
+  .brands{border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:30px 0;overflow:hidden}
+  .marquee-row{display:flex;gap:16px;width:max-content;animation:marq 30s linear infinite}
+  .marquee-row:hover{animation-play-state:paused}
+  .bchip{font-size:.86rem;font-weight:600;padding:9px 18px;border-radius:999px;border:1px solid var(--line);color:var(--txt2);white-space:nowrap}
   @keyframes marq{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 
-  section{padding:84px 0;position:relative}
-  .sec-head{max-width:48ch;margin-bottom:48px}
-  .sec-head h2{font-size:clamp(1.9rem,4vw,2.8rem);margin:14px 0}
-  .sec-head p{color:var(--txt2);font-size:1.05rem}
-  .reveal{opacity:0;transform:translateY(26px);transition:opacity .7s cubic-bezier(.16,1,.3,1),transform .7s cubic-bezier(.16,1,.3,1)}
+  /* sections */
+  section{padding:13vh 0;position:relative}
+  .sec-mark{display:flex;align-items:baseline;gap:18px;margin-bottom:7vh}
+  .sec-mark .num{font-family:'Fraunces',serif;font-size:1rem;color:var(--gold);font-variant-numeric:tabular-nums}
+  .sec-mark .ttl{font-size:.74rem;letter-spacing:.4em;text-transform:uppercase;color:var(--txt3);font-weight:600}
+  .sec-mark .rule{flex:1;height:1px;background:var(--line)}
+
+  h2.big{font-size:clamp(2.2rem,5.5vw,4.2rem);font-weight:300;line-height:1.02;max-width:18ch;margin-bottom:30px}
+  h2.big .it{font-style:italic;color:var(--gold)}
+  .lead2{font-size:1.1rem;color:var(--txt2);max-width:44ch}
+
+  /* reveal + parallax */
+  .reveal{opacity:0;transform:translateY(40px);transition:opacity .9s cubic-bezier(.16,1,.3,1),transform .9s cubic-bezier(.16,1,.3,1)}
   .reveal.in{opacity:1;transform:none}
-  .reveal[data-d="1"]{transition-delay:.08s}.reveal[data-d="2"]{transition-delay:.16s}
-  .reveal[data-d="3"]{transition-delay:.24s}.reveal[data-d="4"]{transition-delay:.32s}
+  .reveal[data-d="1"]{transition-delay:.1s}.reveal[data-d="2"]{transition-delay:.2s}
+  .reveal[data-d="3"]{transition-delay:.3s}.reveal[data-d="4"]{transition-delay:.4s}
+  /* mask reveal — clips upward like irinamoi image reveals */
+  .mask{clip-path:inset(100% 0 0 0);transition:clip-path 1.1s cubic-bezier(.16,1,.3,1)}
+  .mask.in{clip-path:inset(0 0 0 0)}
+  .parallax{will-change:transform}
 
-  .features{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
-  @media(max-width:820px){.features{grid-template-columns:1fr}}
-  .card{background:var(--bg1);border:1px solid var(--line);border-radius:16px;padding:28px;transition:border-color .25s,transform .25s,box-shadow .25s}
-  .card:hover{border-color:var(--gold-2);transform:translateY(-4px);box-shadow:0 20px 50px -25px rgba(0,0,0,.7)}
-  .card .ic{width:46px;height:46px;border-radius:12px;background:linear-gradient(140deg,var(--bg2),#121217);border:1px solid var(--line);display:grid;place-items:center;margin-bottom:18px}
-  .card .ic svg{width:24px;height:24px}
-  .card h3{font-family:'Fraunces',serif;font-weight:600;font-size:1.2rem;margin-bottom:8px}
-  .card p{color:var(--txt2);font-size:.95rem}
+  /* features as numbered index rows */
+  .index-list{border-top:1px solid var(--line)}
+  .index-row{display:grid;grid-template-columns:60px 1fr 1.4fr;gap:30px;align-items:center;padding:34px 8px;border-bottom:1px solid var(--line);transition:background .3s,padding-left .3s}
+  .index-row:hover{background:linear-gradient(90deg,rgba(200,169,110,.05),transparent);padding-left:20px}
+  .index-row .ix{font-family:'Fraunces',serif;font-size:1.1rem;color:var(--gold);font-variant-numeric:tabular-nums}
+  .index-row h3{font-family:'Fraunces',serif;font-weight:500;font-size:1.5rem}
+  .index-row p{color:var(--txt2);font-size:.98rem}
+  @media(max-width:760px){.index-row{grid-template-columns:40px 1fr;gap:14px}.index-row p{grid-column:1/-1;padding-left:54px}}
 
-  .badge-strip{display:flex;gap:26px;justify-content:center;flex-wrap:wrap;margin-top:8px}
-  .badge{display:flex;flex-direction:column;align-items:center;gap:12px;width:128px}
-  .badge svg{width:96px;height:96px;filter:drop-shadow(0 8px 16px rgba(0,0,0,.5));transition:transform .3s}
-  .badge:hover svg{transform:translateY(-4px) scale(1.04)}
-  .badge .nm{font-size:.82rem;font-weight:600}
-  .badge .ds{font-size:.72rem;color:var(--txt3);text-align:center}
+  /* badges */
+  .badge-strip{display:flex;gap:30px;justify-content:center;flex-wrap:wrap}
+  .badge{display:flex;flex-direction:column;align-items:center;gap:14px;width:140px}
+  .badge svg{width:104px;height:104px;filter:drop-shadow(0 10px 20px rgba(0,0,0,.5));transition:transform .4s}
+  .badge:hover svg{transform:translateY(-6px) scale(1.05)}
+  .badge .nm{font-family:'Fraunces',serif;font-size:1rem}
+  .badge .ds{font-size:.74rem;color:var(--txt3);text-align:center}
 
-  .split{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center}
-  @media(max-width:820px){.split{grid-template-columns:1fr;gap:36px}}
+  /* split */
+  .split{display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:center}
+  @media(max-width:820px){.split{grid-template-columns:1fr;gap:40px}}
   .split.alt .visual{order:-1}
-  .visual{background:var(--bg1);border:1px solid var(--line);border-radius:18px;padding:24px;min-height:300px;display:flex;flex-direction:column;justify-content:center;gap:14px}
-  .stat-row{display:flex;justify-content:space-between;align-items:center;padding:14px 16px;background:var(--bg2);border:1px solid var(--line);border-radius:12px;transition:border-color .2s}
-  .stat-row:hover{border-color:var(--gold-2)}
-  .stat-row .l{color:var(--txt2);font-size:.9rem}
+  .visual{background:var(--bg1);border:1px solid var(--line);border-radius:18px;padding:26px;display:flex;flex-direction:column;gap:14px}
+  .stat-row{display:flex;justify-content:space-between;align-items:center;padding:16px 18px;background:var(--bg2);border:1px solid var(--line);border-radius:12px;transition:border-color .25s,transform .25s}
+  .stat-row:hover{border-color:var(--gold-2);transform:translateX(4px)}
+  .stat-row .l{color:var(--txt2);font-size:.92rem}
   .stat-row .v{font-weight:700;color:var(--gold);font-variant-numeric:tabular-nums}
-  .split h2{font-size:clamp(1.7rem,3.5vw,2.4rem);margin:14px 0}
-  .split p{color:var(--txt2);margin-bottom:10px}
-  .ticklist{list-style:none;margin-top:18px;display:flex;flex-direction:column;gap:12px}
-  .ticklist li{display:flex;gap:11px;align-items:center;color:var(--txt1);font-size:.96rem}
-  .ticklist .tk{flex-shrink:0;display:inline-flex}
+  .ticklist{list-style:none;margin-top:24px;display:flex;flex-direction:column;gap:14px}
+  .ticklist li{display:flex;gap:12px;align-items:center;font-size:1rem}
 
-  .band{background:linear-gradient(140deg,var(--bg1),var(--bg0));border:1px solid var(--line);border-radius:22px;padding:64px 40px;text-align:center;position:relative;overflow:hidden}
-  .band h2{font-size:clamp(2rem,4.5vw,3rem);margin-bottom:16px}
-  .band p{color:var(--txt2);max-width:42ch;margin:0 auto 30px;font-size:1.08rem}
-  .band .sheen{position:absolute;top:0;left:-60%;width:60%;height:100%;background:linear-gradient(90deg,transparent,rgba(228,207,160,.07),transparent);animation:sheen 6s ease-in-out infinite}
+  /* band */
+  .band{background:linear-gradient(140deg,var(--bg1),var(--bg0));border:1px solid var(--line);border-radius:24px;padding:9vh 40px;text-align:center;position:relative;overflow:hidden}
+  .band h2{font-size:clamp(2.4rem,6vw,4.5rem);font-weight:300;margin-bottom:20px}
+  .band h2 .it{font-style:italic;color:var(--gold)}
+  .band p{color:var(--txt2);max-width:44ch;margin:0 auto 32px;font-size:1.1rem}
+  .sheen{position:absolute;top:0;left:-60%;width:60%;height:100%;background:linear-gradient(90deg,transparent,rgba(228,207,160,.08),transparent);animation:sheen 6s ease-in-out infinite}
   @keyframes sheen{0%{left:-60%}55%,100%{left:130%}}
 
-  footer{border-top:1px solid var(--line);padding:48px 0 60px;margin-top:40px;position:relative;z-index:2}
+  footer{border-top:1px solid var(--line);padding:60px 0;position:relative;z-index:2}
   .foot{display:flex;justify-content:space-between;align-items:center;gap:24px;flex-wrap:wrap}
-  .foot-links{display:flex;gap:26px;flex-wrap:wrap}
+  .foot-links{display:flex;gap:28px;flex-wrap:wrap}
   .foot-links a{color:var(--txt2);font-size:.9rem;transition:color .2s}
   .foot-links a:hover{color:var(--gold)}
   .foot .cr{color:var(--txt3);font-size:.85rem}
 
   @media(prefers-reduced-motion:reduce){
     *{animation:none!important;transition:none!important;scroll-behavior:auto}
-    .reveal{opacity:1;transform:none}
+    .reveal{opacity:1;transform:none}.mask{clip-path:none}
   }
   :focus-visible{outline:2px solid var(--gold);outline-offset:3px;border-radius:4px}
 </style>
@@ -151,200 +166,123 @@
 <div class="bg-grid"></div>
 <div class="bg-fx"><span class="orb a"></span><span class="orb b"></span><span class="orb c"></span></div>
 
-<header>
-  <div class="wrap">
-    <nav>
-      <a class="brand" href="#top">
-        <span class="mark"><svg width="18" height="18" viewBox="0 0 24 24" fill="none"><rect x="3" y="6" width="18" height="12" rx="2" stroke="#0E0E10" stroke-width="2"/><line x1="3" y1="12" x2="21" y2="12" stroke="#0E0E10" stroke-width="2"/><circle cx="8" cy="15" r="1.3" fill="#0E0E10"/></svg></span>
-        DiecastDrawer
-      </a>
-      <div class="nav-links">
-        <a href="#features">Features</a>
-        <a href="#releases">Releases</a>
-        <a href="#badges">Badges</a>
-        <a href="privacy.html">Privacy</a>
-        <a class="btn btn-ghost" href="#download">Get the app</a>
-      </div>
-    </nav>
-  </div>
+<header id="hdr">
+  <nav>
+    <a class="brand" href="#top"><span class="mark"><svg width="19" height="19" viewBox="0 0 24 24" fill="none"><rect x="3" y="6" width="18" height="12" rx="2" stroke="#0E0E10" stroke-width="2"/><line x1="3" y1="12" x2="21" y2="12" stroke="#0E0E10" stroke-width="2"/><circle cx="8" cy="15" r="1.3" fill="#0E0E10"/></svg></span> DiecastDrawer</a>
+    <div class="nav-links">
+      <a href="#index">Features</a>
+      <a href="#releases">Releases</a>
+      <a href="#badges">Badges</a>
+      <a href="privacy.html">Privacy</a>
+      <a class="btn btn-ghost" href="#download">Get the app</a>
+    </div>
+  </nav>
 </header>
 
 <main id="top">
 
+  <!-- HERO -->
   <section class="hero">
-    <div class="wrap hero-grid">
-      <div class="reveal in">
-        <span class="eyebrow">For 1:64 collectors</span>
-        <h1 class="display">Every car in your collection, <em>finally</em> in one drawer.</h1>
-        <p class="lead">Catalog what you own, discover what's dropping, and know what it's worth — built for the people who notice the wheels.</p>
+    <div class="wrap">
+      <div class="hero-top reveal in">
+        <span class="spaced">The Vault</span>
+        <span class="label">iOS · 1:64 Scale</span>
+      </div>
+      <h1 class="serif reveal in" data-d="1">Every car,<br><span class="it">finally</span> in one drawer.</h1>
+      <div class="hero-sub reveal in" data-d="2">
+        <p>Catalog what you own, discover what's dropping, and know what it's worth — built for the people who notice the wheels.</p>
         <div class="hero-cta">
           <a class="btn" href="#download">Download for iPhone</a>
-          <a class="btn btn-ghost" href="#features">See how it works</a>
+          <a class="btn btn-ghost" href="#index">Explore</a>
         </div>
       </div>
 
-      <div class="drawer-stage reveal in" data-d="2" aria-hidden="true">
-        <div class="drawer">
-          <div class="drawer-rail"></div>
-          <div class="drawer-track">
-            <div class="lanes"></div>
-            <span class="streak"></span><span class="streak"></span><span class="streak"></span>
-
-            <div class="racer jdm">
-              <svg width="150" height="56" viewBox="0 0 150 56">
-                <path d="M6 40 L18 40 Q22 26 40 24 L64 22 Q78 14 98 16 L120 20 Q134 22 140 34 L144 40 L138 40" fill="none" stroke="#C8A96E" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
-                <path d="M44 24 L62 23 L74 17 L92 18 L100 24 Z" fill="rgba(200,169,110,.12)" stroke="#8B6E3D" stroke-width="1.4"/>
-                <circle class="wheel" cx="34" cy="42" r="9" fill="#15151A" stroke="#C8A96E" stroke-width="2"/><circle class="wheel" cx="34" cy="42" r="3" fill="#8B6E3D"/>
-                <circle class="wheel" cx="118" cy="42" r="9" fill="#15151A" stroke="#C8A96E" stroke-width="2"/><circle class="wheel" cx="118" cy="42" r="3" fill="#8B6E3D"/>
-              </svg>
-            </div>
-
-            <div class="racer muscle">
-              <svg width="158" height="56" viewBox="0 0 158 56">
-                <path d="M4 41 L14 41 Q16 30 30 28 L60 26 L80 19 L112 20 L132 28 Q146 30 150 40 L152 41 L146 41" fill="none" stroke="#E4CFA0" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
-                <path d="M40 27 L60 26 L78 20 L106 21 L114 27 Z" fill="rgba(228,207,160,.12)" stroke="#8B6E3D" stroke-width="1.4"/>
-                <line x1="20" y1="34" x2="138" y2="34" stroke="#8B6E3D" stroke-width="1"/>
-                <circle class="wheel" cx="36" cy="43" r="10" fill="#15151A" stroke="#E4CFA0" stroke-width="2.2"/><circle class="wheel" cx="36" cy="43" r="3.4" fill="#8B6E3D"/>
-                <circle class="wheel" cx="124" cy="43" r="10" fill="#15151A" stroke="#E4CFA0" stroke-width="2.2"/><circle class="wheel" cx="124" cy="43" r="3.4" fill="#8B6E3D"/>
-              </svg>
-            </div>
-
-            <div class="racer exotic">
-              <svg width="164" height="52" viewBox="0 0 164 52">
-                <path d="M4 38 L20 37 Q26 30 46 29 L84 16 L120 20 Q142 22 152 33 L158 38 L150 38" fill="none" stroke="#C8A96E" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
-                <path d="M52 29 L86 18 L114 21 L120 29 Z" fill="rgba(200,169,110,.12)" stroke="#8B6E3D" stroke-width="1.4"/>
-                <path d="M120 20 L132 12 L138 14 L134 21 Z" fill="rgba(200,169,110,.18)" stroke="#8B6E3D" stroke-width="1"/>
-                <circle class="wheel" cx="42" cy="40" r="9" fill="#15151A" stroke="#C8A96E" stroke-width="2"/><circle class="wheel" cx="42" cy="40" r="3" fill="#8B6E3D"/>
-                <circle class="wheel" cx="128" cy="40" r="9" fill="#15151A" stroke="#C8A96E" stroke-width="2"/><circle class="wheel" cx="128" cy="40" r="3" fill="#8B6E3D"/>
-              </svg>
-            </div>
+      <!-- parallax racing drawer -->
+      <div class="drawer-band reveal in" data-d="3" data-parallax="0.12" aria-hidden="true">
+        <div class="drawer-track">
+          <div class="lanes"></div>
+          <span class="streak"></span><span class="streak"></span><span class="streak"></span>
+          <div class="racer jdm">
+            <svg width="160" height="58" viewBox="0 0 160 58"><path d="M6 42 L18 42 Q22 27 42 25 L68 23 Q82 14 104 16 L128 20 Q144 22 150 35 L154 42 L148 42" fill="none" stroke="#C8A96E" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/><path d="M46 25 L66 24 L78 17 L98 18 L106 25 Z" fill="rgba(200,169,110,.12)" stroke="#8B6E3D" stroke-width="1.4"/><circle class="wheel" cx="36" cy="44" r="9.5" fill="#15151A" stroke="#C8A96E" stroke-width="2"/><circle class="wheel" cx="36" cy="44" r="3" fill="#8B6E3D"/><circle class="wheel" cx="126" cy="44" r="9.5" fill="#15151A" stroke="#C8A96E" stroke-width="2"/><circle class="wheel" cx="126" cy="44" r="3" fill="#8B6E3D"/></svg>
           </div>
-          <div class="drawer-foot">
-            <span>DRAWER 01 · JDM · MUSCLE · EXOTIC</span>
-            <span class="live"><span class="dot"></span> Live vault</span>
+          <div class="racer muscle">
+            <svg width="170" height="58" viewBox="0 0 170 58"><path d="M4 43 L14 43 Q16 31 32 29 L64 27 L86 19 L120 20 L142 29 Q158 31 162 42 L164 43 L158 43" fill="none" stroke="#E4CFA0" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/><path d="M42 28 L64 27 L84 20 L114 21 L122 28 Z" fill="rgba(228,207,160,.12)" stroke="#8B6E3D" stroke-width="1.4"/><line x1="22" y1="35" x2="148" y2="35" stroke="#8B6E3D" stroke-width="1"/><circle class="wheel" cx="38" cy="45" r="10.5" fill="#15151A" stroke="#E4CFA0" stroke-width="2.2"/><circle class="wheel" cx="38" cy="45" r="3.4" fill="#8B6E3D"/><circle class="wheel" cx="134" cy="45" r="10.5" fill="#15151A" stroke="#E4CFA0" stroke-width="2.2"/><circle class="wheel" cx="134" cy="45" r="3.4" fill="#8B6E3D"/></svg>
+          </div>
+          <div class="racer exotic">
+            <svg width="176" height="54" viewBox="0 0 176 54"><path d="M4 40 L20 39 Q26 31 48 30 L90 16 L128 20 Q152 22 162 34 L168 40 L160 40" fill="none" stroke="#C8A96E" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/><path d="M54 30 L92 18 L122 21 L128 30 Z" fill="rgba(200,169,110,.12)" stroke="#8B6E3D" stroke-width="1.4"/><path d="M128 20 L140 12 L146 14 L142 21 Z" fill="rgba(200,169,110,.18)" stroke="#8B6E3D" stroke-width="1"/><circle class="wheel" cx="44" cy="42" r="9.5" fill="#15151A" stroke="#C8A96E" stroke-width="2"/><circle class="wheel" cx="44" cy="42" r="3" fill="#8B6E3D"/><circle class="wheel" cx="136" cy="42" r="9.5" fill="#15151A" stroke="#C8A96E" stroke-width="2"/><circle class="wheel" cx="136" cy="42" r="3" fill="#8B6E3D"/></svg>
           </div>
         </div>
+        <div class="drawer-cap"><span>DRAWER 01 — JDM · MUSCLE · EXOTIC</span><span class="live"><span class="dot"></span> LIVE VAULT</span></div>
       </div>
     </div>
   </section>
 
+  <!-- BRANDS -->
   <div class="brands">
     <div class="wrap" style="overflow:hidden">
-      <p class="bchip-label">Tracks new releases from</p>
-      <div class="marquee">
+      <div class="marquee-row">
         <span class="bchip">MiniGT</span><span class="bchip">Kaido House</span><span class="bchip">Inno64</span><span class="bchip">Pop Race</span><span class="bchip">Tarmac Works</span><span class="bchip">Hot Wheels</span><span class="bchip">Matchbox</span>
         <span class="bchip">MiniGT</span><span class="bchip">Kaido House</span><span class="bchip">Inno64</span><span class="bchip">Pop Race</span><span class="bchip">Tarmac Works</span><span class="bchip">Hot Wheels</span><span class="bchip">Matchbox</span>
       </div>
     </div>
   </div>
 
-  <section id="features">
+  <!-- FEATURES as numbered index -->
+  <section id="index">
     <div class="wrap">
-      <div class="sec-head reveal">
-        <span class="eyebrow">What it does</span>
-        <h2 class="display">A real catalog, not a notes app.</h2>
-        <p>Photograph a car, tag the packaging, and DiecastDrawer keeps the whole shelf organized — searchable, sortable, and synced.</p>
-      </div>
-      <div class="features">
-        <div class="card reveal" data-d="1">
-          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="#C8A96E" stroke-width="1.8"><rect x="3" y="7" width="18" height="13" rx="2.5"/><path d="M8 7l1.5-2.5h5L16 7"/><circle cx="12" cy="13.5" r="3.5"/></svg></div>
-          <h3>Catalog every car</h3>
-          <p>Add cars by photo with brand, model, year, packaging and rarity. Box, blister, or chase — it's all tracked.</p>
-        </div>
-        <div class="card reveal" data-d="2">
-          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="#C8A96E" stroke-width="1.8"><path d="M3 13h2l1.5-4.5A2 2 0 018.4 7h7.2a2 2 0 011.9 1.5L19 13h2M5 13v4m14-4v4M3 17h18"/><circle cx="7.5" cy="13.5" r="1.1"/><circle cx="16.5" cy="13.5" r="1.1"/></svg></div>
-          <h3>Never miss a drop</h3>
-          <p>Browse the latest releases pulled from MiniGT, Kaido House, Inno64, Pop Race and more — and add them in a tap.</p>
-        </div>
-        <div class="card reveal" data-d="3">
-          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="#C8A96E" stroke-width="1.8"><path d="M12 3v18M8 7h6.5a2.5 2.5 0 010 5H8m0 0h7.5a2.5 2.5 0 010 5H8"/></svg></div>
-          <h3>Know the value</h3>
-          <p>See an estimated value for your collection based on live eBay listings, updated automatically in the background.</p>
-        </div>
-        <div class="card reveal" data-d="1">
-          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="#C8A96E" stroke-width="1.8"><path d="M18 8.5a6 6 0 10-12 0c0 7-3 8.5-3 8.5h18s-3-1.5-3-8.5z"/><path d="M10 20a2 2 0 004 0"/></svg></div>
-          <h3>Price alerts</h3>
-          <p>Watch a model and get notified when its estimate drops below — or climbs above — the price you set.</p>
-        </div>
-        <div class="card reveal" data-d="2">
-          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="#C8A96E" stroke-width="1.8"><path d="M6 4h12v4a6 6 0 01-12 0V4z"/><path d="M6 6H4a2 2 0 002 2m12-2h2a2 2 0 01-2 2M9 18h6M10 18v-2m4 2v-2M8 21h8"/></svg></div>
-          <h3>Earn badges</h3>
-          <p>Collect across brands and rarities to unlock collector badges that mark the milestones in your vault.</p>
-        </div>
-        <div class="card reveal" data-d="3">
-          <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="#C8A96E" stroke-width="1.8"><circle cx="9" cy="8" r="3"/><path d="M3 19a6 6 0 0112 0"/><circle cx="17" cy="9" r="2.4"/><path d="M15.5 19a5 5 0 015.5-3"/></svg></div>
-          <h3>Find your people</h3>
-          <p>Publish your collection, follow other collectors, and leave comments on the cars you love.</p>
-        </div>
+      <div class="sec-mark reveal"><span class="num">01</span><span class="ttl">What it does</span><span class="rule"></span></div>
+      <h2 class="big serif reveal" data-d="1">A real catalog, <span class="it">not</span> a notes app.</h2>
+      <div class="index-list" style="margin-top:6vh">
+        <div class="index-row reveal"><span class="ix">01</span><h3>Catalog every car</h3><p>Add cars by photo with brand, model, year, packaging and rarity. Box, blister, or chase — it's all tracked.</p></div>
+        <div class="index-row reveal"><span class="ix">02</span><h3>Never miss a drop</h3><p>Browse the latest releases pulled from MiniGT, Kaido House, Inno64, Pop Race and more — add them in a tap.</p></div>
+        <div class="index-row reveal"><span class="ix">03</span><h3>Know the value</h3><p>An estimated value for your collection from live eBay listings, refreshed automatically in the background.</p></div>
+        <div class="index-row reveal"><span class="ix">04</span><h3>Price alerts</h3><p>Watch a model and get notified when its estimate drops below — or climbs above — the price you set.</p></div>
+        <div class="index-row reveal"><span class="ix">05</span><h3>Earn badges</h3><p>Collect across brands and rarities to unlock medallions that mark the milestones in your vault.</p></div>
+        <div class="index-row reveal"><span class="ix">06</span><h3>Find your people</h3><p>Publish your collection, follow other collectors, and leave comments on the cars you love.</p></div>
       </div>
     </div>
   </section>
 
+  <!-- BADGES -->
   <section id="badges">
     <div class="wrap">
-      <div class="sec-head reveal" style="margin:0 auto 48px;text-align:center">
-        <span class="eyebrow">Collector badges</span>
-        <h2 class="display">Milestones worth keeping.</h2>
-        <p style="margin:0 auto">Unlock medallions as your vault grows — by count, by brand, and by the rare ones you hunt down.</p>
-      </div>
+      <div class="sec-mark reveal"><span class="num">02</span><span class="ttl">Collector badges</span><span class="rule"></span></div>
+      <h2 class="big serif reveal" data-d="1" style="margin:0 auto 7vh;text-align:center">Milestones <span class="it">worth keeping.</span></h2>
       <div class="badge-strip">
-        <div class="badge reveal" data-d="1">
-          <svg viewBox="0 0 96 96">
-            <defs><linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E4CFA0"/><stop offset="1" stop-color="#8B6E3D"/></linearGradient></defs>
-            <circle cx="48" cy="46" r="34" fill="#1D1D24" stroke="url(#g1)" stroke-width="3"/>
-            <circle cx="48" cy="46" r="27" fill="none" stroke="#8B6E3D" stroke-width="1" stroke-dasharray="2 3"/>
-            <path d="M30 52h4l2-6h24l2 6h4M34 52a3 3 0 006 0m16 0a3 3 0 006 0" fill="none" stroke="url(#g1)" stroke-width="2.4" stroke-linecap="round"/>
-            <path d="M48 80 L40 92 L48 87 L56 92 Z" fill="#8B6E3D"/>
-          </svg>
+        <div class="badge reveal mask" data-d="1">
+          <svg viewBox="0 0 104 104"><defs><linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E4CFA0"/><stop offset="1" stop-color="#8B6E3D"/></linearGradient></defs><circle cx="52" cy="50" r="37" fill="#1D1D24" stroke="url(#g1)" stroke-width="3"/><circle cx="52" cy="50" r="29" fill="none" stroke="#8B6E3D" stroke-width="1" stroke-dasharray="2 3"/><path d="M32 56h4l2-6h28l2 6h4M37 56a3 3 0 006 0m18 0a3 3 0 006 0" fill="none" stroke="url(#g1)" stroke-width="2.4" stroke-linecap="round"/><path d="M52 87 L43 100 L52 95 L61 100 Z" fill="#8B6E3D"/></svg>
           <span class="nm">First Car</span><span class="ds">Your collection begins</span>
         </div>
-        <div class="badge reveal" data-d="2">
-          <svg viewBox="0 0 96 96">
-            <defs><linearGradient id="g2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E4CFA0"/><stop offset="1" stop-color="#8B6E3D"/></linearGradient></defs>
-            <circle cx="48" cy="46" r="34" fill="#1D1D24" stroke="url(#g2)" stroke-width="3"/>
-            <circle cx="48" cy="46" r="27" fill="none" stroke="#8B6E3D" stroke-width="1" stroke-dasharray="2 3"/>
-            <text x="48" y="54" text-anchor="middle" font-family="Fraunces,serif" font-size="22" font-weight="700" fill="url(#g2)">50</text>
-            <path d="M48 80 L40 92 L48 87 L56 92 Z" fill="#8B6E3D"/>
-          </svg>
+        <div class="badge reveal mask" data-d="2">
+          <svg viewBox="0 0 104 104"><defs><linearGradient id="g2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E4CFA0"/><stop offset="1" stop-color="#8B6E3D"/></linearGradient></defs><circle cx="52" cy="50" r="37" fill="#1D1D24" stroke="url(#g2)" stroke-width="3"/><circle cx="52" cy="50" r="29" fill="none" stroke="#8B6E3D" stroke-width="1" stroke-dasharray="2 3"/><text x="52" y="59" text-anchor="middle" font-family="Fraunces,serif" font-size="24" font-weight="700" fill="url(#g2)">50</text><path d="M52 87 L43 100 L52 95 L61 100 Z" fill="#8B6E3D"/></svg>
           <span class="nm">Half Century</span><span class="ds">50 cars collected</span>
         </div>
-        <div class="badge reveal" data-d="3">
-          <svg viewBox="0 0 96 96">
-            <defs><linearGradient id="g3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E4CFA0"/><stop offset="1" stop-color="#8B6E3D"/></linearGradient></defs>
-            <circle cx="48" cy="46" r="34" fill="#1D1D24" stroke="url(#g3)" stroke-width="3"/>
-            <path d="M48 28 l4.6 9.4 10.4 1.5-7.5 7.3 1.8 10.3L48 61l-9.3 4.9 1.8-10.3-7.5-7.3 10.4-1.5z" fill="url(#g3)"/>
-            <path d="M48 80 L40 92 L48 87 L56 92 Z" fill="#8B6E3D"/>
-          </svg>
+        <div class="badge reveal mask" data-d="3">
+          <svg viewBox="0 0 104 104"><defs><linearGradient id="g3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E4CFA0"/><stop offset="1" stop-color="#8B6E3D"/></linearGradient></defs><circle cx="52" cy="50" r="37" fill="#1D1D24" stroke="url(#g3)" stroke-width="3"/><path d="M52 30 l5 10.2 11.3 1.6-8.2 8 1.9 11.2L52 66l-10.1 5.3 1.9-11.2-8.2-8 11.3-1.6z" fill="url(#g3)"/><path d="M52 87 L43 100 L52 95 L61 100 Z" fill="#8B6E3D"/></svg>
           <span class="nm">Chase Hunter</span><span class="ds">Bagged a chase</span>
         </div>
-        <div class="badge reveal" data-d="4">
-          <svg viewBox="0 0 96 96">
-            <defs><linearGradient id="g4" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E4CFA0"/><stop offset="1" stop-color="#8B6E3D"/></linearGradient></defs>
-            <circle cx="48" cy="46" r="34" fill="#1D1D24" stroke="url(#g4)" stroke-width="3"/>
-            <circle cx="40" cy="40" r="6" fill="none" stroke="#C8A96E" stroke-width="2"/>
-            <circle cx="56" cy="40" r="6" fill="none" stroke="#E4CFA0" stroke-width="2"/>
-            <circle cx="48" cy="54" r="6" fill="none" stroke="#8B6E3D" stroke-width="2"/>
-            <path d="M48 80 L40 92 L48 87 L56 92 Z" fill="#8B6E3D"/>
-          </svg>
+        <div class="badge reveal mask" data-d="4">
+          <svg viewBox="0 0 104 104"><defs><linearGradient id="g4" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E4CFA0"/><stop offset="1" stop-color="#8B6E3D"/></linearGradient></defs><circle cx="52" cy="50" r="37" fill="#1D1D24" stroke="url(#g4)" stroke-width="3"/><circle cx="43" cy="43" r="6.5" fill="none" stroke="#C8A96E" stroke-width="2"/><circle cx="61" cy="43" r="6.5" fill="none" stroke="#E4CFA0" stroke-width="2"/><circle cx="52" cy="58" r="6.5" fill="none" stroke="#8B6E3D" stroke-width="2"/><path d="M52 87 L43 100 L52 95 L61 100 Z" fill="#8B6E3D"/></svg>
           <span class="nm">Full Garage</span><span class="ds">Every brand owned</span>
         </div>
       </div>
     </div>
   </section>
 
+  <!-- RELEASES -->
   <section id="releases">
     <div class="wrap split">
       <div class="reveal">
-        <span class="eyebrow">Releases</span>
-        <h2 class="display">The new drops, before they're gone.</h2>
-        <p>DiecastDrawer keeps a live catalog of upcoming and current releases, organized by brand and marque, so you always know what's out.</p>
+        <div class="sec-mark"><span class="num">03</span><span class="ttl">Releases</span><span class="rule"></span></div>
+        <h2 class="big serif">The new drops, <span class="it">before</span> they're gone.</h2>
+        <p class="lead2">A live catalog of upcoming and current releases, organized by brand and marque, so you always know what's out.</p>
         <ul class="ticklist">
-          <li><span class="tk"><svg viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="#C8A96E" stroke-width="2"><path d="M3 8l4 4 6-8"/></svg></span> Filter by brand, marque, or make</li>
-          <li><span class="tk"><svg viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="#C8A96E" stroke-width="2"><path d="M3 8l4 4 6-8"/></svg></span> Quick-add with packaging and chase tags</li>
-          <li><span class="tk"><svg viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="#C8A96E" stroke-width="2"><path d="M3 8l4 4 6-8"/></svg></span> Build a wishlist of the cars you're hunting</li>
+          <li><svg viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="#C8A96E" stroke-width="2"><path d="M3 8l4 4 6-8"/></svg> Filter by brand, marque, or make</li>
+          <li><svg viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="#C8A96E" stroke-width="2"><path d="M3 8l4 4 6-8"/></svg> Quick-add with packaging and chase tags</li>
+          <li><svg viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="#C8A96E" stroke-width="2"><path d="M3 8l4 4 6-8"/></svg> Build a wishlist of the cars you're hunting</li>
         </ul>
       </div>
-      <div class="visual reveal" data-d="2" aria-hidden="true">
+      <div class="visual reveal mask" data-d="2" aria-hidden="true">
         <div class="stat-row"><span class="l">MiniGT · Land Rover Defender</span><span class="v">New</span></div>
         <div class="stat-row"><span class="l">Kaido House · Datsun 510</span><span class="v">New</span></div>
         <div class="stat-row"><span class="l">Pop Race · Porsche 911</span><span class="v">New</span></div>
@@ -353,15 +291,16 @@
     </div>
   </section>
 
+  <!-- VALUE -->
   <section id="value">
     <div class="wrap split alt">
       <div class="reveal">
-        <span class="eyebrow">Collection value</span>
-        <h2 class="display">An honest estimate, in your currency.</h2>
-        <p>DiecastDrawer samples live eBay listings to estimate what your collection is worth, refreshed in the background every few hours.</p>
-        <p style="color:var(--txt3);font-size:.88rem;margin-top:14px">Estimates are a guide, not an appraisal — based on active listings, shown in your chosen currency.</p>
+        <div class="sec-mark"><span class="num">04</span><span class="ttl">Collection value</span><span class="rule"></span></div>
+        <h2 class="big serif">An honest estimate, <span class="it">in your currency.</span></h2>
+        <p class="lead2">DiecastDrawer samples live eBay listings to estimate what your collection is worth, refreshed in the background every few hours.</p>
+        <p style="color:var(--txt3);font-size:.88rem;margin-top:16px">Estimates are a guide, not an appraisal — based on active listings, shown in your chosen currency.</p>
       </div>
-      <div class="visual reveal" data-d="2" aria-hidden="true">
+      <div class="visual reveal mask" data-d="2" aria-hidden="true">
         <div class="stat-row"><span class="l">Estimated value</span><span class="v">&pound;4,120</span></div>
         <div class="stat-row"><span class="l">Total cars</span><span class="v">247</span></div>
         <div class="stat-row"><span class="l">Brands</span><span class="v">6</span></div>
@@ -370,11 +309,13 @@
     </div>
   </section>
 
+  <!-- DOWNLOAD -->
   <section id="download">
     <div class="wrap">
       <div class="band reveal">
         <div class="sheen"></div>
-        <h2 class="display">Open the drawer.</h2>
+        <span class="spaced">See you inside</span>
+        <h2 class="serif" style="margin-top:20px">Open the <span class="it">drawer.</span></h2>
         <p>DiecastDrawer is coming to the App Store for iPhone. Built for collectors who keep the receipts and the blisters.</p>
         <a class="btn" href="#" aria-disabled="true">Coming soon to the App Store</a>
       </div>
@@ -385,9 +326,9 @@
 
 <footer>
   <div class="wrap foot">
-    <a class="brand" href="#top"><span class="mark"><svg width="18" height="18" viewBox="0 0 24 24" fill="none"><rect x="3" y="6" width="18" height="12" rx="2" stroke="#0E0E10" stroke-width="2"/><line x1="3" y1="12" x2="21" y2="12" stroke="#0E0E10" stroke-width="2"/></svg></span> DiecastDrawer</a>
+    <a class="brand" href="#top"><span class="mark"><svg width="19" height="19" viewBox="0 0 24 24" fill="none"><rect x="3" y="6" width="18" height="12" rx="2" stroke="#0E0E10" stroke-width="2"/><line x1="3" y1="12" x2="21" y2="12" stroke="#0E0E10" stroke-width="2"/></svg></span> DiecastDrawer</a>
     <div class="foot-links">
-      <a href="#features">Features</a>
+      <a href="#index">Features</a>
       <a href="#releases">Releases</a>
       <a href="privacy.html">Privacy Policy</a>
       <a href="mailto:hello@diecastdrawer.app">Contact</a>
@@ -397,12 +338,28 @@
 </footer>
 
 <script>
-  const io = new IntersectionObserver((entries)=>{
-    entries.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target);} });
-  },{threshold:.14,rootMargin:'0px 0px -8% 0px'});
-  document.querySelectorAll('.reveal:not(.in)').forEach(el=>io.observe(el));
+  // header shadow on scroll
+  const hdr=document.getElementById('hdr');
+  // reveal + mask
+  const io=new IntersectionObserver((es)=>{es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.16,rootMargin:'0px 0px -8% 0px'});
+  document.querySelectorAll('.reveal:not(.in),.mask:not(.in)').forEach(el=>io.observe(el));
+
+  // scroll-driven parallax + header state
+  const px=document.querySelectorAll('[data-parallax]');
+  function onScroll(){
+    const y=window.scrollY;
+    hdr.classList.toggle('scrolled',y>20);
+    px.forEach(el=>{
+      const speed=parseFloat(el.dataset.parallax)||0.1;
+      const rect=el.getBoundingClientRect();
+      const center=rect.top+rect.height/2-window.innerHeight/2;
+      el.style.transform='translateY('+(-center*speed)+'px)';
+    });
+  }
+  let ticking=false;
+  window.addEventListener('scroll',()=>{if(!ticking){requestAnimationFrame(()=>{onScroll();ticking=false;});ticking=true;}},{passive:true});
+  onScroll();
 </script>
 
 </body>
 </html>
-
