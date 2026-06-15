@@ -2096,14 +2096,6 @@
     "year": 2024
   },
   {
-    "modelName": "2005 Ford GT(Super Chase)",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/9c/Ford_GT_%282024%29.jpg/revision/latest?cb=20240109071117",
-    "mbxNumber": "N/A",
-    "series": "MBX Metro",
-    "category": "Mainline",
-    "year": 2024
-  },
-  {
     "modelName": "2012 BMW 3 Series Touring",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/63/2024Matchbox2012BMW3SeriesTouring.png/revision/latest?cb=20240324191735",
     "mbxNumber": "MB34",
@@ -2496,6 +2488,14 @@
     "year": 2024
   },
   {
+    "modelName": "Opel Kadett Coupe(Super Chase)",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/8a/Opel_Kadett_Coupe_%282024_Super_Chase%29.jpg/revision/latest?cb=20241202024328",
+    "mbxNumber": "N/A",
+    "series": "MBX Metro",
+    "category": "Mainline",
+    "year": 2024
+  },
+  {
     "modelName": "Polaris RZR",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/37/Polaris_RZR_2024_MBX_Adventure.png/revision/latest?cb=20240506133030",
     "mbxNumber": "MB80",
@@ -2708,14 +2708,6 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c1/Nissan_Hardbody_%282023_Release%29.png/revision/latest?cb=20230218162529",
     "mbxNumber": "MB72",
     "series": "MBX Off-Road",
-    "category": "Mainline",
-    "year": 2023
-  },
-  {
-    "modelName": "1932 Ford Coupe Model B(Super Chase)",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c1/Ford_Coupe_Model_B_%282023_1-100%29.jpg/revision/latest?cb=20230102061532",
-    "mbxNumber": "N/A",
-    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2023
   },
@@ -3368,6 +3360,14 @@
     "year": 2023
   },
   {
+    "modelName": "Porsche Macan S (New) (Super Chase)",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/1/11/FW_MacanS23_B.jpeg/revision/latest?cb=20230917044402",
+    "mbxNumber": "N/A",
+    "series": "MBX Metro",
+    "category": "Mainline",
+    "year": 2023
+  },
+  {
     "modelName": "Push 'N Puller",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f8/HLC78_-_Push_N_Puller-1.jpg/revision/latest?cb=20231025163744",
     "mbxNumber": "MB53",
@@ -3704,6 +3704,14 @@
     "year": 2022
   },
   {
+    "modelName": "2015 Mercedes-Benz G 500",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/ba/22_2015_Mercedes-benz_G500_MB1195.jpg/revision/latest?cb=20220715193920",
+    "mbxNumber": "N/A",
+    "series": "",
+    "category": "Mainline",
+    "year": 2022
+  },
+  {
     "modelName": "2016 Alfa Romeo Giulia",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/93/26_2022_Alfa_Romeo_Giulia_MB1205.jpg/revision/latest?cb=20220328162611",
     "mbxNumber": "MB26",
@@ -3835,14 +3843,6 @@
     "modelName": "2021 Ford Bronco",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d4/2021_ford_bronco_2022.jpg/revision/latest?cb=20220520214513",
     "mbxNumber": "MB34",
-    "series": "MBX Off-Road",
-    "category": "Mainline",
-    "year": 2022
-  },
-  {
-    "modelName": "2021 Ford Bronco (Matchbox Super Chase)",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c4/2021_Ford_Bronco_%282022_Super_Chase%29.jpg/revision/latest?cb=20221104092750",
-    "mbxNumber": "N/A",
     "series": "MBX Off-Road",
     "category": "Mainline",
     "year": 2022
