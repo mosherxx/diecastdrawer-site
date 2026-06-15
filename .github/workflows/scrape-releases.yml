@@ -36,6 +36,9 @@ jobs:
       - name: Scrape Hot Wheels
         run: python scripts/scrape_hotwheels.py
 
+      - name: Scrape Matchbox
+        run: python scripts/scrape_matchbox.py
+
       - name: Check for changes
         id: changes
         run: |
