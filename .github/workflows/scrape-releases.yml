@@ -33,6 +33,9 @@ jobs:
       - name: Scrape Tarmac Works
         run: python scripts/scrape_tarmac.py
 
+      - name: Scrape Hot Wheels
+        run: python scripts/scrape_hotwheels.py
+
       - name: Check for changes
         id: changes
         run: |
