@@ -105,10 +105,41 @@ def parse_year(year: int) -> list:
                     return i
             return None
 
-        idx_no     = col_index("mbx", "toy", "no.", "#")
-        idx_name   = col_index("model")
-        idx_series = col_index("series")
-        idx_photo  = col_index("photo", "image")
+        # IMPORTANT: a column headed "Model #" / "Model No." contains the word
+        # "model" but holds the NUMBER, not the name. Find the name column as the
+        # one containing "model" or "name" but NOT a number marker (#, no, no.).
+        def name_col_index():
+            # Prefer an explicit "model name" / "name" header.
+            for i, h in enumerate(headers):
+                if "name" in h:
+                    return i
+            # Otherwise a "model" header that is NOT a number column.
+            for i, h in enumerate(headers):
+                if "model" in h and not any(n in h for n in ("#", "no.", "no ", " no", "num")):
+                    return i
+            return None
+
+        idx_no     = col_index("mbx", "toy", "casting #", "model #", "no.", "#")
+        idx_name   = name_col_index()
+        idx_series = col_index("series", "sub-series", "subseries", "collection")
+        idx_photo  = col_index("photo", "image", "picture")
+
+        # Fallback: if header matching didn't find the name column, detect it by
+        # CONTENT — the model-name column is the one whose cells link to model
+        # pages (real names are wiki-linked; MB numbers are plain text). Scan the
+        # first few data rows and pick the column with the most <a> links to
+        # /wiki/ pages that aren't images.
+        if idx_name is None:
+            body_rows = [r for r in table.find_all("tr") if r.find_all("td")][:8]
+            link_counts: dict[int, int] = {}
+            for r in body_rows:
+                for ci, td in enumerate(r.find_all("td")):
+                    for a in td.find_all("a", href=True):
+                        href = a["href"]
+                        if "/wiki/" in href and IMG_HOST not in href and a.get_text(strip=True):
+                            link_counts[ci] = link_counts.get(ci, 0) + 1
+            if link_counts:
+                idx_name = max(link_counts, key=link_counts.get)
 
         for row in table.find_all("tr"):
             cells = row.find_all("td")
