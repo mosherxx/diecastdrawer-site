@@ -904,23 +904,44 @@ class App {
 // ----- Boot -----
 (function start(){
   const container = document.getElementById('hyperspeed-bg');
-  if (!container) return;
-  // Skip on reduced-motion or very small / low-power devices.
-  if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  if (!container) { console.warn('[Hyperspeed] container #hyperspeed-bg not found'); return; }
 
-  const options = {
-    ...EFFECT_OPTIONS,
-    colors: { ...EFFECT_OPTIONS.colors }
-  };
+  // Respect reduced-motion (accessibility). If the effect is missing, check
+  // System Settings → Accessibility → Display → Reduce Motion.
+  if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    console.info('[Hyperspeed] disabled: prefers-reduced-motion is ON');
+    return;
+  }
+
+  const options = { ...EFFECT_OPTIONS, colors: { ...EFFECT_OPTIONS.colors } };
   options.distortion = distortions[options.distortion];
 
-  try {
-    const app = new App(container, options);
-    app.init();
-  } catch (err){
-    // If WebGL/postprocessing fails, fail silently — the page still works.
-    console.warn('Hyperspeed background unavailable:', err);
-    container.style.display = 'none';
+  function boot(){
+    // Wait until the container actually has a size (fixed elements can read 0
+    // on the very first frame). Retry a few times before giving up.
+    let tries = 0;
+    (function waitForSize(){
+      const w = container.offsetWidth, h = container.offsetHeight;
+      if (w > 0 && h > 0){
+        try {
+          console.info('[Hyperspeed] starting —', w + 'x' + h);
+          const app = new App(container, options);
+          app.init();
+          console.info('[Hyperspeed] running ✓');
+        } catch (err){
+          console.error('[Hyperspeed] failed to start:', err);
+        }
+        return;
+      }
+      if (tries++ < 40){ requestAnimationFrame(waitForSize); }
+      else { console.warn('[Hyperspeed] container has no size (0x0) — check CSS height'); }
+    })();
+  }
+
+  if (document.readyState === 'loading'){
+    window.addEventListener('DOMContentLoaded', boot);
+  } else {
+    boot();
   }
 })();
 </script>
