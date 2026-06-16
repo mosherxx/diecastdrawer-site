@@ -51,4 +51,5 @@ jobs:
           git config user.email "bot@diecastdrawer.app"
           git add data/
           git commit -m "chore: auto-update release catalogues $(date +'%Y-%m-%d')"
+          git pull --rebase origin main
           git push
