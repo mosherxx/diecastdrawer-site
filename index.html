@@ -404,8 +404,8 @@ const EFFECT_OPTIONS = {
   brokenLinesLengthPercentage: 0.5,
   lightStickWidth: [0.12, 0.5],
   lightStickHeight: [1.3, 1.7],
-  movingAwaySpeed: [30, 40],           // ~half speed (was [60, 80])
-  movingCloserSpeed: [-60, -80],       // ~half speed (was [-120, -160])
+  movingAwaySpeed: [15, 20],           // half of [30,40] — slow drift
+  movingCloserSpeed: [-30, -40],       // half of [-60,-80]
   carLightsLength: [400 * 0.03, 400 * 0.2],
   carLightsRadius: [0.05, 0.14],
   carWidthPercentage: [0.3, 0.5],
@@ -602,7 +602,7 @@ const roadMarkings_vars = `
   }
 `;
 const roadMarkings_fragment = `
-  uv.y = mod(uv.y + uTime * 0.02, 1.);
+  uv.y = mod(uv.y + uTime * 0.01, 1.);
   float laneWidth = 1.0 / uLanes;
   float brokenLineWidth = laneWidth * uBrokenLinesWidthPercentage;
   float laneEmptySpace = 1. - uBrokenLinesLengthPercentage;
@@ -849,10 +849,10 @@ class App {
   }
   autoPulse(){
     if (this.disposed) return;
-    // Gentle, infrequent ramp in and out of "speed up" for subtle ambient motion.
-    this.speedUpTarget = this.options.speedUp * 0.3;
+    // Very subtle, infrequent ambient speed-up.
+    this.speedUpTarget = this.options.speedUp * 0.2;
     setTimeout(() => { if(!this.disposed) this.speedUpTarget = 0; }, 2000);
-    setTimeout(() => this.autoPulse(), 12000);
+    setTimeout(() => this.autoPulse(), 16000);
   }
   update(delta){
     let lerpPercentage = Math.exp(-(-60 * Math.log2(1 - 0.1)) * delta);
