@@ -34,13 +34,15 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          git diff --quiet data/ || echo "changed=true" >> $GITHUB_OUTPUT
+          # --quiet only sees tracked-file edits; new JSON feeds are untracked,
+          # so stage first, then check the staged diff (catches new + modified).
+          git add data/
+          git diff --cached --quiet || echo "changed=true" >> $GITHUB_OUTPUT
       - name: Commit and push if changed
         if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name  "DiecastDrawer Bot"
           git config user.email "bot@diecastdrawer.app"
-          git add data/
           git commit -m "chore: auto-update release catalogues $(date +'%Y-%m-%d')"
           git pull --rebase origin main
           git push
