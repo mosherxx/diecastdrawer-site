@@ -108,6 +108,15 @@
     "year": 2026
   },
   {
+    "modelName": "Circle Tracker",
+    "imageURL": null,
+    "toyNumber": "",
+    "colNumber": "",
+    "series": "TBD",
+    "category": "Mainline",
+    "year": 2026
+  },
+  {
     "modelName": "Custom Vanster 4WD",
     "imageURL": null,
     "toyNumber": "JJH79",
@@ -1524,6 +1533,15 @@
     "modelName": "X-cceleron",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/17/X-cceleron.jpg/revision/latest?cb=20251216105543",
     "toyNumber": "JJH43",
+    "colNumber": "075",
+    "series": "ExoticarsNew for 2026!",
+    "category": "Mainline",
+    "year": 2026
+  },
+  {
+    "modelName": "X-cceleron (2nd Color)",
+    "imageURL": null,
+    "toyNumber": "JJL23",
     "colNumber": "075",
     "series": "ExoticarsNew for 2026!",
     "category": "Mainline",
