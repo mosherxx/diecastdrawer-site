@@ -77,7 +77,13 @@ MINIGT_MARQUES = {
 
 # Product codes: MGT##### / KHMG### plus set/variant forms like MGTS0001,
 # MGT00123-L, etc. Prefix-anchored so we don't match unrelated text.
-CODE_RE = re.compile(r"\b(?:KHMG|MGT)[A-Z]?\-?\d{2,6}[A-Z]?\b", re.IGNORECASE)
+# Product codes seen on the site:
+#   MGT##### (standard), KHMG### (Kaido), MGTAC### (accessories),
+#   MGTS#### (sets), QZ#### (QubeCarz), plus optional -L / letter suffixes.
+# Allow 1-3 letters after the MGT/KHMG prefix, and a standalone QZ prefix.
+CODE_RE = re.compile(
+    r"\b(?:KHMG[A-Z]{0,3}|MGT[A-Z]{0,3}|QZ)\-?\d{2,6}[A-Z]?\b",
+    re.IGNORECASE)
 
 
 def fetch(url: str, retries: int = 3) -> Optional[str]:
@@ -233,8 +239,12 @@ def main():
         5:  "Regional Exclusive",   # was 39 — corrected to live b_id=5
         73: "007 Movie Car",
         11: "Accessories",
+        70: "QubeCarz",
+        69: "IMSA",
+        66: "Super GT Series",
     }
     code_to_marques: dict[str, set] = {}
+    special_items: dict[str, dict] = {}   # key → the scraped item (for merging)
     for bid, label in special_bids.items():
         print(f"Scraping special collection: {label} (b_id={bid})…", flush=True)
         items = scrape_bid(bid, label)
@@ -249,6 +259,7 @@ def main():
             if not key or key == "NAME:":
                 continue
             code_to_marques.setdefault(key, set()).add(label)
+            special_items.setdefault(key, it)   # remember the item itself
             matched += 1
         print(f"    [{label}] scraped {len(items)} raw items, {matched} keyed", flush=True)
 
@@ -260,9 +271,8 @@ def main():
     minigt_clean = dedupe([i for i in minigt_items if not is_kaido(i)])
     kaido_clean = dedupe(kaido_items + [i for i in minigt_items if is_kaido(i)])
 
-    # Attach the marques array to every MINI GT item (everything is at least in
-    # "Full Collection"; specials add their labels). Key by product code, with a
-    # normalized-name fallback so code-less listings still match.
+    # Some collections (e.g. QubeCarz, Accessories) may contain items NOT present
+    # in the Full Collection. Merge those in so they're browsable/filterable.
     def item_key(it: dict) -> str:
         code = (it.get("productCode") or "").upper()
         if code:
@@ -270,6 +280,19 @@ def main():
         return "NAME:" + "".join(
             ch for ch in it.get("modelName", "").upper() if ch.isalnum())
 
+    existing_keys = {item_key(i) for i in minigt_clean}
+    added_extra = 0
+    for key, it in special_items.items():
+        if key not in existing_keys and not is_kaido(it):
+            minigt_clean.append(it)
+            existing_keys.add(key)
+            added_extra += 1
+    if added_extra:
+        print(f"    Merged {added_extra} items only found in special collections.",
+              flush=True)
+
+    # Attach the marques array to every MINI GT item (everything is at least in
+    # "Full Collection"; specials add their labels).
     for it in minigt_clean:
         marques = {"Full Collection"}
         marques |= code_to_marques.get(item_key(it), set())
@@ -292,12 +315,13 @@ def main():
 
     pre_mg = sum(1 for i in minigt_clean if not i["isReleased"])
     pre_kh = sum(1 for i in kaido_clean if not i["isReleased"])
-    le = sum(1 for i in minigt_clean if "Limited Edition" in i.get("marques", []))
-    st = sum(1 for i in minigt_clean if "MINI GT Set" in i.get("marques", []))
-    re_ = sum(1 for i in minigt_clean if "Regional Exclusive" in i.get("marques", []))
+    def count(label: str) -> int:
+        return sum(1 for i in minigt_clean if label in i.get("marques", []))
     print(f"\nMINI GT:     {len(minigt_clean)} items ({pre_mg} pre-order) "
           f"→ data/minigt_releases.json")
-    print(f"  tagged: Limited Edition {le}, Set {st}, Regional Exclusive {re_}")
+    for lbl in ["Limited Edition", "MINI GT Set", "Regional Exclusive",
+                "007 Movie Car", "Accessories", "QubeCarz", "IMSA", "Super GT Series"]:
+        print(f"  tagged {lbl}: {count(lbl)}")
     print(f"Kaido House: {len(kaido_clean)} items ({pre_kh} pre-order) "
           f"→ data/kaidohouse_releases.json")
     print(f"Scraped at {stamp}")
