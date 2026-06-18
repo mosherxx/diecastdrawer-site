@@ -18,6 +18,9 @@ import json
 import os
 import re
 import time
+from datetime import datetime
+
+CURRENT_YEAR = datetime.now().year
 import requests
 from bs4 import BeautifulSoup
 
@@ -44,21 +47,15 @@ def normalize(url: str) -> str:
     return re.sub(r"/revision/latest/scale-to-width-down/\d+", "/revision/latest", url)
 
 
-PLACEHOLDERS = ("image_not_available", "no_image", "noimage", "placeholder")
-
-def _is_placeholder(url: str) -> bool:
-    u = url.lower()
-    return any(p in u for p in PLACEHOLDERS)
-
 def best_image_from_cell(cell):
     for a in cell.find_all("a", href=True):
         href = a["href"]
-        if IMG_HOST in href and "/revision/latest" in href and not _is_placeholder(href):
+        if IMG_HOST in href and "/revision/latest" in href:
             return normalize(href)
     for img in cell.find_all("img"):
         for attr in ("src", "data-src"):
             val = img.get(attr, "")
-            if val.startswith("http") and IMG_HOST in val and not _is_placeholder(val):
+            if val.startswith("http") and IMG_HOST in val:
                 return normalize(val)
     return None
 
@@ -147,6 +144,21 @@ def parse_year(year: int) -> list:
             elif "exclusive" in stext:
                 category = "Premium"
 
+            # Detect upcoming/unreleased items so the app can skip pricing them.
+            # We scan the whole row's text plus the model year vs. current year.
+            row_text = name_cell.get_text(" ").lower() + " " + stext
+            unreleased_markers = [
+                "pre-order", "pre order", "preorder", "coming soon", "upcoming",
+                "tba", "to be released", "not yet released", "unreleased",
+                "release date", "expected",
+            ]
+            is_released = True
+            if any(m in row_text for m in unreleased_markers):
+                is_released = False
+            # Future model years are not out yet.
+            if year and year > CURRENT_YEAR:
+                is_released = False
+
             items.append({
                 "modelName": name,
                 "imageURL":  photo_url,
@@ -155,6 +167,7 @@ def parse_year(year: int) -> list:
                 "series":    series,
                 "category":  category,
                 "year":      year,
+                "isReleased": is_released,
             })
 
     print(f"    {year}: {len(items)} items")

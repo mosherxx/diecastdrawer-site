@@ -16,7 +16,10 @@ import os
 import re
 import time
 import requests
+from datetime import datetime
 from bs4 import BeautifulSoup
+
+CURRENT_YEAR = datetime.now().year
 
 YEARS  = list(range(2018, 2027))
 OUTPUT = "data/matchbox_releases.json"
@@ -169,6 +172,18 @@ def parse_year(year: int) -> list:
             elif "moving parts" in stext:
                 category = "Moving Parts"
 
+            row_text = name + " " + stext
+            unreleased_markers = [
+                "pre-order", "pre order", "preorder", "coming soon", "upcoming",
+                "tba", "to be released", "not yet released", "unreleased",
+                "release date", "expected",
+            ]
+            is_released = True
+            if any(m in row_text.lower() for m in unreleased_markers):
+                is_released = False
+            if year and year > CURRENT_YEAR:
+                is_released = False
+
             items.append({
                 "modelName": name,
                 "imageURL":  photo_url,
@@ -176,6 +191,7 @@ def parse_year(year: int) -> list:
                 "series":    series,
                 "category":  category,
                 "year":      year,
+                "isReleased": is_released,
             })
 
     print(f"    {year}: {len(items)} items")

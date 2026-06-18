@@ -37,6 +37,7 @@ import sys
 import time
 from pathlib import Path
 from datetime import datetime, timezone
+from typing import Optional
 
 import requests
 from bs4 import BeautifulSoup
@@ -77,7 +78,7 @@ MINIGT_MARQUES = {
 CODE_RE = re.compile(r"\b(?:KHMG|MGT)\-?\d{2,6}\b", re.IGNORECASE)
 
 
-def fetch(url: str, retries: int = 3) -> str | None:
+def fetch(url: str, retries: int = 3) -> Optional[str]:
     for attempt in range(1, retries + 1):
         try:
             r = requests.get(url, headers=HEADERS, timeout=30)
@@ -209,34 +210,62 @@ def main():
     data_dir = repo_root / "data"
     data_dir.mkdir(exist_ok=True)
 
-    # 1) MINI GT — scrape "Full Collection" (b_id=13) for everything, plus the
-    #    special collections so their marque labels are correct.
-    minigt_items: list[dict] = []
-    # Full Collection first (the bulk).
+    # 1) MINI GT base list — "Full Collection" (b_id=13) has every MINI GT item.
     print("Scraping MINI GT Full Collection (b_id=13)…")
-    minigt_items += scrape_bid(13, "Full Collection")
+    minigt_items = scrape_bid(13, "Full Collection")
 
-    # 2) Kaido House (b_id=21) separately.
+    # 2) Special collections — scraped separately so we know which items belong
+    #    to each. An item can be in several (e.g. a Set that's also a Limited
+    #    Edition), so we collect a SET of marque names per product code.
+    special_bids = {
+        23: "Limited Edition",
+        34: "MINI GT Set",
+        39: "Regional Exclusive",
+        73: "007 Movie Car",
+        11: "Accessories",
+    }
+    code_to_marques: dict[str, set] = {}
+    for bid, label in special_bids.items():
+        print(f"Scraping special collection: {label} (b_id={bid})…")
+        for it in scrape_bid(bid, label):
+            key = (it.get("productCode") or it.get("modelName", "")).upper()
+            if not key:
+                continue
+            code_to_marques.setdefault(key, set()).add(label)
+
+    # 3) Kaido House (b_id=21) separately.
     print(f"Scraping Kaido House (b_id={KAIDO_BID})…")
     kaido_items = scrape_bid(KAIDO_BID, "Kaido House")
 
-    # Full Collection can include Kaido items; split them out so each feed is clean.
+    # Split Kaido out of the MINI GT list.
     minigt_clean = dedupe([i for i in minigt_items if not is_kaido(i)])
     kaido_clean = dedupe(kaido_items + [i for i in minigt_items if is_kaido(i)])
 
+    # Attach the marques array to every MINI GT item (everything is at least in
+    # "Full Collection"; specials add their labels).
+    for it in minigt_clean:
+        key = (it.get("productCode") or it.get("modelName", "")).upper()
+        marques = {"Full Collection"}
+        marques |= code_to_marques.get(key, set())
+        it["marques"] = sorted(marques)
+    for it in kaido_clean:
+        it["marques"] = ["Kaido House"]
+
     stamp = datetime.now(timezone.utc).isoformat()
-    minigt_payload = minigt_clean
-    kaido_payload = kaido_clean
 
     (data_dir / "minigt_releases.json").write_text(
-        json.dumps(minigt_payload, indent=2, ensure_ascii=False))
+        json.dumps(minigt_clean, indent=2, ensure_ascii=False))
     (data_dir / "kaidohouse_releases.json").write_text(
-        json.dumps(kaido_payload, indent=2, ensure_ascii=False))
+        json.dumps(kaido_clean, indent=2, ensure_ascii=False))
 
     pre_mg = sum(1 for i in minigt_clean if not i["isReleased"])
     pre_kh = sum(1 for i in kaido_clean if not i["isReleased"])
+    le = sum(1 for i in minigt_clean if "Limited Edition" in i.get("marques", []))
+    st = sum(1 for i in minigt_clean if "MINI GT Set" in i.get("marques", []))
+    re_ = sum(1 for i in minigt_clean if "Regional Exclusive" in i.get("marques", []))
     print(f"\nMINI GT:     {len(minigt_clean)} items ({pre_mg} pre-order) "
           f"→ data/minigt_releases.json")
+    print(f"  tagged: Limited Edition {le}, Set {st}, Regional Exclusive {re_}")
     print(f"Kaido House: {len(kaido_clean)} items ({pre_kh} pre-order) "
           f"→ data/kaidohouse_releases.json")
     print(f"Scraped at {stamp}")
