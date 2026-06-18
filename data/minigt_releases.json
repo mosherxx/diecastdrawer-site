@@ -126,7 +126,8 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -136,7 +137,8 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -188,8 +190,7 @@
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -270,8 +271,7 @@
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -293,8 +293,7 @@
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -304,7 +303,8 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -337,8 +337,7 @@
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -349,8 +348,7 @@
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -420,7 +418,8 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -520,7 +519,8 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -530,7 +530,8 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -540,7 +541,8 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -580,7 +582,8 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -621,7 +624,20 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
+    ]
+  },
+  {
+    "modelName": "Liberty Walk Project FF-R Collection",
+    "productCode": "MGTS0022",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260123220129180.JPG",
+    "isReleased": true,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "MINI GT Set",
+      "Regional Exclusive"
     ]
   },
   {
@@ -691,7 +707,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -701,7 +718,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -873,7 +891,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -915,8 +934,7 @@
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -956,7 +974,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -986,7 +1005,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -996,7 +1016,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -1006,7 +1027,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -1026,7 +1048,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -1266,7 +1289,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -1276,7 +1300,8 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -1440,6 +1465,17 @@
     ]
   },
   {
+    "modelName": "Porsche 911 Dakar #718 / Volkswagen ID. Buzz Porsche Centrum Gelderland Roughroads Set",
+    "productCode": "MGTS0019",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260123214550385.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "MINI GT Set"
+    ]
+  },
+  {
     "modelName": "Mercedes-Benz 190E 2.5-16 Evolution II #37 1995 SE Asia Touring Car Championship",
     "productCode": "MGT01125",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/08/20250826060619677.JPG",
@@ -1496,7 +1532,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -1506,7 +1543,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -1716,7 +1754,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -1726,7 +1765,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -1796,8 +1836,7 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -1867,7 +1906,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -1897,7 +1937,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -1927,8 +1968,7 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -1938,8 +1978,7 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -2049,8 +2088,7 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -2120,7 +2158,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2130,7 +2169,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2140,7 +2180,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2150,7 +2191,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2160,7 +2202,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2171,7 +2214,8 @@
     "marque": "Full Collection",
     "marques": [
       "Full Collection",
-      "Limited Edition"
+      "Limited Edition",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2181,7 +2225,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2191,7 +2236,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2201,7 +2247,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2271,7 +2318,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2481,7 +2529,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2491,7 +2540,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2501,7 +2551,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2531,7 +2582,8 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2651,8 +2703,7 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -2762,7 +2813,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2855,7 +2907,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2865,7 +2918,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2875,7 +2929,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2925,7 +2980,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2935,7 +2991,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -2945,7 +3002,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3025,7 +3083,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3035,7 +3094,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3125,7 +3185,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3135,7 +3196,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3145,7 +3207,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3155,7 +3218,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3165,7 +3229,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3175,7 +3240,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3215,7 +3281,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3225,7 +3292,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3235,7 +3303,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3245,7 +3314,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3255,7 +3325,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3266,8 +3337,7 @@
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -3338,8 +3408,7 @@
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -3349,7 +3418,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3579,7 +3649,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3589,7 +3660,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3639,8 +3711,7 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -3720,7 +3791,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3730,7 +3802,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3800,7 +3873,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3810,7 +3884,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3820,7 +3895,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3830,7 +3906,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3980,7 +4057,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -3990,7 +4068,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -4000,7 +4079,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -4090,8 +4170,7 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -4102,6 +4181,17 @@
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Porsche 963 Porsche Penske Motorsport 2023 24 Hrs of Le Mans Limited Edition 3000 Sets",
+    "productCode": "MGTS0011",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/01/20250130211319866.JPG",
+    "isReleased": true,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "MINI GT Set"
     ]
   },
   {
@@ -4321,7 +4411,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -4652,7 +4743,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -4672,8 +4764,7 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -4913,7 +5004,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -4923,7 +5015,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -4933,7 +5026,8 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -4993,8 +5087,7 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection",
-      "Regional Exclusive"
+      "Full Collection"
     ]
   },
   {
@@ -5094,7 +5187,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5104,7 +5198,8 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5114,7 +5209,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5124,7 +5220,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5244,7 +5341,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5254,7 +5352,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5264,7 +5363,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5274,7 +5374,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5324,7 +5425,8 @@
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5334,7 +5436,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5364,7 +5467,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5374,7 +5478,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5454,7 +5559,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5484,7 +5590,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5494,7 +5601,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5704,7 +5812,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5724,7 +5833,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -5788,6 +5898,17 @@
     ]
   },
   {
+    "modelName": "Range Rover 1982 Camel Trophy Papua New Guinea Set",
+    "productCode": "MGTS0006",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240928210559776.JPG",
+    "isReleased": true,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "MINI GT Set"
+    ]
+  },
+  {
     "modelName": "Mercedes-Benz EQS 580 4MATIC Silver Metallic",
     "productCode": "MGT00508",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2023/09/20230911125309963.JPG",
@@ -5804,7 +5925,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -6026,7 +6148,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -6036,7 +6159,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -6046,7 +6170,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -6176,7 +6301,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -6207,6 +6333,17 @@
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
+    ]
+  },
+  {
+    "modelName": "LB Racing Transporter Set",
+    "productCode": "MGTS0004",
+    "imageURL": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_list/1663610976_522591.JPG",
+    "isReleased": true,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "MINI GT Set"
     ]
   },
   {
@@ -6357,7 +6494,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -6417,7 +6555,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -6527,7 +6666,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -6787,7 +6927,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -6807,7 +6948,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -6867,7 +7009,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -6877,7 +7020,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -6887,7 +7031,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -6957,7 +7102,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7187,7 +7333,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7197,7 +7344,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7378,7 +7526,8 @@
     "marque": "Full Collection",
     "marques": [
       "Full Collection",
-      "Limited Edition"
+      "Limited Edition",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7398,7 +7547,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7408,7 +7558,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7418,7 +7569,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7469,7 +7621,8 @@
     "marque": "Full Collection",
     "marques": [
       "Full Collection",
-      "Limited Edition"
+      "Limited Edition",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7499,7 +7652,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7599,7 +7753,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7659,7 +7814,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7669,7 +7825,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7739,7 +7896,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7749,7 +7907,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7759,7 +7918,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7769,7 +7929,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7829,7 +7990,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7949,7 +8111,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7959,7 +8122,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7969,7 +8133,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7979,7 +8144,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -7989,7 +8155,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8043,13 +8210,25 @@
     ]
   },
   {
+    "modelName": "Ford GT LMGTE PRO 2016 24 Hrs of Le Mans Ford Chip Ganassi Team 4 Cars Set",
+    "productCode": "MGTS0001",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/03/20250307220717629.jpg",
+    "isReleased": true,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "MINI GT Set"
+    ]
+  },
+  {
     "modelName": "Bentley Continental GT3 #6 2018 Blancpain GT Series Asia",
     "productCode": "MGT00222",
     "imageURL": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_list/1624563543_306230.JPG",
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8059,7 +8238,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8069,7 +8249,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8119,7 +8300,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8129,7 +8311,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8139,7 +8322,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8149,7 +8333,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8230,7 +8415,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8240,7 +8426,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8290,7 +8477,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8361,7 +8549,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8371,7 +8560,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8381,7 +8571,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8391,7 +8582,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8471,7 +8663,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8481,7 +8674,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8491,7 +8685,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8501,7 +8696,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8511,7 +8707,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8521,7 +8718,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8581,7 +8779,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8641,7 +8840,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -8942,7 +9142,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9102,7 +9303,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9172,7 +9374,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9242,7 +9445,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9303,7 +9507,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9313,7 +9518,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9323,7 +9529,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9353,7 +9560,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9574,7 +9782,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9584,7 +9793,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9594,7 +9804,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9604,7 +9815,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9614,7 +9826,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9624,7 +9837,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9634,7 +9848,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9704,7 +9919,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9714,7 +9930,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9724,7 +9941,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9734,7 +9952,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9784,7 +10003,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9794,7 +10014,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9834,7 +10055,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9844,7 +10066,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9854,7 +10077,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9864,7 +10088,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9874,7 +10099,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9924,7 +10150,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9954,7 +10181,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9964,7 +10192,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9974,7 +10203,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -9994,7 +10224,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -10004,7 +10235,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -10014,7 +10246,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -10044,7 +10277,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -10054,7 +10288,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -10074,7 +10309,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -10084,7 +10320,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -10094,7 +10331,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -10104,7 +10342,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -10114,7 +10353,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -10164,7 +10404,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -10214,7 +10455,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
@@ -10274,7 +10516,8 @@
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
-      "Full Collection"
+      "Full Collection",
+      "Regional Exclusive"
     ]
   },
   {
