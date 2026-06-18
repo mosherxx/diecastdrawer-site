@@ -75,7 +75,9 @@ MINIGT_MARQUES = {
     36: "VeilSide", 45: "Volkswagen", 37: "Western Star",
 }
 
-CODE_RE = re.compile(r"\b(?:KHMG|MGT)\-?\d{2,6}\b", re.IGNORECASE)
+# Product codes: MGT##### / KHMG### plus set/variant forms like MGTS0001,
+# MGT00123-L, etc. Prefix-anchored so we don't match unrelated text.
+CODE_RE = re.compile(r"\b(?:KHMG|MGT)[A-Z]?\-?\d{2,6}[A-Z]?\b", re.IGNORECASE)
 
 
 def fetch(url: str, retries: int = 3) -> Optional[str]:
@@ -84,9 +86,9 @@ def fetch(url: str, retries: int = 3) -> Optional[str]:
             r = requests.get(url, headers=HEADERS, timeout=30)
             if r.status_code == 200 and r.text:
                 return r.text
-            print(f"  HTTP {r.status_code} for {url} (attempt {attempt})")
+            print(f"  HTTP {r.status_code} for {url} (attempt {attempt})", flush=True)
         except requests.RequestException as e:
-            print(f"  request error (attempt {attempt}): {e}")
+            print(f"  request error (attempt {attempt}): {e}", flush=True)
         time.sleep(2 * attempt)
     return None
 
@@ -170,19 +172,26 @@ def parse_products(soup: BeautifulSoup, marque: str) -> list[dict]:
 
 
 def scrape_bid(b_id: int, marque: str) -> list[dict]:
-    """Scrape all pages for one b_id."""
+    """Scrape all pages for one b_id, logging progress so the CI step shows
+    activity (a long silent scrape looks 'stuck' in the Actions log)."""
     first = fetch(f"{BASE}{b_id}")
     if not first:
+        print(f"    [{marque}] first page failed (b_id={b_id})", flush=True)
         return []
     soup = BeautifulSoup(first, "html.parser")
     total = detect_total_pages(soup)
     all_items = parse_products(soup, marque)
+    print(f"    [{marque}] {total} page(s) — page 1: {len(all_items)} items",
+          flush=True)
     for page in range(2, total + 1):
         html = fetch(f"{BASE}{b_id}&p={page}")
         if not html:
             continue
         all_items += parse_products(BeautifulSoup(html, "html.parser"), marque)
-        time.sleep(1)  # be polite
+        if page % 5 == 0 or page == total:
+            print(f"    [{marque}] page {page}/{total} — {len(all_items)} items so far",
+                  flush=True)
+        time.sleep(0.5)  # be polite, but keep the job moving
     return all_items
 
 
@@ -217,21 +226,31 @@ def main():
     # 2) Special collections — scraped separately so we know which items belong
     #    to each. An item can be in several (e.g. a Set that's also a Limited
     #    Edition), so we collect a SET of marque names per product code.
+    #    NOTE: b_id values verified against live site URLs.
     special_bids = {
         23: "Limited Edition",
         34: "MINI GT Set",
-        39: "Regional Exclusive",
+        5:  "Regional Exclusive",   # was 39 — corrected to live b_id=5
         73: "007 Movie Car",
         11: "Accessories",
     }
     code_to_marques: dict[str, set] = {}
     for bid, label in special_bids.items():
-        print(f"Scraping special collection: {label} (b_id={bid})…")
-        for it in scrape_bid(bid, label):
-            key = (it.get("productCode") or it.get("modelName", "")).upper()
+        print(f"Scraping special collection: {label} (b_id={bid})…", flush=True)
+        items = scrape_bid(bid, label)
+        matched = 0
+        for it in items:
+            key = (it.get("productCode") or "").upper()
+            # Fall back to a normalized model name when no product code is present
+            # (some set/accessory listings have no MGT##### code).
             if not key:
+                key = "NAME:" + "".join(
+                    ch for ch in it.get("modelName", "").upper() if ch.isalnum())
+            if not key or key == "NAME:":
                 continue
             code_to_marques.setdefault(key, set()).add(label)
+            matched += 1
+        print(f"    [{label}] scraped {len(items)} raw items, {matched} keyed", flush=True)
 
     # 3) Kaido House (b_id=21) separately.
     print(f"Scraping Kaido House (b_id={KAIDO_BID})…")
@@ -242,11 +261,24 @@ def main():
     kaido_clean = dedupe(kaido_items + [i for i in minigt_items if is_kaido(i)])
 
     # Attach the marques array to every MINI GT item (everything is at least in
-    # "Full Collection"; specials add their labels).
+    # "Full Collection"; specials add their labels). Key by product code, with a
+    # normalized-name fallback so code-less listings still match.
+    def item_key(it: dict) -> str:
+        code = (it.get("productCode") or "").upper()
+        if code:
+            return code
+        return "NAME:" + "".join(
+            ch for ch in it.get("modelName", "").upper() if ch.isalnum())
+
     for it in minigt_clean:
-        key = (it.get("productCode") or it.get("modelName", "")).upper()
         marques = {"Full Collection"}
-        marques |= code_to_marques.get(key, set())
+        marques |= code_to_marques.get(item_key(it), set())
+        # Name-based safety net for Sets the b_id scrape can miss. Use strict
+        # phrases so we don't false-match a model that merely contains "set".
+        name_l = it.get("modelName", "").lower()
+        if any(p in name_l for p in
+               ["set of", "car set", "-car set", " set (", "gift set", "twin set", "box set"]):
+            marques.add("MINI GT Set")
         it["marques"] = sorted(marques)
     for it in kaido_clean:
         it["marques"] = ["Kaido House"]
