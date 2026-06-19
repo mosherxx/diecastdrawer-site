@@ -80,6 +80,16 @@
     "isReleased": true
   },
   {
+    "modelName": "'96 Chevrolet Impala SS",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "",
+    "colNumber": "",
+    "series": "TBD",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "1963 Ford Galaxie",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJH73",
@@ -2220,6 +2230,16 @@
     "isReleased": true
   },
   {
+    "modelName": "'85 Honda City Turbo II (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL47",
+    "colNumber": "105",
+    "series": "Compact Kings",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Mazda RX-3",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/4/43/MazdaRX-3Custom.jpg/revision/latest?cb=20260103100117",
     "toyNumber": "JJJ82",
@@ -2486,6 +2506,16 @@
     "colNumber": "123",
     "series": "Red EditionTarget Exclusive",
     "category": "Premium",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Maserati Tipo 61 (3rd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL41",
+    "colNumber": "123",
+    "series": "HW Starting GridNew for 2026!",
+    "category": "Mainline",
     "year": 2026,
     "isReleased": true
   },
@@ -2813,6 +2843,16 @@
     "modelName": "Tooned Purple Passion",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/%27ToonedPurplePassion.jpg/revision/latest?cb=20260303121417",
     "toyNumber": "JJH54",
+    "colNumber": "148",
+    "series": "HW Dream GarageNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Tooned Purple Passion (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL48",
     "colNumber": "148",
     "series": "HW Dream GarageNew for 2026!",
     "category": "Mainline",
