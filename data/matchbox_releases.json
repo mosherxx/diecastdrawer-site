@@ -171,6 +171,15 @@
     "isReleased": true
   },
   {
+    "modelName": "1993 Ford Ranger PreRunner (New)",
+    "imageURL": null,
+    "mbxNumber": "MB101",
+    "series": "MBX Adventure",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "1993 Toyota Celica(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d9/Toyota-celica-93_mb.jpg/revision/latest?cb=20260529143502",
     "mbxNumber": "MB12",
@@ -198,6 +207,15 @@
     "isReleased": true
   },
   {
+    "modelName": "1997 Acura Integra Type R",
+    "imageURL": null,
+    "mbxNumber": "MB118",
+    "series": "MBX Showroom",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "1997 Acura Integra Type R(Super Chase)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d5/Acura_Integra_Type_R_-MB-SC.jpg/revision/latest?cb=20260514141138",
     "mbxNumber": "SC3",
@@ -208,7 +226,7 @@
   },
   {
     "modelName": "1997 McLaren F1 GT(New)",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/8f/1997_McLaren_F1_GT_%282026%29.jpeg/revision/latest?cb=20251209141951",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b3/McLaren_F1_GT.jpg/revision/latest?cb=20260619225257",
     "mbxNumber": "MB32",
     "series": "MBX Showroom",
     "category": "Mainline",
@@ -237,6 +255,15 @@
     "modelName": "2004 Mazda RX-8",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/73/Mazda_RX-8_%282026%29.png/revision/latest?cb=20251129005930",
     "mbxNumber": "MB19",
+    "series": "MBX Showroom",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "2005 Ford GT",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/7b/Ford_gt_2026.jpg/revision/latest?cb=20260524165638",
+    "mbxNumber": "MB93",
     "series": "MBX Showroom",
     "category": "Mainline",
     "year": 2026,
@@ -319,6 +346,24 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/2/21/50_2020_Polaris_Ranger_EV.jpg/revision/latest?cb=20251223054901",
     "mbxNumber": "MB50",
     "series": "MBX Showroom",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "2021 Ford Bronco",
+    "imageURL": null,
+    "mbxNumber": "MB102",
+    "series": "MBX Adventure",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "2021 Koenigsegg Gemera",
+    "imageURL": null,
+    "mbxNumber": "MB107",
+    "series": "MBX Road Trip",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -639,15 +684,6 @@
     "isReleased": true
   },
   {
-    "modelName": "Ford GT",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/7b/Ford_gt_2026.jpg/revision/latest?cb=20260524165638",
-    "mbxNumber": "MB93",
-    "series": "MBX Showroom",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "Ford Police Interceptor",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/af/Ford_Police_Intercepter_Sky_Busters_AFB_2026_silver.png/revision/latest?cb=20260421205956",
     "mbxNumber": "MB28",
@@ -697,6 +733,15 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b6/Mbx_ground_grinder_2026.jpg/revision/latest?cb=20260428154842",
     "mbxNumber": "MB97",
     "series": "MBX Construction",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Holden VF Commodore SSV",
+    "imageURL": null,
+    "mbxNumber": "MB84",
+    "series": "MBX Road Trip",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -775,7 +820,7 @@
   },
   {
     "modelName": "Maserati MC12",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/82/Mc12_2026.jpg/revision/latest?cb=20260524165504",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/1/16/MC12blue.png/revision/latest?cb=20260609081738",
     "mbxNumber": "MB86",
     "series": "MBX Showroom",
     "category": "Mainline",
@@ -1189,7 +1234,7 @@
   },
   {
     "modelName": "2004 Maserati MC-12(New)",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/bd/2004_Maserati_MC12-1.jpg/revision/latest?cb=20250804033551",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/7a/Maserati_MC12%2C_2004_%282025%2C_1-125%29.jpg/revision/latest?cb=20260619231244",
     "mbxNumber": "MB86",
     "series": "MBX Showroom",
     "category": "Mainline",
