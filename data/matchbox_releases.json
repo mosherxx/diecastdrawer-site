@@ -936,6 +936,15 @@
     "isReleased": true
   },
   {
+    "modelName": "TOYOTA",
+    "imageURL": null,
+    "mbxNumber": "MB121",
+    "series": "MBX",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Volkswagen Beetle 4x4 (2006)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/38/38_Volkswagen_Beetle_4x4_%282006%29.jpg/revision/latest?cb=20251223054657",
     "mbxNumber": "MB38",
