@@ -477,6 +477,15 @@
     "isReleased": true
   },
   {
+    "modelName": "2023 Toyota GR Supra",
+    "imageURL": null,
+    "mbxNumber": "MB121",
+    "series": "MBX",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "2023 Toyota Prius Prime",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/e3/Toyota_Prius_Prime_mb.jpg/revision/latest?cb=20260601024009",
     "mbxNumber": "MB41",
@@ -931,15 +940,6 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/bc/Skidster_-_7.jpg/revision/latest?cb=20260603231413",
     "mbxNumber": "MB52",
     "series": "MBX Construction",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
-    "modelName": "TOYOTA",
-    "imageURL": null,
-    "mbxNumber": "MB121",
-    "series": "MBX",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
