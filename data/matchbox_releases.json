@@ -172,7 +172,7 @@
   },
   {
     "modelName": "1993 Ford Ranger PreRunner (New)",
-    "imageURL": null,
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/61/Prerunner_26.jpg/revision/latest?cb=20260621191945",
     "mbxNumber": "MB101",
     "series": "MBX Adventure",
     "category": "Mainline",
@@ -208,7 +208,7 @@
   },
   {
     "modelName": "1997 Acura Integra Type R",
-    "imageURL": null,
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/1/17/Integra_26.jpg/revision/latest?cb=20260621192103",
     "mbxNumber": "MB118",
     "series": "MBX Showroom",
     "category": "Mainline",
@@ -352,7 +352,7 @@
   },
   {
     "modelName": "2021 Ford Bronco",
-    "imageURL": null,
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/0/03/Bronco_26.jpg/revision/latest?cb=20260621192012",
     "mbxNumber": "MB102",
     "series": "MBX Adventure",
     "category": "Mainline",
@@ -361,7 +361,7 @@
   },
   {
     "modelName": "2021 Koenigsegg Gemera",
-    "imageURL": null,
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/ee/Gemera_26.jpg/revision/latest?cb=20260621192039",
     "mbxNumber": "MB107",
     "series": "MBX Road Trip",
     "category": "Mainline",
@@ -408,7 +408,7 @@
     "modelName": "2023 BMW M2",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/2/29/Bmw_m2_2026.jpg/revision/latest?cb=20260524165146",
     "mbxNumber": "MB70",
-    "series": "MBX Roadtrip",
+    "series": "MBX Road Trip",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -478,9 +478,9 @@
   },
   {
     "modelName": "2023 Toyota GR Supra",
-    "imageURL": null,
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/30/Supra_26.jpg/revision/latest?cb=20260621192137",
     "mbxNumber": "MB121",
-    "series": "MBX",
+    "series": "MBX Road Trip",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -748,7 +748,7 @@
   },
   {
     "modelName": "Holden VF Commodore SSV",
-    "imageURL": null,
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/fd/Commodore_26.jpg/revision/latest?cb=20260621191908",
     "mbxNumber": "MB84",
     "series": "MBX Road Trip",
     "category": "Mainline",
