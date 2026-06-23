@@ -14,7 +14,7 @@
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "",
     "colNumber": "",
-    "series": "TBD",
+    "series": "Cool Classics",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -90,16 +90,6 @@
     "isReleased": true
   },
   {
-    "modelName": "1963 Ford Galaxie",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJH73",
-    "colNumber": "",
-    "series": "Cool ClassicsNew for 2026!",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "1970 Custom Plymouth Roadrunner",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "",
@@ -150,16 +140,6 @@
     "isReleased": true
   },
   {
-    "modelName": "Ford Model A Custom '31",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJM11",
-    "colNumber": "",
-    "series": "Rod SquadTreasure Hunt",
-    "category": "Treasure Hunt",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "Mickey Mouse's Car",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJH74",
@@ -186,16 +166,6 @@
     "colNumber": "",
     "series": "TBDTreasure Hunt",
     "category": "Treasure Hunt",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
-    "modelName": "Salt Streaker",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJH71",
-    "colNumber": "",
-    "series": "TBDNew for 2026!",
-    "category": "Mainline",
     "year": 2026,
     "isReleased": true
   },
@@ -1780,6 +1750,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Hoto Roto (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL27",
+    "colNumber": "079",
+    "series": "Compact Kings",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Kei Swap",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/7/71/GabeSwap.jpg/revision/latest?cb=20260103095921",
     "toyNumber": "JJJ65",
@@ -1853,6 +1833,16 @@
     "modelName": "Voltage Spike",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/Spiker.jpg/revision/latest?cb=20251216110526",
     "toyNumber": "JJJ48",
+    "colNumber": "085",
+    "series": "HW EV",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Voltage Spike (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL32",
     "colNumber": "085",
     "series": "HW EV",
     "category": "Mainline",
@@ -2640,6 +2630,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Bullet Proof (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL30",
+    "colNumber": "132",
+    "series": "X-Raycers",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "8 Crate",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/4/47/8CrateRanchWagon.jpg/revision/latest?cb=20260121131615",
     "toyNumber": "JJJ86",
@@ -2803,6 +2803,16 @@
     "modelName": "El Segundo Rallye",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/55/ESRallyeDirt.jpg/revision/latest?cb=20260303121220",
     "toyNumber": "JJJ97",
+    "colNumber": "145",
+    "series": "HW Dirt",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "El Segundo Rallye (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL26",
     "colNumber": "145",
     "series": "HW Dirt",
     "category": "Mainline",
@@ -3080,6 +3090,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Classic '55 Nomad (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJM55",
+    "colNumber": "164",
+    "series": "WagonsKroger Exclusive",
+    "category": "Premium",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Gone Mad",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/WagoneMad.jpg/revision/latest?cb=20260311130314",
     "toyNumber": "JJK09",
@@ -3171,6 +3191,16 @@
   },
   {
     "modelName": "Tooned Volkswagen Golf Mk1 (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJM56",
+    "colNumber": "172",
+    "series": "ToonedKroger Exclusive",
+    "category": "Premium",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Tooned Volkswagen Golf Mk1 (3rd Color)",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJL52",
     "colNumber": "172",
@@ -3640,6 +3670,16 @@
     "isReleased": true
   },
   {
+    "modelName": "'19 Mercedes-Benz A-Class",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK44",
+    "colNumber": "210",
+    "series": "Compact Kings",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "1972 Datsun Sunny Coupe",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/DatsunSunnyCoupe.jpg/revision/latest?cb=20260530095659",
     "toyNumber": "JJH66",
@@ -3780,6 +3820,16 @@
     "isReleased": true
   },
   {
+    "modelName": "1970 Custom Plymouth Roadrunner",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK52",
+    "colNumber": "224",
+    "series": "Screen TimeNew in Mainline",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Nissan Maxima Drift Car",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/K%26NMaxima.jpg/revision/latest?cb=20260530100253",
     "toyNumber": "JJK53",
@@ -3800,11 +3850,61 @@
     "isReleased": true
   },
   {
+    "modelName": "Salt Streaker",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJH71",
+    "colNumber": "226",
+    "series": "Team WheelsNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "'71 Lamborghini Miura SV",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK54",
+    "colNumber": "227",
+    "series": "Cool Classics",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Ford Model A Custom '31",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJM11",
+    "colNumber": "229",
+    "series": "Rod SquadTreasure Hunt",
+    "category": "Treasure Hunt",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Uncertain-T",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/UncertainT.jpg/revision/latest?cb=20260530100323",
     "toyNumber": "JJH70",
     "colNumber": "230",
     "series": "Rod SquadNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "'68 Mercury Cougar",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK56",
+    "colNumber": "231",
+    "series": "HW Torque",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Slide-Burn",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK57",
+    "colNumber": "232",
+    "series": "HW Torque",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -3835,6 +3935,16 @@
     "toyNumber": "JJH75",
     "colNumber": "239",
     "series": "Trophy CaseNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "1963 Ford Galaxie",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJH73",
+    "colNumber": "241",
+    "series": "Cool ClassicsNew for 2026!",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
