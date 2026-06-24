@@ -2580,6 +2580,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Datsun 620 (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL88",
+    "colNumber": "128",
+    "series": "Compact Kings",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Standard Kart",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/2/22/StandardKart.jpg/revision/latest?cb=20210926022809",
     "toyNumber": "JJJ83",
@@ -2820,6 +2830,16 @@
     "isReleased": true
   },
   {
+    "modelName": "El Segundo Rallye (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL29",
+    "colNumber": "145",
+    "series": "HW Dirt",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Mazda Autozam",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/Purplezam.jpg/revision/latest?cb=20260303121240",
     "toyNumber": "JJJ98",
@@ -3053,6 +3073,16 @@
     "modelName": "'70 Ford Escort RS1600",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/1970Escort.jpg/revision/latest?cb=20260311130204",
     "toyNumber": "JJK08",
+    "colNumber": "161",
+    "series": "HW Dirt",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "'70 Ford Escort RS1600 (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL58",
     "colNumber": "161",
     "series": "HW Dirt",
     "category": "Mainline",
@@ -3864,6 +3894,16 @@
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJK54",
     "colNumber": "227",
+    "series": "Cool Classics",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "'66 Buick Riviera",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK55",
+    "colNumber": "228",
     "series": "Cool Classics",
     "category": "Mainline",
     "year": 2026,
