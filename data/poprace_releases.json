@@ -44,6 +44,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "1087X GT86",
+    "productCode": "1087X-05",
+    "make": "Toyota",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fd/1087X-05.jpg/revision/latest?cb=20260503194510",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "1087x GT86 - 1087x",
     "productCode": "PR640473",
     "make": "Toyota",
@@ -56,14 +67,14 @@
   },
   {
     "modelName": "992 Stinger GTR Carbon Edition",
-    "productCode": "PR640017",
+    "productCode": "S13-01",
     "make": "TopCar Design",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7b/PR640017.jpg/revision/latest?cb=20241120192608",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3c/S13-01.jpg/revision/latest?cb=20241124153805",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "992 Stinger GTR Carbon Edition Blue Line",
@@ -78,14 +89,25 @@
   },
   {
     "modelName": "992 Stinger GTR Carbon Edition Brown",
-    "productCode": "PR640049",
-    "make": "TopCar Design",
+    "productCode": "S13-02",
+    "make": "TopCar Design]",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/0f/PR640049.jpg/revision/latest?cb=20241118014952",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2a/S13-02.jpg/revision/latest?cb=20241124153752",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "992 Stinger GTR Carbon Edition Red Line",
+    "productCode": "S13-04",
+    "make": "TopCar Design]",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/ae/S13-03.jpg/revision/latest?cb=20241223171547",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "992 Stinger GTR Carbon Edition Redline",
@@ -99,15 +121,26 @@
     "series": "Regular Collection"
   },
   {
-    "modelName": "992 Stinger GTR Gold",
-    "productCode": "PR640042",
+    "modelName": "992 Stinger GTR Dark Chrome",
+    "productCode": "PRDC005",
     "make": "TopCar Design",
     "marques": [
-      "Regular Collection"
+      "Dark Chrome Series"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7f/PR640042.jpg/revision/latest?cb=20241117233908",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fc/PRDC-005.jpg/revision/latest?cb=20260410220730",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Dark Chrome Series"
+  },
+  {
+    "modelName": "992 Stinger GTR Gold",
+    "productCode": "S21-01",
+    "make": "TopCar Design]",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/20/S21-01.jpg/revision/latest?cb=20241124210337",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "997 RWB - Blue",
@@ -130,6 +163,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/80/PR640224.jpg/revision/latest?cb=20260410215331",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "[[Mazda RX7 RE Amemiya Widebody Blue / Pink] Chrome]",
+    "productCode": "S24-HEC2025",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Aston Martin AMR23 F1 #14 F. Alonso",
@@ -166,14 +210,14 @@
   },
   {
     "modelName": "Aston Martin DBX 707 Blue",
-    "productCode": "PR640031",
+    "productCode": "S14-03",
     "make": "Aston Martin",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/29/PR640031.jpg/revision/latest?cb=20241120191439",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/98/S14-03.jpg/revision/latest?cb=20241124210212",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Aston Martin DBX 707 Cosmos Orange",
@@ -187,6 +231,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Aston Martin DBX 707 Purple",
+    "productCode": "S14-04",
+    "make": "Aston Martin",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Aston Martin DBX 707 Storm Purple",
     "productCode": "PR640268",
     "make": "Aston Martin",
@@ -198,15 +253,37 @@
     "series": "Regular Collection"
   },
   {
-    "modelName": "Aston Martin DBX Racing Green",
-    "productCode": "PR640016",
+    "modelName": "Aston Martin DBX Cosmos Orange",
+    "productCode": "S14-02",
     "make": "Aston Martin",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/74/PR640016.jpg/revision/latest?cb=20241120192537",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f2/S14-02.jpg/revision/latest?cb=20241124212231",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Aston Martin DBX Racing Green",
+    "productCode": "S14-01",
+    "make": "Aston Martin",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/33/S14-01.jpg/revision/latest?cb=20241124203732",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Aston Martin Valkyrie",
+    "productCode": "S15-02",
+    "make": "Aston Martin",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/36/S15-02.jpg/revision/latest?cb=20241126204820",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Aston Martin Valkyrie - Carbon Edition",
@@ -254,36 +331,47 @@
   },
   {
     "modelName": "Aston Martin Valkyrie Supernova Red",
-    "productCode": "PR640152",
+    "productCode": "S15-03",
     "make": "Aston Martin",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/54/PR640152.jpg/revision/latest?cb=20241118012218",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d0/S15-03.jpg/revision/latest?cb=20241223171602",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Aston Martin Valkyrie Viridian Green",
-    "productCode": "PR640054",
+    "productCode": "S15-01",
     "make": "Aston Martin",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/de/PR640054.jpg/revision/latest?cb=20241118015009",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/51/S15-01.jpg/revision/latest?cb=20241124142314",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Aston Martin Vantage GT3",
+    "productCode": "S4-02",
+    "make": "Aston Martin",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Aston Martin Vantage GT3 Carbon Edition",
-    "productCode": "PR640178",
+    "productCode": "S4-08",
     "make": "Aston Martin",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/53/PR640178.jpg/revision/latest?cb=20241118012227",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7a/S4-08.jpg/revision/latest?cb=20241223171533",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Aston Martin Vantage GT3 Castrol Bathurst 12 Hr 2020",
@@ -297,6 +385,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Aston Martin Vantage GT3 EVA RT Production Model -02",
+    "productCode": "S4-05",
+    "make": "Aston Martin",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/96/S4-05.jpg/revision/latest?cb=20241126173918",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Aston Martin Vantage GT3 EVA RT Production Model-02",
     "productCode": "PR640035",
     "make": "Aston Martin",
@@ -306,6 +405,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/80/PR640035.jpg/revision/latest?cb=20241128010516",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Vantage GT3 EVA RT Test Type -01",
+    "productCode": "S4-04",
+    "make": "Aston Martin",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5c/S4-04.jpg/revision/latest?cb=20241124205940",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Aston Martin Vantage GT3 EVA RT Test Type-01",
@@ -331,14 +441,14 @@
   },
   {
     "modelName": "Aston Martin Vantage GT3 N24 2022",
-    "productCode": "PR640089",
+    "productCode": "S4-07",
     "make": "Aston Martin",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4b/PR640089.jpg/revision/latest?cb=20241118013203",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/18/S4-07.jpg/revision/latest?cb=20241124205957",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Aston Martin Vantage GT3 Presentation",
@@ -363,15 +473,26 @@
     "series": "Regular Collection"
   },
   {
-    "modelName": "Aston Martin Vantage GT3 White",
-    "productCode": "PR640045",
+    "modelName": "Aston Martin Vantage GT3 R Motorsport 2019",
+    "productCode": "S4-01",
     "make": "Aston Martin",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/84/PR640045.jpg/revision/latest?cb=20241118014943",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/28/S4-01.jpg/revision/latest?cb=20241126173910",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Aston Martin Vantage GT3 White",
+    "productCode": "S4-06",
+    "make": "Aston Martin",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5f/S4-06.jpg/revision/latest?cb=20241124205949",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Audi R8 LMS \"EVISU X WORKS\" MACAU GT CUP 2020 MARCHY LEE PRESENTATION CAR",
@@ -682,6 +803,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Corolla KE25",
+    "productCode": "PRE034",
+    "make": "Toyota",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
     "modelName": "Darwin Pro 66G WBK Supra A90 - Carbon Edition",
     "productCode": "PR640398",
     "make": "DarwinPRO",
@@ -702,6 +834,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5b/PR640492.jpg/revision/latest?cb=20260410215630",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "DarwinPRO 66G NWB Supra A90",
+    "productCode": "S16-01",
+    "make": "Toyota DarwinPRO",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/40/S16-01.jpg/revision/latest?cb=20241124210222",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "DarwinPRO 66G NWB Supra A90 Green",
@@ -726,6 +869,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "DarwinPRO 66G WBK Supra A90",
+    "productCode": "X37-GTSHOW2025",
+    "make": "DarwinPRO",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/07/X37-GTSHOW2025.jpg/revision/latest?cb=20250329192520",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "DarwinPRO 66G WBK Supra A90 - 1087X Lion Dance",
     "productCode": "PR640285",
     "make": "DarwinPRO",
@@ -735,6 +889,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/04/PR640285.jpg/revision/latest?cb=20250227220959",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Datsun C210 - Chrome",
+    "productCode": "PRB000",
+    "make": "Nissan",
+    "marques": [
+      "Event Exclusives"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c0/PRB000.jpg/revision/latest?cb=20260411000404",
+    "scale": "1/64",
+    "series": "Event Exclusives"
   },
   {
     "modelName": "Datsun Pandem 620",
@@ -781,6 +946,39 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "EVA RT Mark.06 Pandem GR 86",
+    "productCode": "",
+    "make": "Pandem",
+    "marques": [
+      "Blind Box Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5f/Car5.jpg/revision/latest?cb=20260426034412",
+    "scale": "1/64",
+    "series": "Blind Box Series"
+  },
+  {
+    "modelName": "EVA RT Production Model -02 Goodride GR Yaris",
+    "productCode": "S1-08",
+    "make": "Toyota",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/57/S1-08.jpg/revision/latest?cb=20241127235351",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "EVA RT Production Model Custom Type-08",
+    "productCode": "S43-01",
+    "make": "Pandem EVA Racing",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b3/S43-01.jpg/revision/latest?cb=20260422111226",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "EVA RT Production Model Custom Type-08 - Pandem Silvia S13",
     "productCode": "PR640241",
     "make": "Pandem",
@@ -801,6 +999,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/ba/PR640220.jpg/revision/latest?cb=20250213125316",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Production Model Custom Type-08 Pandem GR 86",
+    "productCode": "",
+    "make": "Pandem",
+    "marques": [
+      "Blind Box Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/59/Car6.jpg/revision/latest?cb=20260426034425",
+    "scale": "1/64",
+    "series": "Blind Box Series"
   },
   {
     "modelName": "EVA RT Production Model-02 Goodride GR Yaris",
@@ -836,6 +1045,50 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "EVA RT Production Model-02 Pandem GR 86",
+    "productCode": "",
+    "make": "Pandem",
+    "marques": [
+      "Blind Box Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b8/Car3.jpg/revision/latest?cb=20260426034349",
+    "scale": "1/64",
+    "series": "Blind Box Series"
+  },
+  {
+    "modelName": "EVA RT Proto Type-00 Pandem GR 86",
+    "productCode": "",
+    "make": "Pandem",
+    "marques": [
+      "Blind Box Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/94/Car1.jpg/revision/latest?cb=20260426034322",
+    "scale": "1/64",
+    "series": "Blind Box Series"
+  },
+  {
+    "modelName": "EVA RT Provisional Unit-05 Pandem GR 86",
+    "productCode": "",
+    "make": "Pandem",
+    "marques": [
+      "Blind Box Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2d/Car4.jpg/revision/latest?cb=20260426034400",
+    "scale": "1/64",
+    "series": "Blind Box Series"
+  },
+  {
+    "modelName": "EVA RT Provisional Unit-05 Pandem GR 86 Chrome",
+    "productCode": "",
+    "make": "Pandem",
+    "marques": [
+      "Blind Box Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/26/UltimateChase.jpg/revision/latest?cb=20260426035548",
+    "scale": "1/64",
+    "series": "Blind Box Series"
+  },
+  {
     "modelName": "EVA RT Test Model-01 GR86",
     "productCode": "PR64-GR86-EVA01",
     "make": "Toyota",
@@ -845,6 +1098,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5b/PR64-GR86-EVA01.jpg/revision/latest?cb=20241129154108",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Test Type -01 Goodride GR Yaris",
+    "productCode": "S1-07",
+    "make": "Toyota",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9d/S1-07.jpg/revision/latest?cb=20241124205858",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "EVA RT Test Type-01 - Goodride Pandem GR Supra",
@@ -902,6 +1166,50 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "EVA RT Test Type-01 Kakusei Pandem GR 86 Chrome",
+    "productCode": "",
+    "make": "Pandem",
+    "marques": [
+      "Blind Box Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/03/SuperChase.jpg/revision/latest?cb=20260426034621",
+    "scale": "1/64",
+    "series": "Blind Box Series"
+  },
+  {
+    "modelName": "EVA RT Test Type-01 Pandem GR 86",
+    "productCode": "",
+    "make": "Pandem",
+    "marques": [
+      "Blind Box Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/66/Car2.jpg/revision/latest?cb=20260426034336",
+    "scale": "1/64",
+    "series": "Blind Box Series"
+  },
+  {
+    "modelName": "EVA RT Test Type-01 Pandem GR 86 Chrome",
+    "productCode": "",
+    "make": "Pandem",
+    "marques": [
+      "Blind Box Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/ff/Chase.jpg/revision/latest?cb=20260426034633",
+    "scale": "1/64",
+    "series": "Blind Box Series"
+  },
+  {
+    "modelName": "EVA RT Test Type-01 S13",
+    "productCode": "S43-06",
+    "make": "Pandem EVA Racing",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7e/S43-06.jpg/revision/latest?cb=20260506111938",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "EVA RT Test Type-01 Skyline R32 GTR",
     "productCode": "PR640453",
     "make": "EVA Racing",
@@ -957,15 +1265,48 @@
     "series": "Regular Collection"
   },
   {
-    "modelName": "Golf GTI MkII",
-    "productCode": "PR640015",
+    "modelName": "Golf GTI Mk2",
+    "productCode": "S3-04",
     "make": "Volkswagen",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/67/PR640015.jpg/revision/latest?cb=20241120192529",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/75/S3-04.jpg/revision/latest?cb=20241126173855",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Golf GTI Mk2 Dark Chrome",
+    "productCode": "PRDC006",
+    "make": "Volkswagen",
+    "marques": [
+      "Dark Chrome Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5c/PRDC-006.jpg/revision/latest?cb=20260410220741",
+    "scale": "1/64",
+    "series": "Dark Chrome Series"
+  },
+  {
+    "modelName": "Golf GTI MkII",
+    "productCode": "S3-02",
+    "make": "Volkswagen",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/70/S3-02.jpg/revision/latest?cb=20241124205924",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Golf GTI MKII",
+    "productCode": "S3-06",
+    "make": "Volkswagen",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Golf GTI MKII Demon Tweeks - BTCC 1988",
@@ -980,14 +1321,14 @@
   },
   {
     "modelName": "Golf GTI MKII Oak Green",
-    "productCode": "PR640099",
+    "productCode": "S3-05",
     "make": "Volkswagen",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/33/PR640099.jpg/revision/latest?cb=20241117232543",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/ba/S3-05.jpg/revision/latest?cb=20241124205932",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Golf GTI MKII White",
@@ -1035,14 +1376,25 @@
   },
   {
     "modelName": "GR86 Endless",
-    "productCode": "PR640025",
+    "productCode": "S5-05",
     "make": "Toyota",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/19/PR640025.jpg/revision/latest?cb=20241120191414",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8e/S5-05.jpg/revision/latest?cb=20241124210037",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "GR86 EVA RT Production Model 02",
+    "productCode": "S5-01",
+    "make": "Toyota",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/26/S5-01.jpg/revision/latest?cb=20241124210007",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "GT-R R32 Macau Guia Race 1990 Winner",
@@ -1155,6 +1507,39 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Honda Civic EG6",
+    "productCode": "PRB002",
+    "make": "Honda",
+    "marques": [
+      "Event Exclusives"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/53/PRB002.jpg/revision/latest?cb=20260411000414",
+    "scale": "1/64",
+    "series": "Event Exclusives"
+  },
+  {
+    "modelName": "Honda Civic EG6 - Yellow",
+    "productCode": "PRB004",
+    "make": "Honda",
+    "marques": [
+      "Event Exclusives"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/11/PRB004.jpg/revision/latest?cb=20260410213626",
+    "scale": "1/64",
+    "series": "Event Exclusives"
+  },
+  {
+    "modelName": "Honda Civic EG6 Pink",
+    "productCode": "PRE027",
+    "make": "Honda",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
     "modelName": "Honda Civic EK9 Type R - Championship White",
     "imageURL": null,
     "scale": "1/64",
@@ -1165,6 +1550,39 @@
     "imageURL": null,
     "scale": "1/64",
     "series": "Hong Kong"
+  },
+  {
+    "modelName": "Honda Civic FL-5 Type-R",
+    "productCode": "S2-06",
+    "make": "Honda",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Honda Civic FL-5 Type-R Black",
+    "productCode": "S2-05",
+    "make": "Honda",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Honda Civic FL-5 Type-R Grey",
+    "productCode": "S2-03",
+    "make": "Honda",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Honda Civic FL-5 Type-R TCR HRC",
@@ -1179,14 +1597,14 @@
   },
   {
     "modelName": "Honda Civic FL-5 Type-R White",
-    "productCode": "PR640011",
+    "productCode": "S2-02",
     "make": "Honda",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3e/PR640011.jpg/revision/latest?cb=20241120192502",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/09/S2-02.jpg/revision/latest?cb=20241124205907",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Honda Civic FL5 Type-R Sunlight Yellow",
@@ -1211,15 +1629,48 @@
     "series": "Regular Collection"
   },
   {
-    "modelName": "Honda Civic Type-R (FL5) TCR Presentation",
-    "productCode": "PR640153",
+    "modelName": "Honda Civic Type-R (FL5) TCR Dark Chrome",
+    "productCode": "PRDC012",
     "make": "Honda",
     "marques": [
-      "Regular Collection"
+      "Dark Chrome Series"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/db/PR640153.jpg/revision/latest?cb=20241117230749",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7a/PRDC-012.jpg/revision/latest?cb=20260415095610",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Dark Chrome Series"
+  },
+  {
+    "modelName": "Honda Civic Type-R (FL5) TCR Presentation",
+    "productCode": "S32-01",
+    "make": "Honda",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/0f/S32-01.jpg/revision/latest?cb=20241223163600",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Honda Civic Type-R (FL5) Yellow",
+    "productCode": "S2-09",
+    "make": "Honda",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8e/S2-09.jpg/revision/latest?cb=20241129045438",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Honda Civic Type-R FL5",
+    "productCode": "S2-04",
+    "make": "Honda",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a5/S2-04.jpg/revision/latest?cb=20241125005547",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Honda Civic Type-R FL5 Blue",
@@ -1278,6 +1729,17 @@
     "series": ""
   },
   {
+    "modelName": "Honda NSX GT3 EVO22",
+    "productCode": "S18-05",
+    "make": "Honda",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Honda NSX GT3 EVO22 - Silver",
     "productCode": "PR640445",
     "make": "Honda",
@@ -1289,6 +1751,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Honda NSX GT3 EVO22 ADVAN",
+    "productCode": "PRE011",
+    "make": "Honda",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
     "modelName": "Honda NSX GT3 EVO22 Carbon Edition",
     "productCode": "PR640159",
     "make": "Honda",
@@ -1298,6 +1771,28 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b8/PR640159.jpg/revision/latest?cb=20241117230506",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda NSX GT3 EVO22 EVA RT Production Model -02",
+    "productCode": "S18-03",
+    "make": "Honda",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/91/S18-03.jpg/revision/latest?cb=20241124210243",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Honda NSX GT3 EVO22 EVA RT Production Model Custom Type -08",
+    "productCode": "S18-04",
+    "make": "Honda",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f0/S18-04.jpg/revision/latest?cb=20241124210254",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Honda NSX GT3 EVO22 EVA RT Production Model Custom Type-08",
@@ -1320,6 +1815,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e9/PR640108.jpg/revision/latest?cb=20241117231152",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda NSX GT3 EVO22 EVA Test Type -01 KCMG #202",
+    "productCode": "S18-02",
+    "make": "Honda",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/48/S18-02.jpg/revision/latest?cb=20241124213712",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Honda NSX GT3 EVO22 EVA Test Type-01 KCMG #202",
@@ -1345,14 +1851,25 @@
   },
   {
     "modelName": "Honda NSX GT3 KCMG",
-    "productCode": "PR640040",
+    "productCode": "S18-01",
     "make": "Honda",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f6/PR640040.jpg/revision/latest?cb=20241118014916",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/86/S18-01.jpg/revision/latest?cb=20241124142137",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Honda NSX R GT",
+    "productCode": "S47-01",
+    "make": "Honda",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Honda NSX-R - SPOON",
@@ -1527,25 +2044,25 @@
   },
   {
     "modelName": "Lamborghini Countach LPI 800-4 Bianco Siderale",
-    "productCode": "PR640117",
+    "productCode": "S27-01",
     "make": "Lamborghini",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9c/PR640117.jpg/revision/latest?cb=20241118013211",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/83/S27-01.jpg/revision/latest?cb=20241223171829",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Lamborghini Countach LPI 800-4 Blu Hal",
-    "productCode": "PR640175",
+    "productCode": "S27-02",
     "make": "Lamborghini",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/74/PR640175.jpg/revision/latest?cb=20241117224616",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4d/S27-02.jpg/revision/latest?cb=20241223163835",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Lamborghini Countach LPI-800 - Deep Black",
@@ -1568,6 +2085,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c3/PR640259.jpg/revision/latest?cb=20250227220950",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Huracan STO",
+    "productCode": "PRE031",
+    "make": "Lamborghini",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
   },
   {
     "modelName": "Lamborghini Huracan STO - Grigio Acheso Matte",
@@ -1626,14 +2154,14 @@
   },
   {
     "modelName": "Lamborghini Huracán STO Green",
-    "productCode": "PR640189",
+    "productCode": "S28-01",
     "make": "Lamborghini",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c2/PR640189.jpg/revision/latest?cb=20241117225319",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/ab/S28-01.jpg/revision/latest?cb=20241223171838",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Lamborghini Huracán STO Matte Grey",
@@ -1648,14 +2176,25 @@
   },
   {
     "modelName": "Laurel C130",
-    "productCode": "PR640352",
+    "productCode": "S49-APAxpo2025",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3a/PR640351352.jpg/revision/latest?cb=20260411173852",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Laurel C130 & Skyline GT-R V8 Drift (Hakosuka)",
+    "productCode": "S-SET2",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Laurel C130 - Blue",
@@ -1711,6 +2250,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b3/PR640529.jpg/revision/latest?cb=20260623105938",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda 787B",
+    "productCode": "S53-01",
+    "make": "Mazda",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Mazda 787B - 1991 Le Mans 24 Hrs No.18",
@@ -1845,6 +2395,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Mazda RX-7 FC3S RE-Amemiya Dark Chrome",
+    "productCode": "PRDC008",
+    "make": "RE Amemiya",
+    "marques": [
+      "Dark Chrome Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8e/PRDC-008.jpg/revision/latest?cb=20260410220803",
+    "scale": "1/64",
+    "series": "Dark Chrome Series"
+  },
+  {
     "modelName": "Mazda RX-7 FD - Vintage Red",
     "imageURL": null,
     "scale": "1/64",
@@ -1972,6 +2533,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Mazda RX-8 RE-Amemiya Red",
+    "productCode": "PRE016",
+    "make": "Mazda",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
     "modelName": "Mazda RX7 (FC3S) RE Amemiya Blue",
     "productCode": "PR640290",
     "make": "Mazda RE Amemiya",
@@ -1983,15 +2555,59 @@
     "series": "Regular Collection"
   },
   {
-    "modelName": "Mazda RX7 (FD3S) RE Amemiya Widebody Blue Metallic",
-    "productCode": "PR640119",
+    "modelName": "Mazda RX7 (FC3S) RE Amemiya Pink",
+    "productCode": "PRE020",
     "make": "Mazda RE Amemiya",
     "marques": [
-      "Regular Collection"
+      "Enigma"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/49/PR640119.jpg/revision/latest?cb=20241117232108",
+    "imageURL": null,
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Enigma"
+  },
+  {
+    "modelName": "Mazda RX7 (FD3S) Blue/White",
+    "productCode": "PRE021",
+    "make": "Mazda",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
+    "modelName": "Mazda RX7 (FD3S) RE Amemiya Widebody Blue Metallic",
+    "productCode": "S24-01",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/dd/S24-01.jpg/revision/latest?cb=20241124213512",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Mazda RX7 FC3S RE Amemiya Blue",
+    "productCode": "S44-01",
+    "make": "RE Amemiya",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Mazda RX7 FC3S RE Amemiya White",
+    "productCode": "S44-02",
+    "make": "RE Amemiya",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Mazda RX7 RE Amemiya Bangkok Auto Salon 2024",
@@ -2028,14 +2644,25 @@
   },
   {
     "modelName": "Mazda RX7 RE Amemiya Widebody",
-    "productCode": "PR640156",
+    "productCode": "S24-02",
     "make": "Mazda RE Amemiya",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e1/PR640156.jpg/revision/latest?cb=20241117224845",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Mazda RX7 RE Amemiya Widebody Black",
+    "productCode": "S24-07",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Mazda RX7 RE Amemiya Widebody Blue",
@@ -2049,15 +2676,26 @@
     "series": "Regular Collection"
   },
   {
-    "modelName": "Mazda RX7 RE Amemiya Widebody Blue Chrome",
-    "productCode": "PR640223",
+    "modelName": "Mazda RX7 RE Amemiya Widebody Blue / Pink",
+    "productCode": "S24-08",
     "make": "Mazda RE Amemiya",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5e/PR640223.jpg/revision/latest?cb=20241128135159",
+    "imageURL": null,
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Mazda RX7 RE Amemiya Widebody Blue Chrome",
+    "productCode": "S24-05",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1f/S24-05.jpg/revision/latest?cb=20241210181117",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Mazda RX7 RE Amemiya Widebody Chrome Red",
@@ -2093,6 +2731,28 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Mazda RX7 RE Amemiya Widebody Purple Chrome",
+    "productCode": "S24-06",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/67/S24-06.jpg/revision/latest?cb=20250113134928",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Mazda RX7 RE Amemiya Widebody Yellow",
+    "productCode": "S24-03",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/cf/S24-03.jpg/revision/latest?cb=20241124012432",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Mazda RX7 RE-Amemiya Blue/Pink",
     "productCode": "PR640240",
     "make": "Mazda RE Amemiya",
@@ -2102,6 +2762,28 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/bb/PR640240.jpg/revision/latest?cb=20250213125324",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX7 Widebody Metallic Red",
+    "productCode": "PRE003",
+    "make": "Mazda",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
+    "modelName": "Mazda RX8 RE Amemiya",
+    "productCode": "S45-01",
+    "make": "RE Amemiya",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Mazda RX8 RE-Amemiya Light Blue",
@@ -2126,6 +2808,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "McLaren F1 Black",
+    "productCode": "S30-02",
+    "make": "McLaren",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "McLaren F1 Jet Black",
     "productCode": "PR640230",
     "make": "McLaren",
@@ -2138,14 +2831,14 @@
   },
   {
     "modelName": "McLaren F1 Orange",
-    "productCode": "PR640092",
+    "productCode": "S30-01",
     "make": "McLaren",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6e/PR640092.jpg/revision/latest?cb=20241117230159",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/15/S30-01.jpg/revision/latest?cb=20241223162911",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "MERCEDES BENZ AMG 190E 2.5-16 EVO II #9 \"ZUNG FU\" MACAU GUIA RACE 1991",
@@ -2160,14 +2853,14 @@
   },
   {
     "modelName": "Mercedes-Benz AMG CLK GTR 1997 FIA GT D2 Privat",
-    "productCode": "PR640095",
+    "productCode": "S25-01",
     "make": "Mercedes-Benz",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/af/PR640095.jpg/revision/latest?cb=20241117225827",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/97/S25-01.jpg/revision/latest?cb=20241124201849",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Mercedes-Benz AMG CLK GTR Black Chrome",
@@ -2182,14 +2875,14 @@
   },
   {
     "modelName": "Mercedes-Benz AMG CLK GTR Silver",
-    "productCode": "PR640158",
+    "productCode": "S25-02",
     "make": "Mercedes-Benz",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c7/PR640158.jpg/revision/latest?cb=20241117225259",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c5/S25-02.jpg/revision/latest?cb=20241223163939",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Mitsubishi Lancer Evolution III - No.28 Hong Kong - Beijing 555 Rally 1996",
@@ -2201,6 +2894,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/af/PR64-EVO3-96HB28.jpg/revision/latest?cb=20241120230103",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Lancer Evolution IV",
+    "productCode": "S31-06",
+    "make": "Mitsubishi",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/93/S31-01.jpg/revision/latest?cb=20241126205510",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Mitsubishi Lancer Evolution IV - 1999 Monte Carlo",
@@ -2223,6 +2927,28 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/79/PR640327.jpg/revision/latest?cb=20260411180423",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Lancer Evolution IV 1998 Safari Rally Kenya",
+    "productCode": "S31-05",
+    "make": "Mitsubishi",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Mitsubishi Lancer Evolution IV Green",
+    "productCode": "PRE022",
+    "make": "Mitsubishi",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
   },
   {
     "modelName": "Mitsubishi Lancer Evolution IV Pyrenees Black Pearl",
@@ -2270,14 +2996,14 @@
   },
   {
     "modelName": "Mitsubishi Lancer Evolution IV Winner Rally De Catalunya 1997",
-    "productCode": "PR640165",
+    "productCode": "S31-03",
     "make": "Mitsubishi",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7c/PR640165.jpg/revision/latest?cb=20241117230756",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a9/S31-03.jpg/revision/latest?cb=20241223171847",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Mitsubishi Lancer Evolution VI - Scotia White",
@@ -2363,6 +3089,28 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Nissan GT-R BNR32",
+    "productCode": "PRE009",
+    "make": "Nissan",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
+    "modelName": "Nissan GT-R Nismo 400R Midnight Purple",
+    "productCode": "S20-01",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/40/S20-01.jpg/revision/latest?cb=20241124015259",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Nissan GT-R Nismo 400R Prototype",
     "productCode": "PR640053",
     "make": "Nissan",
@@ -2372,6 +3120,39 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d4/PR640053.jpg/revision/latest?cb=20241118015000",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan GT-R Nismo 400R Speed Yellow",
+    "productCode": "S20-02",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3c/S20-02.jpg/revision/latest?cb=20241124210305",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Nissan GT-R Nismo 400R Super Clear Red",
+    "productCode": "S20-03",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/47/S20-03.jpg/revision/latest?cb=20241124210325",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Nissan GT-R Nismo 400R White",
+    "productCode": "S20-04",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/37/S20-04.jpg/revision/latest?cb=20241126205502",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Nissan GT-R R33 Nismo 400R Midnight Purple",
@@ -2469,14 +3250,25 @@
   },
   {
     "modelName": "Nissan Skyline GT-R R32 #22 Axia Group A",
-    "productCode": "PR640103",
+    "productCode": "S23-05",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/cd/PR640103.jpg/revision/latest?cb=20241118011612",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8f/S23-05.jpg/revision/latest?cb=20241223171617",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Nissan Skyline GT-R R32 Castrol",
+    "productCode": "S23-06",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Nissan Skyline GT-R R32 Chase",
@@ -2491,36 +3283,47 @@
   },
   {
     "modelName": "Nissan Skyline GT-R R32 Crystal White",
-    "productCode": "PR640157",
+    "productCode": "S23-03",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d2/PR640157.jpg/revision/latest?cb=20241117230459",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/dd/S23-03.jpg/revision/latest?cb=20241124213505",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Nissan Skyline GT-R R32 Gun Grey Metallic",
-    "productCode": "PR640101",
+    "productCode": "S23-01",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/00/PR640101.jpg/revision/latest?cb=20241117232550",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8d/S23-01.jpg/revision/latest?cb=20241124213457",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Nissan Skyline GT-R R32 JTC 1990 Calsonic #12",
-    "productCode": "PR640104",
+    "productCode": "S23-02",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/04/PR640104.jpg/revision/latest?cb=20241117231145",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/21/S23-02.jpg/revision/latest?cb=20241124015004",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Nissan Skyline GT-R R33 Nismo 400R Championship Blue",
+    "productCode": "PRE019",
+    "make": "Nissan",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
   },
   {
     "modelName": "Nissan Skyline GT-R R34 - Bayside Blue",
@@ -2552,14 +3355,14 @@
   },
   {
     "modelName": "Nissan Stagea Calsonic Livery",
-    "productCode": "PR640059",
+    "productCode": "S7-07",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3f/PR640059.jpg/revision/latest?cb=20241117233916",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2d/S7-07.jpg/revision/latest?cb=20241124210129",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Nissan Stagea Chrome Silver",
@@ -2585,14 +3388,25 @@
   },
   {
     "modelName": "Nissan Stagea Pennzoil",
-    "productCode": "PR640021",
+    "productCode": "S7-02",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fc/PR640021.jpg/revision/latest?cb=20241120191350",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6a/S7-02.jpg/revision/latest?cb=20241124210120",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Nissan Stagea R34",
+    "productCode": "S7-09",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2b/S7-06.jpg/revision/latest?cb=20241126203024",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Nissan Stagea Race Department",
@@ -2749,6 +3563,39 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Pandem 280ZX Violet Purple",
+    "productCode": "PRE024",
+    "make": "Nissan Pandem",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
+    "modelName": "Pandem 620",
+    "productCode": "PRE029",
+    "make": "Datsun Pandem",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
+    "modelName": "Pandem 620 Pickup - Orange Chrome",
+    "productCode": "PRT001",
+    "make": "Pandem",
+    "marques": [
+      "TS Exclusives"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "TS Exclusives"
+  },
+  {
     "modelName": "Pandem BRZ - Garasi Drift \"Brziko\"",
     "productCode": "PR640363",
     "make": "Pandem",
@@ -2761,14 +3608,14 @@
   },
   {
     "modelName": "Pandem Civic EG6",
-    "productCode": "PR640127",
+    "productCode": "PRE018",
     "make": "Honda Pandem",
     "marques": [
-      "Regular Collection"
+      "Enigma"
     ],
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/24/PR640127.jpg/revision/latest?cb=20241117231214",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Enigma"
   },
   {
     "modelName": "Pandem Civic EG6 \"Kanjozoku\"",
@@ -2780,6 +3627,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/35/PR640163.jpg/revision/latest?cb=20241230140301",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6 - Blue",
+    "productCode": "S26-09",
+    "make": "Honda Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3c/S26-09.jpg/revision/latest?cb=20260530193017",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Pandem Civic EG6 - Blue/Yellow",
@@ -2804,6 +3662,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Pandem Civic EG6 Dark Chrome",
+    "productCode": "PRDC007",
+    "make": "Pandem",
+    "marques": [
+      "Dark Chrome Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/ca/PRDC-007.jpg/revision/latest?cb=20260410220752",
+    "scale": "1/64",
+    "series": "Dark Chrome Series"
+  },
+  {
     "modelName": "Pandem Civic EG6 Gold Chrome",
     "productCode": "PR640246",
     "make": "Honda Pandem",
@@ -2813,6 +3682,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/19/PR640246.jpg/revision/latest?cb=20250408004251",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6 JACCS",
+    "productCode": "S26-02",
+    "make": "Honda Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/20/S26-02.jpg/revision/latest?cb=20241126204829",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Pandem Civic EG6 Magic Chrome",
@@ -2826,6 +3706,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Pandem Civic EG6 Metallic Blue",
+    "productCode": "S26-01",
+    "make": "Honda Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/80/S26-01.jpg/revision/latest?cb=20241124012440",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Pandem Civic EG6 Metallic Blue with Open Hood",
     "productCode": "PR640174",
     "make": "Honda Pandem",
@@ -2837,26 +3728,37 @@
     "series": "Regular Collection"
   },
   {
-    "modelName": "Pandem Civic EG6 v1.5 Blue Chrome",
-    "productCode": "PR640206",
+    "modelName": "Pandem Civic EG6 Pink",
+    "productCode": "PRE008",
     "make": "Honda Pandem",
     "marques": [
-      "Regular Collection"
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
+    "modelName": "Pandem Civic EG6 v1.5 Blue Chrome",
+    "productCode": "S26-07",
+    "make": "Honda Pandem",
+    "marques": [
+      "Xcartoys China"
     ],
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/eb/PR640206.jpg/revision/latest?cb=20241128135151",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Pandem Civic EG6 v1.5 Idemitsu Motion Infinite",
-    "productCode": "PR640155",
+    "productCode": "S26-03",
     "make": "Honda Pandem",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b8/PR640155.jpg/revision/latest?cb=20241117225002",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/16/S26-03.jpg/revision/latest?cb=20241223171626",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Pandem Civic EG6 v1.5 Idemitsu Motion Infinte",
@@ -2870,6 +3772,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Pandem Civic EG6 v1.5 Idemitsu Oil",
+    "productCode": "S26-05",
+    "make": "Honda Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Pandem Civic EG6 v1.5 JACCS",
     "productCode": "PR640128",
     "make": "Honda Pandem",
@@ -2881,6 +3794,39 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Pandem Civic EG6 v1.5 Kanjozuku",
+    "productCode": "S26-08",
+    "make": "Honda Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Pandem Civic EG6 v1.5 MOONEYES",
+    "productCode": "PRE010",
+    "make": "Honda Pandem",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
+    "modelName": "Pandem Civic EG6 v1.5 No Hood",
+    "productCode": "S26-06",
+    "make": "Honda Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Pandem Civic EG6 Yellow",
     "productCode": "PR640243",
     "make": "Honda Pandem",
@@ -2890,6 +3836,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e1/PR640243.jpg/revision/latest?cb=20250408004241",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Datsun 620",
+    "productCode": "S39-01",
+    "make": "Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Pandem Datsun 620 - ADVAN",
@@ -2947,6 +3904,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Pandem Datsun 620 Purple Chrome",
+    "productCode": "S39-02",
+    "make": "Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Pandem Datsun 620 Tokyo Auto Salon 2025",
     "productCode": "PR640219",
     "make": "Pandem Datsun",
@@ -2956,6 +3924,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a9/PR640219.jpg/revision/latest?cb=20250109135335",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Datsun 620 Yellow",
+    "productCode": "S39-03",
+    "make": "Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Pandem E30 Touring - Red",
@@ -3046,6 +4025,39 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Pandem GR 86",
+    "productCode": "S41-01",
+    "make": "Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7c/S41-01.jpg/revision/latest?cb=20260510174001",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Pandem GR 86 ADVAN",
+    "productCode": "S41-02",
+    "make": "Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/67/S41-02.jpg/revision/latest?cb=20260510173743",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Pandem GR 86 TMAR",
+    "productCode": "S41-03",
+    "make": "Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2b/S41-03.jpg/revision/latest?cb=20260510174209",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Pandem GR Supra - Goodride",
     "productCode": "PR640456",
     "make": "Pandem",
@@ -3090,6 +4102,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Pandem GR Supra D1GP Daigo Saito",
+    "productCode": "S38-01",
+    "make": "Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Pandem GR Supra Gazoo Racing",
     "productCode": "PR64-PANA90-GZ",
     "make": "Toyota Pandem",
@@ -3121,6 +4144,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1a/PR640232.jpg/revision/latest?cb=20250109135349",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris",
+    "productCode": "S1-inWeibo",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/35/S1-inWeibo.jpg/revision/latest?cb=20260423001152",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Pandem GR Yaris - Carbon Edition",
@@ -3190,25 +4224,25 @@
   },
   {
     "modelName": "Pandem GR Yaris Daigo Saito",
-    "productCode": "PR640106",
+    "productCode": "S1-10",
     "make": "Toyota Pandem",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4a/PR640106.jpg/revision/latest?cb=20241117232101",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9d/S1-10.jpg/revision/latest?cb=20241127235343",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Pandem GR Yaris Dark Chrome",
-    "productCode": "PR640055",
+    "productCode": "S1-05",
     "make": "Toyota Pandem",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/96/PR640055.jpg/revision/latest?cb=20241128152020",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/75/S1-05.jpg/revision/latest?cb=20241124224328",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Pandem GR Yaris Fensport",
@@ -3223,14 +4257,25 @@
   },
   {
     "modelName": "Pandem GR Yaris Finland",
-    "productCode": "PR640013",
+    "productCode": "S1-02",
     "make": "Toyota Pandem",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a4/PR640013.jpg/revision/latest?cb=20241120192520",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3c/S1-02.jpg/revision/latest?cb=20241124205833",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Pandem GR Yaris Goodride Motorsports",
+    "productCode": "PRE007",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
   },
   {
     "modelName": "Pandem GR Yaris Gulf",
@@ -3267,14 +4312,25 @@
   },
   {
     "modelName": "Pandem GR Yaris Melvyn Evans Motorsports",
-    "productCode": "PR640136",
+    "productCode": "S1-09",
     "make": "Toyota Pandem",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6d/PR640136.jpg/revision/latest?cb=20241117230741",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/03/S1-09.jpg/revision/latest?cb=20241127235359",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Pandem GR Yaris Metallic Blue",
+    "productCode": "PRE004",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
   },
   {
     "modelName": "Pandem GR Yaris Pandem White",
@@ -3289,14 +4345,14 @@
   },
   {
     "modelName": "Pandem GR Yaris Red",
-    "productCode": "PR640004",
+    "productCode": "S1-01",
     "make": "Toyota Pandem",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/99/PR640004.jpg/revision/latest?cb=20241120193136",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/ce/S1-01.jpg/revision/latest?cb=20241124224337",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Pandem GR Yaris Satin Gold",
@@ -3311,14 +4367,14 @@
   },
   {
     "modelName": "Pandem GR Yaris SGTV Taiwan Special Edition Satin Gold",
-    "productCode": "PR640112",
+    "productCode": "S1-06",
     "make": "Toyota Pandem",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a2/PR640112.jpg/revision/latest?cb=20241117232558",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9f/S1-06.jpg/revision/latest?cb=20241124224224",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Pandem GR86 - CUSCO",
@@ -3365,6 +4421,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Pandem GR86 Crystal White Pearl",
+    "productCode": "PRE014",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
     "modelName": "Pandem GR86 Silver",
     "productCode": "PR640235",
     "make": "Pandem Toyota",
@@ -3387,6 +4454,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Pandem Hakosuka Purple",
+    "productCode": "PRE025",
+    "make": "Nissan Pandem",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
     "modelName": "Pandem Honda Civic EG6 - Dark Chrome",
     "productCode": "PR640208",
     "make": "Pandem",
@@ -3396,6 +4474,28 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/87/PR640208.jpg/revision/latest?cb=20260411235015",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Laurel C130 Purple",
+    "productCode": "PRE026",
+    "make": "Nissan Pandem",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
+    "modelName": "Pandem Lotus Elise & Pandem Fuso 300 Flatbed Transporter",
+    "productCode": "S-SET3",
+    "make": "Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/ab/S-SET3.jpg/revision/latest?cb=20260419005515",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Pandem Lotus Elise - Purple",
@@ -3409,6 +4509,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Pandem R32 \"Echo Gao\"",
+    "productCode": "1087X-02",
+    "make": "Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/45/1087X-02.jpg/revision/latest?cb=20260419005504",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Pandem R32 - Gun Metal",
     "productCode": "PR640508",
     "make": "Nissan Pandem",
@@ -3418,6 +4529,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b2/PR640508.jpg/revision/latest?cb=20260511030542",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem S13",
+    "productCode": "S43-04",
+    "make": "Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/58/S43-04.jpg/revision/latest?cb=20260510175149",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Pandem S13 - EVA RT Test Type-01",
@@ -3451,6 +4573,39 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d8/PR640455.jpg/revision/latest?cb=20260410220706",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem S13 Black",
+    "productCode": "S43-03",
+    "make": "Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/ef/S43-03.jpg/revision/latest?cb=20260510175231",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Pandem S13 Brown Chrome",
+    "productCode": "PRE023",
+    "make": "Nissan Pandem",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
+    "modelName": "Pandem S13 Dark Chrome",
+    "productCode": "PRDC010",
+    "make": "Pandem",
+    "marques": [
+      "Dark Chrome Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/af/PRDC-010.jpg/revision/latest?cb=20260415095550",
+    "scale": "1/64",
+    "series": "Dark Chrome Series"
   },
   {
     "modelName": "Pandem S2000 - Metallic Blue",
@@ -3541,6 +4696,28 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Pandem Toyota GR Yaris - Auto Finesse",
+    "productCode": "PRE012",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
+    "modelName": "Pandem Yaris Mooneyes",
+    "productCode": "PRE017",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
     "modelName": "Porsche 997 LB Works Gulf Oil",
     "productCode": "PR64-P997-LWGU",
     "make": "Porsche",
@@ -3550,6 +4727,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/51/PR64-P997-LWGU.jpg/revision/latest?cb=20241129162711",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB 930 & Pandem Fuso 300 Flatbed Transporter",
+    "productCode": "S-SET4",
+    "make": "RWB Pandem",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e1/S-SET4.jpg/revision/latest?cb=20260419005942",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "RWB 930 - Apple",
@@ -3585,6 +4773,61 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "RWB 930 - Purple Chrome",
+    "productCode": "PRB003",
+    "make": "RWB",
+    "marques": [
+      "Event Exclusives"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fe/PRB003.jpg/revision/latest?cb=20260410213615",
+    "scale": "1/64",
+    "series": "Event Exclusives"
+  },
+  {
+    "modelName": "RWB 930 - Teal Chrome",
+    "productCode": "PRT004",
+    "make": "RWB",
+    "marques": [
+      "TS Exclusives"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "TS Exclusives"
+  },
+  {
+    "modelName": "RWB 930 -Chrome",
+    "productCode": "PRB001",
+    "make": "RWB",
+    "marques": [
+      "Event Exclusives"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e7/PRB001.jpg/revision/latest?cb=20260410213603",
+    "scale": "1/64",
+    "series": "Event Exclusives"
+  },
+  {
+    "modelName": "RWB 930 Green",
+    "productCode": "S61-HEC2026",
+    "make": "RWB",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/ef/S61-HEC2026.jpg/revision/latest?cb=20260427170448",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "RWB 997",
+    "productCode": "S8-02",
+    "make": "RWB",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6a/S8-02.jpg/revision/latest?cb=20241124222649",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "RWB 997 \"PHILA\"",
     "productCode": "PR64-RWBP-97RD",
     "make": "RWB",
@@ -3594,6 +4837,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/45/PR64-RWBP-97RD.jpg/revision/latest?cb=20241129162845",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB 997 - Purple",
+    "productCode": "PRE015",
+    "make": "RWB",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
   },
   {
     "modelName": "RWB 997 AVA",
@@ -3607,26 +4861,48 @@
     "series": "Regular Collection"
   },
   {
-    "modelName": "RWB 997 Dark Green",
-    "productCode": "PR640063",
+    "modelName": "RWB 997 Dark Chrome",
+    "productCode": "PRDC011",
     "make": "RWB",
     "marques": [
-      "Regular Collection"
+      "Dark Chrome Series"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/45/PR640063.jpg/revision/latest?cb=20241118011506",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8b/PRDC-011.jpg/revision/latest?cb=20260415095600",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Dark Chrome Series"
+  },
+  {
+    "modelName": "RWB 997 Dark Green",
+    "productCode": "S8-04",
+    "make": "RWB",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/71/S8-04.jpg/revision/latest?cb=20241124222656",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "RWB 997 Pink",
-    "productCode": "PR640202",
+    "productCode": "S8-07",
     "make": "RWB",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/82/PR640202.jpg/revision/latest?cb=20241117225343",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/26/S8-07.jpg/revision/latest?cb=20260526152953",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "RWB 997 Purple",
+    "productCode": "S8-08",
+    "make": "RWB",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b1/S8-08.jpg/revision/latest?cb=20260526152532",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "RWB 997 Rothmans",
@@ -3641,36 +4917,47 @@
   },
   {
     "modelName": "RWB 997 Silver",
-    "productCode": "PR640130",
+    "productCode": "S8-05",
     "make": "RWB",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/44/PR640130.jpg/revision/latest?cb=20241118012717",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c8/S8-05.jpg/revision/latest?cb=20241126204804",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "RWB 997 Tiffany Blue",
-    "productCode": "PR640237",
+    "productCode": "S8-06",
     "make": "RWB",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a4/PR640237.jpg/revision/latest?cb=20241230140347",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e5/S8-06.jpg/revision/latest?cb=20260526153113",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "RWB 997 Yellow",
-    "productCode": "PR640014",
+    "productCode": "S8-03",
     "make": "RWB",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/52/PR640014.jpg/revision/latest?cb=20241118015508",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f6/S8-03.jpg/revision/latest?cb=20241124210140",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "RWB AE86",
+    "productCode": "PRE030",
+    "make": "RWB",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
   },
   {
     "modelName": "RWB AE86 - Gold",
@@ -3695,6 +4982,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Shelby Mustang GT500 - Blue with White Stripes",
+    "productCode": "PRT002",
+    "make": "Shelby",
+    "marques": [
+      "TS Exclusives"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "TS Exclusives"
+  },
+  {
     "modelName": "Shelby Mustang GT500 - Red",
     "productCode": "PR640182",
     "make": "Shelby",
@@ -3706,26 +5004,37 @@
     "series": "Regular Collection"
   },
   {
-    "modelName": "Shelby Mustang GT500 Dark Chrome",
-    "productCode": "PR640218",
+    "modelName": "Shelby Mustang GT500 Black",
+    "productCode": "S36-02",
     "make": "Shelby",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2b/PR640218.jpg/revision/latest?cb=20241121111907",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/74/S36-02.jpg/revision/latest?cb=20260522023533",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Shelby Mustang GT500 Dark Chrome",
+    "productCode": "PRDC004",
+    "make": "Shelby",
+    "marques": [
+      "Dark Chrome Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f8/PRDC-004.jpg/revision/latest?cb=20260410221942",
+    "scale": "1/64",
+    "series": "Dark Chrome Series"
   },
   {
     "modelName": "Shelby Mustang GT500 Grey/Black",
-    "productCode": "PR640195",
+    "productCode": "S36-01",
     "make": "Shelby",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4a/PR640195.jpg/revision/latest?cb=20241118012235",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/83/S36-01.jpg/revision/latest?cb=20241223171907",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Shelby Mustang GT500 Gun Chrome",
@@ -3737,6 +5046,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6c/PR640423.jpg/revision/latest?cb=20260430233620",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Shelby Mustang GT500 Silver",
+    "productCode": "S36-03",
+    "make": "Shelby",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/13/S36-03.jpg/revision/latest?cb=20260519110159",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Shelby Mustang GT500 Silver Chrome",
@@ -3751,25 +5071,25 @@
   },
   {
     "modelName": "Shell Honda Civic Type-R (FL5)",
-    "productCode": "PR640037",
+    "productCode": "S2-07",
     "make": "Honda",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1d/PR640037.jpg/revision/latest?cb=20241118000642",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/69/S2-07.jpg/revision/latest?cb=20241124205916",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Shell Pandem GR Yaris",
-    "productCode": "PR640039",
+    "productCode": "S1-04",
     "make": "Toyota Pandem",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4c/PR640039.jpg/revision/latest?cb=20241117233900",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f6/S1-04.jpg/revision/latest?cb=20241124205850",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Shell Valino Stagea R34 Pluto MOK Driftagea 34",
@@ -3794,6 +5114,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Shell Volkswagen GTI MkII",
+    "productCode": "S3-03",
+    "make": "Volkswagen",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/0c/S3-03.jpg/revision/latest?cb=20241126173845",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Singer - SCCS Homage",
     "productCode": "PR640201",
     "make": "Singer",
@@ -3814,6 +5145,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fc/PR640395.jpg/revision/latest?cb=20260410215425",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer 1969",
+    "productCode": "PRE032",
+    "make": "Singer",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
   },
   {
     "modelName": "Singer 911 (964) Gold",
@@ -3838,26 +5180,59 @@
     "series": "Regular Collection"
   },
   {
-    "modelName": "Singer 964 Wakeboard Blue",
-    "productCode": "PR640018",
+    "modelName": "Singer 964 MAP - Mulholland Drive",
+    "productCode": "S12-01",
     "make": "Singer",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b9/PR640018.jpg/revision/latest?cb=20241120192655",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/ac/S12-01.jpg/revision/latest?cb=20241126204812",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Singer 964 Wakeboard Blue",
+    "productCode": "S10-01",
+    "make": "Singer",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/92/S10-01.jpg/revision/latest?cb=20241124203149",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Singer 964 Wakeboard Teal",
+    "productCode": "S10-03",
+    "make": "Singer",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fc/S10-03.jpg/revision/latest?cb=20241230165933",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Singer 964 Wakeboard White",
+    "productCode": "S10-02",
+    "make": "Singer",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c7/S10-02.jpg/revision/latest?cb=20241230165842",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Singer Christmas Edition",
-    "productCode": "PR64-SGR-CHR",
+    "productCode": "S10-04",
     "make": "Singer",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/66/PR64-SGR-CHR.jpg/revision/latest?cb=20241120195353",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1c/S10-04.jpg/revision/latest?cb=20241124182203",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Singer Christmas Edition 2023",
@@ -3872,25 +5247,36 @@
   },
   {
     "modelName": "Singer DLS Turbo (Road) Gold",
-    "productCode": "PR640132",
+    "productCode": "S33-01",
     "make": "Singer",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e0/PR640132.jpg/revision/latest?cb=20241117230437",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2d/S33-01.jpg/revision/latest?cb=20241126204837",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Singer DLS Turbo (Road) White",
+    "productCode": "S33-02",
+    "make": "Singer",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Singer DLS Turbo (Track) Orange",
-    "productCode": "PR640131",
+    "productCode": "S29-01",
     "make": "Singer",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/36/PR640131.jpg/revision/latest?cb=20241117230232",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Singer DLS Turbo (Track) White",
@@ -3993,14 +5379,25 @@
   },
   {
     "modelName": "Singer Monaco (Midnight Blue)",
-    "productCode": "PR640100",
+    "productCode": "S10-05",
     "make": "Singer",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8b/PR640100.jpg/revision/latest?cb=20241117233954",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/02/S10-05.jpg/revision/latest?cb=20241124172617",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Singer Monaco Silver",
+    "productCode": "S10-06",
+    "make": "Singer",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Singer Mulholland Drive",
@@ -4048,14 +5445,14 @@
   },
   {
     "modelName": "Singer Targa",
-    "productCode": "PR640044",
+    "productCode": "S6-03",
     "make": "Singer",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/ae/PR640044.jpg/revision/latest?cb=20241118014934",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b6/S6-03.jpg/revision/latest?cb=20241124210059",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Singer Targa - Bronze Chrome",
@@ -4081,14 +5478,25 @@
   },
   {
     "modelName": "Singer Targa Christmas Edition",
-    "productCode": "PR640083",
+    "productCode": "S6-02",
     "make": "Singer",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fb/PR640083.jpg/revision/latest?cb=20241118000729",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b2/S6-02.jpg/revision/latest?cb=20241124182213",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Singer Targa Dark Chrome",
+    "productCode": "PRDC001",
+    "make": "Singer",
+    "marques": [
+      "Dark Chrome Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b8/PRDC-001.jpg/revision/latest?cb=20260410221911",
+    "scale": "1/64",
+    "series": "Dark Chrome Series"
   },
   {
     "modelName": "Singer Targa Dark Grey Metallic",
@@ -4103,14 +5511,14 @@
   },
   {
     "modelName": "Singer Targa Gulf",
-    "productCode": "PR640078",
+    "productCode": "S6-04",
     "make": "Singer",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c3/PR640078.jpg/revision/latest?cb=20241118000722",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e3/S6-04.jpg/revision/latest?cb=20241124195946",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Singer Targa Orange",
@@ -4136,14 +5544,14 @@
   },
   {
     "modelName": "Singer Targa Tiffany Blue",
-    "productCode": "PR640006",
+    "productCode": "S6-01",
     "make": "Singer",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/84/PR640006.jpg/revision/latest?cb=20241120193159",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8c/S6-01.jpg/revision/latest?cb=20241124200647",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Singer Tiffany",
@@ -4180,69 +5588,69 @@
   },
   {
     "modelName": "Skyline C210 Kaido Racer Bosozoku Style",
-    "productCode": "PR640026",
+    "productCode": "S9-02",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/cd/PR640026.jpg/revision/latest?cb=20241120191423",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/10/S9-02.jpg/revision/latest?cb=20241230165355",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Skyline C210 Kaido Racer Bosozoku Style Coca Cola JP",
-    "productCode": "PR640135",
+    "productCode": "S9-07",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b1/PR640135.jpg/revision/latest?cb=20241117230444",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1b/S9-07.jpg/revision/latest?cb=20241210182955",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Skyline C210 Kaido Racer Bosozoku Style Green / Silver",
-    "productCode": "PR640061",
+    "productCode": "S9-05",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3e/PR640061.jpg/revision/latest?cb=20241117232500",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e4/S9-05.jpg/revision/latest?cb=20241124201927",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Skyline C210 Kaido Racer Bosozoku Style Matte Black",
-    "productCode": "PR640073",
+    "productCode": "S9-04",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/91/PR640073.jpg/revision/latest?cb=20241118000714",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f1/S9-04.jpg/revision/latest?cb=20241124201918",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Skyline C210 Kaido Racer Bosozoku Style Purple Chrome / Silver",
-    "productCode": "PR640107",
+    "productCode": "S9-06",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f6/PR640107.jpg/revision/latest?cb=20241117230215",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4a/S9-06.jpg/revision/latest?cb=20241124201934",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Skyline C210 Kaido Racer Bosozuko Style - BAPE 30th Anniversary Edition",
-    "productCode": "PR640009",
+    "productCode": "S9-03",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c9/PR640009.jpg/revision/latest?cb=20241118015458",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8c/S9-03.jpg/revision/latest?cb=20241124201910",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Skyline GT-R (BNR32) - Magic Color",
@@ -4311,6 +5719,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Skyline GT-R R32 Dark Chrome",
+    "productCode": "PRDC002",
+    "make": "Nissan",
+    "marques": [
+      "Dark Chrome Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d2/PRDC-002.jpg/revision/latest?cb=20260410221922",
+    "scale": "1/64",
+    "series": "Dark Chrome Series"
+  },
+  {
     "modelName": "Skyline GT-R R32 Ghost Chameleon",
     "productCode": "PR640357",
     "make": "Nissan",
@@ -4320,6 +5739,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5f/PR640357.jpg/revision/latest?cb=20260411173549",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R R33",
+    "productCode": "S42-01",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/14/S42-01.jpg/revision/latest?cb=20260510174334",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Skyline GT-R R33 - Ghost Chameleon",
@@ -4344,6 +5774,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Skyline GT-R R33 Dark Chrome",
+    "productCode": "PRDC003",
+    "make": "Nissan",
+    "marques": [
+      "Dark Chrome Series"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/cf/PRDC-003.jpg/revision/latest?cb=20260410221933",
+    "scale": "1/64",
+    "series": "Dark Chrome Series"
+  },
+  {
     "modelName": "Skyline GT-R R33 Midnight Purple",
     "productCode": "PR640256",
     "make": "Nissan",
@@ -4356,14 +5797,14 @@
   },
   {
     "modelName": "Skyline GT-R V8 Drift (Hakosuka)",
-    "productCode": "PR640351",
+    "productCode": "S19-APAxpo2025",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3a/PR640351352.jpg/revision/latest?cb=20260411173852",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/67/S19-APAxpo2025.jpg/revision/latest?cb=20260417211232",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Skyline GT-R V8 Drift (Hakosuka) - Toronto Dinner Edition",
@@ -4375,6 +5816,17 @@
     "imageURL": null,
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) ADVAN",
+    "productCode": "S19-05",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/ba/S19-05.jpg/revision/latest?cb=20241124020131",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Skyline GT-R V8 Drift (Hakosuka) Advan Livery",
@@ -4399,6 +5851,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) Chrome",
+    "productCode": "PRE005",
+    "make": "Nissan",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
     "modelName": "Skyline GT-R V8 Drift (Hakosuka) Coca Cola Chrome Black",
     "productCode": "PR640144",
     "make": "Nissan",
@@ -4408,6 +5871,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/38/PR640144.jpg/revision/latest?cb=20241117225607",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) Coca-Cola (JP)",
+    "productCode": "S19-08",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/74/S19-08.jpg/revision/latest?cb=20241223164224",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Skyline GT-R V8 Drift (Hakosuka) Coca-Cola Chrome Black (JP)",
@@ -4422,14 +5896,14 @@
   },
   {
     "modelName": "Skyline GT-R V8 Drift (Hakosuka) Dark Chrome",
-    "productCode": "PR640118",
+    "productCode": "S19-02",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/40/PR640118.jpg/revision/latest?cb=20241117234003",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/00/S19-02.jpg/revision/latest?cb=20241124015740",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Skyline GT-R V8 Drift (Hakosuka) FFR",
@@ -4476,6 +5950,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) VDX 2024",
+    "productCode": "S19-in88 (2nd Issue)",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/46/S19-in88.jpg/revision/latest?cb=20241124010818",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
     "modelName": "Skyline GT-R V8 Drift (Hakosuka) Watanabe",
     "productCode": "PR640075",
     "make": "Nissan",
@@ -4488,14 +5973,36 @@
   },
   {
     "modelName": "Skyline GT-R V8 Drift (Hakosuka) White",
-    "productCode": "PR640113",
+    "productCode": "S19-04",
     "make": "Nissan",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7a/PR640113.jpg/revision/latest?cb=20241117232608",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/24/S19-04.jpg/revision/latest?cb=20241124015748",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) ZERO SUGAR",
+    "productCode": "S19-07",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d4/S19-07.jpg/revision/latest?cb=20260417211223",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Kenmeri) Advan",
+    "productCode": "S34-02",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a7/S34-02.jpg/revision/latest?cb=20241223164234",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Skyline GT-R V8 Drift (Kenmeri) NPA Style",
@@ -4507,6 +6014,50 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fa/PR640252.jpg/revision/latest?cb=20250321113539",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Kenmeri) Orange",
+    "productCode": "S34-01",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Kenmeri) Police Livery",
+    "productCode": "S34-04",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Kenmeri) Purple Chrome",
+    "productCode": "S34-03",
+    "make": "Nissan",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6c/S34-03.jpg/revision/latest?cb=20250113134938",
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Kenmeri) Raw Metal",
+    "productCode": "PRE006",
+    "make": "Nissan",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
   },
   {
     "modelName": "Skyline KPGC110 Kenmeri Red/Black",
@@ -4587,31 +6138,42 @@
   },
   {
     "modelName": "Subaru BRZ Sapphire Blue",
-    "productCode": "PR640020",
+    "productCode": "S11-01",
     "make": "Subaru",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/34/PR640020.jpg/revision/latest?cb=20241120191342",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/39/S11-01.jpg/revision/latest?cb=20241124154218",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Subaru BRZ Tokyo Subaru Racing",
-    "productCode": "PR640088",
+    "productCode": "S11-02",
     "make": "Subaru",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f0/PR640088.jpg/revision/latest?cb=20241117232516",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6d/S11-02.jpg/revision/latest?cb=20241124210151",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Subaru Impreza WRX STI - World Rally Blue",
     "imageURL": null,
     "scale": "1/64",
     "series": ""
+  },
+  {
+    "modelName": "Supra Darwin Pro 66G NWB Orange",
+    "productCode": "S17-01",
+    "make": "Toyota DarwinPRO",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/ed/S17-01.jpg/revision/latest?cb=20241124142129",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "TA22 Celica - Red",
@@ -4625,6 +6187,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Top Secret A80 Supra GT300 - Orange Chrome",
+    "productCode": "PRT003",
+    "make": "Top Secret",
+    "marques": [
+      "TS Exclusives"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "TS Exclusives"
+  },
+  {
     "modelName": "Top Secret GT-R R33 Gold",
     "productCode": "PR640150",
     "make": "Top Secret",
@@ -4634,6 +6207,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/75/PR640150.jpg/revision/latest?cb=20241118012210",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Top Secret GT300 Supra",
+    "productCode": "S40-03",
+    "make": "Top Secret",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/77/S40-01.jpg/revision/latest?cb=20250329192508",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Top Secret GT300 Supra - Black",
@@ -4733,6 +6317,28 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/bc/PR640229.jpg/revision/latest?cb=20250106150302",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Top Secret GT300 Supra Silver Chrome",
+    "productCode": "S40-05",
+    "make": "Top Secret",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Top Secret R33 GT-R Gold",
+    "productCode": "S35-01",
+    "make": "Top Secret",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c6/S35-01.jpg/revision/latest?cb=20241126205518",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Toyota AE86 - #23 \"CHOWINI'S\" Macau Guia Race 1984",
@@ -4845,15 +6451,26 @@
     "series": "Regular Collection"
   },
   {
-    "modelName": "Toyota GR 86 Neptune Blue",
-    "productCode": "PR640012",
+    "modelName": "Toyota GR 86",
+    "productCode": "S5-03",
     "make": "Toyota",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/68/PR640012.jpg/revision/latest?cb=20241120192513",
+    "imageURL": null,
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Toyota GR 86 Neptune Blue",
+    "productCode": "S5-02",
+    "make": "Toyota",
+    "marques": [
+      "Xcartoys China"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a0/S5-02.jpg/revision/latest?cb=20241124210017",
+    "scale": "1/64",
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Toyota GR Vios Blue",
@@ -4890,14 +6507,14 @@
   },
   {
     "modelName": "Toyota GR Vios White",
-    "productCode": "PR640094",
+    "productCode": "S22-01",
     "make": "Toyota",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/98/PR640094.jpg/revision/latest?cb=20241117232535",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/59/S22-01.jpg/revision/latest?cb=20241124210348",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Toyota GR Yaris EVA RT Test Type-01 Goodride ACGHK 2024",
@@ -4962,25 +6579,47 @@
   },
   {
     "modelName": "Toyota GR86 Advan",
-    "productCode": "PR640024",
+    "productCode": "S5-04",
     "make": "Toyota",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/21/PR640024.jpg/revision/latest?cb=20241120191406",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/03/S5-04.jpg/revision/latest?cb=20241124210026",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
   },
   {
     "modelName": "Toyota GR86 TMC Wako's Macau GP 2023",
-    "productCode": "PR640079",
+    "productCode": "S5-06",
     "make": "Toyota",
     "marques": [
-      "Regular Collection"
+      "Xcartoys China"
     ],
-    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d8/PR640079.jpg/revision/latest?cb=20241117233947",
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/33/S5-06.jpg/revision/latest?cb=20241124210047",
     "scale": "1/64",
-    "series": "Regular Collection"
+    "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Toyota Supra Darwin PRO 66G NWB SUPRA (A90) Midnight Black",
+    "productCode": "PRE013",
+    "make": "Toyota DarwinPRO",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
+    "modelName": "Toyota Supra GT300",
+    "productCode": "PRE028",
+    "make": "Toyota Top Secret",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
   },
   {
     "modelName": "Toyota Supra MK4 - Super White",
