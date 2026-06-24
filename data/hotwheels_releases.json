@@ -70,12 +70,32 @@
     "isReleased": true
   },
   {
+    "modelName": "'71 AMC Javelin AMX",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727",
+    "toyNumber": "JJY58",
+    "colNumber": "",
+    "series": "2026 RLC Exclusive",
+    "category": "RLC",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "'71 Lamborghini Miura SV",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "",
     "colNumber": "",
     "series": "Cool Classics",
     "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "'94 Honda NSX",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727",
+    "toyNumber": "JJY73",
+    "colNumber": "",
+    "series": "2026 RLC Exclusive",
+    "category": "RLC",
     "year": 2026,
     "isReleased": true
   },
@@ -90,6 +110,46 @@
     "isReleased": true
   },
   {
+    "modelName": "'98 Subaru Impreza WRX STi",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727",
+    "toyNumber": "JJY62",
+    "colNumber": "",
+    "series": "2026 RLC Exclusive",
+    "category": "RLC",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "1948 Chevrolet Fleetline",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJY66",
+    "colNumber": "",
+    "series": "2026 RLC ExclusiveNumbered Chase",
+    "category": "RLC",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "1962 Ford F100",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJY60",
+    "colNumber": "",
+    "series": "2026 RLC Exclusive",
+    "category": "RLC",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "1965 Shelby Cobra 427 S/C",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/1965ShelbyCobra.jpg/revision/latest?cb=20260418030223",
+    "toyNumber": "JJY67",
+    "colNumber": "",
+    "series": "2026 Red Line Club Membership",
+    "category": "RLC",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "1970 Custom Plymouth Roadrunner",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "",
@@ -100,12 +160,42 @@
     "isReleased": true
   },
   {
+    "modelName": "1972 Chevy Nova SS",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727",
+    "toyNumber": "JLX17",
+    "colNumber": "",
+    "series": "2026 RLC sELECTIONs Series",
+    "category": "RLC",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "1972 Skyline H/T 2000GT-R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727",
+    "toyNumber": "JKC01",
+    "colNumber": "",
+    "series": "2026 RLC Exclusive",
+    "category": "RLC",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "1989 Batmobile Cocoon",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJH72",
     "colNumber": "",
     "series": "TBDNew for 2026!",
     "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "1991 BMW M3",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727",
+    "toyNumber": "JJY68",
+    "colNumber": "",
+    "series": "2026 RLC Exclusive",
+    "category": "RLC",
     "year": 2026,
     "isReleased": true
   },
@@ -166,6 +256,16 @@
     "colNumber": "",
     "series": "TBDTreasure Hunt",
     "category": "Treasure Hunt",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Porsche 911 Turbo 3.3 Targa",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727",
+    "toyNumber": "JJY65",
+    "colNumber": "",
+    "series": "2026 RLC ExclusiveNumbered Chase",
+    "category": "RLC",
     "year": 2026,
     "isReleased": true
   },
@@ -3997,6 +4097,296 @@
     "series": "HW TorqueNew for 2026!",
     "category": "Mainline",
     "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "'21 Pagani Huayra R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JCP22",
+    "colNumber": "",
+    "series": "2026 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "'55 Chevy Bel Air Gasser",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JCP37",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "'71 Datsun 510",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJY57",
+    "colNumber": "",
+    "series": "2026 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1959 Chevrolet Brookwood",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/69/ChevyBrookwood.jpg/revision/latest?cb=20250830130631",
+    "toyNumber": "JCP19",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1964 Jaguar E-Type",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/RLC_1964_Jaguar_E-Type_Oxblood.jpg/revision/latest?cb=20250816224956",
+    "toyNumber": "JCP68",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1968 Custom Plymouth Barracuda",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/55/2025_sElection_Cuda_%281%29.jpg/revision/latest?cb=20260123231544",
+    "toyNumber": "JCP17",
+    "colNumber": "",
+    "series": "2025 RLC sELECTIONs Series",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1969 Dodge Charger R/T",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JCP32",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1972 Chevy Nova SS",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/ProStreetNova.jpg/revision/latest?cb=20251213085841",
+    "toyNumber": "JCP21",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1976 Volkswagen Golf MK1 GTI",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/4/44/VWGolf.jpg/revision/latest?cb=20251018122156",
+    "toyNumber": "JCP07",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1981 Toyota SR5 4WD",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/ToyotaSR5.jpg/revision/latest?cb=20251122083155",
+    "toyNumber": "JCP20",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1982 Lamborghini Countach LP 500 S",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/JCP25_HOLIDAY_o5.jpg/revision/latest?cb=20251121031727",
+    "toyNumber": "JCP25",
+    "colNumber": "",
+    "series": "2025 RLC ExclusiveHoliday Car",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1990 Chevy 454 SS",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/2025RLC454ss.jpg/revision/latest?cb=20260104064504",
+    "toyNumber": "JCP12",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1992 GMC Typhoon",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/JCP13_Typhoon_o4U.jpg/revision/latest?cb=20251013041628",
+    "toyNumber": "JCP13",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1993 Ford Mustang Cobra R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JCP24",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1993 Mazda RX-7 R1",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JCP16",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1995 BMW M3 LTW",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/98/BMWLTW.jpg/revision/latest?cb=20251018122301",
+    "toyNumber": "JCP08",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1995 Honda Integra Type R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/20250425000803.jpg/revision/latest?cb=20250425050942",
+    "toyNumber": "JCP06",
+    "colNumber": "",
+    "series": "2025 Red Line Club Membership",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1997 Toyota Supra",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JCP18",
+    "colNumber": "",
+    "series": "2025 RLC sELECTIONs Series",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1997 Toyota Supra",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JCP14",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "1998 Subaru Impreza 22B STi-Version",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/59/1998Subaru22B.jpg/revision/latest?cb=20250801100207",
+    "toyNumber": "JCP09",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "2000 Ford Mustang SVT Cobra R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/06/FordSVTCobraR.jpg/revision/latest?cb=20260103095502",
+    "toyNumber": "JCP10",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom '72 Datsun 240Z",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/2025_Hot_Wheels_RLC_%E2%80%9972_Datsun_240Z.jpg/revision/latest?cb=20250824151300",
+    "toyNumber": "JCP26",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "Dodge Tradesman",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/RLC_Exclusive_%E2%80%9870s_Dodge_Tradesman_Van.jpg/revision/latest?cb=20251005002548",
+    "toyNumber": "JCP23",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "Ford GT40 Mk II",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/51/FordGT40MkII.jpg/revision/latest?cb=20251122083303",
+    "toyNumber": "JCP28",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "Koenigsegg Jesko Absolut",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/JeskoAbsolut.jpg/revision/latest?cb=20251227085423",
+    "toyNumber": "JCP27",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "Mattel 80th Anniversary Hot Wheels Original 16 Rally Case Set",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/Mattel_80th_Anniversary_Original_16_Rally_Case_Set_2025_China_JCP66_Rally_Case_Open.jpg/revision/latest?cb=20251116112443",
+    "toyNumber": "JCP66",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "Mercedes-Benz 600",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/10/MercedesGro%C3%9Fer.jpg/revision/latest?cb=20250705074412",
+    "toyNumber": "HWF12",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "Porsche 959",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JCP15",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "RWB Porsche 930",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/2025-RLC_JLJ20_rwb930_o2OG.jpg/revision/latest?cb=20251015101248",
+    "toyNumber": "JLJ20",
+    "colNumber": "",
+    "series": "2025 RLC Exclusive",
+    "category": "RLC",
+    "year": 2025,
     "isReleased": true
   },
   {
@@ -8397,6 +8787,286 @@
     "series": "Muscle ManiaNew for 2025!Dollar General Exclusive",
     "category": "Premium",
     "year": 2025,
+    "isReleased": true
+  },
+  {
+    "modelName": "'21 Pagani Huayra R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/10/PaganiHuayraR.jpg/revision/latest?cb=20240615091147",
+    "toyNumber": "HMY25",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "'21 Pagani Huayra R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/RLC_Huayra_Blue.jpg/revision/latest?cb=20241227005433",
+    "toyNumber": "HWF21",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "'61 Lincoln Continental",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/1961LincolnContinental.jpg/revision/latest?cb=20250113141046",
+    "toyNumber": "HMY24",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "'71 Lamborghini Miura P400 SV",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/%2771Miura.jpg/revision/latest?cb=20250322092200",
+    "toyNumber": "HWF11",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1964 Chevrolet Impala",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/19/RLC_2024_1964_Chevrolet_Impala_Bright_Red_China_HWF20_Loose_Lowered.jpg/revision/latest?cb=20241011165225",
+    "toyNumber": "HWF20",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1964 Dodge Power Wagon",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/02/1964DodgePowerWagon.jpg/revision/latest?cb=20250113140735",
+    "toyNumber": "HWF09",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1968 Custom Plymouth Barracuda",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/d/de/1968_Custom_Plymouth_Barracuda_HWF13.jpeg/revision/latest?cb=20240514172457",
+    "toyNumber": "HWF13",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1969 Chevrolet Camaro SS",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/Pillz.jpg/revision/latest?cb=20241012062216",
+    "toyNumber": "HWF32",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1969 Chevy C-10",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/04/RLC_2024_1969_Chevy_C-10_Navy_Blue_China_HWF22_Street_Mode.jpg/revision/latest?cb=20241107205704",
+    "toyNumber": "HWF22",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1970 Mustang Boss 302",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/64/RLC_302_2024.jpg/revision/latest?cb=20250521045440",
+    "toyNumber": "HWF17",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1975 Chevrolet Monte Carlo",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/31/RLC_1975_Chevrolet_Monte_Carlo_Teal_China_HWF19_Loose_Low.jpg/revision/latest?cb=20241011164338",
+    "toyNumber": "HWF19",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1985 Audi Sport quattro S1",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/34/AudiSportquattroS1.jpg/revision/latest?cb=20250322092240",
+    "toyNumber": "HWF08",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1986 Nissan 720 King Cab",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/1986NissanKingCab.jpg/revision/latest?cb=20240821121528",
+    "toyNumber": "HMY26",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1992 GMC Typhoon",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/4/40/GMCTyphoon.jpg/revision/latest?cb=20240922154244",
+    "toyNumber": "HWF06",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1993 Ford Mustang Cobra R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/1993_Ford_mustang_Cobra_R_HWF29.jpeg/revision/latest?cb=20240514172214",
+    "toyNumber": "HWF29",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1993 Mazda RX-7 R1",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/7/73/1993MazdaRX-7R1.jpg/revision/latest?cb=20240916101137",
+    "toyNumber": "HWF04",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1995 Honda Integra Type R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/08/RLC_Integra_24.jpg/revision/latest?cb=20250525230535",
+    "toyNumber": "HWF15",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "1997 Toyota Supra",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/1997ToyotaSupra.jpg/revision/latest?cb=20241214055916",
+    "toyNumber": "HWF07",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "2006 BMW M3",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/51/RLC24_M3_4.jpg/revision/latest?cb=20250304050604",
+    "toyNumber": "JCP11",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "2022 Ford Mustang Shelby GT500 Code Red",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/ShelbyCodeRed.jpg/revision/latest?cb=20250201090957",
+    "toyNumber": "HWF05",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "Datsun Bluebird 510",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/HWF23_BRE_510_o-2.jpg/revision/latest?cb=20240913034431",
+    "toyNumber": "HWF23",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "Kawa-Bug-A",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/2024-RLC_Excl_2024_Club_Car_HWF03_Kawa-Bug-A_o-4.jpg/revision/latest?cb=20240405102417",
+    "toyNumber": "HWF03",
+    "colNumber": "",
+    "series": "2024 Red Line Club Membership",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "McLaren F1",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/17/1993McLarenF1.jpg/revision/latest?cb=20240515105238",
+    "toyNumber": "HGK75",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "Mercedes-AMG G 63 4×42",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/d/de/Mercedes-AMGG63.jpg/revision/latest?cb=20240518123646",
+    "toyNumber": "HMY21",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (BNR34)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/Selection_GTR_2024.jpg/revision/latest?cb=20260428102319",
+    "toyNumber": "HWF25",
+    "colNumber": "",
+    "series": "2024 RLC sELECTIONs Series",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (R34)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/2/27/Chameleon_R34.jpg/revision/latest?cb=20250526190116",
+    "toyNumber": "HWF14",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "Porsche 959",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "HWF18",
+    "colNumber": "",
+    "series": "2024 RLC Exclusive",
+    "category": "RLC",
+    "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "Volkswagen Drag Bus",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/8/84/2024_RLC_Drag_Bus.jpg/revision/latest?cb=20250423220958",
+    "toyNumber": "HWF24",
+    "colNumber": "",
+    "series": "2024 RLC sELECTIONs Series",
+    "category": "RLC",
+    "year": 2024,
     "isReleased": true
   },
   {
@@ -12807,6 +13477,236 @@
     "series": "Then and NowNew for 2024!",
     "category": "Mainline",
     "year": 2024,
+    "isReleased": true
+  },
+  {
+    "modelName": "'55 Mercedes-Benz 300 SL",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/2023RLC-55MB1.webp/revision/latest?cb=20230820223209",
+    "toyNumber": "HNL27",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "'71 AMC Javelin AMX",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/02/RoadWarsJavelin.jpg/revision/latest?cb=20240320121100",
+    "toyNumber": "HMY23",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "1952 Dodge Power Wagon",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/8/88/2023-Holiday_HNL31_%2752_Power_Wagon_open-1.jpg/revision/latest?cb=20231204194652",
+    "toyNumber": "HNL31",
+    "colNumber": "",
+    "series": "2023 RLC ExclusiveHoliday Car",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "1962 Ford F100",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/2/26/F100-rlc-pink.png/revision/latest?cb=20260204234815",
+    "toyNumber": "HNL11",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "1964 Jaguar E-Type",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/59/%2764JaguarXKE2.jpg/revision/latest?cb=20230530132355",
+    "toyNumber": "HGK82",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "1969 Chevy Camaro SS",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/8/89/%2769_Chevrolet_Camaro_SS_2023_RLC.webp/revision/latest?cb=20230626222250",
+    "toyNumber": "HNL21",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "1969 Dodge Charger R/T",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/4/47/2023_RLC_Charger.jpg/revision/latest?cb=20250217224858",
+    "toyNumber": "HNL23",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "1971 De Tomaso Mangusta",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/FW_DeTomasoMangusta23_2.jpeg/revision/latest?cb=20230917080550",
+    "toyNumber": "HNL22",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "1972 Skyline H/T 2000GT-R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/20250224171613.jpg/revision/latest?cb=20250224231734",
+    "toyNumber": "HNL30",
+    "colNumber": "",
+    "series": "2023 RLC sELECTIONs Series",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "1972 Skyline H/T 2000GT-R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/1972_Nissan_Skyline_H-T_2000GT-R_2024_RLC.webp/revision/latest?cb=20240308210115",
+    "toyNumber": "HNL24",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "1975 Chevrolet Monte Carlo",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/RLC_2023_1975_Chevrolet_Monte_Carlo_Antifreeze_Side_China_HGK77.jpg/revision/latest?cb=20230502234153",
+    "toyNumber": "HGK77",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "1990 Chevy 454 SS",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/RLC_2023_1990_Chevy_454_SS.png/revision/latest?cb=20230524082337",
+    "toyNumber": "HNL20",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "1991 BMW M3",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/2023-RLC_HNL25_%2791_BMW_M3_open-1.jpg/revision/latest?cb=20231017170548",
+    "toyNumber": "HNL25",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "1993 Ford Mustang Cobra R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "HNL15",
+    "colNumber": "",
+    "series": "2023 Red Line Club Membership",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "1995 Honda Integra Type R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/7/79/1995HondaIntegra.jpg/revision/latest?cb=20240309144257",
+    "toyNumber": "HMY22",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom '72 Datsun 240Z",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "HNL17",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "Kawa-Bug-A",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/2023-RLC_sELECTIONs_HNL29_Kawa-Bug-A_o-4.jpg/revision/latest?cb=20240128000045",
+    "toyNumber": "HNL29",
+    "colNumber": "",
+    "series": "2023 RLC sELECTIONs Series",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (BNR34)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/RLC23_R34.png/revision/latest?cb=20250304052245",
+    "toyNumber": "HNL06",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "Porsche 959",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/57/1986Porsche959.jpg/revision/latest?cb=20230910090214",
+    "toyNumber": "HGK85",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "Porsche 959",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/14/2023-RLC_HNL18_Porsche_959_Black_open-1.jpg/revision/latest?cb=20231114144319",
+    "toyNumber": "HNL18",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "Porsche 964",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/05/2023-RLC_HNL26_Porsche_964rlc_o-1.jpg/revision/latest?cb=20240728153624",
+    "toyNumber": "HNL26",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "Ryu's 1994 NSX",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/d/de/Ryu%27s_1994_NSX.jpg/revision/latest?cb=20231004200620",
+    "toyNumber": "HGK81",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "Volkswagen T1 Rockster",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/RLC_T1_rockster_Purple.jpg/revision/latest?cb=20250612152320",
+    "toyNumber": "HNL19",
+    "colNumber": "",
+    "series": "2023 RLC Exclusive",
+    "category": "RLC",
+    "year": 2023,
     "isReleased": true
   },
   {
@@ -17257,6 +18157,216 @@
     "series": "HW ExoticsNew for 2023!",
     "category": "Mainline",
     "year": 2023,
+    "isReleased": true
+  },
+  {
+    "modelName": "'21 Ford Bronco Wildtrak",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/FordBroncoWildtrak2.jpg/revision/latest?cb=20230225073238",
+    "toyNumber": "HGK79",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "'32 Ford",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "HGW19",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "'41 Willys Gasser",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/2/29/2022-RLC_Holiday_HGW22_%2741_Willys_open-1.jpg/revision/latest?cb=20230822040649",
+    "toyNumber": "HGW22",
+    "colNumber": "",
+    "series": "RLC Exclusive ReleaseHoliday Car",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "'66 Super Nova",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/2/20/2022_RLC_Nova.jpg/revision/latest?cb=20250217225244",
+    "toyNumber": "HNL16",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "'82 Lamborghini Countach LP500 S",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/0230403193152.jpg/revision/latest?cb=20230403113313",
+    "toyNumber": "HGW25",
+    "colNumber": "",
+    "series": "RLC sELECTIONs",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "'82 Lamborghini Countach LP500 S",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "HGW20",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "1952 Dodge Power Wagon",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/%2752DodgePowerWagon2.jpg/revision/latest?cb=20220814034631",
+    "toyNumber": "GXJ19",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "1962 Ford F100",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/RLC_F100_2022.jpg/revision/latest?cb=20260518064340",
+    "toyNumber": "HGW23",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "1972 Skyline H/T 2000GT-R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "HGK84",
+    "colNumber": "",
+    "series": "2022 Red Line Club Membership",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "1990 Chevy 454 SS",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/31/Chevy4542.jpg/revision/latest?cb=20220918064620",
+    "toyNumber": "HGK80",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "Blown Delivery",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/BlownDelivery.jpg/revision/latest?cb=20250620051843",
+    "toyNumber": "HGK65",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "ChaseUnnumbered",
+    "imageURL": null,
+    "toyNumber": "HPJ20",
+    "colNumber": "",
+    "series": "",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Camaro",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "HGW24",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Fleetside",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "HGK70",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "Datsun 510",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "HGW17",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "Dodge Tradesman",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/04/RLCDodgeTradesmanPurple.jpg/revision/latest?cb=20230221224053",
+    "toyNumber": "HGK78",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "Hi-Po Hauler",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "HGW18",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "Honda S2000",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/HondaS2000RyuAsadaEdition.jpg/revision/latest?cb=20221016141014",
+    "toyNumber": "HGW15",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "Kawa-Bug-A",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/Kawa-Bug-A2.jpg/revision/latest?cb=20230225073349",
+    "toyNumber": "HGK76",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (BNR34)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/RLC22_R34.png/revision/latest?cb=20250304052043",
+    "toyNumber": "HGK73",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "’69 Chevy Camaro SS",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/645C1695-4F86-41A5-80FF-966A48EFF864.jpeg/revision/latest?cb=20230521223000",
+    "toyNumber": "HGK83",
+    "colNumber": "",
+    "series": "RLC sELECTIONs",
+    "category": "RLC",
+    "year": 2022,
     "isReleased": true
   },
   {
@@ -21727,6 +22837,266 @@
     "series": "Muscle Mania",
     "category": "Mainline",
     "year": 2022,
+    "isReleased": true
+  },
+  {
+    "modelName": "'17 Ford Raptor",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/%2717FordRaptor.jpg/revision/latest?cb=20220415111153",
+    "toyNumber": "HCK31",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "'32 Ford",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/20210808_095844-1.jpg/revision/latest?cb=20210808160219",
+    "toyNumber": "GLH85",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "'55 Chevy Bel Air Gasser",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/7/78/Triassic-Five.jpg/revision/latest?cb=20221216050554",
+    "toyNumber": "HGW21",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "'55 Mercedes-Benz 300 SL",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/2021RLC-55MB1.jpg/revision/latest?cb=20210603222701",
+    "toyNumber": "GXJ24",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "'64 Impala",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/38/2020RLC-64Impala_%289%29_%28Large%29.JPG/revision/latest?cb=20210515071845",
+    "toyNumber": "GLH86",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "'64 Impala",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727",
+    "toyNumber": "GXJ23",
+    "colNumber": "",
+    "series": "RLC Exclusive ReleaseHoliday Car",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "'66 Super Nova",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/4/48/2021_Nationals_PINK_GXJ07_%2766_Super_Nova_o5R.jpg/revision/latest?cb=20260624114231",
+    "toyNumber": "GXJ07",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "'69 Chevrolet Camaro SS",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/%2769CamaroSS2.jpg/revision/latest?cb=20260508014716",
+    "toyNumber": "GXJ16",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "'70 Mustang Boss 302",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/GXJ22_-_70_Mustang_Boss_302-1.jpg/revision/latest?cb=20210920220802",
+    "toyNumber": "GXJ22",
+    "colNumber": "",
+    "series": "RLC Membership Car",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "1944 Willys MB",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/WillysRockCrawler2.jpg/revision/latest?cb=20220415091211",
+    "toyNumber": "GLH87",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "1944 Willys MB",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/93/Red_41_Willys_RLC.jpeg/revision/latest?cb=20211125144640",
+    "toyNumber": "GXJ27",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "1962 Ford F100",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/%2762Ford2.jpg/revision/latest?cb=20220415090445",
+    "toyNumber": "GXJ18",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "1969 Chevy C-10",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Red_Ox_Blood_C10.png/revision/latest?cb=20260103191934",
+    "toyNumber": "GXJ21",
+    "colNumber": "",
+    "series": "RLC sELECTIONs",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "1969 Dodge Charger R/T",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/39/GXJ25_Dodge_Charger.jpg/revision/latest?cb=20210807075333",
+    "toyNumber": "GXJ25",
+    "colNumber": "",
+    "series": "RLC sELECTIONs",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "1971 De Tomaso Mangusta",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/GLH83_-_1971_De_Tomaso_Mangusta_Loose-1.jpg/revision/latest?cb=20210920221852",
+    "toyNumber": "GLH83",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "1972 Skyline H/T 2000GT-R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/RLCHako2.jpg/revision/latest?cb=20220415090842",
+    "toyNumber": "GXJ15",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "1991 BMW M3",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/10/%2791BMWM32.jpg/revision/latest?cb=20220327073125",
+    "toyNumber": "GXJ17",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "1993 Ford Mustang Cobra R",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/Hot_Wheels_Collectors_Ford_Mustang_1993_Cobra_R_06a.jpg/revision/latest?cb=20220601022505",
+    "toyNumber": "GXJ20",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "2006 BMW M3",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/RLC_Exclusive_2006_BMW_M3.jpg/revision/latest?cb=20220316063900",
+    "toyNumber": "GXJ28",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom '72 Datsun 240Z",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/68/RLC240Z.jpg/revision/latest?cb=20210629165836",
+    "toyNumber": "HCK32",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Corvette",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/RLC_Exclusive_Custom_Corvette.jpg/revision/latest?cb=20220225090729",
+    "toyNumber": "HCK29",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Eldorado",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/20250308163733.jpg/revision/latest?cb=20250308223836",
+    "toyNumber": "GXJ14",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "Mustang Boss Hoss",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/RLC_Exclusive_2022_Boss_Hoss.jpg/revision/latest?cb=20220302031723",
+    "toyNumber": "HGW16",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "TV Series Batmobile",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/Hot_Wheels_Collectors_Bat_Mobile_1966_06a.jpg/revision/latest?cb=20220123015611",
+    "toyNumber": "HCK30",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "Thunder Roller",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/18/2021_RLC_Thunder_Roller_mc.jpg/revision/latest?cb=20260612140734",
+    "toyNumber": "GXJ26",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
+    "isReleased": true
+  },
+  {
+    "modelName": "Volkswagen Drag Bus",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/Candy_Striper_Volkswagen_Drag_Bus.jpg/revision/latest?cb=20210312035422",
+    "toyNumber": "GLH95",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2021,
     "isReleased": true
   },
   {
@@ -26280,6 +27650,126 @@
     "isReleased": true
   },
   {
+    "modelName": "'41 Willys Gasser",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Hot_Wheels_RLC_2020_sELECTIONs_Willys_Gasser_1.webp/revision/latest?cb=20220412053844",
+    "toyNumber": "GLH88",
+    "colNumber": "",
+    "series": "RLC sELECTIONs",
+    "category": "RLC",
+    "year": 2020,
+    "isReleased": true
+  },
+  {
+    "modelName": "'69 Chevy C-10",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/56/RLC.C10.Aqua.Persp.jpg/revision/latest?cb=20201002014511",
+    "toyNumber": "GLH94",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2020,
+    "isReleased": true
+  },
+  {
+    "modelName": "'70 Mustang Boss 302",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/GLH81_-_70_Ford_Mustang_Boss_302-1.jpg/revision/latest?cb=20210115192143",
+    "toyNumber": "GLH81",
+    "colNumber": "",
+    "series": "RLC Exclusive",
+    "category": "RLC",
+    "year": 2020,
+    "isReleased": true
+  },
+  {
+    "modelName": "'82 Lamborghini Countach LP500 S",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/Lamborlc2020.JPG/revision/latest?cb=20200505174522",
+    "toyNumber": "GLH89",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2020,
+    "isReleased": true
+  },
+  {
+    "modelName": "1969 Dodge Charger R/T",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/%2769HellephantCharger.jpg/revision/latest?cb=20260508013543",
+    "toyNumber": "GLH82",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2020,
+    "isReleased": true
+  },
+  {
+    "modelName": "2006 BMW M3",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/97/%2706BMWM3.jpg/revision/latest?cb=20210925141235",
+    "toyNumber": "GLH84",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2020,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Mustang",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/94/Custommustang2020rlc.JPG/revision/latest?cb=20200627002041",
+    "toyNumber": "GLH92",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2020,
+    "isReleased": true
+  },
+  {
+    "modelName": "Datsun Bluebird 510",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/510datsun2020rlc.png/revision/latest?cb=20200605185714",
+    "toyNumber": "GLH93",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2020,
+    "isReleased": true
+  },
+  {
+    "modelName": "Hi-Po Hauler",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/Hi-poHauliday.png/revision/latest?cb=20210208001213",
+    "toyNumber": "GLH91",
+    "colNumber": "",
+    "series": "RLC Exclusive ReleaseHoliday Car",
+    "category": "RLC",
+    "year": 2020,
+    "isReleased": true
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (BNR34)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/2020_r34_rlc.jpg/revision/latest?cb=20260506083756",
+    "toyNumber": "GLH90",
+    "colNumber": "",
+    "series": "RLC Membership Car",
+    "category": "RLC",
+    "year": 2020,
+    "isReleased": true
+  },
+  {
+    "modelName": "RWB Porsche 930",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/50/RWB930RLC.jpg/revision/latest?cb=20210925141043",
+    "toyNumber": "GDF84",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2020,
+    "isReleased": true
+  },
+  {
+    "modelName": "Volkswagen T1 Rockster",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/T1Rockster.jpg/revision/latest?cb=20220415111735",
+    "toyNumber": "GLH76",
+    "colNumber": "",
+    "series": "RLC Exclusive",
+    "category": "RLC",
+    "year": 2020,
+    "isReleased": true
+  },
+  {
     "modelName": "2 Jet Z",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/2JetZ.2020_New_Model._Front_Pers.jpg/revision/latest?cb=20191103190744",
     "toyNumber": "GHB45",
@@ -30830,6 +32320,176 @@
     "isReleased": true
   },
   {
+    "modelName": "'17 Ford F-150 Raptor",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/63/GDF94_-_17_Ford_F-150_Raptor_%28RLC%29-1-2.jpg/revision/latest?cb=20200420134628",
+    "toyNumber": "GDF94",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "'41 Willys Gasser",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/41-willys-gasser-19-hwc-specialedition-1200pxotd.png/revision/latest?cb=20190710172803",
+    "toyNumber": "GDF81",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "'55 Chevy Bel Air",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/97/2019_RLC_Exclusive_sELECTIONs_%2755_Chevy_Gasser.jpg/revision/latest?cb=20220517123423",
+    "toyNumber": "GDF87",
+    "colNumber": "",
+    "series": "RLC sELECTIONs",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "'55 Chevy Bel Air Gasser",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/19/2019_Hot_Wheels_%2755_Chevy_Bel_Air_Gasser.jpg/revision/latest?cb=20190922202011",
+    "toyNumber": "FPN04",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "'55 Mercedes-Benz 300 SL",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/2/27/2019RLC-55MB2_%28Large%29.JPG/revision/latest?cb=20200315063431",
+    "toyNumber": "GDF83",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "'66 Super Nova",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/8/81/2020_-_RLC_Exclusive_-_LE_12500_%281%29_MAIN.jpg/revision/latest?cb=20200320075443",
+    "toyNumber": "GDF91",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "'69 Chevy C-10",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/31/2019RLC-C10D_%28Large%29.JPG/revision/latest?cb=20200315063437",
+    "toyNumber": "GDF82",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "'82 Lamborghini Countach LP500 S",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/2019RLC-LC2_%28Large%29.JPG/revision/latest?cb=20200315063500",
+    "toyNumber": "GDF85",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom '72 Datsun 240Z",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/NAzxT90.png/revision/latest?cb=20191219143724",
+    "toyNumber": "FPN06",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Camaro",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/2019_RLC_Custom_Camaro.png/revision/latest?cb=20190301234031",
+    "toyNumber": "GDF89",
+    "colNumber": "",
+    "series": "2019 Red Line Club Membership",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Corvette",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/2019_RLC_Exclusive_Custom_Corvette.webp/revision/latest?cb=20220517113920",
+    "toyNumber": "GDF73",
+    "colNumber": "",
+    "series": "RLC Party",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "Honda S2000",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/2019_Hot_Wheels_S2000_RLC_Exclusive.jpg/revision/latest?cb=20191018102632",
+    "toyNumber": "GDF92",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (BNR34)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/13/GDF86_RLC_Exclusive_01_Nissan_Skyline_GT-R_BNR34-2.jpg/revision/latest?cb=20200120190923",
+    "toyNumber": "GDF86",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "Porsche 964",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/2019_RLC_Exclusive_Urban_Outlaw_Porsche_964.webp/revision/latest?cb=20220517113320",
+    "toyNumber": "FPN10",
+    "colNumber": "",
+    "series": "RLC Exclusive Release",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "Porsche 964",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/05/2019_HWC_Special_Edition_Porsche_964.webp/revision/latest?cb=20220517132300",
+    "toyNumber": "GDF88",
+    "colNumber": "",
+    "series": "HWC Special Edition",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "Steam Punk Truck",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/2019_HWC_Special_Edition_Steam_Punk_Truck.png/revision/latest?cb=20220517112841",
+    "toyNumber": "FPN09",
+    "colNumber": "",
+    "series": "HWC Special Edition",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "VW Drag Bus",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/Hot_Wheels_RLC_Exclusive_Holiday_Drag_Bus.png/revision/latest?cb=20200703154503",
+    "toyNumber": "GDF90",
+    "colNumber": "",
+    "series": "RLC Exclusive ReleaseHoliday Car",
+    "category": "RLC",
+    "year": 2019,
+    "isReleased": true
+  },
+  {
     "modelName": "Nissan Skyline GT-R (BNR32)",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Nissan_skyline_gt-r_bnr32.JPG/revision/latest?cb=20181016164417",
     "toyNumber": "FYB74",
@@ -35317,6 +36977,226 @@
     "series": "Barbie 60th Anniversary Special Edition",
     "category": "Mainline",
     "year": 2019,
+    "isReleased": true
+  },
+  {
+    "modelName": "'17 Ford F-150 Raptor",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/2018_RLC_Exlcusive_%2717_Ford_F-150_Raptor.png/revision/latest?cb=20220517073906",
+    "toyNumber": "FPN11",
+    "colNumber": "",
+    "series": "RLC Exclusive",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "'71 Datsun 510",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/01/2018_RLC_Exclusive_%2771_Datsun_510.png/revision/latest?cb=20220517070251",
+    "toyNumber": "FPN12",
+    "colNumber": "",
+    "series": "18th Annual Hot Wheels Nationals Convention",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Cheetah",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/HWC_Original_16_Cheetah.png/revision/latest?cb=20181203160400",
+    "toyNumber": "FNC29",
+    "colNumber": "",
+    "series": "Original Sixteen",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Classic TV Series Batmobile",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/54/RLC_Exclusive_Collectors_Convention_Batman_Classic_TV_Series_Batmobile.jpg/revision/latest?cb=20181203153224",
+    "toyNumber": "FPN28",
+    "colNumber": "",
+    "series": "32nd Annual Hot Wheels Collectors Convention",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom '72 Datsun 240Z",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/15/09906a43-32af-43c0-944a-3cc12e3c3dcf.Large.jpg/revision/latest?cb=20190330142128",
+    "toyNumber": "FPN06",
+    "colNumber": "",
+    "series": "RLC sELECTIONs",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Barracuda",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/2/23/HWC_Original_16_Custom_Barracuda.png/revision/latest?cb=20181203162338",
+    "toyNumber": "FPN47",
+    "colNumber": "",
+    "series": "Original Sixteen",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Camaro",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/HWC_3D_Printed_Prototype_Custom_Camaro.png/revision/latest?cb=20181203152802",
+    "toyNumber": "FPN62",
+    "colNumber": "",
+    "series": "Hand-Made Prototype",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Camaro",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/2018_HWC_Special_Edition_Custom_Camaro.png/revision/latest?cb=20220517094430",
+    "toyNumber": "FPN27",
+    "colNumber": "",
+    "series": "HWC Special Edition",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Corvette",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/61/HWC_Original_16_Custom_Corvette.png/revision/latest?cb=20181203162945",
+    "toyNumber": "FCM79",
+    "colNumber": "",
+    "series": "Original Sixteen",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Cougar",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/HWC_Original_16_Custom_Cougar.png/revision/latest?cb=20181203163132",
+    "toyNumber": "FCM81",
+    "colNumber": "",
+    "series": "Original Sixteen",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Eldorado",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/d/de/HWC_Original_16_Custom_Eldorado.png/revision/latest?cb=20181203161159",
+    "toyNumber": "FNC25",
+    "colNumber": "",
+    "series": "Original Sixteen",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Firebird",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/2/21/HWC_Original_16_Custom_Firebird.png/revision/latest?cb=20181203161603",
+    "toyNumber": "FCM77",
+    "colNumber": "",
+    "series": "Original Sixteen",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom T-Bird",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/2018_RLC_Exclusive_Custom_T-Bird.png/revision/latest?cb=20220517065534",
+    "toyNumber": "FCM75",
+    "colNumber": "",
+    "series": "Original Sixteen",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Datsun 240Z",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/12/HWC_Special_Edition_Datsun_240Z.png/revision/latest?cb=20181203162729",
+    "toyNumber": "FCM67",
+    "colNumber": "",
+    "series": "HWC Special Edition",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Datsun Bluebird 510",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/2018_RLC_Membership_Datsun_Bluebird_510.png/revision/latest?cb=20220517070601",
+    "toyNumber": "FPN05",
+    "colNumber": "",
+    "series": "2018 Red Line Club Membership",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Hi-Po Hauler",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/2018_RLC_Exclusive_Hi-Po_Hauler.webp/revision/latest?cb=20220517072153",
+    "toyNumber": "FPN07",
+    "colNumber": "",
+    "series": "RLC Exclusive",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "N/A",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/HWC_Original_16_Display_Set.jpg/revision/latest?cb=20181203161845",
+    "toyNumber": "FNC23",
+    "colNumber": "",
+    "series": "Original Sixteen Display Set",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Silhouette",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/06/HWC_Original_16_Silhouette.png/revision/latest?cb=20181203154631",
+    "toyNumber": "FNC30",
+    "colNumber": "",
+    "series": "Original Sixteen",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Steam Punk Truck",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/Larry_Wood%27s_Steam_Punk_Truck.png/revision/latest?cb=20181203153731",
+    "toyNumber": "FPN64",
+    "colNumber": "",
+    "series": "Hand-Made Prototype",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Texas Drive 'Em",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/98/2018_RLC_Exclusive_Holiday_Texas_Drive_%27Em.png/revision/latest?cb=20220517105853",
+    "toyNumber": "FPN13",
+    "colNumber": "",
+    "series": "RLC Exclusive",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Volkswagen T1 Rockster",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/2018_Printed_T1_Rockster.png/revision/latest?cb=20200603101945",
+    "toyNumber": "FPN65",
+    "colNumber": "",
+    "series": "Hand-Made Prototype",
+    "category": "RLC",
+    "year": 2018,
+    "isReleased": true
+  },
+  {
+    "modelName": "Volkswagen T1 Rockster",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/2018_RLC_Exclusive_Volkswagen_T1_Rockster.webp/revision/latest?cb=20220517072733",
+    "toyNumber": "FPN08",
+    "colNumber": "",
+    "series": "RLC Exclusive",
+    "category": "RLC",
+    "year": 2018,
     "isReleased": true
   },
   {

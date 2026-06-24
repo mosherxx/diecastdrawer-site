@@ -1,5 +1,1160 @@
 [
   {
+    "modelName": "1/64 EVA RT Test Type-01 Aston Martin GT3",
+    "productCode": "PR64-AMGT-EVA01HEC",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d4/HEC21.jpg/revision/latest?cb=20241130202934",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "1/64 KPGC110 Kenmeri - Macau Dinner 2024",
+    "productCode": "PR640215",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/91/PR640215.jpg/revision/latest?cb=20241205011111",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "1/64 Pandem GR Supra Diago Saito Macau Dinner 2024",
+    "productCode": "PR640179 (2nd Issue)",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f5/PR640179-2.jpg/revision/latest?cb=20241205011102",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "1/64 RX7 RE Amemiya - Macau Dinner 2024",
+    "productCode": "PR640216",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/55/PR640216.jpg/revision/latest?cb=20241205011119",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "1087x GT86 - 1087x",
+    "productCode": "PR640473",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fa/PR640473.jpg/revision/latest?cb=20260410220718",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "992 Stinger GTR Carbon Edition",
+    "productCode": "PR640017",
+    "make": "TopCar Design",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7b/PR640017.jpg/revision/latest?cb=20241120192608",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "992 Stinger GTR Carbon Edition Blue Line",
+    "productCode": "PR640254",
+    "make": "TopCar Design",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/32/PR640254.jpg/revision/latest?cb=20250213125333",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "992 Stinger GTR Carbon Edition Brown",
+    "productCode": "PR640049",
+    "make": "TopCar Design",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/0f/PR640049.jpg/revision/latest?cb=20241118014952",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "992 Stinger GTR Carbon Edition Redline",
+    "productCode": "PR640192",
+    "make": "TopCar Design",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d0/PR640192.jpg/revision/latest?cb=20241117230811",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "992 Stinger GTR Gold",
+    "productCode": "PR640042",
+    "make": "TopCar Design",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7f/PR640042.jpg/revision/latest?cb=20241117233908",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "997 RWB - Blue",
+    "productCode": "PR640444",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5f/PR640444.jpg/revision/latest?cb=20260411165948",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "997 RWB - Spectraflame Teal",
+    "productCode": "PR640224",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/80/PR640224.jpg/revision/latest?cb=20260410215331",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin AMR23 F1 #14 F. Alonso",
+    "productCode": "PR640198",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c1/PR640198.jpg/revision/latest?cb=20241117225327",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin AMR23 F1 #18 L. Stroll",
+    "productCode": "PR640234",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c3/PR640234.jpg/revision/latest?cb=20241230140336",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin DBX 707 - Silver",
+    "productCode": "PR640367",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7c/PR640367.jpg/revision/latest?cb=20260410215415",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin DBX 707 Blue",
+    "productCode": "PR640031",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/29/PR640031.jpg/revision/latest?cb=20241120191439",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin DBX 707 Cosmos Orange",
+    "productCode": "PR640148",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/67/PR640148.jpg/revision/latest?cb=20241117231229",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin DBX 707 Storm Purple",
+    "productCode": "PR640268",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1a/PR640268.jpg/revision/latest?cb=20250321113555",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin DBX Racing Green",
+    "productCode": "PR640016",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/74/PR640016.jpg/revision/latest?cb=20241120192537",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Valkyrie - Carbon Edition",
+    "productCode": "PR640353",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f7/PR640353.jpg/revision/latest?cb=20260411171305",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Valkyrie - Iridescent Emerald",
+    "productCode": "PR640269",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8a/PR640269.jpg/revision/latest?cb=20260411235602",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Valkyrie - Silver",
+    "productCode": "PR640443",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/0f/PR640443.jpg/revision/latest?cb=20260412194200",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Valkyrie Satin Metallic Blue",
+    "productCode": "PR640096",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/99/PR640096.jpg/revision/latest?cb=20241117230207",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Valkyrie Supernova Red",
+    "productCode": "PR640152",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/54/PR640152.jpg/revision/latest?cb=20241118012218",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Valkyrie Viridian Green",
+    "productCode": "PR640054",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/de/PR640054.jpg/revision/latest?cb=20241118015009",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Vantage GT3 Carbon Edition",
+    "productCode": "PR640178",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/53/PR640178.jpg/revision/latest?cb=20241118012227",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Vantage GT3 Castrol Bathurst 12 Hr 2020",
+    "productCode": "PR640253",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2c/PR640253.jpg/revision/latest?cb=20260411235644",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Vantage GT3 EVA RT Production Model-02",
+    "productCode": "PR640035",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/80/PR640035.jpg/revision/latest?cb=20241128010516",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Vantage GT3 EVA RT Test Type-01",
+    "productCode": "PR640019",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/07/PR640019.jpg/revision/latest?cb=20241120192704",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Vantage GT3 Gulf Livery",
+    "productCode": "PR64-AMGT-GULF",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/dd/PR64-AMGT-GULF.jpg/revision/latest?cb=20241120194042",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Vantage GT3 N24 2022",
+    "productCode": "PR640089",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4b/PR640089.jpg/revision/latest?cb=20241118013203",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Vantage GT3 Presentation",
+    "productCode": "PR64-AMGT-PRES",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2f/PR64-AMGT-PRES.jpg/revision/latest?cb=20241129162554",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Vantage GT3 R Motorsport",
+    "productCode": "PR640005",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/61/PR640005.jpg/revision/latest?cb=20241120193151",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Aston Martin Vantage GT3 White",
+    "productCode": "PR640045",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/84/PR640045.jpg/revision/latest?cb=20241118014943",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS \"EVISU X WORKS\" MACAU GT CUP 2020 MARCHY LEE PRESENTATION CAR",
+    "productCode": "PR64-R8LMS-EVISU",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c6/PR64-R8LMS-EVISU.jpg/revision/latest?cb=20241120200354",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS #22 GOGOX 2022",
+    "productCode": "PR64-R8E2-GOX1",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/93/PR64-R8E2-GOX1.jpg/revision/latest?cb=20241202202856",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS #22 SF Express 2022",
+    "productCode": "PR64-R8E2-SF22-TINY",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/77/PR64-R8E2-SF22-TINY.jpg/revision/latest?cb=20241202213226",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS - SF Express 2021",
+    "productCode": "PR64-R8LMS-SF2021",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d6/PR64-R8LMS-SF2021.jpg/revision/latest?cb=20241202205843",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS Bruce Lee 80th",
+    "productCode": "PR64-R8LMS-BL80",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4e/PR64-R8LMS-BL80.jpg/revision/latest?cb=20241121005616",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS EVA RT Mark.06 X Works R8",
+    "productCode": "PR64-R8LMS-EVA06",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/89/PR64-R8LMS-EVA06.jpg/revision/latest?cb=20241121043305",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS EVA RT PRODUCTION MODEL CUSTOM TYPE-08 X Works R8",
+    "productCode": "PR64-R8LMS-EVA08",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/00/PR64-R8LMS-EVA08.jpg/revision/latest?cb=20241121041124",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS EVA RT Production Model-02 X Works R8",
+    "productCode": "PR64-R8LMS-EVA02",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c4/PR64-R8LMS-EVA02.jpg/revision/latest?cb=20241121041048",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS EVA RT PROTO TYPE-00 X Works R8",
+    "productCode": "PR64-R8LMS-EVA00",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/27/PR64-R8LMS-EVA00.jpg/revision/latest?cb=20241121043255",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS EVA RT Test Type-01 TSRT R8 R8 Macau GT Cup 2020",
+    "productCode": "PR64-R8MS-20MGT28",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d4/AudiEVA.jpg/revision/latest?cb=20241121010521",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS EVA RT Test Type-01 X Works R8 覚醒 (KAKUSEI)",
+    "productCode": "PR64-R8LMS-EVA01KA",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/77/PR64-R8LMS-EVA01KA.jpg/revision/latest?cb=20241121011612",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS EVO 2 X Works Racing",
+    "productCode": "PR64-R8E2-ELF1",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7f/PR64-R8E2-ELF1.jpg/revision/latest?cb=20241129162832",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS Gulf Livery",
+    "productCode": "PR64-R8EV-GULF",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/48/PR64-R8EV-GULF.jpg/revision/latest?cb=20241120195336",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS NO. 25 FIA GT WORLD CUP 2019 D. VANTHOOR",
+    "productCode": "PR64-R8LMS-19MGT25",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a9/PR64-R8LMS-19MGT25.jpg/revision/latest?cb=20241121042921",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS SF Express 2020",
+    "productCode": "PR64-R8LMS-SF2020",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a9/PR64-R8LMS-SF2020.jpg/revision/latest?cb=20241121015845",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS Super GT 2018 Audi Team Hitotsuyama #21",
+    "productCode": "PR64-R8LMS-18SGT21",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/ac/PR64-R8LMS-18SGT21.jpg/revision/latest?cb=20241121010724",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS Super GT 2019 Audi Team Hitotsuyama #21",
+    "productCode": "PR64-R8LMS-19SGT21",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c0/PR64-R8LMS-19SGT21.jpg/revision/latest?cb=20241129203119",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS Super GT 2020 #33 EVA RT Test Type-01 X Works R8",
+    "productCode": "PR64-R8LMS-EVA01",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c0/PR64-R8LMS-EVA01.jpg/revision/latest?cb=20241121011604",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS ULTRA - Macau GT Cup 2013 #1 Edoardo Mortara",
+    "productCode": "PR64-R8UL-13MGC01",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/65/PR64-R8UL-13MGC01.jpg/revision/latest?cb=20241121042715",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS ULTRA - Macau GT Cup 2013 #38 Marchy Lee",
+    "productCode": "PR64-R8UL-13MGC38",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/81/PR64-R8UL-13MGC38.jpg/revision/latest?cb=20241121042726",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Audi R8 LMS Ultra 2021 Bathurst 12 Hours #1",
+    "productCode": "PR64-R8UL-12BA01",
+    "make": "Audi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c6/PR64-R8UL-12BA01.jpg/revision/latest?cb=20241120200332",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "BAPE x Aston Martin Vantage GT3 Blue",
+    "productCode": "PR64-AMBA-21BL",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/39/PR64-AMBA-21BL.jpg/revision/latest?cb=20241123145528",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "BAPE x Aston Martin Vantage GT3 Green",
+    "productCode": "PR64-AMBA-21GN",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9f/PR64-AMBA-21GN.jpg/revision/latest?cb=20241123145255",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "BAPE x Aston Martin Vantage GT3 Pink",
+    "productCode": "PR64-AMBA-21PK",
+    "make": "Aston Martin",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/05/PR64-AMBA-21PK.jpg/revision/latest?cb=20241123145154",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Bentley Continental GT3 Blancpain GT Series Asia 2018 Phoenix #6",
+    "productCode": "PR64-BLY-18GT06",
+    "make": "Bentley",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/79/PR64-BLY-18GT06.jpg/revision/latest?cb=20241129202736",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Chevrolet Cruze WTCC - No.2 FIA WTCC 2011 Rob Huff",
+    "productCode": "PR64-CRUZE-11MWTCC02",
+    "make": "Chevrolet",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3e/PR64-CRUZE-11MWTCC02.jpg/revision/latest?cb=20241121042629",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Chevrolet Cruze WTCC - WTCC Macau 2012 #20 Darryl O'Young",
+    "productCode": "PR64-CRUZE-12MWTCC20",
+    "make": "Chevrolet",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/17/PR64-CRUZE-12MWTCC20.jpg/revision/latest?cb=20241121042638",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Chevrolet Cruze WTCC - WTCC Macau 2013 #12 Yvan Muller",
+    "productCode": "PR64-CRUZE-13MWTCC12",
+    "make": "Chevrolet",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f8/PR64-CRUZE-13MWTCC12.jpg/revision/latest?cb=20241121042646",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Darwin Pro 66G WBK Supra A90 - Carbon Edition",
+    "productCode": "PR640398",
+    "make": "DarwinPRO",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/54/PR640398.jpg/revision/latest?cb=20260411170831",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Darwin Pro 66G WBK Supra A90 - Silver Chrome",
+    "productCode": "PR640492",
+    "make": "DarwinPRO",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5b/PR640492.jpg/revision/latest?cb=20260410215630",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "DarwinPRO 66G NWB Supra A90 Green",
+    "productCode": "PR640076",
+    "make": "Toyota DarwinPRO",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/29/PR640076.jpg/revision/latest?cb=20241117233938",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "DarwinPRO 66G NWB Supra A90 Orange",
+    "productCode": "PR640077",
+    "make": "Toyota DarwinPRO",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1e/PR640077.jpg/revision/latest?cb=20241118014130",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "DarwinPRO 66G WBK Supra A90 - 1087X Lion Dance",
+    "productCode": "PR640285",
+    "make": "DarwinPRO",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/04/PR640285.jpg/revision/latest?cb=20250227220959",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Datsun Pandem 620",
+    "productCode": "PR640283",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8c/PR640283.jpg/revision/latest?cb=20260412001816",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA Racing Transporter Hino 500 (EVA-01)",
+    "productCode": "PR640085",
+    "make": "Hino",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7a/PR640085.jpg/revision/latest?cb=20241118013557",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA Racing Transporter Hino 500 (EVA-02)",
+    "productCode": "PR640086",
+    "make": "Hino",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/80/PR640086.jpg/revision/latest?cb=20241118013605",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA Racing Transporter Hino 500 (NERV)",
+    "productCode": "PR640087",
+    "make": "Hino",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8b/PR640087.jpg/revision/latest?cb=20241118013613",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Production Model Custom Type-08 - Pandem Silvia S13",
+    "productCode": "PR640241",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/76/PR640241.jpg/revision/latest?cb=20260411235655",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Production Model Custom Type-08 Goodride GR Yaris",
+    "productCode": "PR640220",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/ba/PR640220.jpg/revision/latest?cb=20250213125316",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Production Model-02 Goodride GR Yaris",
+    "productCode": "PR640126",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c0/PR640126.jpg/revision/latest?cb=20241117225559",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Production Model-02 GR86",
+    "productCode": "PR64-GR86-EVA02",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4f/PR64-GR86-EVA02.jpg/revision/latest?cb=20241129162633",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Production Model-02 NSX GT3 HEC 2024 with Figure",
+    "productCode": "PR640093",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2a/PR640093.jpg/revision/latest?cb=20241201032233",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Test Model-01 GR86",
+    "productCode": "PR64-GR86-EVA01",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5b/PR64-GR86-EVA01.jpg/revision/latest?cb=20241129154108",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Test Type-01 - Goodride Pandem GR Supra",
+    "productCode": "PR640311",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6a/PR640311.jpg/revision/latest?cb=20260411180848",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Test Type-01 - Pop Race RE Super G Time Attack",
+    "productCode": "PR640501",
+    "make": "Mazda EVA Racing",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/76/PR640501.jpg/revision/latest?cb=20260511030531",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Test Type-01 1087X Pandem S13",
+    "productCode": "PR640334",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e9/PR640334.jpg/revision/latest?cb=20260412011236",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Test Type-01 Goodride GR Yaris",
+    "productCode": "PR640143",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/50/PR640143.jpg/revision/latest?cb=20241117230452",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Test Type-01 GR Supra D1 Grand Prix Series 2020 with Race Queen Figure",
+    "productCode": "PR64-HKSA90-EVA01",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/96/PR64-HKSA90-EVA01.jpg/revision/latest?cb=20241121011744",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "EVA RT Test Type-01 Skyline R32 GTR",
+    "productCode": "PR640453",
+    "make": "EVA Racing",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b9/PR640453.jpg/revision/latest?cb=20260623105951",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Ford Mustang Shelby GT350R - Race Red",
+    "productCode": "PR640578",
+    "make": "Shelby",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b2/PR640578.jpg/revision/latest?cb=20260611130942",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Ford Sierra Macau Guia Race 1989 Eddie Lee #15",
+    "productCode": "PR64-RS500-89MGR15",
+    "make": "Ford",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/93/PR64-RS500-89MGR15.jpg/revision/latest?cb=20241218214117",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Godzilla Pick Up Truck Pink",
+    "productCode": "PR64R-GOZ-PNK",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fb/PR64-GOZ-PNK.jpg/revision/latest?cb=20241121005249",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Godzilla Pick Up Truck Purple",
+    "productCode": "PR64R-GOZ-PUR",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/55/PR64-GOZ-PUR.jpg/revision/latest?cb=20241120232121",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Golf GTI MkII",
+    "productCode": "PR640015",
+    "make": "Volkswagen",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/67/PR640015.jpg/revision/latest?cb=20241120192529",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Golf GTI MKII Demon Tweeks - BTCC 1988",
+    "productCode": "PR640105",
+    "make": "Volkswagen",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/02/PR640105.jpg/revision/latest?cb=20250321113512",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Golf GTI MKII Oak Green",
+    "productCode": "PR640099",
+    "make": "Volkswagen",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/33/PR640099.jpg/revision/latest?cb=20241117232543",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Golf GTI MKII White",
+    "productCode": "PR640071",
+    "make": "Volkswagen",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7e/PR640071.jpg/revision/latest?cb=20241118000705",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "GR Vios Malaysia Season 4 Tengku Djan 61 (w/ Driver Figure)",
+    "productCode": "PR640008",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a6/PR640008.jpg/revision/latest?cb=20241120193214",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "GR Vios Sepang 1000 km 2002 (w/ Driver Figure)",
+    "productCode": "PR640007",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/74/PR640007.jpg/revision/latest?cb=20241120193207",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "GR86 CUP - 1087X",
+    "productCode": "PR640207",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7a/PR640207.jpg/revision/latest?cb=20260411234806",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "GR86 Endless",
+    "productCode": "PR640025",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/19/PR640025.jpg/revision/latest?cb=20241120191414",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "GT-R R32 Macau Guia Race 1990 Winner",
+    "productCode": "PR640194",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3c/PR640194.jpg/revision/latest?cb=20241230140315",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "GT-R R34 Gulf Livery",
+    "productCode": "PR64-NR34-GULF",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/18/PR64-NR34-GULF.jpg/revision/latest?cb=20241120195301",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "GT-R R34 Stagea Bayside Blue",
+    "productCode": "PR64-NR34-STBL",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/0e/PR64-NR34-STBL.jpg/revision/latest?cb=20241129153432",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "GT-R V8 Drift (Hakosuka)",
+    "productCode": "PR640330",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/54/PR640330.jpg/revision/latest?cb=20260411175437",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "GTR Nismo 400R",
+    "productCode": "PR640133",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d8/PR640133.jpg/revision/latest?cb=20241117232958",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "HKS GR Supra Magic Purple",
+    "productCode": "PR64-HKSA90-MG",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4c/PR64-HKSA90-MG.jpg/revision/latest?cb=20241121015049",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "HKS GR Supra White",
+    "productCode": "PR64-HKSA90-WHT",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/96/PR64-HKSA90-WHT.jpg/revision/latest?cb=20241129195635",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda Civic (EG6) - Captiva Blue",
+    "productCode": "PR640475",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b3/PR640475.jpg/revision/latest?cb=20260410215618",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda Civic (EG6) - Idemitsu Motion Infinite",
+    "productCode": "PR640510",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/03/PR640510.jpg/revision/latest?cb=20260430111854",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda Civic (EG6) - JACCS",
+    "productCode": "PR640465",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/ca/PR640465.jpg/revision/latest?cb=20260410205805",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "Honda Civic EK9 Type R - Championship White",
     "imageURL": null,
     "scale": "1/64",
@@ -12,10 +1167,109 @@
     "series": "Hong Kong"
   },
   {
+    "modelName": "Honda Civic FL-5 Type-R TCR HRC",
+    "productCode": "PR640030",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/11/PR640030.jpg/revision/latest?cb=20241128135143",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda Civic FL-5 Type-R White",
+    "productCode": "PR640011",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3e/PR640011.jpg/revision/latest?cb=20241120192502",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda Civic FL5 Type-R Sunlight Yellow",
+    "productCode": "PR640062",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a3/PR640062.jpg/revision/latest?cb=20241117232053",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda Civic Type-R (FL5) TCR - MAK Racing",
+    "productCode": "PR640391",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/ed/PR640391.jpg/revision/latest?cb=20260410221749",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda Civic Type-R (FL5) TCR Presentation",
+    "productCode": "PR640153",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/db/PR640153.jpg/revision/latest?cb=20241117230749",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda Civic Type-R FL5 Blue",
+    "productCode": "PR640067",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a9/PR640067.jpg/revision/latest?cb=20241118014122",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda Civic Type-R FL5 Red",
+    "productCode": "PR640002",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/ac/PR640002.jpg/revision/latest?cb=20241118020545",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "Honda Integra Type R DC2 - Championship White",
     "imageURL": null,
     "scale": "1/64",
     "series": "Hong Kong"
+  },
+  {
+    "modelName": "Honda Integra Type-R DC2 - Satin Black",
+    "productCode": "PR64-DC2-SB",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/77/PR64-DC2-SB.jpg/revision/latest?cb=20241120232320",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda Mugen DC5 - White",
+    "productCode": "PR640306",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c4/PR640306.jpg/revision/latest?cb=20260410205706",
+    "scale": "1/64",
+    "series": "Regular Collection"
   },
   {
     "modelName": "Honda NSX - Formula Red",
@@ -24,10 +1278,571 @@
     "series": ""
   },
   {
+    "modelName": "Honda NSX GT3 EVO22 - Silver",
+    "productCode": "PR640445",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5c/PR640445.jpg/revision/latest?cb=20260411165958",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda NSX GT3 EVO22 Carbon Edition",
+    "productCode": "PR640159",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b8/PR640159.jpg/revision/latest?cb=20241117230506",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda NSX GT3 EVO22 EVA RT Production Model Custom Type-08",
+    "productCode": "PR640109",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f4/PR640109.jpg/revision/latest?cb=20241117231159",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda NSX GT3 EVO22 EVA RT Production Model-02",
+    "productCode": "PR640108",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e9/PR640108.jpg/revision/latest?cb=20241117231152",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda NSX GT3 EVO22 EVA Test Type-01 KCMG #202",
+    "productCode": "PR640034",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/01/PR640034.jpg/revision/latest?cb=20241118000633",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda NSX GT3 EVO22 White",
+    "productCode": "PR640280",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8a/PR640280.jpg/revision/latest?cb=20250414133934",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda NSX GT3 KCMG",
+    "productCode": "PR640040",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f6/PR640040.jpg/revision/latest?cb=20241118014916",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda NSX-R - SPOON",
+    "productCode": "PR640299",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/60/PR640299.jpg/revision/latest?cb=20260413113129",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda NSX-R - Yellow",
+    "productCode": "PR640433",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a1/PR640433.jpg/revision/latest?cb=20260410221845",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda NSX-R GT",
+    "productCode": "PR640310",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f4/PR640310.jpg/revision/latest?cb=20260411180838",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda NSX-R GT - White",
+    "productCode": "PR640407",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/bc/PR640407.jpg/revision/latest?cb=20260410213538",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "Honda S2000 AP2 - Grand Prix White",
     "imageURL": null,
     "scale": "1/64",
     "series": ""
+  },
+  {
+    "modelName": "Honda S2000 Limited beige",
+    "productCode": "PR64-S2000-YLO",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/ba/PR64-S2000-YLO.jpg/revision/latest?cb=20241120203243",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Honda S2000 Limited blue",
+    "productCode": "PR64-S2000-BLU",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/ab/PR64-S2000-BLU.jpg/revision/latest?cb=20241120204043",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "KPGC110 Kenmeri - Racing No.73 Green/Gold",
+    "productCode": "PR640366",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/24/PR640366.jpg/revision/latest?cb=20260411171331",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "KPGC110 Kenmeri - White",
+    "productCode": "PR640210",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d6/PR640210.jpg/revision/latest?cb=20260410205641",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "KPGC110 Kenmeri Magic Purple",
+    "productCode": "PR640213",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a1/PR640213.jpg/revision/latest?cb=20241117224217",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "KPGC110 Kenmeri TASKL Dark Chrome",
+    "productCode": "PR640204",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/dd/PR640204.jpg/revision/latest?cb=20241117224417",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Centenario - Blu Cepheus",
+    "productCode": "PR640525",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/ff/PR640525.jpg/revision/latest?cb=20260525124738",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Centenario - Carbon/Blue",
+    "productCode": "PR640438",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/eb/PR640438.jpg/revision/latest?cb=20260410215458",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Centenario - Carbon/Red",
+    "productCode": "PR640436",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/36/PR640436.jpg/revision/latest?cb=20260410220613",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Countach LPI 800-4 - Arancia Atlas",
+    "productCode": "PR640450",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/46/PR640450.jpg/revision/latest?cb=20260410220644",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Countach LPI 800-4 - Viola Pasifae",
+    "productCode": "PR640293",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c8/PR640293.jpg/revision/latest?cb=20260411181334",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Countach LPI 800-4 Bianco Siderale",
+    "productCode": "PR640117",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9c/PR640117.jpg/revision/latest?cb=20241118013211",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Countach LPI 800-4 Blu Hal",
+    "productCode": "PR640175",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/74/PR640175.jpg/revision/latest?cb=20241117224616",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Countach LPI-800 - Deep Black",
+    "productCode": "PR640341",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/bc/PR640341.jpg/revision/latest?cb=20260411174859",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Countach LPI-800-4 Rosso",
+    "productCode": "PR640259",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c3/PR640259.jpg/revision/latest?cb=20250227220950",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Huracan STO - Grigio Acheso Matte",
+    "productCode": "PR640430",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2b/PR640430.jpg/revision/latest?cb=20260430111905",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Huracan STO - Matte Gold",
+    "productCode": "PR640413",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/97/PR640413.jpg/revision/latest?cb=20260410220600",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Huracan STO - Verde Turbine Matt",
+    "productCode": "PR640347",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2c/PR640347.jpg/revision/latest?cb=20260410220539",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Huracan STO - Viola Pasifae",
+    "productCode": "PR640362",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5b/PR640362.jpg/revision/latest?cb=20260411172507",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Huracán STO Blu Laufey / Arancio Xanto",
+    "productCode": "PR640110",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/57/PR640110.jpg/revision/latest?cb=20241117231207",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Huracán STO Green",
+    "productCode": "PR640189",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c2/PR640189.jpg/revision/latest?cb=20241117225319",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Lamborghini Huracán STO Matte Grey",
+    "productCode": "PR640242",
+    "make": "Lamborghini",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a1/PR640242.jpg/revision/latest?cb=20241230140357",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Laurel C130",
+    "productCode": "PR640352",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3a/PR640351352.jpg/revision/latest?cb=20260411173852",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Laurel C130 - Blue",
+    "productCode": "PR640320",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/07/PR640320.jpg/revision/latest?cb=20260410213526",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Laurel C130 - Green",
+    "productCode": "PR640331",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c8/PR640331.jpg/revision/latest?cb=20260410220516",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Laurel C130 - Metallic Grey",
+    "productCode": "PR640304",
+    "make": "Datsun",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/92/PR640304.jpg/revision/latest?cb=20260411181215",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "LB Super Silhouette RX7 (FD3S) - White",
+    "productCode": "PR640528",
+    "make": "Liberty Walk",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7e/PR640528.jpg/revision/latest?cb=20260617182557",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "LB Super Silhouette S15 Silvia - White",
+    "productCode": "PR640529",
+    "make": "Liberty Walk",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b3/PR640529.jpg/revision/latest?cb=20260623105938",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda 787B - 1991 Le Mans 24 Hrs No.18",
+    "productCode": "PR640446",
+    "make": "Mazda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8c/PR640446.jpg/revision/latest?cb=20260410205754",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda 787B - 1991 Le Mans 24H Winner",
+    "productCode": "PR640301",
+    "make": "Mazda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/22/PR640301.jpg/revision/latest?cb=20260411181156",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda 787B - JSPC 1991",
+    "productCode": "PR640386",
+    "make": "Mazda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5b/PR640386.jpg/revision/latest?cb=20260410221728",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda 787B - Test Car",
+    "productCode": "PR640313",
+    "make": "Mazda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/eb/PR640313.jpg/revision/latest?cb=20260511030507",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 (FD3S) RE Amemiya Widebody Yellow",
+    "productCode": "PR640116",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/ba/PR640116.jpg/revision/latest?cb=20241117225836",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 FC3S Re-Amemiya",
+    "productCode": "PR640470",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e6/PR640470.jpg/revision/latest?cb=20260411165322",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 FC3S Re-Amemiya - Green",
+    "productCode": "PR640339",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2e/PR640339.jpg/revision/latest?cb=20260410220530",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 FC3S RE-Amemiya - Los Angeles Edition",
+    "productCode": "PR640397",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/ff/PR640397.jpg/revision/latest?cb=20260412011254",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 FC3S RE-Amemiya - Luminous Green",
+    "productCode": "PR640344",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/76/PR640344.jpg/revision/latest?cb=20260411174750",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 FC3S RE-Amemiya - Pink / Blue",
+    "productCode": "PR640396",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fd/PR640396.jpg/revision/latest?cb=20260411170819",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 FC3S RE-Amemiya - Red",
+    "productCode": "PR640343",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/be/PR640343.jpg/revision/latest?cb=20260411174759",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 FC3S RE-Amemiya - White",
+    "productCode": "PR640260",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9f/PR640260.jpg/revision/latest?cb=20260411235634",
+    "scale": "1/64",
+    "series": "Regular Collection"
   },
   {
     "modelName": "Mazda RX-7 FD - Vintage Red",
@@ -36,10 +1851,560 @@
     "series": ""
   },
   {
+    "modelName": "Mazda RX-7 FD RE-Amemiya",
+    "productCode": "PR640318",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 FD3S Re-Amemiya",
+    "productCode": "PR640472",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c1/PR640472.jpg/revision/latest?cb=20260410213551",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 RE-Amemiya",
+    "productCode": "PR640282",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/05/PR640282.jpg/revision/latest?cb=20260412001827",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 Re-Amemiya",
+    "productCode": "PR640276",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8b/PR640276.jpg/revision/latest?cb=20260411190208",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 Re-Amemiya - Renown",
+    "productCode": "PR640406",
+    "make": "Mazda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/bc/PR640406.jpg/revision/latest?cb=20260410215436",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 Re-Amemiya - Silver Chrome",
+    "productCode": "PR640287",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2b/PR640287.jpg/revision/latest?cb=20260411190948",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 Re-Amemiya - Yellow",
+    "productCode": "PR640286",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4c/PR640286.jpg/revision/latest?cb=20260411190218",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-7 RE-Amemiya Widebody",
+    "productCode": "PR640360",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/48/PR640360.jpg/revision/latest?cb=20260411173340",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-8 RE-Amemiya",
+    "productCode": "PR640471",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5d/PR640471.jpg/revision/latest?cb=20260412135847",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-8 RE-Amemiya - Chrome Orange",
+    "productCode": "PR640281",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/76/PR640281.jpg/revision/latest?cb=20260412001836",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX-8 RE-Amemiya - Gun Metal",
+    "productCode": "PR640439",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e9/PR640439.jpg/revision/latest?cb=20260410220623",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX7 (FC3S) RE Amemiya Blue",
+    "productCode": "PR640290",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/74/PR640290.jpg/revision/latest?cb=20250329191409",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX7 (FD3S) RE Amemiya Widebody Blue Metallic",
+    "productCode": "PR640119",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/49/PR640119.jpg/revision/latest?cb=20241117232108",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX7 RE Amemiya Bangkok Auto Salon 2024",
+    "productCode": "PR640129",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5d/PR640129.jpg/revision/latest?cb=20241118012709",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX7 RE Amemiya Green",
+    "productCode": "PR640244",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e6/PR640244.jpg/revision/latest?cb=20250414205712",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX7 RE Amemiya Tokyo Auto Salon 2025",
+    "productCode": "PR640221",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/86/PR640221.jpg/revision/latest?cb=20250109135357",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX7 RE Amemiya Widebody",
+    "productCode": "PR640156",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e1/PR640156.jpg/revision/latest?cb=20241117224845",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX7 RE Amemiya Widebody Blue",
+    "productCode": "PR640169",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/73/PR640169.jpg/revision/latest?cb=20241117224409",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX7 RE Amemiya Widebody Blue Chrome",
+    "productCode": "PR640223",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5e/PR640223.jpg/revision/latest?cb=20241128135159",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX7 RE Amemiya Widebody Chrome Red",
+    "productCode": "PR640197",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/39/PR640197.jpg/revision/latest?cb=20241117224626",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX7 RE Amemiya Widebody Gun Metal",
+    "productCode": "PR640255",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f6/PR640255.jpg/revision/latest?cb=20250106150323",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX7 RE Amemiya Widebody Magic Chrome",
+    "productCode": "PR640214",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c6/PR640214.jpg/revision/latest?cb=20241117224226",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX7 RE-Amemiya Blue/Pink",
+    "productCode": "PR640240",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/bb/PR640240.jpg/revision/latest?cb=20250213125324",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mazda RX8 RE-Amemiya Light Blue",
+    "productCode": "PR640270",
+    "make": "Mazda RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/35/PR640270.jpg/revision/latest?cb=20250329191400",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "McLaren F1 - Carbon Edition",
+    "productCode": "PR640164",
+    "make": "McLaren",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/97/PR640164.jpg/revision/latest?cb=20260410221632",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "McLaren F1 Jet Black",
+    "productCode": "PR640230",
+    "make": "McLaren",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5f/PR640230.jpg/revision/latest?cb=20241128135215",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "McLaren F1 Orange",
+    "productCode": "PR640092",
+    "make": "McLaren",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6e/PR640092.jpg/revision/latest?cb=20241117230159",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "MERCEDES BENZ AMG 190E 2.5-16 EVO II #9 \"ZUNG FU\" MACAU GUIA RACE 1991",
+    "productCode": "PR64-190-91M09",
+    "make": "Mercedes-Benz",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7b/PR64-190-91M09.jpg/revision/latest?cb=20241120205018",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mercedes-Benz AMG CLK GTR 1997 FIA GT D2 Privat",
+    "productCode": "PR640095",
+    "make": "Mercedes-Benz",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/af/PR640095.jpg/revision/latest?cb=20241117225827",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mercedes-Benz AMG CLK GTR Black Chrome",
+    "productCode": "PR640308",
+    "make": "Mercedes-Benz",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f3/PR640308.jpg/revision/latest?cb=20260412004728",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mercedes-Benz AMG CLK GTR Silver",
+    "productCode": "PR640158",
+    "make": "Mercedes-Benz",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c7/PR640158.jpg/revision/latest?cb=20241117225259",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Lancer Evolution III - No.28 Hong Kong - Beijing 555 Rally 1996",
+    "productCode": "PR64-EVO3-96HB28",
+    "make": "Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/af/PR64-EVO3-96HB28.jpg/revision/latest?cb=20241120230103",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Lancer Evolution IV - 1999 Monte Carlo",
+    "productCode": "PR640402",
+    "make": "Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/26/PR640402.jpg/revision/latest?cb=20260410221812",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Lancer Evolution IV - Dark Grey",
+    "productCode": "PR640327",
+    "make": "Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/79/PR640327.jpg/revision/latest?cb=20260411180423",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Lancer Evolution IV Pyrenees Black Pearl",
+    "productCode": "PR640227",
+    "make": "Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c5/PR640227.jpg/revision/latest?cb=20241117225623",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Lancer Evolution IV Safari Rally Kenya 1998",
+    "productCode": "PR640231",
+    "make": "Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/23/PR640231.jpg/revision/latest?cb=20241230140324",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Lancer Evolution IV Steel Silver Metallic",
+    "productCode": "PR640140",
+    "make": "Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c8/PR640140.jpg/revision/latest?cb=20241117231221",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Lancer Evolution IV White Monster",
+    "productCode": "PR640167",
+    "make": "Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/ba/PR640167.jpg/revision/latest?cb=20241117224853",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Lancer Evolution IV Winner Rally De Catalunya 1997",
+    "productCode": "PR640165",
+    "make": "Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7c/PR640165.jpg/revision/latest?cb=20241117230756",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "Mitsubishi Lancer Evolution VI - Scotia White",
     "imageURL": null,
     "scale": "1/64",
     "series": ""
+  },
+  {
+    "modelName": "Mitsubishi Starion - 1986 Lombard RAC Rally #80",
+    "productCode": "PR64-STAR-86LOM80",
+    "make": "Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3f/PR64-STAR-86LOM80.jpg/revision/latest?cb=20241121005803",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Starion Black",
+    "productCode": "PR64-STAR-BLK",
+    "make": "Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1c/PR64-STAR-BLK.jpg/revision/latest?cb=20241214024723",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Starion No.10 1985 Macau Guia Race M. Lieu",
+    "productCode": "PR64-STAR-85MGR10",
+    "make": "Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/db/PR64-STAR-85MGR10.jpg/revision/latest?cb=20241121042737",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Starion Red",
+    "productCode": "PR64-STAR-RED",
+    "make": "Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/ca/PR64-STAR-RED.jpg/revision/latest?cb=20241129155540",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mitsubishi Starion Silver",
+    "productCode": "PR64-STAR-SL",
+    "make": "Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/54/PR64-STAR-SL.jpg/revision/latest?cb=20241120203251",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mugen DC2 - Phoenix Yellow",
+    "productCode": "PR640377",
+    "make": "Mugen",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/99/PR640377.jpg/revision/latest?cb=20260525124723",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Mugen DC2 - White",
+    "productCode": "PR640307",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d5/PR640307.jpg/revision/latest?cb=20260410205717",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan GT-R Nismo 400R Prototype",
+    "productCode": "PR640053",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d4/PR640053.jpg/revision/latest?cb=20241118015000",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan GT-R R33 Nismo 400R Midnight Purple",
+    "productCode": "PR640051",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3d/PR640051.jpg/revision/latest?cb=20241118000650",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan GT-R R33 Nismo 400R Super Clear Red",
+    "productCode": "PR640091",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/03/PR640091.jpg/revision/latest?cb=20241117232524",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan GT-R R33 Nismo 400R White",
+    "productCode": "PR640052",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/44/PR640052.jpg/revision/latest?cb=20241117230734",
+    "scale": "1/64",
+    "series": "Regular Collection"
   },
   {
     "modelName": "Nissan GT-R R35 - Ultimate Metal Silver",
@@ -48,10 +2413,2199 @@
     "series": ""
   },
   {
+    "modelName": "Nissan Laurel C130 APAxpo2025",
+    "productCode": "PR640348",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/eb/PR640348.jpg/revision/latest?cb=20260411174419",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan R32 GT-R - Vancouver Edition",
+    "productCode": "PR640424",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/59/PR640424.jpg/revision/latest?cb=20260412135829",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan R33 GT-R - Vancouver Edition",
+    "productCode": "PR640425",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/0a/PR640425.jpg/revision/latest?cb=20260412135837",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "NISSAN SKYLINE GT-R (R32) #1 \"WINFIELD TEAM NISSAN\" TOOHEYS 1000 1992",
+    "productCode": "PR64-R32P-92T01",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/26/PR64-R32P-92T01.jpg/revision/latest?cb=20241121182007",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Skyline GT-R R32",
+    "productCode": "PR640183",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/01/PR640183.jpg/revision/latest?cb=20241124030959",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Skyline GT-R R32 #22 Axia Group A",
+    "productCode": "PR640103",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/cd/PR640103.jpg/revision/latest?cb=20241118011612",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Skyline GT-R R32 Chase",
+    "productCode": "PR640184",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/90/PR640184.jpg/revision/latest?cb=20241206195653",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Skyline GT-R R32 Crystal White",
+    "productCode": "PR640157",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d2/PR640157.jpg/revision/latest?cb=20241117230459",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Skyline GT-R R32 Gun Grey Metallic",
+    "productCode": "PR640101",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/00/PR640101.jpg/revision/latest?cb=20241117232550",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Skyline GT-R R32 JTC 1990 Calsonic #12",
+    "productCode": "PR640104",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/04/PR640104.jpg/revision/latest?cb=20241117231145",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "Nissan Skyline GT-R R34 - Bayside Blue",
     "imageURL": null,
     "scale": "1/64",
     "series": ""
+  },
+  {
+    "modelName": "Nissan Stagea - Magic Purple",
+    "productCode": "PR640382",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/25/PR640382.jpg/revision/latest?cb=20260411172313",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Stagea Blue/Silver",
+    "productCode": "PR640060",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/84/PR640060.jpg/revision/latest?cb=20241118014301",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Stagea Calsonic Livery",
+    "productCode": "PR640059",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3f/PR640059.jpg/revision/latest?cb=20241117233916",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Stagea Chrome Silver",
+    "productCode": "PR640056",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2b/PR640056.jpg/revision/latest?cb=20241118015017",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Stagea Gold Chrome",
+    "productCode": "PR640057",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f7/PR640057.jpg/revision/latest?cb=20241118011458",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Stagea Pennzoil",
+    "productCode": "PR640021",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fc/PR640021.jpg/revision/latest?cb=20241120191350",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Stagea Race Department",
+    "productCode": "PR640001",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e8/PR640001.jpg/revision/latest?cb=20241118020637",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Stagea Silver",
+    "productCode": "PR64-NR34-STSIL",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d4/PR64-NR34-STSIL.jpg/revision/latest?cb=20241120194130",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Stagea Simon's Garage #62",
+    "productCode": "PR640171",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7e/PR640171.jpg/revision/latest?cb=20241117225307",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Nissan Stagea Simon's Garage #62 Black",
+    "productCode": "PR640211",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a5/PR640211.jpg/revision/latest?cb=20241118012244",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "NNISSAN SKYLINE GT-R (R32) \"PENNZOIL\" RETRO LIVERY CONCEPT",
+    "productCode": "PR64-R32P-PENNZOIL",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/64/PR64-R32P-PENNZOIL.jpg/revision/latest?cb=20241120230119",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "NSX GT3 EVO22",
+    "productCode": "PR640027",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/27/PR640027.jpg/revision/latest?cb=20260411182615",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pagani Zonda R - Carbon",
+    "productCode": "PR640125",
+    "make": "Pagani",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/54/PR640125.jpg/revision/latest?cb=20260410220505",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pagani Zonda R - White",
+    "productCode": "PR640298",
+    "make": "Pagani",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/bf/PR640298.jpg/revision/latest?cb=20260410205654",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem 280X - Orange",
+    "productCode": "PR640317",
+    "make": "Datsun Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2e/PR640317.jpg/revision/latest?cb=20260511030521",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem 280ZX - ADVAN",
+    "productCode": "PR640335",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/63/PR640335.jpg/revision/latest?cb=20260411175202",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem 280ZX - Blue",
+    "productCode": "PR640315",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/33/PR640315.jpg/revision/latest?cb=20260410213515",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem 280ZX - Gun Metal",
+    "productCode": "PR640390",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/47/PR640390.jpg/revision/latest?cb=20260410221738",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem 280ZX - Raw Metal",
+    "productCode": "PR640410",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e2/PR640410.jpg/revision/latest?cb=20260410205741",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem 280ZX - Red",
+    "productCode": "PR640302",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f1/PR640302.jpg/revision/latest?cb=20260411181206",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem BRZ - Garasi Drift \"Brziko\"",
+    "productCode": "PR640363",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/30/PR640363.jpg/revision/latest?cb=20260411173111",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6",
+    "productCode": "PR640127",
+    "make": "Honda Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/24/PR640127.jpg/revision/latest?cb=20241117231214",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6 \"Kanjozoku\"",
+    "productCode": "PR640163",
+    "make": "Honda Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/35/PR640163.jpg/revision/latest?cb=20241230140301",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6 - Blue/Yellow",
+    "productCode": "PR640365",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e3/PR640365.jpg/revision/latest?cb=20260411172303",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6 - VDX",
+    "productCode": "PR640457",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b6/PR640457.jpg/revision/latest?cb=20260410215531",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6 Gold Chrome",
+    "productCode": "PR640246",
+    "make": "Honda Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/19/PR640246.jpg/revision/latest?cb=20250408004251",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6 Magic Chrome",
+    "productCode": "PR640170",
+    "make": "Honda Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1e/PR640170.jpg/revision/latest?cb=20241117224901",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6 Metallic Blue with Open Hood",
+    "productCode": "PR640174",
+    "make": "Honda Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3e/PR640174.jpg/revision/latest?cb=20241121111841",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6 v1.5 Blue Chrome",
+    "productCode": "PR640206",
+    "make": "Honda Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/eb/PR640206.jpg/revision/latest?cb=20241128135151",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6 v1.5 Idemitsu Motion Infinite",
+    "productCode": "PR640155",
+    "make": "Honda Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b8/PR640155.jpg/revision/latest?cb=20241117225002",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6 v1.5 Idemitsu Motion Infinte",
+    "productCode": "PR640212",
+    "make": "Honda Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/bd/PR640212.jpg/revision/latest?cb=20241117224909",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6 v1.5 JACCS",
+    "productCode": "PR640128",
+    "make": "Honda Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/30/PR640128.jpg/revision/latest?cb=20241117230223",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Civic EG6 Yellow",
+    "productCode": "PR640243",
+    "make": "Honda Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e1/PR640243.jpg/revision/latest?cb=20250408004241",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Datsun 620 - ADVAN",
+    "productCode": "PR640314",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/0a/PR640314.jpg/revision/latest?cb=20260410215354",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Datsun 620 - White",
+    "productCode": "PR640350",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d6/PR640350.jpg/revision/latest?cb=20260411174106",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Datsun 620 Blue",
+    "productCode": "PR640217",
+    "make": "Datsun Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e5/PR640217.jpg/revision/latest?cb=20241121111859",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Datsun 620 Las Vegas Supercon 2026",
+    "productCode": "PR640498",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/ca/PR640498.jpg/revision/latest?cb=20260414222117",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Datsun 620 Mooneyes",
+    "productCode": "PR640250",
+    "make": "Datsun Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fd/PR640250.jpg/revision/latest?cb=20250321113530",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Datsun 620 Tokyo Auto Salon 2025",
+    "productCode": "PR640219",
+    "make": "Pandem Datsun",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a9/PR640219.jpg/revision/latest?cb=20250109135335",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem E30 Touring - Red",
+    "productCode": "PR640543",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6d/PR640543.jpg/revision/latest?cb=20260617182608",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem E30 Touring - Silver",
+    "productCode": "PR640536",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b0/PR640536.jpg/revision/latest?cb=20260623110003",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem EG6 - Los Angeles Edition",
+    "productCode": "PR640415",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/cb/PR640415.jpg/revision/latest?cb=20260412135818",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem EG6 - Sharkmouth Dark Green",
+    "productCode": "PR640383",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/99/PR640383.jpg/revision/latest?cb=20260411171616",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem EG6 - Sharkmouth Raw",
+    "productCode": "PR640384",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem EG6 Tokyo Auto Salon 2025",
+    "productCode": "PR640245",
+    "make": "Pandem Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/16/PR640245.jpg/revision/latest?cb=20250109135405",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Fuso 300 - Flatbed Transporter - White",
+    "productCode": "PR640484",
+    "make": "Pandem Mitsubishi",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/43/PR640484.jpg/revision/latest?cb=20260410205842",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Fuso 300 Flatbed Transporter - ADVAN",
+    "productCode": "PR640511",
+    "make": "Mitsubishi Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1d/PR640511.jpg/revision/latest?cb=20260511030552",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Supra - Goodride",
+    "productCode": "PR640456",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/55/PR640456.jpg/revision/latest?cb=20260410215520",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Supra Advan Livery & Race Queen Set",
+    "productCode": "PR64-PANA90-ADV",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8b/PR64-PANA90-ADV.jpg/revision/latest?cb=20241129155556",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Supra D1GP 2023 Daigo Saito",
+    "productCode": "PR640179",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/63/PR640179.jpg/revision/latest?cb=20241118012511",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Supra D1GP 2024 Daigo Saito",
+    "productCode": "PR640180",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1c/PR640180.jpg/revision/latest?cb=20241121111850",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Supra Gazoo Racing",
+    "productCode": "PR64-PANA90-GZ",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1e/PR64-PANA90-GZ.jpg/revision/latest?cb=20241218203159",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Supra Metallic Blue",
+    "productCode": "PR64-PANA90-BLU",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2e/PR64-PANA90-BLU.jpg/revision/latest?cb=20241120203156",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Supra Tokyo Auto Salon 2025",
+    "productCode": "PR640232",
+    "make": "Pandem Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1a/PR640232.jpg/revision/latest?cb=20250109135349",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris - Carbon Edition",
+    "productCode": "PR640394",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/aa/PR640394.jpg/revision/latest?cb=20260410221800",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris - Raw Metal",
+    "productCode": "PR640329",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8a/PR640329.jpg/revision/latest?cb=20260411175603",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Advan",
+    "productCode": "PR64-GRYA-ADV2",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/ca/PR64-GRYA-ADV2.jpg/revision/latest?cb=20241129153412",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Black",
+    "productCode": "PR640247",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/27/PR640247.jpg/revision/latest?cb=20250408004300",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Coca Cola",
+    "productCode": "PR640064",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9c/PR640064.jpg/revision/latest?cb=20241128003625",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Cusco",
+    "productCode": "PR64-GRYA-CUSC",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/44/PR64-GRYA-CUSC.jpg/revision/latest?cb=20241129162649",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Daigo Saito",
+    "productCode": "PR640106",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4a/PR640106.jpg/revision/latest?cb=20241117232101",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Dark Chrome",
+    "productCode": "PR640055",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/96/PR640055.jpg/revision/latest?cb=20241128152020",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Fensport",
+    "productCode": "PR64-GRYA-FNSP",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/53/PR64-GRYA-FNSP.jpg/revision/latest?cb=20241129162700",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Finland",
+    "productCode": "PR640013",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a4/PR640013.jpg/revision/latest?cb=20241120192520",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Gulf",
+    "productCode": "PR640065",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d1/PR640065.jpg/revision/latest?cb=20241118014113",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris HKS",
+    "productCode": "PR640022",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5a/PR640022.jpg/revision/latest?cb=20241120191358",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Marlboro",
+    "productCode": "PR640066",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/46/PR640066.jpg/revision/latest?cb=20241128004105",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Melvyn Evans Motorsports",
+    "productCode": "PR640136",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6d/PR640136.jpg/revision/latest?cb=20241117230741",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Pandem White",
+    "productCode": "PR64-GRYA-PWH1",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/41/PR64-GRYA-PWH1.jpg/revision/latest?cb=20241129153055",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Red",
+    "productCode": "PR640004",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/99/PR640004.jpg/revision/latest?cb=20241120193136",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris Satin Gold",
+    "productCode": "PR640041",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/0e/PR640041.jpg/revision/latest?cb=20241118014926",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR Yaris SGTV Taiwan Special Edition Satin Gold",
+    "productCode": "PR640112",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a2/PR640112.jpg/revision/latest?cb=20241117232558",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR86 - CUSCO",
+    "productCode": "PR640337",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/ae/PR640337.jpg/revision/latest?cb=20260410221717",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR86 - Daigo Saito Formula Drift Japan 2022",
+    "productCode": "PR640265",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/02/PR640265.jpg/revision/latest?cb=20260411235613",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR86 - Tengku Djan Ley",
+    "productCode": "PR640336",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/0b/PR640336.jpg/revision/latest?cb=20260410205729",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR86 ADVAN",
+    "productCode": "PR640228",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/20/PR640228.jpg/revision/latest?cb=20250227220934",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem GR86 Silver",
+    "productCode": "PR640235",
+    "make": "Pandem Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/76/PR640235.jpg/revision/latest?cb=20250106150312",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Hakosuka - Blue",
+    "productCode": "PR640467",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/51/PR640467.jpg/revision/latest?cb=20260410215553",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Honda Civic EG6 - Dark Chrome",
+    "productCode": "PR640208",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/87/PR640208.jpg/revision/latest?cb=20260411235015",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Lotus Elise - Purple",
+    "productCode": "PR640448",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/0e/PR640448.jpg/revision/latest?cb=20260410215509",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem R32 - Gun Metal",
+    "productCode": "PR640508",
+    "make": "Nissan Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b2/PR640508.jpg/revision/latest?cb=20260511030542",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem S13 - EVA RT Test Type-01",
+    "productCode": "PR640432",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2a/PR640432.jpg/revision/latest?cb=20260410221834",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem S13 - Red Chrome",
+    "productCode": "PR640288",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/57/PR640288.jpg/revision/latest?cb=20260411190957",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem S13 - White/Purple",
+    "productCode": "PR640455",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d8/PR640455.jpg/revision/latest?cb=20260410220706",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem S2000 - Metallic Blue",
+    "productCode": "PR640524",
+    "make": "Pandem Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b6/PR640524.jpg/revision/latest?cb=20260518123929",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem S2000 - Silver",
+    "productCode": "PR640451",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/17/PR640451.jpg/revision/latest?cb=20260410220654",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem S2000 - White",
+    "productCode": "PR640300",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/54/PR640300.jpg/revision/latest?cb=20260411181146",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem S2000 Hard Top - White",
+    "productCode": "PR640389",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/00/PR640389.jpg/revision/latest?cb=20260411171343",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Silvia S13 - 2020 D1 Lights Yellow/White",
+    "productCode": "PR640361",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/42/PR640361.jpg/revision/latest?cb=20260411171319",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Silvia S13 - Moontech Blue",
+    "productCode": "PR640264",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8a/PR640264.jpg/revision/latest?cb=20260411235622",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Silvia S13 Black",
+    "productCode": "PR640289",
+    "make": "Pandem Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d5/PR640289.jpg/revision/latest?cb=20250414133943",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Silvia S13 MOONTECH",
+    "productCode": "PR640258",
+    "make": "Pandem Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/20/PR640258.jpg/revision/latest?cb=20250227220943",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Porsche 997 LB Works Gulf Oil",
+    "productCode": "PR64-P997-LWGU",
+    "make": "Porsche",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/51/PR64-P997-LWGU.jpg/revision/latest?cb=20241129162711",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB 930 - Apple",
+    "productCode": "PR640474",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b4/PR640474.jpg/revision/latest?cb=20260410205830",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB 930 - Matte Black \"Stella Artois\"",
+    "productCode": "PR640468",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/de/PR640468.jpg/revision/latest?cb=20260410205816",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB 930 - Pink Pig",
+    "productCode": "PR640535",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d9/PR640535.jpg/revision/latest?cb=20260611130929",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB 997 \"PHILA\"",
+    "productCode": "PR64-RWBP-97RD",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/45/PR64-RWBP-97RD.jpg/revision/latest?cb=20241129162845",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB 997 AVA",
+    "productCode": "PR640187",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3f/PR640187.jpg/revision/latest?cb=20250321113521",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB 997 Dark Green",
+    "productCode": "PR640063",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/45/PR640063.jpg/revision/latest?cb=20241118011506",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB 997 Pink",
+    "productCode": "PR640202",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/82/PR640202.jpg/revision/latest?cb=20241117225343",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB 997 Rothmans",
+    "productCode": "PR640028",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9c/PR640028.jpg/revision/latest?cb=20241120191430",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB 997 Silver",
+    "productCode": "PR640130",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/44/PR640130.jpg/revision/latest?cb=20241118012717",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB 997 Tiffany Blue",
+    "productCode": "PR640237",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a4/PR640237.jpg/revision/latest?cb=20241230140347",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB 997 Yellow",
+    "productCode": "PR640014",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/52/PR640014.jpg/revision/latest?cb=20241118015508",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB AE86 - Gold",
+    "productCode": "PR640411",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fb/PR640411.jpg/revision/latest?cb=20260410220550",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RWB AE86 - White Black",
+    "productCode": "PR640496",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/26/PR640496.jpg/revision/latest?cb=20260413113202",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Shelby Mustang GT500 - Red",
+    "productCode": "PR640182",
+    "make": "Shelby",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/95/PR640182.jpg/revision/latest?cb=20260411183922",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Shelby Mustang GT500 Dark Chrome",
+    "productCode": "PR640218",
+    "make": "Shelby",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/2b/PR640218.jpg/revision/latest?cb=20241121111907",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Shelby Mustang GT500 Grey/Black",
+    "productCode": "PR640195",
+    "make": "Shelby",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4a/PR640195.jpg/revision/latest?cb=20241118012235",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Shelby Mustang GT500 Gun Chrome",
+    "productCode": "PR640423",
+    "make": "Shelby",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6c/PR640423.jpg/revision/latest?cb=20260430233620",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Shelby Mustang GT500 Silver Chrome",
+    "productCode": "PR640312",
+    "make": "Shelby",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f3/PR640312.jpg/revision/latest?cb=20260411180658",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Shell Honda Civic Type-R (FL5)",
+    "productCode": "PR640037",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1d/PR640037.jpg/revision/latest?cb=20241118000642",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Shell Pandem GR Yaris",
+    "productCode": "PR640039",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4c/PR640039.jpg/revision/latest?cb=20241117233900",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Shell Valino Stagea R34 Pluto MOK Driftagea 34",
+    "productCode": "PR640038",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/61/PR640038.jpg/revision/latest?cb=20241118014906",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Shell Volkswagen Golf GTI MKII",
+    "productCode": "PR640036",
+    "make": "Volkswagen",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d5/PR640036.jpg/revision/latest?cb=20241118015249",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer - SCCS Homage",
+    "productCode": "PR640201",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/50/PR640201.jpg/revision/latest?cb=20260411234746",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer - Spa 1000KM 1971",
+    "productCode": "PR640395",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fc/PR640395.jpg/revision/latest?cb=20260410215425",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer 911 (964) Gold",
+    "productCode": "PR64-SGR-GLD",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e2/PR64-SGR-GLD.jpg/revision/latest?cb=20241120200421",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer 964 - Tiffany Blue",
+    "productCode": "PR640205",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/98/PR640205.jpg/revision/latest?cb=20260411234756",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer 964 Wakeboard Blue",
+    "productCode": "PR640018",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b9/PR640018.jpg/revision/latest?cb=20241120192655",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Christmas Edition",
+    "productCode": "PR64-SGR-CHR",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/66/PR64-SGR-CHR.jpg/revision/latest?cb=20241120195353",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Christmas Edition 2023",
+    "productCode": "PR640084",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3b/PR640084.jpg/revision/latest?cb=20241118000737",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer DLS Turbo (Road) Gold",
+    "productCode": "PR640132",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e0/PR640132.jpg/revision/latest?cb=20241117230437",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer DLS Turbo (Track) Orange",
+    "productCode": "PR640131",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/36/PR640131.jpg/revision/latest?cb=20241117230232",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer DLS Turbo (Track) White",
+    "productCode": "PR640226",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a7/PR640226.jpg/revision/latest?cb=20241128135208",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer DLS Turbo - Black",
+    "productCode": "PR640292",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/78/PR640292.jpg/revision/latest?cb=20260411181526",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer DLS Turbo - Ice Green",
+    "productCode": "PR640495",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4a/PR640495.jpg/revision/latest?cb=20260413113150",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer DLS Turbo - Metallic Blue",
+    "productCode": "PR640449",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c7/PR640449.jpg/revision/latest?cb=20260410220633",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Gold Roof Rack & Luggage",
+    "productCode": "PR64-SGR-GLD2",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/53/PR64-SGR-GLD2.jpg/revision/latest?cb=20241129162858",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Grey with Luggage Rack",
+    "productCode": "PR64-SGR-GRY2",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/da/PR64-SGR-GRY2.jpg/revision/latest?cb=20241129162911",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Grey/Blue",
+    "productCode": "PR64-SGR-GYB",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c3/PR64-SGR-GYB.jpg/revision/latest?cb=20241215233108",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Gunmetal",
+    "productCode": "PR64-SGR-GUS",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/20/PR64-SGR-GUS.jpg/revision/latest?cb=20241215233036",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Martini",
+    "productCode": "PR64-SGR-MAR",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a4/PR64-SGR-MAR.jpg/revision/latest?cb=20241206021039",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Monaco (Midnight Blue)",
+    "productCode": "PR640100",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8b/PR640100.jpg/revision/latest?cb=20241117233954",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Mulholland Drive",
+    "productCode": "PR640010",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7f/PR640010.jpg/revision/latest?cb=20241120192455",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Pink",
+    "productCode": "PR64-SGR-PK01",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/08/PR64-SGR-PK01.jpg/revision/latest?cb=20241120200429",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Purple Roof Rack & Surfboards",
+    "productCode": "PR64-SGR-PUP2",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d0/PR64-SGR-PUP2.jpg/revision/latest?cb=20241118020329",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Silver and Blue",
+    "productCode": "PR640188",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/22/PR640188.jpg/revision/latest?cb=20241117230803",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Targa",
+    "productCode": "PR640044",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/ae/PR640044.jpg/revision/latest?cb=20241118014934",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Targa - Bronze Chrome",
+    "productCode": "PR640527",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/aa/PR640527.jpg/revision/latest?cb=20260518123941",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Targa - Green",
+    "productCode": "PR640068",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7e/PR640068.jpg/revision/latest?cb=20260410215321",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Targa Christmas Edition",
+    "productCode": "PR640083",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fb/PR640083.jpg/revision/latest?cb=20241118000729",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Targa Dark Grey Metallic",
+    "productCode": "PR64-SGTA-GY01",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/13/PR64-SGTA-GY01.jpg/revision/latest?cb=20241129155142",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Targa Gulf",
+    "productCode": "PR640078",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c3/PR640078.jpg/revision/latest?cb=20241118000722",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Targa Orange",
+    "productCode": "PR64-SGTA-OR01",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/49/PR64-SGTA-OR01.jpg/revision/latest?cb=20241129154447",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Targa Silver",
+    "productCode": "PR64-SGTA-SL01",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d6/PR64-SGTA-SL01.jpg/revision/latest?cb=20241120194146",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Targa Tiffany Blue",
+    "productCode": "PR640006",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/84/PR640006.jpg/revision/latest?cb=20241120193159",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Singer Tiffany",
+    "productCode": "PR64-SGR-BLU",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/39/PR64-SGR-BLU.jpg/revision/latest?cb=20241215232305",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "SingerDLS Turbo - Green",
+    "productCode": "PR640326",
+    "make": "Singer",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/96/PR640326.jpg/revision/latest?cb=20260411180412",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline C210 - Dark Green",
+    "productCode": "PR640345",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1f/PR640345.jpg/revision/latest?cb=20260411174733",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline C210 Kaido Racer Bosozoku Style",
+    "productCode": "PR640026",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/cd/PR640026.jpg/revision/latest?cb=20241120191423",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline C210 Kaido Racer Bosozoku Style Coca Cola JP",
+    "productCode": "PR640135",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b1/PR640135.jpg/revision/latest?cb=20241117230444",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline C210 Kaido Racer Bosozoku Style Green / Silver",
+    "productCode": "PR640061",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3e/PR640061.jpg/revision/latest?cb=20241117232500",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline C210 Kaido Racer Bosozoku Style Matte Black",
+    "productCode": "PR640073",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/91/PR640073.jpg/revision/latest?cb=20241118000714",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline C210 Kaido Racer Bosozoku Style Purple Chrome / Silver",
+    "productCode": "PR640107",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f6/PR640107.jpg/revision/latest?cb=20241117230215",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline C210 Kaido Racer Bosozuko Style - BAPE 30th Anniversary Edition",
+    "productCode": "PR640009",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c9/PR640009.jpg/revision/latest?cb=20241118015458",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R (BNR32) - Magic Color",
+    "productCode": "PR640426",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3a/PR640426.jpg/revision/latest?cb=20260411171038",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R Drift (Kenmeri) Advan Livery",
+    "productCode": "PR640199",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/67/PR640199.jpg/revision/latest?cb=20241117225335",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R Drift (Kenmeri) FFR",
+    "productCode": "PR640238",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/27/FFRKenmeri.jpg/revision/latest?cb=20241212203208",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R Drift (Kenmeri) Orange",
+    "productCode": "PR640173",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b4/PR640173.jpg/revision/latest?cb=20241117225615",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R R32",
+    "productCode": "PR640190",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/78/PR640190.jpg/revision/latest?cb=20260411234526",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R R32 - Group A 1992",
+    "productCode": "PR640291",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6d/PR640291.jpg/revision/latest?cb=20260411181515",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R R32 Ghost Chameleon",
+    "productCode": "PR640357",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5f/PR640357.jpg/revision/latest?cb=20260411173549",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R R33 - Ghost Chameleon",
+    "productCode": "PR640356",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f3/PR640356.jpg/revision/latest?cb=20260411173559",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R R33 - Magic Color",
+    "productCode": "PR640427",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/26/PR640427.jpg/revision/latest?cb=20260411171048",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R R33 Midnight Purple",
+    "productCode": "PR640256",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c4/PR640256.jpg/revision/latest?cb=20250106150333",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka)",
+    "productCode": "PR640351",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3a/PR640351352.jpg/revision/latest?cb=20260411173852",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) - Toronto Dinner Edition",
+    "productCode": "PR640181",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) Advan Livery",
+    "productCode": "PR640081",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9d/PR640081.jpg/revision/latest?cb=20241117232508",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) Calsonic",
+    "productCode": "PR640114",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f8/PR640114.jpg/revision/latest?cb=20250213125305",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) Coca Cola Chrome Black",
+    "productCode": "PR640144",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/38/PR640144.jpg/revision/latest?cb=20241117225607",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) Coca-Cola Chrome Black (JP)",
+    "productCode": "PR640161",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9b/PR640161.jpg/revision/latest?cb=20241117224603",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) Dark Chrome",
+    "productCode": "PR640118",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/40/PR640118.jpg/revision/latest?cb=20241117234003",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) FFR",
+    "productCode": "PR640239",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f8/FFRHakosuka.jpg/revision/latest?cb=20241212203155",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) Gold",
+    "productCode": "PR640248",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c4/PR640248.jpg/revision/latest?cb=20250414205723",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) Magic Purple",
+    "productCode": "PR640151",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/75/PR640151.jpg/revision/latest?cb=20241117225251",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) Red/Black",
+    "productCode": "PR640267",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/46/PR640267.jpg/revision/latest?cb=20250321113547",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) Watanabe",
+    "productCode": "PR640075",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1f/PR640075.jpg/revision/latest?cb=20250106150253",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Hakosuka) White",
+    "productCode": "PR640113",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/7a/PR640113.jpg/revision/latest?cb=20241117232608",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline GT-R V8 Drift (Kenmeri) NPA Style",
+    "productCode": "PR640252",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fa/PR640252.jpg/revision/latest?cb=20250321113539",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Skyline KPGC110 Kenmeri Red/Black",
+    "productCode": "PR640266",
+    "make": "Nissan",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/a/a1/PR640266.jpg/revision/latest?cb=20250414133853",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "SPOON / POP RACE Civic Type-R FL5 - SPOON",
+    "productCode": "PR640469",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/48/PR640469.jpg/revision/latest?cb=20260410215606",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "SPOON NSX-R GT Macau GP - SPOON",
+    "productCode": "PR640414",
+    "make": "Honda",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/71/PR640414.jpg/revision/latest?cb=20260410215446",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Subaru BRZ (2022) Blue",
+    "productCode": "PR64-BRZ-BL01",
+    "make": "Subaru",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9e/PR64-BRZ-BL01.jpg/revision/latest?cb=20241216165020",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Subaru BRZ (2022) Crystal Black",
+    "productCode": "PR64-SBRZ-BK01",
+    "make": "Subaru",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/da/PR64-SBRZ-BK01.jpg/revision/latest?cb=20241201022905",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Subaru BRZ (2022) Crystal White",
+    "productCode": "PR64-SBRZ-WH01",
+    "make": "Subaru",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f0/PR64-SBRZ-WH01.jpg/revision/latest?cb=20241201022847",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Subaru BRZ Magnetite Grey",
+    "productCode": "PR64-SBRZ-GR01",
+    "make": "Subaru",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9c/PR64-SBRZ-GR01.jpg/revision/latest?cb=20241120195345",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Subaru BRZ Sapphire Blue",
+    "productCode": "PR640020",
+    "make": "Subaru",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/34/PR640020.jpg/revision/latest?cb=20241120191342",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Subaru BRZ Tokyo Subaru Racing",
+    "productCode": "PR640088",
+    "make": "Subaru",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/f0/PR640088.jpg/revision/latest?cb=20241117232516",
+    "scale": "1/64",
+    "series": "Regular Collection"
   },
   {
     "modelName": "Subaru Impreza WRX STI - World Rally Blue",
@@ -60,15 +4614,477 @@
     "series": ""
   },
   {
+    "modelName": "TA22 Celica - Red",
+    "productCode": "PR640482",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e9/PR640482.jpg/revision/latest?cb=20260413113139",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Top Secret GT-R R33 Gold",
+    "productCode": "PR640150",
+    "make": "Top Secret",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/75/PR640150.jpg/revision/latest?cb=20241118012210",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Top Secret GT300 Supra - Black",
+    "productCode": "PR640447",
+    "make": "Top Secret",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/81/PR640447.jpg/revision/latest?cb=20260410205209",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Top Secret GT300 Supra - Grey",
+    "productCode": "PR640422",
+    "make": "Top Secret",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/44/PR640422.jpg/revision/latest?cb=20260410205252",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Top Secret GT300 Supra - Purple Chrome",
+    "productCode": "PR640458",
+    "make": "Top Secret",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/00/PR640458.jpg/revision/latest?cb=20260410215542",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Top Secret GT300 Supra - Raw Metal",
+    "productCode": "PR640332",
+    "make": "Top Secret",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/4c/PR640332.jpg/revision/latest?cb=20260411175328",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Top Secret GT300 Supra - Silver",
+    "productCode": "PR640324",
+    "make": "Top Secret",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/80/PR640324.jpg/revision/latest?cb=20260411180403",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Top Secret GT300 Supra - Silver Chrome",
+    "productCode": "PR640325",
+    "make": "Top Secret",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/47/PR640325.jpg/revision/latest?cb=20260410221705",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Top Secret GT300 Supra - White",
+    "productCode": "PR640364",
+    "make": "Top Secret",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/70/PR640364.jpg/revision/latest?cb=20260410215404",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Top Secret GT300 Supra Chrome Gold",
+    "productCode": "PR640277",
+    "make": "Top Secret Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c9/PR640277.jpg/revision/latest?cb=20250414133926",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Top Secret GT300 Supra Gold",
+    "productCode": "PR640229",
+    "make": "Top Secret Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/bc/PR640229.jpg/revision/latest?cb=20250106150302",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota AE86 - #23 \"CHOWINI'S\" Macau Guia Race 1984",
+    "productCode": "PR64-86-84M23",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/82/PR64-86-84M23.jpg/revision/latest?cb=20241121182306",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota Altezza RS200 - #11 \"ADVAN\" Macau Guia Race 2001",
+    "productCode": "PR64-ALT-01M11",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6f/PR64-ALT-01M11.jpg/revision/latest?cb=20241121004658",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota Celica - Rally New Zealand 1994 #5",
+    "productCode": "PR64-185-94WRC05",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d5/PR64-185-94WRC05.jpg/revision/latest?cb=20241129164506",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota Celica GT-Four ST185 Black",
+    "productCode": "PR64-185-BLK",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/3a/PR64-185-BLK.jpg/revision/latest?cb=20241121010618",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota Celica GT-Four ST185 Grey Metallic",
+    "productCode": "PR64-185-GRY",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/e/e8/PR64-185-GRY.jpg/revision/latest?cb=20241121010026",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota Celica GT-Four ST185 Safari Rallye 1993 Winner #1",
+    "productCode": "PR64-185-93WRC01",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9b/PR64-185-93WRC01.jpg/revision/latest?cb=20241121020219",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota Celica Safari Rally 1994 Winner #3 Ian Duncan / David Williamson",
+    "productCode": "PR64-185-94WRC03",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/93/PR64-185-94WRC03.jpg/revision/latest?cb=20241121010226",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota Celica Super White",
+    "productCode": "PR64-185-WHT",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b3/PR64-185-WH.jpg/revision/latest?cb=20241121005910",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota Corolla KE 25 - Matte Grey",
+    "productCode": "PR640305",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5e/PR640305.jpg/revision/latest?cb=20260410215343",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota Corolla KE 25 - Orange",
+    "productCode": "PR640409",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b3/PR640409.jpg/revision/latest?cb=20260410221823",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota GR 86 Neptune Blue",
+    "productCode": "PR640012",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/68/PR640012.jpg/revision/latest?cb=20241120192513",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota GR Vios Blue",
+    "productCode": "PR64-TVIO-19BL",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/39/PR64-TVIO-19BL.jpg/revision/latest?cb=20241129162939",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota GR Vios Silver",
+    "productCode": "PR64-TVIO-19SL",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/66/PR64-TVIO-19SL.jpg/revision/latest?cb=20241129154048",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota GR Vios Vios Cup",
+    "productCode": "PR64-TVIO-21CP",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d1/PR64-TVIO-21CP.jpg/revision/latest?cb=20241128223250",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota GR Vios White",
+    "productCode": "PR640094",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/98/PR640094.jpg/revision/latest?cb=20241117232535",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota GR Yaris EVA RT Test Type-01 Goodride ACGHK 2024",
+    "productCode": "PR640123",
+    "make": "Toyota Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/56/PR640123.jpg/revision/latest?cb=20241118013219",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota GR86 (2022) 10th Anniversary Version",
+    "productCode": "PR64-GR86-OR01",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/36/PR64-GR86-OR01.jpg/revision/latest?cb=20241129155120",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota GR86 (2022) Grey",
+    "productCode": "PR64-GR86-GR01",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/09/PR64-GR86-GR01.jpg/revision/latest?cb=20241216170959",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota GR86 (2022) Halo White",
+    "productCode": "PR64-GR86-WH01",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d3/PR64-GR86-WH01.jpg/revision/latest?cb=20241216170529",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota GR86 (2022) Track Red",
+    "productCode": "PR64-GR86-RD01",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/03/PR64-GR86-RD01.jpg/revision/latest?cb=20241216170508",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "Toyota GR86 2022 - Ignition Red",
     "imageURL": null,
     "scale": "1/64",
     "series": ""
   },
   {
+    "modelName": "Toyota GR86 Advan",
+    "productCode": "PR640024",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/2/21/PR640024.jpg/revision/latest?cb=20241120191406",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Toyota GR86 TMC Wako's Macau GP 2023",
+    "productCode": "PR640079",
+    "make": "Toyota",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/d8/PR640079.jpg/revision/latest?cb=20241117233947",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "Toyota Supra MK4 - Super White",
     "imageURL": null,
     "scale": "1/64",
     "series": ""
+  },
+  {
+    "modelName": "Volkswagen Golf GTI MKII Grey",
+    "productCode": "PR64-GFM2-GRY",
+    "make": "Volkswagen",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fb/PR64-GFM2-GRY.jpg/revision/latest?cb=20241129162608",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Volkswagen Golf GTI MKII Red",
+    "productCode": "PR640003",
+    "make": "Volkswagen",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/5d/PR640003.jpg/revision/latest?cb=20241120193127",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Volkswagen Golf GTI MKII WRC 1986",
+    "productCode": "PR64-GFM2-VWM",
+    "make": "Volkswagen",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fe/PR64-GFM2-VWM.jpg/revision/latest?cb=20241129162620",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Volvo 850 Estate BTCC 1994 #14",
+    "productCode": "PR64-850-BTCC14",
+    "make": "Volvo",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/03/PR64-850-BTCC14.jpg/revision/latest?cb=20241121012715",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Volvo 850 Estate Nurburgring 1995 #14",
+    "productCode": "PR64-850-95N2414",
+    "make": "Volvo",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/89/PR64-850-95N2414.jpg/revision/latest?cb=20241121020049",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Volvo 850 Estate Nurburgring 1996 #12",
+    "productCode": "PR64-850-96N2412",
+    "make": "Volvo",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/6a/PR64-850-96N2412.jpg/revision/latest?cb=20241121020058",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Volvo 850 T5-R Estate Cream Yellow",
+    "productCode": "PR64-850-CYL",
+    "make": "Volvo",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/6/67/PR64-850-CYL.jpg/revision/latest?cb=20241121012620",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Volvo 850 T5-R Estate Touring Car Prototype",
+    "productCode": "PR64-850-GRN",
+    "make": "Volvo",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/c/c5/PR64-850-GRN.jpg/revision/latest?cb=20241121012332",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Yangwang U9 - Silver",
+    "productCode": "PR640442",
+    "make": "Yangwang",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/9/9d/PR640442.jpg/revision/latest?cb=20260410221900",
+    "scale": "1/64",
+    "series": "Regular Collection"
   }
 ]
