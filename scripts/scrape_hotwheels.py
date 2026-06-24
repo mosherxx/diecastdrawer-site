@@ -10,6 +10,9 @@ Outputs: data/hotwheels_releases.json
 IMAGE GOTCHA: thumbnails are lazy-loaded (data:image/gif placeholders), so the
 real full-res URL lives in the anchor <a href> wrapping each thumbnail. We
 extract from the href and strip the scale-to-width-down thumbnail segment.
+
+RLC: in addition to the yearly lists, we scrape the Red Line Club membership
+pages (YEAR_HWC/RLC_Releases) and tag those items category="RLC".
 """
 
 from __future__ import annotations
@@ -25,6 +28,9 @@ import requests
 from bs4 import BeautifulSoup
 
 YEARS  = list(range(2018, 2027))
+# RLC (Red Line Club) membership pages — different table layout than the yearly
+# lists. Items from these are tagged category="RLC".
+RLC_PAGES = [(y, f"{y}_HWC/RLC_Releases") for y in range(2018, 2027)]
 OUTPUT = "data/hotwheels_releases.json"
 API    = "https://hotwheels.fandom.com/api.php"
 
@@ -48,6 +54,8 @@ def normalize(url: str) -> str:
 
 
 def best_image_from_cell(cell):
+    if cell is None:
+        return None
     for a in cell.find_all("a", href=True):
         href = a["href"]
         if IMG_HOST in href and "/revision/latest" in href:
@@ -144,8 +152,6 @@ def parse_year(year: int) -> list:
             elif "exclusive" in stext:
                 category = "Premium"
 
-            # Detect upcoming/unreleased items so the app can skip pricing them.
-            # We scan the whole row's text plus the model year vs. current year.
             row_text = name_cell.get_text(" ").lower() + " " + stext
             unreleased_markers = [
                 "pre-order", "pre order", "preorder", "coming soon", "upcoming",
@@ -155,7 +161,6 @@ def parse_year(year: int) -> list:
             is_released = True
             if any(m in row_text for m in unreleased_markers):
                 is_released = False
-            # Future model years are not out yet.
             if year and year > CURRENT_YEAR:
                 is_released = False
 
@@ -174,10 +179,81 @@ def parse_year(year: int) -> list:
     return items
 
 
+def parse_rlc(year: int, page: str) -> list:
+    """RLC pages use columns: Toy Number | Series | Casting | Body Color |
+    Tampo | Wheel Type | Sale Date | Quantity | Photo Loose | Photo Carded.
+    Model name is in 'Casting'; code in 'Toy Number'; image in 'Photo Loose'."""
+    print(f"  Fetching (API) {page}")
+    html = fetch_page_html(page)
+    if not html:
+        print(f"    RLC {year}: no content")
+        return []
+
+    soup  = BeautifulSoup(html, "html.parser")
+    items = []
+
+    for table in soup.find_all("table"):
+        headers = [clean_text(th.get_text()).lower() for th in table.find_all("th")]
+        if not headers or not any("casting" in h for h in headers):
+            continue
+
+        def col_index(*keywords):
+            for i, h in enumerate(headers):
+                if all(k in h for k in keywords):
+                    return i
+            return None
+
+        idx_toy   = col_index("toy")
+        idx_name  = col_index("casting")
+        idx_series = col_index("series")
+        idx_photo = col_index("photo", "loose")
+        if idx_photo is None:
+            idx_photo = col_index("photo")
+
+        for row in table.find_all("tr"):
+            cells = row.find_all("td")
+            if not cells or len(cells) < 3:
+                continue
+
+            def cell(i):
+                return cells[i] if (i is not None and i < len(cells)) else None
+
+            name_cell = cell(idx_name)
+            if not name_cell:
+                continue
+            name = clean_text(name_cell.get_text())
+            if not name:
+                continue
+
+            toy_no    = clean_text(cell(idx_toy).get_text())    if cell(idx_toy)    else ""
+            series    = clean_text(cell(idx_series).get_text()) if cell(idx_series) else ""
+            photo_url = best_image_from_cell(cell(idx_photo))   if cell(idx_photo)  else None
+
+            is_released = True
+            if year and year > CURRENT_YEAR:
+                is_released = False
+
+            items.append({
+                "modelName": name,
+                "imageURL":  photo_url,
+                "toyNumber": toy_no,
+                "colNumber": "",
+                "series":    series,
+                "category":  "RLC",
+                "year":      year,
+                "isReleased": is_released,
+            })
+
+    print(f"    RLC {year}: {len(items)} items")
+    return items
+
+
 def dedupe(items: list) -> list:
     seen, out = set(), []
     for r in items:
-        k = (r.get("toyNumber") or r["modelName"], r.get("year"))
+        # Include category in the key so an RLC item isn't merged away against a
+        # same-named mainline item.
+        k = (r.get("toyNumber") or r["modelName"], r.get("year"), r.get("category"))
         if k in seen:
             continue
         seen.add(k)
@@ -194,7 +270,7 @@ def merge_with_existing(new: list) -> list:
         existing = json.load(f)
 
     def key(r):
-        return (r.get("toyNumber") or r["modelName"], r.get("year"))
+        return (r.get("toyNumber") or r["modelName"], r.get("year"), r.get("category"))
 
     merged = {key(r): r for r in existing}
     for item in new:
@@ -211,8 +287,13 @@ if __name__ == "__main__":
     for yr in YEARS:
         all_items.extend(parse_year(yr))
         time.sleep(1)
+    # RLC membership releases.
+    for yr, page in RLC_PAGES:
+        all_items.extend(parse_rlc(yr, page))
+        time.sleep(1)
     merged = merge_with_existing(all_items)
     with_img = sum(1 for x in merged if x.get("imageURL"))
+    rlc_count = sum(1 for x in merged if x.get("category") == "RLC")
     with open(OUTPUT, "w") as f:
         json.dump(merged, f, indent=2, ensure_ascii=False)
-    print(f"  Saved {len(merged)} Hot Wheels ({with_img} with images) to {OUTPUT}")
+    print(f"  Saved {len(merged)} Hot Wheels ({with_img} with images, {rlc_count} RLC) to {OUTPUT}")
