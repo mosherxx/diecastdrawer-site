@@ -2,7 +2,7 @@ name: Scrape Diecast Releases
 on:
   schedule:
     # Runs every Monday at 08:00 UTC — adjust as needed
-    - cron: '0 8 * * *'
+    - cron: '0 8 * * 1'
   workflow_dispatch:
     # Also allows manual trigger from GitHub Actions tab
 jobs:
@@ -23,14 +23,19 @@ jobs:
           playwright install chromium --with-deps
       - name: Scrape Pop Race
         run: python scripts/scrape_poprace.py
+        continue-on-error: true
       - name: Scrape Tarmac Works
         run: python scripts/scrape_tarmac.py
+        continue-on-error: true
       - name: Scrape Hot Wheels
         run: python scripts/scrape_hotwheels.py
+        continue-on-error: true
       - name: Scrape Matchbox
         run: python scripts/scrape_matchbox.py
+        continue-on-error: true
       - name: Scrape MINI GT + Kaido House
         run: python scripts/scrape_minigt.py
+        continue-on-error: true
       - name: Check for changes
         id: changes
         run: |
