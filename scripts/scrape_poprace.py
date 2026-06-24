@@ -135,12 +135,42 @@ def is_pop_race(item: dict) -> bool:
 
 
 def parse_table(wikitext: str, collection: str) -> list:
-    """Parse the release rows from a collection page's wikitext."""
+    """Parse release rows from a collection page. Pages vary in column count and
+    order (6 or 7 cols, optional Manufacturer), so we map columns by their HEADER
+    names rather than fixed positions."""
     items = []
-    # Rows are separated by '|-'. Each cell line starts with '|' (or '| align=').
+
+    # Collect header cells (lines starting with '!') in order, until first row.
+    headers = []
+    for line in wikitext.split("\n"):
+        s = line.strip()
+        if s.startswith("!"):
+            h = re.sub(r"^!\s*", "", s).replace("'''", "").strip().lower()
+            headers.append(h)
+        elif s.startswith("|-") and headers:
+            break
+
+    def find_col(*keywords):
+        for i, h in enumerate(headers):
+            if any(k in h for k in keywords):
+                return i
+        return None
+
+    idx_code  = find_col("model #", "model#", "toy", "code")
+    idx_make  = find_col("make")
+    idx_photo = find_col("photo")
+    # 'model' matches both 'model #' and 'model'; pick the 'model' that is NOT
+    # the code column (no '#').
+    idx_name = None
+    for i, h in enumerate(headers):
+        if "model" in h and "#" not in h:
+            idx_name = i
+            break
+    if idx_name is None:
+        idx_name = find_col("model", "casting")
+
     rows = re.split(r"\n\|-", wikitext)
     for row in rows:
-        # Cells: lines that begin with '|' but not header '!' or table markup.
         cells = []
         for line in row.split("\n"):
             line = line.strip()
@@ -148,23 +178,22 @@ def parse_table(wikitext: str, collection: str) -> list:
                 continue
             if line.startswith("|+") or line.startswith("|}") or line.startswith("|-"):
                 continue
-            # Strip a leading '| align="left" |' style prefix.
             val = re.sub(r'^\|\s*(align="[^"]*"\s*\|)?', "", line).strip()
             cells.append(val)
-        # Expected layout: [Model#, Model, Description, Make, Release, Manufacturer, Photo]
-        if len(cells) < 7:
+        if not cells:
             continue
-        code  = clean_link(cells[0])
-        name  = clean_link(cells[1])
-        make  = clean_link(cells[3])
-        photo = extract_image_filename(cells[6])
+
+        def get(i):
+            return cells[i] if (i is not None and i < len(cells)) else ""
+
+        name = clean_link(get(idx_name))
         if not name:
             continue
         items.append({
             "modelName":    name,
-            "productCode":  code,
-            "make":         make,
-            "_imageFile":   photo,   # resolved to imageURL later
+            "productCode":  clean_link(get(idx_code)),
+            "make":         clean_link(get(idx_make)),
+            "_imageFile":   extract_image_filename(get(idx_photo)),
             "marques":      [collection],
         })
     return items
@@ -183,7 +212,12 @@ def scrape() -> list:
             continue
         any_ok = True
         rows = parse_table(wt, label)
-        rows = [r for r in rows if is_pop_race(r)]
+        # The Regular Collection page mixes in other makers (BM Creations, etc.),
+        # so filter it to Pop Race. The dedicated collection pages (Enigma, Blind
+        # Box, Dark Chrome…) are ALL Pop Race — keep everything, even code-less
+        # items (e.g. Blind Box mystery cars have no Model #).
+        if label == "Regular Collection":
+            rows = [r for r in rows if is_pop_race(r)]
         print(f"  [{label}] parsed {len(rows)} Pop Race items.", flush=True)
         for it in rows:
             key = (it["productCode"] or it["modelName"]).upper()
