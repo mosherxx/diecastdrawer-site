@@ -1,12 +1,12 @@
 """
-Tarmac Works 1/64 scraper.
+Tarmac Works 1/64 scraper — Shopify storefront.
 
-Uses the WooCommerce Store API (clean JSON) instead of Playwright. See
-scrape_poprace.py for the rationale. Keeps Tarmac's product-code extraction
-(T64-xxx / T64G-xxx).
+Tarmac migrated to Shopify, which exposes a public, auth-free products feed at
+    /products.json?limit=250&page=N
+This is stable and clean (no HTML rendering, no WooCommerce). We pull all
+products, keep the 1/64 ones, and extract the Tarmac product code.
 
-If the Store API is unreachable, the existing feed is preserved rather than
-wiped, so a temporary outage never empties the app's Tarmac list.
+If the endpoint is unreachable, the existing feed is preserved (never wiped).
 
 Outputs: data/tarmac_releases.json
 """
@@ -22,9 +22,8 @@ import requests
 
 SITE      = "https://www.tarmacworks.com"
 OUTPUT    = "data/tarmac_releases.json"
-PER_PAGE  = 100
-MAX_PAGES = 30
-CATEGORY_SLUG = "1-64"
+PER_PAGE  = 250          # Shopify max
+MAX_PAGES = 40
 
 HEADERS = {
     "User-Agent": (
@@ -35,112 +34,98 @@ HEADERS = {
     "Accept": "application/json",
 }
 
-API_PATHS = [
-    "/wp-json/wc/store/v1/products",
-    "/wp-json/wc/store/products",
-]
 
-
-def fetch_json(url: str, params: dict) -> Optional[list]:
+def fetch_page(page: int) -> Optional[list]:
+    url = f"{SITE}/products.json"
     for attempt in range(1, 4):
         try:
-            r = requests.get(url, headers=HEADERS, params=params, timeout=30)
+            r = requests.get(url, headers=HEADERS,
+                             params={"limit": PER_PAGE, "page": page}, timeout=30)
             if r.status_code == 200:
                 try:
-                    return r.json()
+                    return r.json().get("products", [])
                 except ValueError:
-                    print(f"  non-JSON response from {url}", flush=True)
+                    print(f"  non-JSON response (page {page})", flush=True)
                     return None
-            print(f"  HTTP {r.status_code} from {url} (attempt {attempt})", flush=True)
+            body = (r.text or "")[:160].replace("\n", " ")
+            print(f"  HTTP {r.status_code} (page {page}, attempt {attempt}): {body}", flush=True)
         except requests.RequestException as e:
-            print(f"  request error (attempt {attempt}): {e}", flush=True)
+            print(f"  request error (page {page}, attempt {attempt}): {e}", flush=True)
         time.sleep(2 * attempt)
     return None
 
 
-def resolve_category_id(api_base: str) -> Optional[int]:
-    data = fetch_json(api_base.replace("/products", "/products/categories"),
-                      {"per_page": 100})
-    if not isinstance(data, list):
-        return None
-    for cat in data:
-        if cat.get("slug") == CATEGORY_SLUG:
-            return cat.get("id")
-    for cat in data:
-        if "64" in str(cat.get("slug", "")) or "64" in str(cat.get("name", "")):
-            return cat.get("id")
-    return None
+def extract_code(text: str) -> str:
+    """Tarmac code like T64-030-CW or T64G-TF078-CS."""
+    m = re.search(r"\bT\d{2}[A-Z]?(?:G)?-[A-Z0-9]+-\d+\b", text or "")
+    return m.group(0) if m else ""
 
 
-def clean_name(raw: str) -> str:
-    txt = re.sub(r"<[^>]+>", "", raw or "")
-    return (txt.replace("&amp;", "&").replace("&#8211;", "–")
-               .replace("&#8217;", "’").replace("&quot;", '"').strip())
+def is_164(prod: dict) -> bool:
+    """Keep 1/64 items. Tarmac tags scale in product_type/tags/title."""
+    tags = prod.get("tags", [])
+    if isinstance(tags, list):
+        tags_str = " ".join(tags)
+    else:
+        tags_str = str(tags)
+    hay = " ".join([
+        prod.get("product_type", "") or "",
+        prod.get("title", "") or "",
+        tags_str,
+    ]).lower()
+    return bool(re.search(r"1[\s:/\-]?64", hay))
 
 
 def best_image(prod: dict) -> Optional[str]:
     imgs = prod.get("images") or []
     if imgs:
-        src = imgs[0].get("src")
-        if src and "placeholder" not in src.lower():
-            return src
+        return imgs[0].get("src")
     return None
 
 
-def extract_code(name: str, sku: str = "") -> str:
-    """Tarmac code like T64-030-CW or T64G-TF078-CS. Prefer the SKU if present."""
-    for candidate in (sku, name):
-        m = re.search(r"\bT\d{2}[A-Z]?(?:G)?-[A-Z0-9]+-\d+\b", candidate or "")
-        if m:
-            return m.group(0)
+def first_sku(prod: dict) -> str:
+    for v in prod.get("variants", []) or []:
+        if v.get("sku"):
+            return v["sku"]
     return ""
 
 
 def scrape() -> list[dict]:
-    api_base = None
-    for path in API_PATHS:
-        test = fetch_json(SITE + path, {"per_page": 1})
-        if isinstance(test, list):
-            api_base = SITE + path
-            print(f"  Using Store API: {api_base}", flush=True)
-            break
-    if not api_base:
-        print("  Store API not reachable — keeping existing feed.", flush=True)
-        return []
-
-    cat_id = resolve_category_id(api_base)
-    if cat_id:
-        print(f"  1/64 category id = {cat_id}", flush=True)
-    else:
-        print("  Could not resolve 1/64 category; scraping all products.", flush=True)
-
     releases, seen = [], set()
+    any_data = False
     for page in range(1, MAX_PAGES + 1):
-        params = {"per_page": PER_PAGE, "page": page}
-        if cat_id:
-            params["category"] = cat_id
-        data = fetch_json(api_base, params)
-        if not isinstance(data, list) or not data:
+        products = fetch_page(page)
+        if products is None:
             break
-        for prod in data:
-            name = clean_name(prod.get("name", ""))
+        any_data = True
+        if not products:
+            break
+        kept_before = len(releases)
+        for prod in products:
+            if not is_164(prod):
+                continue
+            name = (prod.get("title") or "").strip()
             if not name or name in seen:
                 continue
             seen.add(name)
-            sku = prod.get("sku", "") or ""
+            code = extract_code(name) or extract_code(first_sku(prod))
             releases.append({
                 "modelName":   name,
                 "imageURL":    best_image(prod),
-                "productURL":  prod.get("permalink"),
-                "productCode": extract_code(name, sku),
+                "productURL":  f"{SITE}/products/{prod.get('handle','')}",
+                "productCode": code,
                 "scale":       "1/64",
             })
-        print(f"  page {page}: {len(data)} products ({len(releases)} kept)", flush=True)
-        if len(data) < PER_PAGE:
+        print(f"  page {page}: {len(products)} products, "
+              f"{len(releases) - kept_before} were 1/64 ({len(releases)} total)", flush=True)
+        if len(products) < PER_PAGE:
             break
-        time.sleep(0.5)
+        time.sleep(0.4)
 
-    print(f"  Scraped {len(releases)} Tarmac Works releases.", flush=True)
+    if not any_data:
+        print("  products.json unreachable — keeping existing feed.", flush=True)
+        return []
+    print(f"  Scraped {len(releases)} Tarmac Works 1/64 releases.", flush=True)
     return releases
 
 
