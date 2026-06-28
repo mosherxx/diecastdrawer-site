@@ -1,5 +1,45 @@
 [
   {
+    "modelName": "Chevrolet Camaro KAIDO WORKS TA V1",
+    "productCode": "KHMG304",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260628190725845.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Datsun KAIDO 510 GULF Wagon V1",
+    "productCode": "KHMG302",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260628190516894.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Nissan Fairlady Z Kaido Street V1",
+    "productCode": "KHMG297",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260628190254458.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Honda Civic (EF) Kaido Street V1",
+    "productCode": "KHMG246",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260628190049661.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
     "modelName": "Nissan Skyline 2000GT-R (KPGC10) Kaido Works V3",
     "productCode": "KHMG287",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/05/20260524002752024.jpg",
