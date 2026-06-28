@@ -1012,6 +1012,17 @@
     "series": "Blind Box Series"
   },
   {
+    "modelName": "EVA RT Production Model Type-02 - Pandem Silvia S13",
+    "productCode": "PR640507",
+    "make": "EVA Racing",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/3/32/PR640507.jpg/revision/latest?cb=20260625073614",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "EVA RT Production Model-02 Goodride GR Yaris",
     "productCode": "PR640126",
     "make": "Toyota",
@@ -4047,6 +4058,17 @@
     "series": "Xcartoys China"
   },
   {
+    "modelName": "Pandem GR 86 Tangku Djan Ley - Chrome Blue",
+    "productCode": "PR640515",
+    "make": "Pandem",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/54/PR640515.jpg/revision/latest?cb=20260625073626",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "Pandem GR 86 TMAR",
     "productCode": "S41-03",
     "make": "Pandem",
@@ -4725,6 +4747,17 @@
       "Regular Collection"
     ],
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/51/PR64-P997-LWGU.jpg/revision/latest?cb=20241129162711",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "RE Super G Time Attack - White Chrome",
+    "productCode": "PR640516",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/4/41/PR640516.jpg/revision/latest?cb=20260625073639",
     "scale": "1/64",
     "series": "Regular Collection"
   },
