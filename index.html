@@ -377,19 +377,17 @@
     position: relative;
     min-height: 360px;
     border: 1px solid var(--line);
-    background:
-      linear-gradient(135deg, rgba(255,255,255,.72), rgba(255,255,255,.18)),
-      repeating-linear-gradient(90deg, rgba(38,38,38,.07) 0 1px, transparent 1px 68px),
-      repeating-linear-gradient(0deg, rgba(38,38,38,.05) 0 1px, transparent 1px 68px);
+    background: #2c211b;
     overflow: hidden;
   }
 
-  .drawer-visual svg {
+  .drawer-visual img {
     position: absolute;
     inset: 0;
     width: 100%;
     height: 100%;
-    opacity: .72;
+    object-fit: cover;
+    object-position: center 38%;
   }
 
   .brand-cloud {
@@ -400,11 +398,42 @@
   }
 
   .brand-cloud > span {
-    padding: 22px;
+    min-height: 124px;
+    padding: 22px 26px;
     border-right: 1px solid var(--line);
     border-bottom: 1px solid var(--line);
     color: var(--muted);
     font-size: 1.1rem;
+    display: grid;
+    grid-template-columns: 126px minmax(0, 1fr);
+    gap: 24px;
+    align-items: center;
+  }
+
+  .brand-cloud > span:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+  }
+
+  .brand-logo {
+    width: 126px;
+    height: 58px;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+  }
+
+  .brand-logo img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .brand-logo--inno64 img {
+    transform: translateY(-8%);
+  }
+
+  .brand-copy {
+    min-width: 0;
   }
 
   .brand-cloud b {
@@ -414,7 +443,7 @@
     letter-spacing: -.05em;
   }
 
-  .brand-cloud > span > span {
+  .brand-copy > span {
     display: block;
   }
 
@@ -508,6 +537,17 @@
     .stat { min-height: 112px; }
     .drawer-visual { min-height: 280px; }
     .brand-cloud { grid-template-columns: 1fr; }
+    .brand-cloud > span,
+    .brand-cloud > span:last-child:nth-child(odd) {
+      grid-column: auto;
+      min-height: 112px;
+      grid-template-columns: 100px minmax(0, 1fr);
+      gap: 18px;
+      padding: 20px;
+    }
+    .brand-logo { width: 100px; height: 50px; }
+    .brand-cloud b { font-size: 1.35rem; }
+    .brand-cloud > span { font-size: 1rem; }
     .cta { min-height: 60vh; }
     .cta h2 { font-size: clamp(3.6rem, 18vw, 5.8rem); }
   }
@@ -650,27 +690,19 @@
         <p class="body-copy reveal" data-i18n="brands.copy">Track premium releases, mainline finds, chase variants, and the models you are still trying to land. The structure stays simple even as the collection grows.</p>
       </div>
       <div class="drawer-visual reveal" data-parallax="0.04" aria-hidden="true">
-        <svg viewBox="0 0 720 420" preserveAspectRatio="xMidYMid meet">
-          <path d="M80 120h560v220H80z" fill="none" stroke="#262626" stroke-width="2" opacity=".28"/>
-          <path d="M80 194h560M80 268h560M173 120v220M266 120v220M360 120v220M453 120v220M546 120v220" stroke="#262626" stroke-width="1" opacity=".18"/>
-          <g opacity=".72">
-            <path d="M112 170h28l14-25h88l37-30h61l35 37c18 3 30 10 36 18h20v16h-62c-4-22-22-38-45-38s-41 16-45 38H196c-4-22-22-38-45-38s-41 16-45 38h-24v-16Z" fill="#262626" opacity=".16"/>
-            <circle cx="151" cy="186" r="21" fill="none" stroke="#262626" stroke-width="5" opacity=".25"/>
-            <circle cx="424" cy="186" r="21" fill="none" stroke="#262626" stroke-width="5" opacity=".25"/>
-          </g>
-          <path d="M118 306h470" stroke="#9d1f1d" stroke-width="4" opacity=".7"/>
-        </svg>
+        <img src="assets/brand-coverage.jpg" alt="" loading="lazy">
       </div>
     </div>
 
     <div class="wrap" style="margin-top:70px">
       <div class="brand-cloud reveal">
-        <span><b>MiniGT</b><span data-i18n="brand1">Premium releases</span></span>
-        <span><b>Kaido House</b><span data-i18n="brand2">Chase targets</span></span>
-        <span><b>Tarmac Works</b><span data-i18n="brand3">Motorsport models</span></span>
-        <span><b>Pop Race</b><span data-i18n="brand4">Collector favorites</span></span>
-        <span><b>Hot Wheels</b><span data-i18n="brand5">Mainline and premium</span></span>
-        <span><b>Matchbox</b><span data-i18n="brand6">Modern and classic</span></span>
+        <span><span class="brand-logo"><img src="assets/brands/minigt.png" alt="" loading="lazy"></span><span class="brand-copy"><b>MiniGT</b><span data-i18n="brand1">Premium releases</span></span></span>
+        <span><span class="brand-logo"><img src="assets/brands/kaido-house.jpg" alt="" loading="lazy"></span><span class="brand-copy"><b>Kaido House</b><span data-i18n="brand2">Chase targets</span></span></span>
+        <span><span class="brand-logo brand-logo--inno64"><img src="assets/brands/inno64.webp" alt="" loading="lazy"></span><span class="brand-copy"><b>Inno64</b><span data-i18n="brand7">Detailed models</span></span></span>
+        <span><span class="brand-logo"><img src="assets/brands/tarmac-works.png" alt="" loading="lazy"></span><span class="brand-copy"><b>Tarmac Works</b><span data-i18n="brand3">Motorsport models</span></span></span>
+        <span><span class="brand-logo"><img src="assets/brands/pop-race.jpg" alt="" loading="lazy"></span><span class="brand-copy"><b>Pop Race</b><span data-i18n="brand4">Collector favorites</span></span></span>
+        <span><span class="brand-logo"><img src="assets/brands/hot-wheels.png" alt="" loading="lazy"></span><span class="brand-copy"><b>Hot Wheels</b><span data-i18n="brand5">Mainline and premium</span></span></span>
+        <span><span class="brand-logo"><img src="assets/brands/matchbox.jpg" alt="" loading="lazy"></span><span class="brand-copy"><b>Matchbox</b><span data-i18n="brand6">Modern and classic</span></span></span>
       </div>
     </div>
   </section>
@@ -773,6 +805,7 @@
       'brand4': 'Collector favorites',
       'brand5': 'Mainline and premium',
       'brand6': 'Modern and classic',
+      'brand7': 'Detailed models',
       'cta.title': 'The next drawer opens soon',
       'cta.copy': 'DiecastDrawer is coming to iPhone. Built for collectors who want a calm, searchable record of the cars they own and the cars they are still chasing.',
       'cta.link': 'Contact us'
@@ -841,6 +874,7 @@
       'brand4': 'Gyűjtői kedvencek',
       'brand5': 'Mainline és prémium',
       'brand6': 'Modern és klasszikus',
+      'brand7': 'Részletgazdag modellek',
       'cta.title': 'Hamarosan nyílik a következő fiók',
       'cta.copy': 'A DiecastDrawer iPhone-ra érkezik. Gyűjtőknek készül, akik nyugodt, kereshető nyilvántartást szeretnének a meglévő és még vadászott autókról.',
       'cta.link': 'Kapcsolat'
@@ -909,6 +943,7 @@
       'brand4': 'Sammler-Favoriten',
       'brand5': 'Mainline und Premium',
       'brand6': 'Modern und klassisch',
+      'brand7': 'Detailreiche Modelle',
       'cta.title': 'Die nächste Schublade öffnet bald',
       'cta.copy': 'DiecastDrawer kommt auf das iPhone. Gebaut für Sammler, die eine ruhige, durchsuchbare Übersicht über eigene und gesuchte Autos wollen.',
       'cta.link': 'Kontakt'
@@ -977,6 +1012,7 @@
       'brand4': 'Favoritos de coleccionistas',
       'brand5': 'Mainline y premium',
       'brand6': 'Moderno y clásico',
+      'brand7': 'Modelos detallados',
       'cta.title': 'El próximo cajón se abre pronto',
       'cta.copy': 'DiecastDrawer llega a iPhone. Creado para coleccionistas que quieren un registro tranquilo y buscable de los coches que tienen y los que siguen buscando.',
       'cta.link': 'Contacto'
@@ -1045,6 +1081,7 @@
       'brand4': 'Preferiti dai collezionisti',
       'brand5': 'Mainline e premium',
       'brand6': 'Moderno e classico',
+      'brand7': 'Modelli dettagliati',
       'cta.title': 'Il prossimo cassetto si apre presto',
       'cta.copy': 'DiecastDrawer arriva su iPhone. Creato per collezionisti che vogliono un registro calmo e ricercabile delle auto possedute e di quelle ancora da trovare.',
       'cta.link': 'Contattaci'
@@ -1113,6 +1150,7 @@
       'brand4': 'Favoris des collectionneurs',
       'brand5': 'Mainline et premium',
       'brand6': 'Moderne et classique',
+      'brand7': 'Modèles détaillés',
       'cta.title': 'Le prochain tiroir ouvre bientôt',
       'cta.copy': 'DiecastDrawer arrive sur iPhone. Conçu pour les collectionneurs qui veulent un registre calme et consultable des voitures possédées et de celles encore recherchées.',
       'cta.link': 'Nous contacter'
