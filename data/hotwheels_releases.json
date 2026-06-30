@@ -60,16 +60,6 @@
     "isReleased": true
   },
   {
-    "modelName": "'70 Plymouth AAR Cuda",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJM28",
-    "colNumber": "",
-    "series": "TBDSuper Treasure Hunt",
-    "category": "Super Treasure Hunt",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "'71 AMC Javelin AMX",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727",
     "toyNumber": "JJY58",
@@ -104,7 +94,7 @@
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "",
     "colNumber": "",
-    "series": "TBD",
+    "series": "HW Torque",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -190,22 +180,22 @@
     "isReleased": true
   },
   {
-    "modelName": "1989 Batmobile Cocoon",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJH72",
-    "colNumber": "",
-    "series": "TBDNew for 2026!",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "1991 BMW M3",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727",
     "toyNumber": "JJY68",
     "colNumber": "",
     "series": "2026 RLC Exclusive",
     "category": "RLC",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Armored Batmobile",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJH72",
+    "colNumber": "",
+    "series": "BatmanNew for 2026!",
+    "category": "Mainline",
     "year": 2026,
     "isReleased": true
   },
@@ -224,7 +214,7 @@
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "",
     "colNumber": "",
-    "series": "TBD",
+    "series": "HW All Drivers WelcomeWorld Mental Health Day",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -240,7 +230,17 @@
     "isReleased": true
   },
   {
-    "modelName": "Mickey Mouse's Car",
+    "modelName": "Fast Fish",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJM12",
+    "colNumber": "",
+    "series": "Team WheelsTreasure Hunt",
+    "category": "Treasure Hunt",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Mickey Mouse Car",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJH74",
     "colNumber": "",
@@ -270,12 +270,32 @@
     "isReleased": true
   },
   {
+    "modelName": "Party Wagon",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "",
+    "colNumber": "",
+    "series": "Screen Time",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Porsche 911 Turbo 3.3 Targa",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727",
     "toyNumber": "JJY65",
     "colNumber": "",
     "series": "2026 RLC ExclusiveNumbered Chase",
     "category": "RLC",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Surf 'N Turf",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "",
+    "colNumber": "",
+    "series": "Hot Wheels Let's Race",
+    "category": "Mainline",
     "year": 2026,
     "isReleased": true
   },
@@ -1940,6 +1960,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Polestar TRX (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL49",
+    "colNumber": "084",
+    "series": "HW EV",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Voltage Spike",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/Spiker.jpg/revision/latest?cb=20251216110526",
     "toyNumber": "JJJ48",
@@ -2233,6 +2263,16 @@
     "modelName": "Twin Dorado",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/4/44/RacingDorado.jpg/revision/latest?cb=20251216111219",
     "toyNumber": "JJJ61",
+    "colNumber": "100",
+    "series": "HW Starting Grid",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Twin Dorado (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL54",
     "colNumber": "100",
     "series": "HW Starting Grid",
     "category": "Mainline",
@@ -4095,6 +4135,26 @@
     "toyNumber": "JJH73",
     "colNumber": "241",
     "series": "Cool ClassicsNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "'70 Plymouth AAR Cuda",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJM28",
+    "colNumber": "245",
+    "series": "HW TorqueSuper Treasure Hunt",
+    "category": "Super Treasure Hunt",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "'70 Plymouth AAR Cuda",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK63",
+    "colNumber": "245",
+    "series": "HW Torque",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true

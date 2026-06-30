@@ -4003,6 +4003,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Pandem EG6 - Silver Chrome",
+    "productCode": "PRT006",
+    "make": "Pandem",
+    "marques": [
+      "TS Exclusives"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "TS Exclusives"
+  },
+  {
     "modelName": "Pandem EG6 Tokyo Auto Salon 2025",
     "productCode": "PR640245",
     "make": "Pandem Honda",
@@ -4034,6 +4045,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/1/1d/PR640511.jpg/revision/latest?cb=20260511030552",
     "scale": "1/64",
     "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pandem Fuso 300 Flatbed Transporter - Silver Chrome",
+    "productCode": "PRT005",
+    "make": "Pandem",
+    "marques": [
+      "TS Exclusives"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "TS Exclusives"
   },
   {
     "modelName": "Pandem GR 86",

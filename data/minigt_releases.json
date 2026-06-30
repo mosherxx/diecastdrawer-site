@@ -1,5 +1,69 @@
 [
   {
+    "modelName": "BMW M4 CS Frozen Isle of Man Green Metallic",
+    "productCode": "MGT01328",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260630041859135.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Lamborghini Huracan GT3 EVO2 #9 Pfaff Motorsports 2025 IMSA WeatherTech GTD Pro",
+    "productCode": "MGT01327",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260630041643077.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "IMSA"
+    ]
+  },
+  {
+    "modelName": "BMW M Hybrid V8 GTP #24 BMW M Team RLL 2024 IMSA Daytona 24 Hrs",
+    "productCode": "MGT01326",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260630041420379.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "IMSA"
+    ]
+  },
+  {
+    "modelName": "Abarth 595 LB-WORKS x Abas Works 1000 TC Tribute",
+    "productCode": "MGT01325",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260630041115923.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Lotus Esprit S1 “The Spy Who Loved Me” Submarine",
+    "productCode": "MGT00920",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260630035956907.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "007 Movie Car",
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Citroën 2CV “For Your Eyes Only”",
+    "productCode": "MGT00919",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260629174821717.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "007 Movie Car",
+      "Full Collection"
+    ]
+  },
+  {
     "modelName": "Subaru Impreza WRC98 #17 1999 Rally Monte-Carlo",
     "productCode": "MGT01324",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260627051651239.JPG",
