@@ -2296,6 +2296,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "Mazda 787B - Blue / Yellow",
+    "productCode": "PRE036",
+    "make": "Mazda",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
+  },
+  {
     "modelName": "Mazda 787B - JSPC 1991",
     "productCode": "PR640386",
     "make": "Mazda",
@@ -3493,6 +3504,17 @@
       "Regular Collection"
     ],
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/5/54/PR640125.jpg/revision/latest?cb=20260410220505",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pagani Zonda R - Nurburgring Lap Time Record",
+    "productCode": "PR640582",
+    "make": "Pagani",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/7/77/PR640582.jpg/revision/latest?cb=20260630072057",
     "scale": "1/64",
     "series": "Regular Collection"
   },
@@ -4762,6 +4784,17 @@
     "series": "Enigma"
   },
   {
+    "modelName": "Pop Race RE Super G - Time Attack TAS 2025",
+    "productCode": "PR640262",
+    "make": "RE Amemiya",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8f/PR640262.jpg/revision/latest?cb=20260630072030",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "Porsche 997 LB Works Gulf Oil",
     "productCode": "PR64-P997-LWGU",
     "make": "Porsche",
@@ -4817,6 +4850,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "RWB 930 - Orange Chrome",
+    "productCode": "PR640545",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/89/PR640545546.jpg/revision/latest?cb=20260630073248",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "RWB 930 - Pink Pig",
     "productCode": "PR640535",
     "make": "RWB",
@@ -4837,6 +4881,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fe/PRB003.jpg/revision/latest?cb=20260410213615",
     "scale": "1/64",
     "series": "Event Exclusives"
+  },
+  {
+    "modelName": "RWB 930 - Red",
+    "productCode": "PRE035",
+    "make": "RWB",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
   },
   {
     "modelName": "RWB 930 - Teal Chrome",
@@ -5037,6 +5092,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "RWB Truck - Orange Chrome",
+    "productCode": "PR640546",
+    "make": "RWB",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "Shelby Mustang GT500 - Blue with White Stripes",
     "productCode": "PRT002",
     "make": "Shelby",
@@ -5178,6 +5244,17 @@
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/0/0c/S3-03.jpg/revision/latest?cb=20241126173845",
     "scale": "1/64",
     "series": "Xcartoys China"
+  },
+  {
+    "modelName": "Singer - Light Blue / Orange",
+    "productCode": "PRE037",
+    "make": "Singer",
+    "marques": [
+      "Enigma"
+    ],
+    "imageURL": null,
+    "scale": "1/64",
+    "series": "Enigma"
   },
   {
     "modelName": "Singer - SCCS Homage",
