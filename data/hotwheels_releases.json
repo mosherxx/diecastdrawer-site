@@ -230,16 +230,6 @@
     "isReleased": true
   },
   {
-    "modelName": "Mini JCW Electric",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJH62",
-    "colNumber": "",
-    "series": "Then and NowNew for 2026!",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "Nissan Skyline HT 2000GT-X",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJM13",
@@ -3850,6 +3840,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Mini JCW Electric",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJH62",
+    "colNumber": "209",
+    "series": "Then and NowNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "'19 Mercedes-Benz A-Class",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJK44",
@@ -4100,6 +4100,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Armored Batmobile",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJH72",
+    "colNumber": "233",
+    "series": "BatmanNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "'23 Ram 1500",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJK58",
@@ -4120,11 +4130,11 @@
     "isReleased": true
   },
   {
-    "modelName": "Armored Batmobile",
+    "modelName": "Party Wagon",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJH72",
+    "toyNumber": "JJK59",
     "colNumber": "235",
-    "series": "BatmanNew for 2026!",
+    "series": "Screen Time",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
