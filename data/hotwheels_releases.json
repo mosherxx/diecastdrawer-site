@@ -190,16 +190,6 @@
     "isReleased": true
   },
   {
-    "modelName": "Armored Batmobile",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJH72",
-    "colNumber": "",
-    "series": "BatmanNew for 2026!",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "Aston Martin DB5 Safari",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJH76",
@@ -236,16 +226,6 @@
     "colNumber": "",
     "series": "Team WheelsTreasure Hunt",
     "category": "Treasure Hunt",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
-    "modelName": "Mickey Mouse Car",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJH74",
-    "colNumber": "",
-    "series": "TBDNew for 2026!",
-    "category": "Mainline",
     "year": 2026,
     "isReleased": true
   },
@@ -823,6 +803,16 @@
     "modelName": "McMurtry Spéirling",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/McMurtrySp%C3%A9irlingPure.jpg/revision/latest?cb=20251015122153",
     "toyNumber": "JJH81",
+    "colNumber": "025",
+    "series": "Exoticars",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "McMurtry Spéirling (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK65",
     "colNumber": "025",
     "series": "Exoticars",
     "category": "Mainline",
@@ -1950,9 +1940,9 @@
     "isReleased": true
   },
   {
-    "modelName": "Polestar TRX",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/RacingTRX.jpg/revision/latest?cb=20251216110507",
-    "toyNumber": "JJJ47",
+    "modelName": "Polestar (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL49",
     "colNumber": "084",
     "series": "HW EV",
     "category": "Mainline",
@@ -1960,9 +1950,9 @@
     "isReleased": true
   },
   {
-    "modelName": "Polestar TRX (2nd Color)",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJL49",
+    "modelName": "Polestar TRX",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/RacingTRX.jpg/revision/latest?cb=20251216110507",
+    "toyNumber": "JJJ47",
     "colNumber": "084",
     "series": "HW EV",
     "category": "Mainline",
@@ -2863,6 +2853,16 @@
     "modelName": "Morgan Super 3",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/8/81/Morgan3Wheeler.jpg/revision/latest?cb=20260128103231",
     "toyNumber": "JJJ91",
+    "colNumber": "138",
+    "series": "HW Euro",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Morgan Super 3 (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL42",
     "colNumber": "138",
     "series": "HW Euro",
     "category": "Mainline",
@@ -4116,6 +4116,26 @@
     "colNumber": "234",
     "series": "HW DirtSuper Treasure Hunt",
     "category": "Super Treasure Hunt",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Armored Batmobile",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJH72",
+    "colNumber": "235",
+    "series": "BatmanNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Mickey Mouse Car",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJH74",
+    "colNumber": "236",
+    "series": "Screen TimeNew for 2026!",
+    "category": "Mainline",
     "year": 2026,
     "isReleased": true
   },
