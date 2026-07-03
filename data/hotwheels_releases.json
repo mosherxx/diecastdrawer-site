@@ -40,6 +40,16 @@
     "isReleased": true
   },
   {
+    "modelName": "'67 Pontiac Firebird 400",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK64",
+    "colNumber": "",
+    "series": "TBD",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "'68 Mercury Cougar",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "",
@@ -216,16 +226,6 @@
     "colNumber": "",
     "series": "TBDNew for 2026!",
     "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
-    "modelName": "Fast Fish",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJM12",
-    "colNumber": "",
-    "series": "Team WheelsTreasure Hunt",
-    "category": "Treasure Hunt",
     "year": 2026,
     "isReleased": true
   },
@@ -4150,6 +4150,26 @@
     "isReleased": true
   },
   {
+    "modelName": "Circle Tracker",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK60",
+    "colNumber": "237",
+    "series": "HW All Drivers WelcomeWorld Mental Health Day",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Fast Fish",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJM12",
+    "colNumber": "238",
+    "series": "Team WheelsTreasure Hunt",
+    "category": "Treasure Hunt",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Go-Realla-Fast",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJH75",
@@ -4160,11 +4180,31 @@
     "isReleased": true
   },
   {
+    "modelName": "Surf 'N Turf",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK61",
+    "colNumber": "240",
+    "series": "Hot Wheels Let's Race",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "1963 Ford Galaxie",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJH73",
     "colNumber": "241",
     "series": "Cool ClassicsNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "'96 Chevrolet Impala SS",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK62",
+    "colNumber": "242",
+    "series": "HW Torque",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
