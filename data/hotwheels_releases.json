@@ -1750,6 +1750,16 @@
     "isReleased": true
   },
   {
+    "modelName": "BMW M4 GT3 (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK96",
+    "colNumber": "073",
+    "series": "HW Starting GridNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "McLaren W1",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/2025W1.jpg/revision/latest?cb=20251121095544",
     "toyNumber": "JJJ39",
@@ -3803,6 +3813,16 @@
     "modelName": "Bully Goat",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/BullyGTO.jpg/revision/latest?cb=20260430102335",
     "toyNumber": "JJK41",
+    "colNumber": "206",
+    "series": "HW Torque",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Bully Goat (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL98",
     "colNumber": "206",
     "series": "HW Torque",
     "category": "Mainline",
