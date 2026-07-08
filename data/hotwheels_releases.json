@@ -1481,7 +1481,7 @@
   },
   {
     "modelName": "Toyota Prius Custom (2nd Color)",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/2026_Prius_Custom_DT_plain.jpg/revision/latest?cb=20260707091050",
     "toyNumber": "JJM48",
     "colNumber": "060",
     "series": "HW J-ImportsNew for 2026!Dollar Tree/Family Dollar Exclusive",
@@ -2730,6 +2730,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Datsun 620 (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL26",
+    "colNumber": "128",
+    "series": "Compact Kings",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Standard Kart",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/2/22/StandardKart.jpg/revision/latest?cb=20210926022809",
     "toyNumber": "JJJ83",
@@ -2963,16 +2973,6 @@
     "modelName": "El Segundo Rallye",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/55/ESRallyeDirt.jpg/revision/latest?cb=20260303121220",
     "toyNumber": "JJJ97",
-    "colNumber": "145",
-    "series": "HW Dirt",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
-    "modelName": "El Segundo Rallye (2nd Color)",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJL26",
     "colNumber": "145",
     "series": "HW Dirt",
     "category": "Mainline",
