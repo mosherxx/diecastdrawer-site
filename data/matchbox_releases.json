@@ -90,10 +90,28 @@
     "isReleased": true
   },
   {
+    "modelName": "1968 Dodge D200",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/9e/D200_26.jpg/revision/latest?cb=20260708221523",
+    "mbxNumber": "MB123",
+    "series": "MBX Adventure",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "1968 Ford Mustang Fastback",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/e3/FB_IMG_1770252420971.jpg/revision/latest?cb=20260207065227",
     "mbxNumber": "MB61",
     "series": "MBX Showroom",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": false
+  },
+  {
+    "modelName": "1968 Ford Mustang Fastback (Super Chase)",
+    "imageURL": null,
+    "mbxNumber": "SC4",
+    "series": "MBX Adventure",
     "category": "Mainline",
     "year": 2026,
     "isReleased": false
@@ -184,6 +202,15 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d9/Toyota-celica-93_mb.jpg/revision/latest?cb=20260529143502",
     "mbxNumber": "MB12",
     "series": "MBX Showroom",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "1994 Jeep Cherokee Sport (New)",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/1/14/Cherokee_26.jpg/revision/latest?cb=20260708221318",
+    "mbxNumber": "MB114",
+    "series": "MBX Adventure",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -351,6 +378,15 @@
     "isReleased": true
   },
   {
+    "modelName": "2021 Cadillac CT5-V",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/eb/Ct5_26.jpg/revision/latest?cb=20260708221026",
+    "mbxNumber": "MB108",
+    "series": "MBX Road Trip",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "2021 Ford Bronco",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/0/03/Bronco_26.jpg/revision/latest?cb=20260621192012",
     "mbxNumber": "MB102",
@@ -441,6 +477,15 @@
     "isReleased": true
   },
   {
+    "modelName": "2023 Dodge Charger Pursuit",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d3/Charger_pursuit_26.jpg/revision/latest?cb=20260708221218",
+    "mbxNumber": "MB111",
+    "series": "MBX Rescue",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "2023 Ford E-Transit Custom",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/48/2023_Ford_E-Transit_Custom_-_3.jpg/revision/latest?cb=20260325015129",
     "mbxNumber": "MB36",
@@ -502,6 +547,15 @@
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
+  },
+  {
+    "modelName": "2024 Audi RS5 Sportback (New)",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/e4/Rs5_26.jpg/revision/latest?cb=20260708220254",
+    "mbxNumber": "MB91",
+    "series": "MBX Road Trip",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": false
   },
   {
     "modelName": "2024 BMW 7-Series",
@@ -783,6 +837,15 @@
     "isReleased": true
   },
   {
+    "modelName": "MBX Bucket Tipper (New)",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c4/Bucket_26.jpg/revision/latest?cb=20260708221415",
+    "mbxNumber": "MB116",
+    "series": "MBX Construction",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "MBX EV School Bus",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/55/Mbx_ev_school_bus_2026.jpg/revision/latest?cb=20260428154722",
     "mbxNumber": "MB94",
@@ -792,9 +855,27 @@
     "isReleased": true
   },
   {
+    "modelName": "MBX EV Trash Truck",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/ba/Trash_26.jpg/revision/latest?cb=20260708221005",
+    "mbxNumber": "MB106",
+    "series": "MBX Metro",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "MBX Field Car",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/ab/2026MatchboxMBXFieldCard.png/revision/latest?cb=20251229205349",
     "mbxNumber": "MB6",
+    "series": "MBX Adventure",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "MBX Field Car Convertible",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/48/Field_car_26.jpg/revision/latest?cb=20260708221057",
+    "mbxNumber": "MB110",
     "series": "MBX Adventure",
     "category": "Mainline",
     "year": 2026,
@@ -814,6 +895,24 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/76/Mbx_lil_dumper_2026.jpg/revision/latest?cb=20260428154458",
     "mbxNumber": "MB89",
     "series": "MBX Construction",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "MBX Load Lifter",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f8/Lifter_26.jpg/revision/latest?cb=20260708220550",
+    "mbxNumber": "MB103",
+    "series": "MBX Construction",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "MBX Service Truck",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/6e/Ups_truck_26.jpg/revision/latest?cb=20260708220327",
+    "mbxNumber": "MB98",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
