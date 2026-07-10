@@ -1340,6 +1340,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Porsche 911 Turbo Cabriolet (3rd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL82",
+    "colNumber": "052",
+    "series": "Drop Tops",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "'69 Chevelle",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/1969Chevelle.jpg/revision/latest?cb=20251121094921",
     "toyNumber": "JJJ23",
@@ -2390,6 +2400,16 @@
     "isReleased": true
   },
   {
+    "modelName": "1966 Bat Boat (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL81",
+    "colNumber": "107",
+    "series": "Batman",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "The Simpsons Family Car",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/SimpsonsCar.jpg/revision/latest?cb=20260103100211",
     "toyNumber": "JJJ68",
@@ -2483,6 +2503,16 @@
     "modelName": "Custom 2020 Honda e",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/HondaeCustom.jpg/revision/latest?cb=20260103100446",
     "toyNumber": "JMB11",
+    "colNumber": "115",
+    "series": "HW EVNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom 2020 Honda e (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL64",
     "colNumber": "115",
     "series": "HW EVNew for 2026!",
     "category": "Mainline",
@@ -2722,16 +2752,6 @@
   {
     "modelName": "Datsun 620 (2nd Color)",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJL88",
-    "colNumber": "128",
-    "series": "Compact Kings",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
-    "modelName": "Datsun 620 (2nd Color)",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJL26",
     "colNumber": "128",
     "series": "Compact Kings",
@@ -2903,6 +2923,16 @@
     "modelName": "Mid Mill",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/7/70/MoodyMill.jpg/revision/latest?cb=20260121131805",
     "toyNumber": "JJJ93",
+    "colNumber": "140",
+    "series": "Rod Squad",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Mid Mill (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL76",
     "colNumber": "140",
     "series": "Rod Squad",
     "category": "Mainline",
@@ -3130,6 +3160,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Vairstrike (3rd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL78",
+    "colNumber": "155",
+    "series": "HW ModsNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Custom Otto",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/CustomOtto.jpg/revision/latest?cb=20260303121544",
     "toyNumber": "JJK03",
@@ -3260,6 +3300,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Cadillac Celestiq (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL84",
+    "colNumber": "163",
+    "series": "HW EVNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Classic '55 Nomad",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/55/1955Nomad.jpg/revision/latest?cb=20260303121651",
     "toyNumber": "JJK10",
@@ -3283,6 +3333,16 @@
     "modelName": "Gone Mad",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/WagoneMad.jpg/revision/latest?cb=20260311130314",
     "toyNumber": "JJK09",
+    "colNumber": "165",
+    "series": "Wagons",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Gone Mad (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL67",
     "colNumber": "165",
     "series": "Wagons",
     "category": "Mainline",
@@ -3323,6 +3383,16 @@
     "modelName": "Mailed It!",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/63/MailDragster.jpg/revision/latest?cb=20260311130534",
     "toyNumber": "JJK12",
+    "colNumber": "168",
+    "series": "Team Wheels",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Mailed It! (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL75",
     "colNumber": "168",
     "series": "Team Wheels",
     "category": "Mainline",
@@ -3720,9 +3790,29 @@
     "isReleased": true
   },
   {
+    "modelName": "Toyota AE86 Sprinter Trueno (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL87",
+    "colNumber": "198",
+    "series": "HW J-Imports",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Nissan Skyline GT-R (BNR34)",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/1999NissanSkylineR34.jpg/revision/latest?cb=20260430101851",
     "toyNumber": "JJK35",
+    "colNumber": "199",
+    "series": "HW J-Imports",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (BNR34) (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL88",
     "colNumber": "199",
     "series": "HW J-Imports",
     "category": "Mainline",
@@ -3870,6 +3960,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Mini JCW Electric (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL99",
+    "colNumber": "209",
+    "series": "Then and NowNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "'19 Mercedes-Benz A-Class",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJK44",
@@ -3886,6 +3986,16 @@
     "colNumber": "211",
     "series": "Compact KingsNew for 2026!",
     "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "1972 Datsun Sunny Coupe (2nd Color - Zamac)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJM41",
+    "colNumber": "211",
+    "series": "Compact KingsNew for 2026!Walmart Exclusive",
+    "category": "Premium",
     "year": 2026,
     "isReleased": true
   },
