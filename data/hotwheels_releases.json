@@ -1742,7 +1742,7 @@
   {
     "modelName": "Datsun 240Z (2nd Color)",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJM69",
+    "toyNumber": "JJL53",
     "colNumber": "072",
     "series": "Then and Now",
     "category": "Mainline",
@@ -1752,7 +1752,7 @@
   {
     "modelName": "Datsun 240Z (3rd Color)",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJL53",
+    "toyNumber": "JJM69",
     "colNumber": "072",
     "series": "Then and Now",
     "category": "Mainline",
@@ -3883,6 +3883,16 @@
     "modelName": "Mod Mill",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/CoolMill.jpg/revision/latest?cb=20260430102252",
     "toyNumber": "JJK40",
+    "colNumber": "204",
+    "series": "Cool Classics",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Mod Mill (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL94",
     "colNumber": "204",
     "series": "Cool Classics",
     "category": "Mainline",

@@ -1,5 +1,15 @@
 [
   {
+    "modelName": "Chevrolet Silverado Dually KAIDO Koi V1",
+    "productCode": "KHMG291",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/07/20260714050523911.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
     "modelName": "Chevrolet Camaro KAIDO WORKS TA V1",
     "productCode": "KHMG304",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260628190725845.jpg",
