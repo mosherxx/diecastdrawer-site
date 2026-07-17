@@ -34,7 +34,7 @@
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJM29",
     "colNumber": "",
-    "series": "TBDSuper Treasure Hunt",
+    "series": "Cool ClassicsSuper Treasure Hunt",
     "category": "Super Treasure Hunt",
     "year": 2026,
     "isReleased": true
@@ -44,7 +44,7 @@
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJK64",
     "colNumber": "",
-    "series": "TBD",
+    "series": "Cool Classics",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -210,11 +210,11 @@
     "isReleased": true
   },
   {
-    "modelName": "Aston Martin DB5 Safari",
+    "modelName": "Aston Martin DB5 Safari Edition",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJH76",
     "colNumber": "",
-    "series": "TBDNew for 2026!",
+    "series": "HW DirtNew for 2026!",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -230,12 +230,22 @@
     "isReleased": true
   },
   {
-    "modelName": "Custom Vanster 4WD",
+    "modelName": "Custom Vanster",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJH79",
     "colNumber": "",
-    "series": "TBDNew for 2026!",
+    "series": "Trophy CaseNew for 2026!",
     "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Gazella GT",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJM14",
+    "colNumber": "",
+    "series": "Trophy CaseTreasure Hunt",
+    "category": "Treasure Hunt",
     "year": 2026,
     "isReleased": true
   },
@@ -244,7 +254,7 @@
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJM13",
     "colNumber": "",
-    "series": "TBDTreasure Hunt",
+    "series": "Screen TimeTreasure Hunt",
     "category": "Treasure Hunt",
     "year": 2026,
     "isReleased": true
@@ -255,6 +265,16 @@
     "toyNumber": "",
     "colNumber": "",
     "series": "Screen Time",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Porsche 908-3",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJH78",
+    "colNumber": "",
+    "series": "Cool ClassicsNew for 2026!",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -1880,6 +1900,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Hako Type D (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL57",
+    "colNumber": "078",
+    "series": "Compact Kings",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Hoto Roto",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/5/57/BlackRoto.jpg/revision/latest?cb=20251216110108",
     "toyNumber": "JJJ44",
@@ -1933,6 +1963,16 @@
     "modelName": "Birthday Burner",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/CakeBake.jpg/revision/latest?cb=20251216110235",
     "toyNumber": "JJJ45",
+    "colNumber": "082",
+    "series": "Sweet Rides",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Birthday Burner (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL62",
     "colNumber": "082",
     "series": "Sweet Rides",
     "category": "Mainline",
@@ -3120,6 +3160,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Ford F-150 Lightning SuperTruck (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL92",
+    "colNumber": "151",
+    "series": "Truckin' AlongNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "BMW 635 CSi",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/4/43/1980BMW635.jpg/revision/latest?cb=20260303121526",
     "toyNumber": "JJK00",
@@ -3600,6 +3650,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Mercedes-Benz CLA HW (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL97",
+    "colNumber": "181",
+    "series": "HW EuroNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Chop 'n Bloc",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Chop%27nBloc.jpg/revision/latest?cb=20260410125509",
     "toyNumber": "JJH60",
@@ -3833,6 +3893,16 @@
     "modelName": "Punk Rod",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/HWRTRod.jpg/revision/latest?cb=20260430101922",
     "toyNumber": "JJK36",
+    "colNumber": "200",
+    "series": "Team Wheels",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Punk Rod (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL91",
     "colNumber": "200",
     "series": "Team Wheels",
     "category": "Mainline",
