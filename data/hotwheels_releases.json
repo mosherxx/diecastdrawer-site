@@ -2440,6 +2440,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Mazda RX-3 (3rd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL80",
+    "colNumber": "106",
+    "series": "Compact Kings",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "1966 Bat Boat",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/1966Batboat.jpg/revision/latest?cb=20260103100152",
     "toyNumber": "JJJ67",
@@ -2830,6 +2840,16 @@
     "isReleased": true
   },
   {
+    "modelName": "2019 Audi R8 Spyder (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL60",
+    "colNumber": "130",
+    "series": "Drop Tops",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Fiat Beast of Turin",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/6/64/FiatS76Record.jpg/revision/latest?cb=20260303121043",
     "toyNumber": "JJH48",
@@ -2846,6 +2866,16 @@
     "colNumber": "131",
     "series": "Drop TopsNew for 2026!Walmart Exclusive",
     "category": "Premium",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Fiat Beast of Turin (3rd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL61",
+    "colNumber": "131",
+    "series": "Drop TopsNew for 2026!",
+    "category": "Mainline",
     "year": 2026,
     "isReleased": true
   },
