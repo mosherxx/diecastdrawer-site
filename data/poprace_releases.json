@@ -2285,6 +2285,17 @@
     "series": "Regular Collection"
   },
   {
+    "modelName": "LBWK Truck - Black",
+    "productCode": "PR640557",
+    "make": "LBWK",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/b/b1/PR640557.jpg/revision/latest?cb=20260720101603",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "Mazda 787B",
     "productCode": "S53-01",
     "make": "Mazda",
@@ -4839,6 +4850,17 @@
     "series": "Enigma"
   },
   {
+    "modelName": "Pop Race LBWK AMG GT3 Evo - Black",
+    "productCode": "PR640502",
+    "make": "LBWK",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/d/de/PR640502.jpg/revision/latest?cb=20260720101551",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
     "modelName": "Pop Race RE Super G - Time Attack TAS 2025",
     "productCode": "PR640262",
     "make": "RE Amemiya",
@@ -4846,6 +4868,17 @@
       "Regular Collection"
     ],
     "imageURL": "https://static.wikia.nocookie.net/pop-race/images/8/8f/PR640262.jpg/revision/latest?cb=20260630072030",
+    "scale": "1/64",
+    "series": "Regular Collection"
+  },
+  {
+    "modelName": "Pop Race Team Crew - Figure Set (6)",
+    "productCode": "PR640567",
+    "make": "Pop Race",
+    "marques": [
+      "Regular Collection"
+    ],
+    "imageURL": "https://static.wikia.nocookie.net/pop-race/images/f/fa/PR640567.jpg/revision/latest?cb=20260720101614",
     "scale": "1/64",
     "series": "Regular Collection"
   },
