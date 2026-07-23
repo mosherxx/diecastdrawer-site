@@ -49,12 +49,55 @@ def detect_make(title: str) -> str:
     return ""
 
 
+CODE_RE = re.compile(r"\bBBR[A-Z]*\d+[A-Z]*\b", re.I)
+
+
 def clean_name(raw: str) -> str:
-    name = re.sub(r"^\s*\[[^\]]*\]\s*", "", raw)          # [Preorder]
-    name = re.sub(r"^\s*BBR\s*1[:/]64\s*", "", name, flags=re.I)
-    name = re.sub(r"^\s*BBR\s+", "", name, flags=re.I)
-    name = name.replace('"', "").strip()
-    return re.sub(r"\s+", " ", name)
+    """Strip shop/brand boilerplate, leaving just the model name.
+
+    Handles the real-world prefixes seen on Horizon listings, e.g.
+    "[Preorder] BBR Model 1:64 Maserati MC20 #1 ..." -> "Maserati MC20 #1 ..."
+    """
+    name = raw
+    name = re.sub(r"^\s*\[[^\]]*\]\s*", "", name)              # [Preorder]
+    # Strip leading boilerplate repeatedly, because it appears in varying
+    # orders: "BBR Model 1:64 X", "BBR 1:64 X", "Model 1:64 X", "1/64 X".
+    prefixes = [
+        r"^\s*BBR\s*Models?\b\s*",
+        r"^\s*BBR\b\s*",
+        r"^\s*Models?\b\s*",
+        r"^\s*1\s*[:/]\s*64\b\s*",
+    ]
+    changed = True
+    while changed:
+        changed = False
+        for pat in prefixes:
+            stripped = re.sub(pat, "", name, flags=re.I)
+            if stripped != name:
+                name = stripped
+                changed = True
+    # Trailing product code adds nothing to the name (it lives in `series`)
+    name = CODE_RE.sub("", name)
+    name = name.replace('"', "").strip(" -–—|,")
+    return re.sub(r"\s+", " ", name).strip()
+
+
+def is_valid_name(name: str) -> bool:
+    """Reject table headers, bare product codes, and other non-models."""
+    if not name or len(name) < 4:
+        return False
+    lowered = name.lower().strip()
+    # Header cells from the wiki tables
+    if lowered in {"model #", "model", "name", "image", "photo", "code",
+                   "reference", "ref", "product", "product #", "notes"}:
+        return False
+    # A bare product code is not a model name
+    if CODE_RE.fullmatch(name.strip()):
+        return False
+    # Needs at least one letter (not just digits/punctuation)
+    if not any(ch.isalpha() for ch in name):
+        return False
+    return True
 
 
 # ---------------------------------------------------------------- wiki source
@@ -79,17 +122,51 @@ def scrape_wiki():
     soup = BeautifulSoup(html, "html.parser")
     found = []
 
-    # The collection is laid out in tables; take the rows and pull the first
-    # meaningful text cell as the model name, plus any thumbnail in the row.
     for row in soup.select("table tr"):
-        cells = row.find_all(["td", "th"])
-        if len(cells) < 2:
+        # Skip header rows outright — they produced junk like "Model #".
+        if row.find("th") is not None:
             continue
 
-        texts = [c.get_text(" ", strip=True) for c in cells]
-        name = next((t for t in texts if len(t) > 4 and not t.isdigit()), "")
-        if not name:
+        cells = row.find_all("td")
+        if not cells:
             continue
+
+        # Prefer the row's wiki LINK: its text is the real model name
+        # ("Maserati MC20 Bianco Audace") and its href is the model's own page.
+        model_link = None
+        for a in row.find_all("a", href=True):
+            href = a["href"]
+            text = a.get_text(" ", strip=True)
+            if not href.startswith("/wiki/"):
+                continue
+            if ":" in href.split("/wiki/")[-1]:      # File:, Category: pages
+                continue
+            if not is_valid_name(clean_name(text)):
+                continue
+            model_link = a
+            break
+
+        if model_link is not None:
+            name = clean_name(model_link.get_text(" ", strip=True))
+            product_url = "https://bbr-diecast-models.fandom.com" + model_link["href"]
+        else:
+            # No usable link — fall back to the longest text cell, but this
+            # is where bare codes/headers used to slip through, so validate.
+            texts = [c.get_text(" ", strip=True) for c in cells]
+            candidates = [clean_name(t) for t in texts]
+            candidates = [c for c in candidates if is_valid_name(c)]
+            if not candidates:
+                continue                       # row carries no model name → skip
+            name = max(candidates, key=len)
+            product_url = f"https://bbr-diecast-models.fandom.com/wiki/{WIKI_PAGE}"
+
+        if not is_valid_name(name):
+            continue
+
+        # Product code, from anywhere in the row.
+        row_text = row.get_text(" ", strip=True)
+        code_match = CODE_RE.search(row_text)
+        code = code_match.group(0) if code_match else ""
 
         img = row.find("img")
         image_url = None
@@ -97,23 +174,14 @@ def scrape_wiki():
             image_url = img.get("data-src") or img.get("src")
             if image_url and image_url.startswith("//"):
                 image_url = "https:" + image_url
-            # Fandom appends scaling params after /revision/ — strip for full size
             if image_url:
                 image_url = image_url.split("/revision/")[0]
 
-        # A BBR reference code often appears in one of the cells (e.g. BBRC123)
-        code = ""
-        for t in texts:
-            m = re.search(r"\bBBR[A-Z]*\d+[A-Z]*\b", t, flags=re.I)
-            if m:
-                code = m.group(0)
-                break
-
         found.append(
             {
-                "modelName": clean_name(name),
+                "modelName": name,
                 "imageURL": image_url,
-                "productURL": f"https://bbr-diecast-models.fandom.com/wiki/{WIKI_PAGE}",
+                "productURL": product_url,
                 "scale": "1/64",
                 "series": code,
                 "make": detect_make(name),
@@ -153,11 +221,14 @@ def scrape_shop():
                 image_url = "https:" + image_url
 
             handle = p.get("handle", "")
-            code_match = re.search(r"\bBBR[A-Z]*\d+[A-Z]*\b", raw_title, flags=re.I)
+            code_match = CODE_RE.search(raw_title)
+            cleaned = clean_name(raw_title)
+            if not is_valid_name(cleaned):
+                continue
 
             found.append(
                 {
-                    "modelName": clean_name(raw_title),
+                    "modelName": cleaned,
                     "imageURL": image_url,
                     "productURL": f"{SHOP_BASE}/products/{handle}" if handle else None,
                     "scale": "1/64",
@@ -175,17 +246,30 @@ def scrape_shop():
 def main():
     combined = scrape_shop() + scrape_wiki()   # shop first = newest wins on dedupe
 
-    releases = []
-    seen = set()
+    # Dedupe by model name. When the same car appears in both sources, keep the
+    # RICHER record (one with an image and a product code) rather than whichever
+    # happened to come first — the wiki has better names, the shop better images.
+    def richness(entry) -> int:
+        score = 0
+        if entry.get("imageURL"):
+            score += 2
+        if entry.get("series"):
+            score += 1
+        if entry.get("make"):
+            score += 1
+        return score
+
+    best = {}
     for item in combined:
         name = (item.get("modelName") or "").strip()
-        if not name:
+        if not is_valid_name(name):
             continue
         key = name.lower()
-        if key in seen:
-            continue
-        seen.add(key)
-        releases.append(item)
+        if key not in best or richness(item) > richness(best[key]):
+            best[key] = item
+
+    releases = list(best.values())
+    releases.sort(key=lambda e: e["modelName"].lower())
 
     if not releases:
         print("❌ No BBR releases scraped — leaving existing feed untouched.", file=sys.stderr)
