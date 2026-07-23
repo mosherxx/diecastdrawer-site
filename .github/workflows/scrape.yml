@@ -36,6 +36,12 @@ jobs:
       - name: Scrape MINI GT + Kaido House
         run: python scripts/scrape_minigt.py
         continue-on-error: true
+      - name: Scrape CM Model
+        run: python scripts/scrape_cmmodel.py
+        continue-on-error: true
+      - name: Scrape BBR
+        run: python scripts/scrape_bbr.py
+        continue-on-error: true
       - name: Check for changes
         id: changes
         run: |
