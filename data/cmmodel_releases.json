@@ -1,0 +1,706 @@
+[
+  {
+    "modelName": "Pandem BMW M3 E30 Metallic gunmetal gray CM64-E30-03",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/c3600c3ff091d86ec67253929ee37ffc.jpg?v=1784181759",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pandem-bmw-m3-e30-metallic-gunmetal-gray-cm64-e30-3",
+    "scale": "1/64",
+    "series": "CM64-E30-03",
+    "make": "BMW"
+  },
+  {
+    "modelName": "McLaren Senna Ice Blue CM64-Senna-02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/d0d3322c3edaa76e5fa550df687d9245.jpg?v=1784181635",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-senna-ice-blue-cm64-senna-2",
+    "scale": "1/64",
+    "series": "CM64-Senna-02",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Toyota Tundra TRD Orange CM64-Tundra-03",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/7415d86c82ee409b898f53359e81d01b.jpg?v=1784181514",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-tundra-trd-orange-cm64-tundra-3",
+    "scale": "1/64",
+    "series": "CM64-Tundra-03",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Dodge Viper (ZBI) Viper Black with Red CM64-ViperZBII-02B",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/7e8cf9554131415b2280226ab7784d88.jpg?v=1784181404",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-dodge-viper-zbi-viper-black-with-red-cm64-viperzbii-02b-1",
+    "scale": "1/64",
+    "series": "CM64-ViperZBII-02B",
+    "make": "Dodge"
+  },
+  {
+    "modelName": "Dodge Viper (ZBI) Viper Black with Viper Red Racing Stripes CM64-ViperZBII-02A",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/fc14a37662aa5c485aa30abfda3c2c3d.jpg?v=1784181288",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-dodge-viper-zbi-viper-black-with-viper-red-racing-stripes-cm64-viperzbii-02a-1",
+    "scale": "1/64",
+    "series": "CM64-ViperZBII-02A",
+    "make": "Dodge"
+  },
+  {
+    "modelName": "Ford GT Mk IV Frozen White & Sonic Blue Pearl J-1 CM64-MKIV-02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/677315542310db8b0b0edc9455e29225.jpg?v=1784181163",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-ford-gt-mk-iv-frozen-white-sonic-blue-pearl-j-1-cm64-mkiv-2",
+    "scale": "1/64",
+    "series": "CM64-MKIV-02",
+    "make": "Ford"
+  },
+  {
+    "modelName": "Dodge Viper (ZBI) Stone White with Blue racing stripes CM64-VIPERZBI-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/6bc40207b74ae4de3aeb9a3eec0625ce.jpg?v=1781235905",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-dodge-viper-zbi-stone-white-with-blue-racing-stripes-cm64-viperzbi-01",
+    "scale": "1/64",
+    "series": "CM64-VIPERZBI-01",
+    "make": "Dodge"
+  },
+  {
+    "modelName": "McLaren Senna GTR Sillca White CM64-SENNA-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/1e2cda8ffd4a2de4b516b5814f9aefdd.jpg?v=1781236042",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-senna-gtr-sillca-white-cm64-senna-1",
+    "scale": "1/64",
+    "series": "CM64-SENNA-01",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Pagani Zonda Revolution Navy Carbon Fiber CM64-REVOLUTION-11",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/525a31b0bb391e95ce9170bdb23c37bd.jpg?v=1781236179",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zonda-revolution-navy-carbon-fiber-cm64-revolution-12",
+    "scale": "1/64",
+    "series": "CM64-REVOLUTION-11",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Toyota Sequoia Midnight Black CM64-SEQUOIA-04",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/6ccc777edbcda166abd159e502073311.jpg?v=1781236312",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-sequoia-midnight-black-cm64-sequoia-4",
+    "scale": "1/64",
+    "series": "CM64-SEQUOIA-04",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Pandem BMW M3 E30 Bright Red CM64-E30-05",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/7c222b163634f96bb99ce9b2d4a1053d.jpg?v=1781236446",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pandem-bmw-m3-e30-bright-red-cm64-e30-5",
+    "scale": "1/64",
+    "series": "CM64-E30-05",
+    "make": "BMW"
+  },
+  {
+    "modelName": "Pagani Utopia Giallo Ginevra CM64-UTOPIA-12",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/5d9cbf9776a71e3bdb4e9c9432e1502f.jpg?v=1781236653",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-utopia-giallo-ginevra-cm64-utopia-13",
+    "scale": "1/64",
+    "series": "CM64-UTOPIA-12",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Ford Mustang GTD Chroma Flame CM64-GTD-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/CM64-GTD-01.jpg?v=1779171735",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-ford-mustang-gtd-chroma-flame-cm64-gtd-01",
+    "scale": "1/64",
+    "series": "CM64-GTD-01",
+    "make": "Ford"
+  },
+  {
+    "modelName": "Ford Mustang Darkhorse Oxford White CM64-Darkhorse-02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Capture_26e9be15-ab57-4585-b295-4acb1d18576a.jpg?v=1779171629",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-ford-mustang-darkhorse-oxford-white-cm64-darkhorse-02",
+    "scale": "1/64",
+    "series": "CM64-Darkhorse-02",
+    "make": "Ford"
+  },
+  {
+    "modelName": "Mclaren 765LT Papaya orange CM64-765LT-23",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Capture_2ffb2c43-aa74-44c0-a77e-9f20b0119947.jpg?v=1779171479",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-765lt-papaya-orange-cm64-765lt-23",
+    "scale": "1/64",
+    "series": "CM64-765LT-23",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Pagani Zonda F Rosso Dubai CM64-ZondaF-04",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Capture_c3147c37-f604-4c31-8041-bd9b30af47a5.jpg?v=1779171317",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zonda-f-rosso-dubai-cm64-zondaf-04",
+    "scale": "1/64",
+    "series": "CM64-ZondaF-04",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Toyota GR Supra Renaissance Red 2.0 CM64-Supra-02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Capture_1ca4947b-49fd-43ff-a5f0-cf94371da61a.jpg?v=1779171116",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-gr-supra-renaissance-red-2-0-cm64-supra-02",
+    "scale": "1/64",
+    "series": "CM64-Supra-02",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "McLaren DarwinPRO 720Se²GTR-01 Unchained Blue CM64-720SeGTR-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Capture_d328f843-b041-46a5-bbf3-bd15d6d8030d.jpg?v=1779170945",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-darwinpro-720se-gtr-01-unchained-blue-cm64-720segtr-01",
+    "scale": "1/64",
+    "series": "CM64-720SeGTR-01",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Pagani Zonda Revolution Barchetta Blue Full carbon CM64-RB-02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/image_2e4149a5-f829-4bcd-b44e-393db8ea1f86.jpg?v=1776544923",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zonda-revolution-barchetta-blue-full-carbon-cm64-rb-2",
+    "scale": "1/64",
+    "series": "CM64-RB-02",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Toyota Tundra Baja Heritage CM64-Tundra-05",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/image_4472ab9f-705f-46bb-a58c-66f747e484fe.jpg?v=1776544925",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-tundra-baja-heritage-cm64-tundra-5",
+    "scale": "1/64",
+    "series": "CM64-Tundra-05",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Mclaren 750S Spider Silica White CM64-750S-02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/image_ffcbc6d6-2e46-4072-9709-60e56226555f.jpg?v=1776544932",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-750s-spider-silica-white-cm64-750s-2",
+    "scale": "1/64",
+    "series": "CM64-750S-02",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "SUBARU BRZ Varis ChromaFlair CM64-BRZ-11",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/image_181d56b3-a164-42b3-bde0-3ed087711216.jpg?v=1776544930",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-subaru-brz-varis-chromaflair-cm64-brz-12",
+    "scale": "1/64",
+    "series": "CM64-BRZ-11",
+    "make": "Subaru"
+  },
+  {
+    "modelName": "Pandem BMW M3 E30 CM64-E30-02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/image_6fffffa8-dc19-4cfd-966f-33bd12b615f2.jpg?v=1776544928",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pandem-bmw-m3-e30-cm64-e30-02",
+    "scale": "1/64",
+    "series": "CM64-E30-02",
+    "make": "BMW"
+  },
+  {
+    "modelName": "Pagani Imola Azzurro Sardegna CM64-IMOLA-11",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/image_e2b6788f-ff59-47de-8567-c97cbb36cf11.jpg?v=1776545948",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-imola-azzurro-sardegna-cm64-imola-12",
+    "scale": "1/64",
+    "series": "CM64-IMOLA-11",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Pagani Utopia Bianco Benny with Blu Francia Carbon & Rosso Monza Stripe CM64-Utopia-08",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/1_576d5221-18db-4cc9-8890-75731e558c78.jpg?v=1773353721",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-utopia-bianco-benny-with-blu-francia-carbon-rosso-monza-stripe-cm64-utopia-8",
+    "scale": "1/64",
+    "series": "CM64-Utopia-08",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Pagani Zonda F Metallic Emerald Green CM64-ZondaF-03",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/CM64-ZONDAF-03_1.jpg?v=1773353888",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zonda-f-metallic-emerald-green-cm64-zondaf-3",
+    "scale": "1/64",
+    "series": "CM64-ZondaF-03",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Mclaren 720SGT3X Aurora Blue CM64-720SGT3X-04",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/1_77d7fd49-e3a0-45f8-a549-cd9bc236032c.jpg?v=1773353853",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-720sgt3x-aurora-blue-cm64-720sgt3x-4",
+    "scale": "1/64",
+    "series": "CM64-720SGT3X-04",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Ford Mustang GTD Indulgent Blue CM64-GTD-02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/CM64-GTD-02_1.jpg?v=1773353848",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-ford-mustang-gtd-indulgent-blue-cm64-gtd-2",
+    "scale": "1/64",
+    "series": "CM64-GTD-02",
+    "make": "Ford"
+  },
+  {
+    "modelName": "Ford Mustang Dark Horse Blue Ember Metallic CM64-DarkHorse-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/CM64-DARKHOUSE-01_1.jpg?v=1773353871",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-ford-mustang-dark-horse-blue-ember-metallic-cm64-darkhorse-01",
+    "scale": "1/64",
+    "series": "CM64-DarkHorse-01",
+    "make": "Ford"
+  },
+  {
+    "modelName": "Mclaren 750S Spider Ember Orange CM64-750S-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/CM64-750S-01.jpg?v=1773353823",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-750s-spider-ember-orange-cm64-750s-1",
+    "scale": "1/64",
+    "series": "CM64-750S-01",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Toyota Tundra Black CM64-Tundra-04",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260225010808_4034_1.jpg?v=1772256562",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-tundra-black-cm64-tundra-04",
+    "scale": "1/64",
+    "series": "CM64-Tundra-04",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Subaru BRZ Metallic Blue CM64-BRZ-08",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260225010737_4013_1.jpg?v=1772256428",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-subaru-brz-metallic-blue-cm64-brz-08",
+    "scale": "1/64",
+    "series": "CM64-BRZ-08",
+    "make": "Subaru"
+  },
+  {
+    "modelName": "Mclaren Senna GTR Metallic Grey CM64-SennaGTR-13",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260225010754_4025_1.jpg?v=1772256328",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-senna-gtr-metallic-grey-cm64-sennagtr-13",
+    "scale": "1/64",
+    "series": "CM64-SennaGTR-13",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Ford Mustang GTD Black Police CM64-GTD-PD02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260225010748_4021_1_71278729-3799-4c9a-ae17-dbcdd44ffd9c.jpg?v=1772256243",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-ford-mustang-gtd-black-police-cm64-gtd-pd02",
+    "scale": "1/64",
+    "series": "CM64-GTD-PD02",
+    "make": "Ford"
+  },
+  {
+    "modelName": "Ford Dark Horse Black CM64-DarkHorse-PD01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260225010743_4017_1.jpg?v=1772256153",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-ford-dark-horse-black-cm64-darkhorse-pd01",
+    "scale": "1/64",
+    "series": "CM64-DarkHorse-PD01",
+    "make": "Ford"
+  },
+  {
+    "modelName": "Toyota Supra Pearl White CM64-Supra-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260225010759_4029_1.jpg?v=1772255950",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-supra-pearl-white-cm64-supra-01",
+    "scale": "1/64",
+    "series": "CM64-Supra-01",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Pagani Zonda Tricolours CM64-Zonda Tricolore-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260225010812_4037_1.jpg?v=1772255820",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zonda-tricolours-cm64-zonda-tricolore-01",
+    "scale": "1/64",
+    "series": "CM64-Zonda",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Pagani Zonda F Pearl White Blue line CM64-ZondaF-02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260110014436_1937_1.jpg?v=1768359815",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zonda-f-pearl-white-blue-line-cm64-zondaf-02",
+    "scale": "1/64",
+    "series": "CM64-ZondaF-02",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Toyota Sequoia Cyan CM64-Sequoia-07",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260110014425_1933_1.jpg?v=1768361291",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-sequoia-cyan-cm64-sequoia-07",
+    "scale": "1/64",
+    "series": "CM64-Sequoia-07",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "MV Agusta F3 Rosso White with showgirl CM64-F3Rosso-03",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260110014408_1925_1.jpg?v=1768359815",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mv-agusta-f3-rosso-white-with-showgirl-cm64-f3rosso-3",
+    "scale": "1/64",
+    "series": "CM64-F3Rosso-03",
+    "make": "MV Agusta"
+  },
+  {
+    "modelName": "Pagani Zonda Revolution Drycarbon （Complimentary Nürburgring Lap Time Model-Specific Water-Slide Decal ） CM64-Revolucion-12",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260110014416_1929_1.jpg?v=1768360786",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zonda-revolution-drycarbon-complimentary-nurburgring-lap-time-model-specific-water-slide-decal-cm64-revolucion-12",
+    "scale": "1/64",
+    "series": "CM64-Revolucion-12",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Pagani Zonda Revolution Drycarbon Diorama Set（Complimentary Nürburgring Lap Time Model-Specific Water-Slide Decal ）CM64-DIORAMASET-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260110014354_1917_1.jpg?v=1768359815",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zonda-revolution-drycarbon-diorama-set-complimentary-nurburgring-lap-time-model-specific-water-slide-decal-cm64-dioramaset-01",
+    "scale": "1/64",
+    "series": "CM64-DIORAMASET-01",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Pagani Zonda F Roadster Pearl White CM64-Zonda RoadsterF-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260110014447_1941_1.jpg?v=1768359815",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zonda-f-roadster-pearl-white-cm64-zonda-roadsterf-1",
+    "scale": "1/64",
+    "series": "CM64-Zonda",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Pandem BMW M3 E30 Pearl White CM64-E30-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20260110014400_1921_1.jpg?v=1768359815",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pandem-bmw-m3-e30-pearl-white-cm64-e30-1",
+    "scale": "1/64",
+    "series": "CM64-E30-01",
+    "make": "BMW"
+  },
+  {
+    "modelName": "Mclaren 765LT Chrome Green CM64-765LT-19",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Screenshot2025-12-28at1.17.41PM.png?v=1766945911",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-765lt-chrome-green-cm64-765lt-19",
+    "scale": "1/64",
+    "series": "CM64-765LT-19",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "McLaren 720SGT3X Papaya Orange CM64-720SGT3X-03",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20251110042125_2278_71.jpg?v=1762978477",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-720sgt3x-papaya-orange-cm64-720sgt3x-03",
+    "scale": "1/64",
+    "series": "CM64-720SGT3X-03",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Pagani ZondaF Pearl white CM64-ZondaF-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20251110042138_2295_71.jpg?v=1762978532",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zondaf-pearl-white-cm64-zondaf-1",
+    "scale": "1/64",
+    "series": "CM64-ZondaF-01",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Pagani Zonda Revolucion Metallic blue CM64-Revolucion-BL",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20251110042129_2284_71.jpg?v=1762978696",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zonda-revlucion-metallic-blue-cm64-revolucion-bl-1",
+    "scale": "1/64",
+    "series": "CM64-Revolucion-BL",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Mclaren SennaGTR Volcano orange CM64-SennaGTR-10",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20251110042121_2272_71.jpg?v=1762978736",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-sennagtr-volcano-orange-cm64-sennagtr-11",
+    "scale": "1/64",
+    "series": "CM64-SennaGTR-10",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Pagani Imola Metallic Emerald Green CM64-IMOLA-10",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20251010184248_7bdca3f1-e116-407c-81d4-c1555e0410f7.jpg?v=1760136610",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-imola-metallic-emerald-green-cm64-imola-10",
+    "scale": "1/64",
+    "series": "CM64-IMOLA-10",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Toyota Sequoia Gray CM64-SEQUOIA-06",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20251010183241_fead5364-0d58-420f-afd0-df3050f4fa76.jpg?v=1760136020",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-sequoia-gray-cm64-sequoia-06",
+    "scale": "1/64",
+    "series": "CM64-SEQUOIA-06",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "McLaren Solus GT – 2023 Goodwood Festival of Speed Timed Shootout Winner CM64-SOLUSGT-06",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20251010184153.jpg?v=1760136145",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-solus-gt-2023-goodwood-festival-of-speed-timed-shootout-winner-cm64-solusgt-06",
+    "scale": "1/64",
+    "series": "CM64-SOLUSGT-06",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "McLaren Senna GTR Metallic Silver Gray CM64-SennaGTR-11",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20251010182927.jpg?v=1760135444",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-sennagtr-metallic-silver-gray-cm64-sennagtr-11",
+    "scale": "1/64",
+    "series": "CM64-SennaGTR-11",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Pagani Zonda Revo Barchetta 1 of 1 CM64-Zonda-RB01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Image_20251010182201_a6a36bee-201a-410d-9872-b3cef8450fac.jpg?v=1760135149",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zonda-revo-barchetta-cm64-zonda-rb01",
+    "scale": "1/64",
+    "series": "CM64-Zonda-RB01",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Mclaren 720SGT3X Metallic red CM64-720SGT3X-02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/61821757081926_.pic.jpg?v=1757128736",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-720sgt3x-metallic-red-cm64-720sgt3x-02",
+    "scale": "1/64",
+    "series": "CM64-720SGT3X-02",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "MV Agusta F3rosso Metallic gray CM64-F3Rosso-02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/61941757081970_.pic.jpg?v=1757128233",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mv-agusta-f3rosso-metallic-gray-cm64-f3rosso-02",
+    "scale": "1/64",
+    "series": "CM64-F3Rosso-02",
+    "make": "MV Agusta"
+  },
+  {
+    "modelName": "Toyota Sequoia Red CM64-SEQUOIA-05",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/62021757081979_.pic.jpg?v=1757128104",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-sequoia-red-cm64-sequoia-05-toyota-sequoia-red",
+    "scale": "1/64",
+    "series": "CM64-SEQUOIA-05",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Mclaren 765LT Silver Gray CM64-765LT-20",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/61861757081931_.pic.jpg?v=1757127832",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-765lt-silver-gray-cm64-765lt-20",
+    "scale": "1/64",
+    "series": "CM64-765LT-20",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Mclaren Souls GT Black White CM64-SOLUSGT-03",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/62061757081986_.pic.jpg?v=1757127184",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-soulsgt-black-white-cm64-solusgt-03",
+    "scale": "1/64",
+    "series": "CM64-SOLUSGT-03",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Mclaren SennaGTR Papaya orange CM64-SennaGTR-04",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/61981757081974_.pic.jpg?v=1757127081",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-sennagtr-papaya-orange-cm64-sennagtr-04",
+    "scale": "1/64",
+    "series": "CM64-SennaGTR-04",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Pagani Codalunga Green CM64-CODALUNGA-05",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/61901757081936_.pic.jpg?v=1757126993",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-codalunga-green-cm64-codalunga-05",
+    "scale": "1/64",
+    "series": "CM64-CODALUNGA-05",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Pagani Utopia Pearl White CM64-Utopia-07",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/30331751255893_.pic.jpg?v=1751300436",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-utopia-pearl-white-cm64-utopia-07-pagani",
+    "scale": "1/64",
+    "series": "CM64-Utopia-07",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Toyota Tundra Camera CM64-TUNDRA-CAMERA",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/30271751255887_.pic.jpg?v=1751300298",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-tundra-camere-cm64-tundra-camera",
+    "scale": "1/64",
+    "series": "CM64-TUNDRA-CAMERA",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Toyota Tundra Overland CM64-TUNDRA-OL01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/30241751255884_.pic.jpg?v=1751300109",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-tundra-overland-cm64-tundra-ol01",
+    "scale": "1/64",
+    "series": "CM64-TUNDRA-OL01",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Mclaren SennaGTR Metallic Blue 47# CM64-SennaGTR-07",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/30191751255879_.pic.jpg?v=1751300039",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-sennagtr-metallic-blue-47-cm64-sennagtr-07",
+    "scale": "1/64",
+    "series": "CM64-SennaGTR-07",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Pagani Zonda Revolution chameleon CM64-Revolution-09",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/30141751255874_.pic.jpg?v=1751297855",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zonda-revlucion-chameleon-cm64-revolution-09",
+    "scale": "1/64",
+    "series": "CM64-Revolution-09",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Pagani Tricolore CM64-HUAYRATRICOLORE-02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/30111751255871_.pic.jpg?v=1751297850",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-tricolore-cm64-huayratricolore-02",
+    "scale": "1/64",
+    "series": "CM64-HUAYRATRICOLORE-02",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Subaru BRZ Varis Widebody chameleon CM64-BRZ-05",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/196281746775097_.pic.jpg?v=1746842403",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-subaru-brz-varis-widebody-chameleon-cm64-brz-05",
+    "scale": "1/64",
+    "series": "CM64-BRZ-05",
+    "make": "Subaru"
+  },
+  {
+    "modelName": "Mclaren 765LT Full Carbon Red CM64-765LT-13",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/196251746775095_.pic.jpg?v=1746842318",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-765lt-full-carbon-red-cm64-765lt-13",
+    "scale": "1/64",
+    "series": "CM64-765LT-13",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Pagani Utopia Full Carbon with Red Line CM64-Utopia-06",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/196221746775092_.pic.jpg?v=1746842120",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-utopia-full-carbon-with-red-line",
+    "scale": "1/64",
+    "series": "CM64-Utopia-06",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "McLaren SennaGTR Metallic Red CM64-SennaGTR-09",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/196191746775090_.pic.jpg?v=1746840659",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-sennagtr-metallic-red-cm64-sennagtr-09",
+    "scale": "1/64",
+    "series": "CM64-SennaGTR-09",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Toyota Tundra Metallic Blue CM64-Tundra-02",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/196161746775088_.pic.jpg?v=1746840514",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-tundra-metallic-blue-cm64-tundra-02",
+    "scale": "1/64",
+    "series": "CM64-Tundra-02",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Subaru WRX Varis Widebody 2.0 Yellow CM64-WRX-08",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/WhatsAppImage2025-03-19at20.05.22_1_1716b942-b0a1-44f2-9069-96535154b6fa.jpg?v=1742527569",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-subaru-wrx-varis-widebody-2-0-yellow-cm64-wrx-08",
+    "scale": "1/64",
+    "series": "CM64-WRX-08",
+    "make": "Subaru"
+  },
+  {
+    "modelName": "SUBARU STI Varis Widebody 1.0 Yellow CM64-STI-08",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/WhatsAppImage2025-03-19at20.05.18_d9ffbca4-1ca0-4f0e-b670-cea11179dc9e.jpg?v=1742527368",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-subaru-sti-varis-widebody-1-0-yellow-cm64-sti-08",
+    "scale": "1/64",
+    "series": "CM64-STI-08",
+    "make": "Subaru"
+  },
+  {
+    "modelName": "Pagani Imola - Metallic Red CM64-IMOLA-05",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/WhatsAppImage2025-03-19at20.04.52_1_63a00325-abb2-49c5-a591-c847a9407b28.jpg?v=1742527039",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-imola-metallic-red-cm64-imola-05",
+    "scale": "1/64",
+    "series": "CM64-IMOLA-05",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Subaru BRZ Varis Widebody Metallic Red - CM64-BRZ-07",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/WhatsAppImage2025-03-19at20.04.50.jpg?v=1742526804",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-subaru-brz-varis-widebody-metallic-red-cm64-brz-07",
+    "scale": "1/64",
+    "series": "CM64-BRZ-07",
+    "make": "Subaru"
+  },
+  {
+    "modelName": "Toyota Tundra White - CM64-Tundra-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/WhatsAppImage2025-03-19at20.05.20_1.jpg?v=1742526089",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-tundra-white-01",
+    "scale": "1/64",
+    "series": "CM64-Tundra-01",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Subaru BRZ Varis Widebody Metallic Gray CM64-BRZ-10",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/1_4090749c-cbbe-477a-9e03-36ed59671447.jpg?v=1736628266",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-subaru-brz-varis-widebody-metallic-gray",
+    "scale": "1/64",
+    "series": "CM64-BRZ-10",
+    "make": "Subaru"
+  },
+  {
+    "modelName": "McLaren SolusGT Metallic Red with Gold CM64-SOLUSGT-08",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/1_8a2f65aa-29e0-47a6-833c-c1551677ee5d.jpg?v=1736628112",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-solusgt-metallic-red",
+    "scale": "1/64",
+    "series": "CM64-SOLUSGT-08",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Pagani Zonda Rev Dry Carbon CM64-Revolucion-07",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/1_f647d2e9-2b25-4eb3-b9b8-1a4c1823d319.jpg?v=1732654550",
+    "productURL": "https://horizondiecast.com/products/cm-model-1-64-pagani-zonda-rev-dry-carbon-cm64-revolucion-07",
+    "scale": "1/64",
+    "series": "CM64-Revolucion-07",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Pagani Imola (Full Dry carbon) CM64-IMOLA-04",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/1_aa4b1965-8579-46f6-8bbb-23eb27d3df9f.jpg?v=1726281481",
+    "productURL": "https://horizondiecast.com/products/cm-model-1-64-pagani-imola-full-dry-carbon-cm64-imola-04",
+    "scale": "1/64",
+    "series": "CM64-IMOLA-04",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Nissan LBWK 35GT-RR Chameleon with Carbon CM64-35RR-16",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/6_1c273634-678a-4646-981c-f234ce1a8975.jpg?v=1726204975",
+    "productURL": "https://horizondiecast.com/products/cm-model-1-64-nissan-lbwk-35gt-rr-chameleon-with-carbon-cm64-35rr-16",
+    "scale": "1/64",
+    "series": "CM64-35RR-16",
+    "make": "Nissan"
+  },
+  {
+    "modelName": "McLaren 765LT Metallic black green CM64-765LT-17",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/9655290389908ce120afa3bf2598b64.jpg?v=1720638486",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-765lt-metallic-black-green",
+    "scale": "1/64",
+    "series": "CM64-765LT-17",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Nissan LBWK GT35RR Pink CM64-35RR-08",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/1_a941299b-b55d-4932-a489-29205b55ef3f.jpg?v=1715564258",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-nissan-lbwk-gt35rr-pink",
+    "scale": "1/64",
+    "series": "CM64-35RR-08",
+    "make": "Nissan"
+  },
+  {
+    "modelName": "Pagani Zonda Revolucion Safety Car CM64-Revolucion-04",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/1_00ae22d1-1aac-4b57-a7f5-abc0c504b4e3.jpg?v=1715564019",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pagani-zonda-revolucion-safety-car",
+    "scale": "1/64",
+    "series": "CM64-Revolucion-04",
+    "make": "Pagani"
+  },
+  {
+    "modelName": "Subaru BRZ Varis BRZ ARISING-1 Red CM64-BRZ-06",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/1_8f489fc4-d7c7-4bcb-83b0-350b2ba0eb34.jpg?v=1715563679",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-subaru-brz-varis-brz-arising-1-red",
+    "scale": "1/64",
+    "series": "CM64-BRZ-06",
+    "make": "Subaru"
+  },
+  {
+    "modelName": "Subaru VAB WRX Varis Widebody Black CM64-WRX-03",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/368046914_611715311154729_753970134582968240_n.webp?v=1715311120",
+    "productURL": "https://horizondiecast.com/products/cm-model-1-64-subaru-vab-sti-varis-widebody-black-copy",
+    "scale": "1/64",
+    "series": "CM64-WRX-03",
+    "make": "Subaru"
+  },
+  {
+    "modelName": "Mitsubishi Lancer EvoIX Metallic Blue -Carbon Hood CM64-EVOIX-10carbon",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/1_ae4f099a-30ed-40eb-beca-5b7156b5e91c.jpg?v=1709865402",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mitsubishi-lancer-evoix-metallic-blue-carbon-hood",
+    "scale": "1/64",
+    "series": "CM64-EVOIX-10carbon",
+    "make": "Mitsubishi"
+  }
+]
