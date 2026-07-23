@@ -210,16 +210,6 @@
     "isReleased": true
   },
   {
-    "modelName": "Aston Martin DB5 Safari Edition",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJH76",
-    "colNumber": "",
-    "series": "HW DirtNew for 2026!",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "Circle Tracker",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "",
@@ -245,16 +235,6 @@
     "toyNumber": "JJM14",
     "colNumber": "",
     "series": "Trophy CaseTreasure Hunt",
-    "category": "Treasure Hunt",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
-    "modelName": "Nissan Skyline HT 2000GT-X",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJM13",
-    "colNumber": "",
-    "series": "Screen TimeTreasure Hunt",
     "category": "Treasure Hunt",
     "year": 2026,
     "isReleased": true
@@ -2490,6 +2470,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Time Shifter (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL65",
+    "colNumber": "109",
+    "series": "Wagons",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "'70 Chevelle SS Wagon",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/ATNChevelle.jpg/revision/latest?cb=20260103100306",
     "toyNumber": "JJJ70",
@@ -2503,6 +2493,16 @@
     "modelName": "Long Bloc",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/MoonBloc.jpg/revision/latest?cb=20260103100340",
     "toyNumber": "JJJ71",
+    "colNumber": "111",
+    "series": "Wagons",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Long Bloc (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL66",
     "colNumber": "111",
     "series": "Wagons",
     "category": "Mainline",
@@ -2553,6 +2553,16 @@
     "modelName": "Custom '66 Toronado",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/91/OldsToronado.jpg/revision/latest?cb=20260103100431",
     "toyNumber": "JJH45",
+    "colNumber": "114",
+    "series": "Factory FreshNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom '66 Toronado (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL93",
     "colNumber": "114",
     "series": "Factory FreshNew for 2026!",
     "category": "Mainline",
@@ -2913,6 +2923,16 @@
     "modelName": "'20 Dodge Charger Hellcat",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/2020Hellcat.jpg/revision/latest?cb=20260121131633",
     "toyNumber": "JJJ87",
+    "colNumber": "134",
+    "series": "Nightspeed",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "'20 Dodge Charger Hellcat (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL83",
     "colNumber": "134",
     "series": "Nightspeed",
     "category": "Mainline",
@@ -3310,6 +3330,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Mach Speeder (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL55",
+    "colNumber": "158",
+    "series": "Exoticars",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Honda Civic Custom",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/8/88/HondaCivicDragster.jpg/revision/latest?cb=20260128103247",
     "toyNumber": "JJJ81",
@@ -3590,6 +3620,16 @@
     "isReleased": true
   },
   {
+    "modelName": "'94 Audi Avant RS2 (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL85",
+    "colNumber": "175",
+    "series": "Wagons",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Subaru Impreza WRX",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/2005SubaruImpreza.jpg/revision/latest?cb=20260410125327",
     "toyNumber": "JJK19",
@@ -3650,6 +3690,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Click Shift (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL90",
+    "colNumber": "178",
+    "series": "HW All Drivers WelcomeNew for 2026!Easterseals",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Mountain Mauler",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/LRMauler.jpg/revision/latest?cb=20260410125433",
     "toyNumber": "JJK20",
@@ -3693,6 +3743,16 @@
     "modelName": "Chop 'n Bloc",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Chop%27nBloc.jpg/revision/latest?cb=20260410125509",
     "toyNumber": "JJH60",
+    "colNumber": "182",
+    "series": "Rod SquadNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Chop 'n Bloc (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL77",
     "colNumber": "182",
     "series": "Rod SquadNew for 2026!",
     "category": "Mainline",
@@ -4456,6 +4516,26 @@
     "colNumber": "242",
     "series": "HW Torque",
     "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Aston Martin DB5 Safari Edition",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJH76",
+    "colNumber": "243",
+    "series": "HW DirtNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Nissan Skyline HT 2000GT-X",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJM13",
+    "colNumber": "244",
+    "series": "Screen TimeTreasure Hunt",
+    "category": "Treasure Hunt",
     "year": 2026,
     "isReleased": true
   },
