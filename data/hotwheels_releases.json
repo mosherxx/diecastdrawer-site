@@ -30,26 +30,6 @@
     "isReleased": true
   },
   {
-    "modelName": "'67 Pontiac Firebird 400",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJM29",
-    "colNumber": "",
-    "series": "Cool ClassicsSuper Treasure Hunt",
-    "category": "Super Treasure Hunt",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
-    "modelName": "'67 Pontiac Firebird 400",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJK64",
-    "colNumber": "",
-    "series": "Cool Classics",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "'68 Mercury Cougar",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "",
@@ -220,41 +200,11 @@
     "isReleased": true
   },
   {
-    "modelName": "Custom Vanster",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJH79",
-    "colNumber": "",
-    "series": "Trophy CaseNew for 2026!",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
-    "modelName": "Gazella GT",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJM14",
-    "colNumber": "",
-    "series": "Trophy CaseTreasure Hunt",
-    "category": "Treasure Hunt",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "Party Wagon",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "",
     "colNumber": "",
     "series": "Screen Time",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
-    "modelName": "Porsche 908-3",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJH78",
-    "colNumber": "",
-    "series": "Cool ClassicsNew for 2026!",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -4565,6 +4515,56 @@
     "toyNumber": "JJH77",
     "colNumber": "246",
     "series": "HW TorqueNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Gazella GT",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJM14",
+    "colNumber": "247",
+    "series": "Trophy CaseTreasure Hunt",
+    "category": "Treasure Hunt",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Custom Vanster",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJH79",
+    "colNumber": "248",
+    "series": "Trophy CaseNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "'67 Pontiac Firebird 400",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJM29",
+    "colNumber": "249",
+    "series": "Cool ClassicsSuper Treasure Hunt",
+    "category": "Super Treasure Hunt",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "'67 Pontiac Firebird 400",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJK64",
+    "colNumber": "249",
+    "series": "Cool Classics",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Porsche 908-3",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJH78",
+    "colNumber": "250",
+    "series": "Cool ClassicsNew for 2026!",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
