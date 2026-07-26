@@ -36,6 +36,15 @@
     "isReleased": true
   },
   {
+    "modelName": "'95 Subaru SVX",
+    "imageURL": null,
+    "mbxNumber": "MB105",
+    "series": "MBX Showroom",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "1956 Aston Martin DBR1",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b6/DBR1grey.png/revision/latest?cb=20260619163940",
     "mbxNumber": "MB72",
@@ -135,6 +144,15 @@
     "isReleased": true
   },
   {
+    "modelName": "1970 Honda N600 Off Road",
+    "imageURL": null,
+    "mbxNumber": "MB124",
+    "series": "MBX Road Trip",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "1971 Porsche 914",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c3/Porsche_914_2026.jpg/revision/latest?cb=20260428154750",
     "mbxNumber": "MB95",
@@ -211,6 +229,15 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/1/14/Cherokee_26.jpg/revision/latest?cb=20260708221318",
     "mbxNumber": "MB114",
     "series": "MBX Adventure",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "1994 Mitsubishi 3000GT",
+    "imageURL": null,
+    "mbxNumber": "MB119",
+    "series": "MBX Showroom",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -589,6 +616,15 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/7c/2026Matchbox2024GMCSierra3500Wrecker.png/revision/latest?cb=20260521031923",
     "mbxNumber": "MB68",
     "series": "MBX Metro",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "2024 Glickenhaus SCG 004 (New)",
+    "imageURL": null,
+    "mbxNumber": "MB117",
+    "series": "MBX Showroom",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
