@@ -1,5 +1,38 @@
 [
   {
+    "modelName": "Hyundai Veloster N Performance Blue",
+    "productCode": "MGT01346",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/07/20260727042610359.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "Regional Exclusive"
+    ]
+  },
+  {
+    "modelName": "Hyundai Ioniq 5 N Performance Blue Matt",
+    "productCode": "MGT01345",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/07/20260727041810466.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "Regional Exclusive"
+    ]
+  },
+  {
+    "modelName": "Hyundai Ioniq 6 N Performance Blue Pearl",
+    "productCode": "MGT01344",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/07/20260727041031356.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "Regional Exclusive"
+    ]
+  },
+  {
     "modelName": "Lamborghini LB-Silhouette WORKS MURCIELAGO GT Evo Advan",
     "productCode": "MGT01337",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/07/20260706175445268.JPG",
