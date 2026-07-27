@@ -239,6 +239,145 @@
     border-top: 1px solid rgba(216,212,204,.7);
   }
 
+  .scroll-world {
+    min-height: 360vh;
+    padding: 0;
+    background: #0f1110;
+    color: #f8f5ec;
+    border-top: 0;
+  }
+
+  .world-sticky {
+    position: sticky;
+    top: 72px;
+    min-height: calc(100vh - 72px);
+    display: grid;
+    overflow: hidden;
+    isolation: isolate;
+  }
+
+  .world-scenes,
+  .world-scene,
+  .world-scene img {
+    position: absolute;
+    inset: 0;
+  }
+
+  .world-scene {
+    opacity: 0;
+    transform: scale(1.06);
+    transition: opacity .22s linear;
+    will-change: opacity, transform;
+  }
+
+  .world-scene.is-active {
+    opacity: 1;
+  }
+
+  .world-scene img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: saturate(.92) contrast(1.03);
+  }
+
+  .world-scene::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(90deg, rgba(15,17,16,.82), rgba(15,17,16,.42) 38%, rgba(15,17,16,.08)),
+      linear-gradient(180deg, rgba(15,17,16,.12), rgba(15,17,16,.7));
+  }
+
+  .world-overlay {
+    position: relative;
+    z-index: 2;
+    min-height: calc(100vh - 72px);
+    display: grid;
+    grid-template-columns: minmax(0, 560px) 1fr;
+    gap: 70px;
+    align-items: center;
+    padding-block: 7vh;
+  }
+
+  .world-copy {
+    min-height: 330px;
+    display: grid;
+    align-content: center;
+  }
+
+  .world-copy h2 {
+    color: #fffaf0;
+    font-size: clamp(3.1rem, 7vw, 7.7rem);
+  }
+
+  .world-copy p {
+    color: rgba(248,245,236,.78);
+    font-size: clamp(1.08rem, 1.6vw, 1.35rem);
+  }
+
+  .world-panel {
+    justify-self: end;
+    width: min(100%, 420px);
+    padding: 22px;
+    border: 1px solid rgba(248,245,236,.24);
+    background: rgba(255,255,255,.08);
+    backdrop-filter: blur(20px);
+  }
+
+  .world-progress {
+    height: 2px;
+    margin-bottom: 24px;
+    background: rgba(248,245,236,.24);
+    overflow: hidden;
+  }
+
+  .world-progress span {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: #fffaf0;
+    transform: scaleX(0);
+    transform-origin: left;
+  }
+
+  .world-steps {
+    display: grid;
+    gap: 12px;
+  }
+
+  .world-step {
+    display: grid;
+    grid-template-columns: 34px 1fr;
+    gap: 12px;
+    align-items: center;
+    padding: 11px 0;
+    border-bottom: 1px solid rgba(248,245,236,.16);
+    color: rgba(248,245,236,.58);
+    font: inherit;
+    text-align: left;
+    background: none;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    cursor: pointer;
+  }
+
+  .world-step span:first-child {
+    display: grid;
+    place-items: center;
+    width: 28px;
+    height: 28px;
+    border: 1px solid currentColor;
+    border-radius: 50%;
+    font-size: .75rem;
+  }
+
+  .world-step.is-active {
+    color: #fffaf0;
+  }
+
   .section-grid {
     display: grid;
     grid-template-columns: 320px 1fr;
@@ -398,20 +537,16 @@
   }
 
   .brand-cloud > span {
-    min-height: 124px;
-    padding: 22px 26px;
+    min-height: 126px;
+    display: grid;
+    grid-template-columns: 126px minmax(0, 1fr);
+    gap: 22px;
+    align-items: center;
+    padding: 22px;
     border-right: 1px solid var(--line);
     border-bottom: 1px solid var(--line);
     color: var(--muted);
     font-size: 1.1rem;
-    display: grid;
-    grid-template-columns: 126px minmax(0, 1fr);
-    gap: 24px;
-    align-items: center;
-  }
-
-  .brand-cloud > span:last-child:nth-child(odd) {
-    grid-column: 1 / -1;
   }
 
   .brand-logo {
@@ -420,12 +555,14 @@
     display: grid;
     place-items: center;
     overflow: hidden;
+    background: #fff;
   }
 
   .brand-logo img {
-    display: block;
     width: 100%;
-    height: auto;
+    height: 100%;
+    object-fit: contain;
+    display: block;
   }
 
   .brand-logo--inno64 img {
@@ -443,7 +580,7 @@
     letter-spacing: -.05em;
   }
 
-  .brand-copy > span {
+  .brand-cloud > span > span {
     display: block;
   }
 
@@ -506,6 +643,7 @@
     .utility .portal { min-width: 140px; }
     .hero-content,
     .section-grid,
+    .world-overlay,
     .solutions-head,
     .drawer-map,
     .cta-panel,
@@ -515,6 +653,9 @@
     }
     .hero-content { align-items: center; padding-top: 10vh; }
     .hero-copy { padding-bottom: 0; max-width: 420px; }
+    .world-sticky { top: 64px; min-height: calc(100vh - 64px); }
+    .world-overlay { min-height: calc(100vh - 64px); align-items: end; }
+    .world-panel { justify-self: stretch; width: auto; }
     .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .solution { grid-template-columns: 1fr; gap: 18px; }
     .foot-links { justify-content: start; }
@@ -533,13 +674,14 @@
     .hero-visual { height: 62vh; inset: 14vh -36% auto -26%; opacity: .7; }
     .scroll-note { display: none; }
     section { padding: 76px 0; }
+    .scroll-world { min-height: 330vh; padding: 0; }
+    .world-copy { min-height: auto; }
+    .world-panel { padding: 18px; }
     .stats { grid-template-columns: 1fr; }
     .stat { min-height: 112px; }
     .drawer-visual { min-height: 280px; }
     .brand-cloud { grid-template-columns: 1fr; }
-    .brand-cloud > span,
-    .brand-cloud > span:last-child:nth-child(odd) {
-      grid-column: auto;
+    .brand-cloud > span {
       min-height: 112px;
       grid-template-columns: 100px minmax(0, 1fr);
       gap: 18px;
@@ -547,7 +689,6 @@
     }
     .brand-logo { width: 100px; height: 50px; }
     .brand-cloud b { font-size: 1.35rem; }
-    .brand-cloud > span { font-size: 1rem; }
     .cta { min-height: 60vh; }
     .cta h2 { font-size: clamp(3.6rem, 18vw, 5.8rem); }
   }
@@ -570,6 +711,7 @@
         <span>Diecast<small>Drawer</small></span>
       </a>
       <div class="nav-links" aria-label="Primary navigation">
+        <a href="#world" data-i18n="nav.world">World</a>
         <a href="#about" data-i18n="nav.about">About</a>
         <a href="#solutions" data-i18n="nav.solutions">Collector Solutions</a>
         <a href="#brands" data-i18n="nav.brands">Brands</a>
@@ -586,7 +728,7 @@
           <option value="it">IT</option>
           <option value="fr">FR</option>
         </select>
-        <a class="portal" href="#download" data-i18n="nav.portal">App Store Soon</a>
+        <a class="portal" href="https://apps.apple.com/us/app/diecast-drawer/id6782384024" target="_blank" rel="noopener" data-i18n="nav.portal">App Store</a>
       </div>
     </nav>
   </div>
@@ -606,6 +748,46 @@
         <a class="text-link" href="#solutions" data-i18n="hero.link">Collector Solutions</a>
       </div>
       <span class="scroll-note" data-i18n="hero.scroll">Scroll</span>
+    </div>
+  </section>
+
+  <section id="world" class="scroll-world" data-scroll-world aria-label="DiecastDrawer scroll world">
+    <div class="world-sticky">
+      <div class="world-scenes" aria-hidden="true">
+        <div class="world-scene is-active" data-world-scene>
+          <img src="assets/hero-background.png" alt="">
+        </div>
+        <div class="world-scene" data-world-scene>
+          <img src="assets/brand-coverage.png" alt="">
+        </div>
+        <div class="world-scene" data-world-scene>
+          <img src="assets/hero-background.png" alt="">
+        </div>
+      </div>
+      <div class="wrap world-overlay">
+        <div class="world-copy">
+          <span class="kicker" data-i18n="world.kicker">Scroll world</span>
+          <h2 data-world-title data-i18n="world1.title">Fly through the collection</h2>
+          <p class="body-copy" data-world-body data-i18n="world1.copy">A cinematic path through the drawer: from the cars you own, to the brands you follow, to the next model on your wishlist.</p>
+        </div>
+        <div class="world-panel" aria-label="Scroll world scenes">
+          <div class="world-progress" aria-hidden="true"><span data-world-progress></span></div>
+          <div class="world-steps">
+            <button class="world-step is-active" type="button" data-world-step="0">
+              <span>01</span>
+              <span data-i18n="world1.step">Collection vault</span>
+            </button>
+            <button class="world-step" type="button" data-world-step="1">
+              <span>02</span>
+              <span data-i18n="world2.step">Brand coverage</span>
+            </button>
+            <button class="world-step" type="button" data-world-step="2">
+              <span>03</span>
+              <span data-i18n="world3.step">Launch ready</span>
+            </button>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -690,29 +872,50 @@
         <p class="body-copy reveal" data-i18n="brands.copy">Track premium releases, mainline finds, chase variants, and the models you are still trying to land. The structure stays simple even as the collection grows.</p>
       </div>
       <div class="drawer-visual reveal" data-parallax="0.04" aria-hidden="true">
-        <img src="assets/brand-coverage.jpg" alt="" loading="lazy">
+        <img src="assets/brand-coverage.png" alt="">
       </div>
     </div>
 
     <div class="wrap" style="margin-top:70px">
       <div class="brand-cloud reveal">
-        <span><span class="brand-logo"><img src="assets/brands/minigt.png" alt="" loading="lazy"></span><span class="brand-copy"><b>MiniGT</b><span data-i18n="brand1">Premium releases</span></span></span>
-        <span><span class="brand-logo"><img src="assets/brands/kaido-house.jpg" alt="" loading="lazy"></span><span class="brand-copy"><b>Kaido House</b><span data-i18n="brand2">Chase targets</span></span></span>
-        <span><span class="brand-logo brand-logo--inno64"><img src="assets/brands/inno64.webp" alt="" loading="lazy"></span><span class="brand-copy"><b>Inno64</b><span data-i18n="brand7">Detailed models</span></span></span>
-        <span><span class="brand-logo"><img src="assets/brands/tarmac-works.png" alt="" loading="lazy"></span><span class="brand-copy"><b>Tarmac Works</b><span data-i18n="brand3">Motorsport models</span></span></span>
-        <span><span class="brand-logo"><img src="assets/brands/pop-race.jpg" alt="" loading="lazy"></span><span class="brand-copy"><b>Pop Race</b><span data-i18n="brand4">Collector favorites</span></span></span>
-        <span><span class="brand-logo"><img src="assets/brands/hot-wheels.png" alt="" loading="lazy"></span><span class="brand-copy"><b>Hot Wheels</b><span data-i18n="brand5">Mainline and premium</span></span></span>
-        <span><span class="brand-logo"><img src="assets/brands/matchbox.jpg" alt="" loading="lazy"></span><span class="brand-copy"><b>Matchbox</b><span data-i18n="brand6">Modern and classic</span></span></span>
+        <span>
+          <span class="brand-logo"><img src="assets/brands/minigt.png" alt="" loading="lazy"></span>
+          <span class="brand-copy"><b>MiniGT</b><span data-i18n="brand1">Premium releases</span></span>
+        </span>
+        <span>
+          <span class="brand-logo"><img src="assets/brands/kaido-house.jpg" alt="" loading="lazy"></span>
+          <span class="brand-copy"><b>Kaido House</b><span data-i18n="brand2">Chase targets</span></span>
+        </span>
+        <span>
+          <span class="brand-logo brand-logo--inno64"><img src="assets/brands/inno64.webp" alt="" loading="lazy"></span>
+          <span class="brand-copy"><b>Inno64</b><span data-i18n="brand7">Detailed models</span></span>
+        </span>
+        <span>
+          <span class="brand-logo"><img src="assets/brands/tarmac-works.png" alt="" loading="lazy"></span>
+          <span class="brand-copy"><b>Tarmac Works</b><span data-i18n="brand3">Motorsport models</span></span>
+        </span>
+        <span>
+          <span class="brand-logo"><img src="assets/brands/pop-race.jpg" alt="" loading="lazy"></span>
+          <span class="brand-copy"><b>Pop Race</b><span data-i18n="brand4">Collector favorites</span></span>
+        </span>
+        <span>
+          <span class="brand-logo"><img src="assets/brands/hot-wheels.png" alt="" loading="lazy"></span>
+          <span class="brand-copy"><b>Hot Wheels</b><span data-i18n="brand5">Mainline and premium</span></span>
+        </span>
+        <span>
+          <span class="brand-logo"><img src="assets/brands/matchbox.jpg" alt="" loading="lazy"></span>
+          <span class="brand-copy"><b>Matchbox</b><span data-i18n="brand6">Modern and classic</span></span>
+        </span>
       </div>
     </div>
   </section>
 
   <section id="download" class="cta">
     <div class="wrap cta-panel">
-      <h2 class="reveal" data-i18n="cta.title">The next drawer opens soon</h2>
+      <h2 class="reveal" data-i18n="cta.title">Open your drawer on iPhone</h2>
       <div class="hero-copy reveal">
-        <p data-i18n="cta.copy">DiecastDrawer is coming to iPhone. Built for collectors who want a calm, searchable record of the cars they own and the cars they are still chasing.</p>
-        <a class="text-link" href="mailto:diecastdrawerapp@gmail.com" data-i18n="cta.link">Contact us</a>
+        <p data-i18n="cta.copy">DiecastDrawer is available on the App Store. Built for collectors who want a calm, searchable record of the cars they own and the cars they are still chasing.</p>
+        <a class="text-link" href="https://apps.apple.com/us/app/diecast-drawer/id6782384024" target="_blank" rel="noopener" data-i18n="cta.link">View on App Store</a>
       </div>
     </div>
   </section>
@@ -728,6 +931,7 @@
       <span>Diecast<small>Drawer</small></span>
     </a>
     <div class="foot-links">
+      <a href="#world" data-i18n="nav.world">World</a>
       <a href="#about" data-i18n="nav.about">About</a>
       <a href="#solutions" data-i18n="nav.solutions">Collector Solutions</a>
       <a href="#brands" data-i18n="nav.brands">Brands</a>
@@ -749,17 +953,28 @@
       'nav.brands': 'Brands',
       'nav.privacy': 'Privacy',
       'nav.terms': 'Terms',
-      'nav.portal': 'App Store Soon',
+      'nav.portal': 'App Store',
+      'nav.world': 'World',
       'footer.privacy': 'Privacy Policy',
       'footer.contact': 'Contact',
       'hero.title': 'Collect<br>to<br>keep',
       'hero.copy': 'Tailored collection management for diecast collectors who want every model, release, value, and memory in one place.',
       'hero.link': 'Collector Solutions',
       'hero.scroll': 'Scroll',
+      'world.kicker': 'Scroll world',
+      'world1.title': 'Fly through the collection',
+      'world1.copy': 'A cinematic path through the drawer: from the cars you own, to the brands you follow, to the next model on your wishlist.',
+      'world1.step': 'Collection vault',
+      'world2.title': 'Pass the brand wall',
+      'world2.copy': 'Move from premium releases to mainline finds, chase variants, motorsport drops, and the names that shape modern 1:64 collecting.',
+      'world2.step': 'Brand coverage',
+      'world3.title': 'Land on what comes next',
+      'world3.copy': 'The page is ready for real scroll-scrubbed video clips later; today it keeps the same world-like motion with fast static assets.',
+      'world3.step': 'Launch ready',
       'about.kicker': 'About DiecastDrawer',
       'about.title': 'A focused vault for every car in your collection',
       'about.copy': 'DiecastDrawer is built for collectors who track more than a shelf count. Catalog 1:64 models, monitor upcoming releases, estimate value, and share the cars that matter without turning the hobby into a spreadsheet.',
-      'about.link': 'Follow the launch',
+      'about.link': 'Download the app',
       'stats.scale': 'Scale-first collection flow',
       'stats.brands': 'Major diecast brands tracked',
       'stats.liveLabel': 'Live',
@@ -806,9 +1021,9 @@
       'brand5': 'Mainline and premium',
       'brand6': 'Modern and classic',
       'brand7': 'Detailed models',
-      'cta.title': 'The next drawer opens soon',
-      'cta.copy': 'DiecastDrawer is coming to iPhone. Built for collectors who want a calm, searchable record of the cars they own and the cars they are still chasing.',
-      'cta.link': 'Contact us'
+      'cta.title': 'Open your drawer on iPhone',
+      'cta.copy': 'DiecastDrawer is available on the App Store. Built for collectors who want a calm, searchable record of the cars they own and the cars they are still chasing.',
+      'cta.link': 'View on App Store'
     },
     hu: {
       pageTitle: 'DiecastDrawer - tárhely a diecast gyűjteményednek',
@@ -818,17 +1033,28 @@
       'nav.brands': 'Márkák',
       'nav.privacy': 'Adatvédelem',
       'nav.terms': 'Feltételek',
-      'nav.portal': 'Hamarosan App Store',
+      'nav.portal': 'App Store',
+      'nav.world': 'Világ',
       'footer.privacy': 'Adatvédelmi tájékoztató',
       'footer.contact': 'Kapcsolat',
       'hero.title': 'Gyűjts<br>és<br>őrizd',
       'hero.copy': 'Személyre szabott gyűjteménykezelés diecast gyűjtőknek, hogy minden modell, megjelenés, érték és emlék egy helyen legyen.',
       'hero.link': 'Gyűjtői megoldások',
       'hero.scroll': 'Görgess',
+      'world.kicker': 'Görgethető világ',
+      'world1.title': 'Repülj át a gyűjteményen',
+      'world1.copy': 'Moziszerű út a fiókon keresztül: a saját autóidtól a követett márkákon át a következő kívánságlistás modellig.',
+      'world1.step': 'Gyűjtemény tárhely',
+      'world2.title': 'Haladj át a márkafalon',
+      'world2.copy': 'Prémium megjelenések, mainline találatok, chase variánsok, motorsport dropok és a modern 1:64-es gyűjtés fontos nevei egy útvonalon.',
+      'world2.step': 'Márkakövetés',
+      'world3.title': 'Érkezz meg a következő lépéshez',
+      'world3.copy': 'A szekció készen áll későbbi, valódi scroll-scrub videókra; most gyors statikus képekkel adja ugyanazt a világérzetű mozgást.',
+      'world3.step': 'Indulásra kész',
       'about.kicker': 'A DiecastDrawerről',
       'about.title': 'Fókuszált tárhely minden autónak a gyűjteményedben',
       'about.copy': 'A DiecastDrawer azoknak készült, akik többet követnek egy polcszámnál. Katalogizáld az 1:64-es modelleket, figyeld az új megjelenéseket, becsüld az értéket, és oszd meg a fontos darabokat táblázathangulat nélkül.',
-      'about.link': 'Kövesd az indulást',
+      'about.link': 'Töltsd le az appot',
       'stats.scale': '1:64-re épített gyűjtési folyamat',
       'stats.brands': 'Fő diecast márkák követése',
       'stats.liveLabel': 'Élő',
@@ -875,9 +1101,9 @@
       'brand5': 'Mainline és prémium',
       'brand6': 'Modern és klasszikus',
       'brand7': 'Részletgazdag modellek',
-      'cta.title': 'Hamarosan nyílik a következő fiók',
-      'cta.copy': 'A DiecastDrawer iPhone-ra érkezik. Gyűjtőknek készül, akik nyugodt, kereshető nyilvántartást szeretnének a meglévő és még vadászott autókról.',
-      'cta.link': 'Kapcsolat'
+      'cta.title': 'Nyisd meg a fiókod iPhone-on',
+      'cta.copy': 'A DiecastDrawer elérhető az App Store-ban. Gyűjtőknek készült, akik nyugodt, kereshető nyilvántartást szeretnének a meglévő és még vadászott autókról.',
+      'cta.link': 'Megnyitás App Store-ban'
     },
     de: {
       pageTitle: 'DiecastDrawer - der Tresor für deine Diecast-Sammlung',
@@ -887,17 +1113,28 @@
       'nav.brands': 'Marken',
       'nav.privacy': 'Datenschutz',
       'nav.terms': 'Bedingungen',
-      'nav.portal': 'Bald im App Store',
+      'nav.portal': 'App Store',
+      'nav.world': 'Welt',
       'footer.privacy': 'Datenschutzerklärung',
       'footer.contact': 'Kontakt',
       'hero.title': 'Sammeln<br>und<br>bewahren',
       'hero.copy': 'Maßgeschneiderte Sammlungsverwaltung für Diecast-Sammler, die jedes Modell, jede Neuheit, jeden Wert und jede Erinnerung an einem Ort haben möchten.',
       'hero.link': 'Sammler-Lösungen',
       'hero.scroll': 'Scrollen',
+      'world.kicker': 'Scroll-Welt',
+      'world1.title': 'Flug durch die Sammlung',
+      'world1.copy': 'Ein filmischer Weg durch die Schublade: von deinen eigenen Autos über die Marken, denen du folgst, bis zum nächsten Wunschlistenmodell.',
+      'world1.step': 'Sammlungs-Tresor',
+      'world2.title': 'Durch die Markenwand',
+      'world2.copy': 'Von Premium-Releases zu Mainline-Funden, Chase-Varianten, Motorsport-Drops und den Namen, die modernes Sammeln im Maßstab 1:64 prägen.',
+      'world2.step': 'Markenabdeckung',
+      'world3.title': 'Beim Nächsten landen',
+      'world3.copy': 'Der Bereich ist später bereit für echte scroll-gesteuerte Videoclips; heute erzeugt er dieselbe Weltbewegung mit schnellen statischen Assets.',
+      'world3.step': 'Launchbereit',
       'about.kicker': 'Über DiecastDrawer',
       'about.title': 'Ein fokussierter Tresor für jedes Auto deiner Sammlung',
       'about.copy': 'DiecastDrawer ist für Sammler gemacht, die mehr als nur die Anzahl im Regal verfolgen. Katalogisiere 1:64-Modelle, beobachte neue Releases, schätze Werte und teile die Autos, die zählen, ohne dass das Hobby zur Tabelle wird.',
-      'about.link': 'Launch verfolgen',
+      'about.link': 'App herunterladen',
       'stats.scale': 'Sammlungsfluss zuerst für 1:64',
       'stats.brands': 'Wichtige Diecast-Marken verfolgt',
       'stats.liveLabel': 'Live',
@@ -944,9 +1181,9 @@
       'brand5': 'Mainline und Premium',
       'brand6': 'Modern und klassisch',
       'brand7': 'Detailreiche Modelle',
-      'cta.title': 'Die nächste Schublade öffnet bald',
-      'cta.copy': 'DiecastDrawer kommt auf das iPhone. Gebaut für Sammler, die eine ruhige, durchsuchbare Übersicht über eigene und gesuchte Autos wollen.',
-      'cta.link': 'Kontakt'
+      'cta.title': 'Öffne deine Schublade auf dem iPhone',
+      'cta.copy': 'DiecastDrawer ist im App Store verfügbar. Gebaut für Sammler, die eine ruhige, durchsuchbare Übersicht über eigene und gesuchte Autos wollen.',
+      'cta.link': 'Im App Store ansehen'
     },
     es: {
       pageTitle: 'DiecastDrawer - la bóveda para tu colección diecast',
@@ -956,17 +1193,28 @@
       'nav.brands': 'Marcas',
       'nav.privacy': 'Privacidad',
       'nav.terms': 'Términos',
-      'nav.portal': 'Pronto en App Store',
+      'nav.portal': 'App Store',
+      'nav.world': 'Mundo',
       'footer.privacy': 'Política de privacidad',
       'footer.contact': 'Contacto',
       'hero.title': 'Colecciona<br>para<br>conservar',
       'hero.copy': 'Gestión de colección a medida para coleccionistas diecast que quieren cada modelo, lanzamiento, valor y recuerdo en un solo lugar.',
       'hero.link': 'Soluciones',
       'hero.scroll': 'Desplazar',
+      'world.kicker': 'Mundo desplazable',
+      'world1.title': 'Vuela por la colección',
+      'world1.copy': 'Un recorrido cinematográfico por el cajón: desde los coches que tienes, hasta las marcas que sigues y el próximo modelo de tu lista de deseos.',
+      'world1.step': 'Bóveda de colección',
+      'world2.title': 'Cruza el muro de marcas',
+      'world2.copy': 'Pasa de lanzamientos premium a hallazgos mainline, variantes chase, drops de motorsport y los nombres que definen el coleccionismo 1:64 moderno.',
+      'world2.step': 'Cobertura de marcas',
+      'world3.title': 'Aterriza en lo próximo',
+      'world3.copy': 'La sección queda preparada para clips reales con scroll-scrubbing más adelante; hoy mantiene esa sensación de mundo con recursos estáticos rápidos.',
+      'world3.step': 'Listo para lanzar',
       'about.kicker': 'Acerca de DiecastDrawer',
       'about.title': 'Una bóveda enfocada para cada coche de tu colección',
       'about.copy': 'DiecastDrawer está hecho para coleccionistas que registran algo más que una cantidad en la estantería. Cataloga modelos 1:64, sigue nuevos lanzamientos, estima valor y comparte los coches que importan sin convertir el hobby en una hoja de cálculo.',
-      'about.link': 'Seguir el lanzamiento',
+      'about.link': 'Descargar la app',
       'stats.scale': 'Flujo pensado para escala 1:64',
       'stats.brands': 'Marcas diecast principales seguidas',
       'stats.liveLabel': 'En vivo',
@@ -1013,9 +1261,9 @@
       'brand5': 'Mainline y premium',
       'brand6': 'Moderno y clásico',
       'brand7': 'Modelos detallados',
-      'cta.title': 'El próximo cajón se abre pronto',
-      'cta.copy': 'DiecastDrawer llega a iPhone. Creado para coleccionistas que quieren un registro tranquilo y buscable de los coches que tienen y los que siguen buscando.',
-      'cta.link': 'Contacto'
+      'cta.title': 'Abre tu cajón en iPhone',
+      'cta.copy': 'DiecastDrawer está disponible en App Store. Creado para coleccionistas que quieren un registro tranquilo y buscable de los coches que tienen y los que siguen buscando.',
+      'cta.link': 'Ver en App Store'
     },
     it: {
       pageTitle: 'DiecastDrawer - il caveau per la tua collezione diecast',
@@ -1025,17 +1273,28 @@
       'nav.brands': 'Marchi',
       'nav.privacy': 'Privacy',
       'nav.terms': 'Termini',
-      'nav.portal': 'Presto su App Store',
+      'nav.portal': 'App Store',
+      'nav.world': 'Mondo',
       'footer.privacy': 'Informativa privacy',
       'footer.contact': 'Contatto',
       'hero.title': 'Colleziona<br>per<br>custodire',
       'hero.copy': 'Gestione su misura per collezionisti diecast che vogliono ogni modello, uscita, valore e ricordo in un unico posto.',
       'hero.link': 'Soluzioni',
       'hero.scroll': 'Scorri',
+      'world.kicker': 'Mondo a scorrimento',
+      'world1.title': 'Vola dentro la collezione',
+      'world1.copy': 'Un percorso cinematografico nel cassetto: dalle auto che possiedi, ai marchi che segui, fino al prossimo modello in wishlist.',
+      'world1.step': 'Caveau collezione',
+      'world2.title': 'Attraversa il muro dei marchi',
+      'world2.copy': 'Passa dalle uscite premium ai modelli mainline, varianti chase, drop motorsport e ai nomi che definiscono il collezionismo 1:64 moderno.',
+      'world2.step': 'Copertura marchi',
+      'world3.title': 'Arriva al prossimo passo',
+      'world3.copy': 'La sezione è pronta per veri clip scroll-scrubbed in futuro; oggi mantiene la stessa sensazione di mondo con asset statici veloci.',
+      'world3.step': 'Pronto al lancio',
       'about.kicker': 'Informazioni su DiecastDrawer',
       'about.title': 'Un caveau dedicato per ogni auto della tua collezione',
       'about.copy': 'DiecastDrawer è pensato per chi tiene traccia di più di un semplice numero sullo scaffale. Cataloga modelli 1:64, monitora nuove uscite, stima il valore e condividi le auto importanti senza trasformare l’hobby in un foglio di calcolo.',
-      'about.link': 'Segui il lancio',
+      'about.link': 'Scarica l’app',
       'stats.scale': 'Flusso pensato per la scala 1:64',
       'stats.brands': 'Principali marchi diecast tracciati',
       'stats.liveLabel': 'Live',
@@ -1082,9 +1341,9 @@
       'brand5': 'Mainline e premium',
       'brand6': 'Moderno e classico',
       'brand7': 'Modelli dettagliati',
-      'cta.title': 'Il prossimo cassetto si apre presto',
-      'cta.copy': 'DiecastDrawer arriva su iPhone. Creato per collezionisti che vogliono un registro calmo e ricercabile delle auto possedute e di quelle ancora da trovare.',
-      'cta.link': 'Contattaci'
+      'cta.title': 'Apri il tuo cassetto su iPhone',
+      'cta.copy': 'DiecastDrawer è disponibile su App Store. Creato per collezionisti che vogliono un registro calmo e ricercabile delle auto possedute e di quelle ancora da trovare.',
+      'cta.link': 'Vedi su App Store'
     },
     fr: {
       pageTitle: 'DiecastDrawer - le coffre de votre collection diecast',
@@ -1094,17 +1353,28 @@
       'nav.brands': 'Marques',
       'nav.privacy': 'Confidentialité',
       'nav.terms': 'Conditions',
-      'nav.portal': 'Bientôt sur App Store',
+      'nav.portal': 'App Store',
+      'nav.world': 'Monde',
       'footer.privacy': 'Politique de confidentialité',
       'footer.contact': 'Contact',
       'hero.title': 'Garder<br>sa<br>collection',
       'hero.copy': 'Une gestion de collection sur mesure pour les collectionneurs diecast qui veulent réunir chaque modèle, sortie, valeur et souvenir au même endroit.',
       'hero.link': 'Solutions',
       'hero.scroll': 'Défiler',
+      'world.kicker': 'Monde au scroll',
+      'world1.title': 'Survolez la collection',
+      'world1.copy': 'Un parcours cinématographique dans le tiroir : des voitures possédées aux marques suivies, jusqu’au prochain modèle de votre liste d’envies.',
+      'world1.step': 'Coffre de collection',
+      'world2.title': 'Traversez le mur des marques',
+      'world2.copy': 'Passez des sorties premium aux trouvailles mainline, variantes chase, drops motorsport et aux noms qui façonnent la collection 1:64 moderne.',
+      'world2.step': 'Couverture des marques',
+      'world3.title': 'Atterrissez sur la suite',
+      'world3.copy': 'La section est prête pour de vrais clips scroll-scrubbed plus tard; aujourd’hui elle garde cette sensation de monde avec des assets statiques rapides.',
+      'world3.step': 'Prêt au lancement',
       'about.kicker': 'À propos de DiecastDrawer',
       'about.title': 'Un coffre précis pour chaque voiture de votre collection',
       'about.copy': 'DiecastDrawer est conçu pour les collectionneurs qui suivent plus qu’un simple nombre sur une étagère. Cataloguez les modèles 1:64, surveillez les nouvelles sorties, estimez la valeur et partagez les voitures qui comptent sans transformer le hobby en tableur.',
-      'about.link': 'Suivre le lancement',
+      'about.link': 'Télécharger l’app',
       'stats.scale': 'Parcours pensé pour l’échelle 1:64',
       'stats.brands': 'Grandes marques diecast suivies',
       'stats.liveLabel': 'Live',
@@ -1151,11 +1421,25 @@
       'brand5': 'Mainline et premium',
       'brand6': 'Moderne et classique',
       'brand7': 'Modèles détaillés',
-      'cta.title': 'Le prochain tiroir ouvre bientôt',
-      'cta.copy': 'DiecastDrawer arrive sur iPhone. Conçu pour les collectionneurs qui veulent un registre calme et consultable des voitures possédées et de celles encore recherchées.',
-      'cta.link': 'Nous contacter'
+      'cta.title': 'Ouvrez votre tiroir sur iPhone',
+      'cta.copy': 'DiecastDrawer est disponible sur l’App Store. Conçu pour les collectionneurs qui veulent un registre calme et consultable des voitures possédées et de celles encore recherchées.',
+      'cta.link': 'Voir sur App Store'
     }
   };
+
+  let currentWorldIndex = 0;
+
+  function syncWorldCopy(index = 0, dictionary = translations[document.documentElement.lang] || translations.en) {
+    currentWorldIndex = index;
+    const title = document.querySelector('[data-world-title]');
+    const body = document.querySelector('[data-world-body]');
+    if (title && dictionary[`world${index + 1}.title`]) {
+      title.textContent = dictionary[`world${index + 1}.title`];
+    }
+    if (body && dictionary[`world${index + 1}.copy`]) {
+      body.textContent = dictionary[`world${index + 1}.copy`];
+    }
+  }
 
   function setLanguage(lang) {
     const active = translations[lang] ? lang : 'en';
@@ -1176,6 +1460,7 @@
 
     const select = document.getElementById('languageSelect');
     if (select) select.value = active;
+    syncWorldCopy(currentWorldIndex, dictionary);
     localStorage.setItem('diecastdrawer-language', active);
   }
 
@@ -1222,6 +1507,71 @@
     }, { passive: true });
     window.addEventListener('resize', updateParallax);
     updateParallax();
+  }
+
+  const world = document.querySelector('[data-scroll-world]');
+  if (world) {
+    const scenes = Array.from(world.querySelectorAll('[data-world-scene]'));
+    const steps = Array.from(world.querySelectorAll('[data-world-step]'));
+    const progress = world.querySelector('[data-world-progress]');
+    let worldTicking = false;
+
+    function clamp(value, min = 0, max = 1) {
+      return Math.min(max, Math.max(min, value));
+    }
+
+    function setWorldIndex(index) {
+      if (index === currentWorldIndex) return;
+      const dictionary = translations[document.documentElement.lang] || translations.en;
+      syncWorldCopy(index, dictionary);
+      steps.forEach((step, stepIndex) => step.classList.toggle('is-active', stepIndex === index));
+    }
+
+    function updateWorld() {
+      const rect = world.getBoundingClientRect();
+      const scrollDistance = Math.max(1, world.offsetHeight - window.innerHeight);
+      const amount = clamp(-rect.top / scrollDistance);
+      const segment = amount * Math.max(1, scenes.length - 1);
+      const index = clamp(Math.round(segment), 0, scenes.length - 1);
+
+      scenes.forEach((scene, sceneIndex) => {
+        const distance = Math.abs(segment - sceneIndex);
+        const opacity = clamp(1 - distance);
+        scene.style.opacity = opacity.toFixed(3);
+        scene.style.transform = reduceMotion
+          ? 'none'
+          : `scale(${(1.08 - amount * 0.05 + sceneIndex * 0.008).toFixed(3)}) translate3d(${((sceneIndex - segment) * 2.5).toFixed(2)}vw, 0, 0)`;
+        scene.classList.toggle('is-active', opacity > .45);
+      });
+
+      if (progress) progress.style.transform = `scaleX(${amount.toFixed(3)})`;
+      setWorldIndex(index);
+      worldTicking = false;
+    }
+
+    function queueWorldUpdate() {
+      if (!worldTicking) {
+        requestAnimationFrame(updateWorld);
+        worldTicking = true;
+      }
+    }
+
+    steps.forEach((step) => {
+      step.addEventListener('click', () => {
+        const target = Number(step.dataset.worldStep || 0);
+        const start = world.getBoundingClientRect().top + window.scrollY;
+        const scrollDistance = Math.max(1, world.offsetHeight - window.innerHeight);
+        const denominator = Math.max(1, scenes.length - 1);
+        window.scrollTo({
+          top: start + scrollDistance * (target / denominator),
+          behavior: reduceMotion ? 'auto' : 'smooth'
+        });
+      });
+    });
+
+    window.addEventListener('scroll', queueWorldUpdate, { passive: true });
+    window.addEventListener('resize', queueWorldUpdate);
+    updateWorld();
   }
 </script>
 </body>
