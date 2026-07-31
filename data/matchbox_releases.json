@@ -576,6 +576,15 @@
     "isReleased": true
   },
   {
+    "modelName": "2024 Audi RS3 Sportback (New)",
+    "imageURL": null,
+    "mbxNumber": "MB104",
+    "series": "MBX Metro",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": false
+  },
+  {
     "modelName": "2024 Audi RS5 Sportback (New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/e4/Rs5_26.jpg/revision/latest?cb=20260708220254",
     "mbxNumber": "MB91",
@@ -630,10 +639,28 @@
     "isReleased": true
   },
   {
+    "modelName": "2024 Glickenhaus SCG Boot (New)",
+    "imageURL": null,
+    "mbxNumber": "MB113",
+    "series": "MBX Adventure",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "2024 Honda Civic Type R(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/ea/2026Matchbox2024HondaCivicTypeR.png/revision/latest?cb=20251217034849",
     "mbxNumber": "MB11",
     "series": "MBX Metro",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "2024 Land Rover Discovery Sport (New)",
+    "imageURL": null,
+    "mbxNumber": "MB112",
+    "series": "MBX Road Trip",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -859,6 +886,15 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/2/23/62_Jeep_Wrangler_Superlift.webp/revision/latest?cb=20260130122259",
     "mbxNumber": "MB62",
     "series": "MBX Adventure",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Karma Revero",
+    "imageURL": null,
+    "mbxNumber": "MB122",
+    "series": "MBX Road Trip",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true

@@ -2681,7 +2681,7 @@
   },
   {
     "modelName": "Maserati Tipo 61 (2nd Color)",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/16/2026-123_RED_Ed_JJM39_Tipo61_r1T.jpg/revision/latest?cb=20260625035044",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/1/11/RED_Tipo.jpg/revision/latest?cb=20260730164741",
     "toyNumber": "JJM39",
     "colNumber": "123",
     "series": "Red EditionTarget Exclusive",
@@ -3141,7 +3141,7 @@
   },
   {
     "modelName": "Honda Odyssey (2nd Color)",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/RED_Ed_Honda_DUM_DUMS_%26_ORIG_r1.jpg/revision/latest?cb=20260625102657",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/26DuMdUm.jpg/revision/latest?cb=20260730163652",
     "toyNumber": "JJM63",
     "colNumber": "149",
     "series": "Red EditionTarget Exclusive",
@@ -4216,6 +4216,16 @@
     "colNumber": "218",
     "series": "Cool Classics",
     "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Alfa Romeo Giulia TI Super (2nd Color - Zamac)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJM30",
+    "colNumber": "218",
+    "series": "Cool ClassicsWalmart Exclusive",
+    "category": "Premium",
     "year": 2026,
     "isReleased": true
   },
@@ -41851,7 +41861,7 @@
   },
   {
     "modelName": "Exotique (3rd Color)",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/7/77/ExotiqueKmart2018.jpg/revision/latest?cb=20230205064920",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/7/77/ExotiqueKmart2018.jpg/revision/latest?cb=20260731092237",
     "toyNumber": "GFB77",
     "colNumber": "No #",
     "series": "HW ExoticsNew for 2018!",
