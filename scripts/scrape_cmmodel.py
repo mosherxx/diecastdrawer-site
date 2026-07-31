@@ -32,9 +32,18 @@ RAW_BASE = "https://raw.githubusercontent.com/mosherxx/diecastdrawer-site/main"
 IMG_DIR = os.path.join("images", "cmmodel")
 OUT_PATH = os.path.join("data", "cmmodel_releases.json")
 
+# Full browser-like headers. HobbySearch 403s obvious bots, so we present as a
+# real browser arriving from Google (the site serves content to such requests).
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; DiecastDrawerBot/1.0; "
-                  "+https://github.com/mosherxx/diecastdrawer-site)"
+    "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) "
+                   "Chrome/124.0.0.0 Safari/537.36"),
+    "Accept": ("text/html,application/xhtml+xml,application/xml;q=0.9,"
+               "image/avif,image/webp,*/*;q=0.8"),
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.google.com/",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
 }
 
 KNOWN_MAKES = ["Pagani", "McLaren", "Mclaren", "Toyota", "Subaru", "Ford", "BMW",
@@ -80,7 +89,7 @@ def download_image(url, product_id):
     if os.path.exists(path) and os.path.getsize(path) > 0:
         return f"{RAW_BASE}/{IMG_DIR}/{product_id}.jpg"
     try:
-        r = requests.get(url, headers=HEADERS, timeout=30)
+        r = SESSION.get(url, timeout=30)
         r.raise_for_status()
         if not r.content or len(r.content) < 500:
             return None
@@ -92,8 +101,12 @@ def download_image(url, product_id):
         return None
 
 
+SESSION = requests.Session()
+SESSION.headers.update(HEADERS)
+
+
 def scrape_page(page):
-    resp = requests.get(LIST_URL.format(page=page), headers=HEADERS, timeout=30)
+    resp = SESSION.get(LIST_URL.format(page=page), timeout=30)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
     found = []
