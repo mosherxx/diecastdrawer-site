@@ -2892,16 +2892,6 @@
   {
     "modelName": "'20 Dodge Charger Hellcat (2nd Color)",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
-    "toyNumber": "JJL83",
-    "colNumber": "134",
-    "series": "Nightspeed",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
-    "modelName": "'20 Dodge Charger Hellcat (2nd Color)",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJL71",
     "colNumber": "134",
     "series": "Nightspeed",
@@ -3903,6 +3893,16 @@
     "modelName": "Mad Drip",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/MadDrip.jpg/revision/latest?cb=20260410125748",
     "toyNumber": "JJH57",
+    "colNumber": "197",
+    "series": "Sweet RidesNew for 2026!",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Mad Drip (2nd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJL83",
     "colNumber": "197",
     "series": "Sweet RidesNew for 2026!",
     "category": "Mainline",
