@@ -477,6 +477,15 @@
     "isReleased": true
   },
   {
+    "modelName": "2022 Ford F-150 Lightning",
+    "imageURL": null,
+    "mbxNumber": "MB120",
+    "series": "MBX",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "2023 BMW M2",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/2/29/Bmw_m2_2026.jpg/revision/latest?cb=20260524165146",
     "mbxNumber": "MB70",
@@ -2970,19 +2979,19 @@
     "isReleased": true
   },
   {
-    "modelName": "Load Lifter",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d5/Load_Lifter_%282024_1-100%29.jpg/revision/latest?cb=20241031235817",
-    "mbxNumber": "MB69",
-    "series": "MBX Road Trip",
+    "modelName": "MBX Field Car",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/6e/MBX-2024-056.jpg/revision/latest?cb=20240901103459",
+    "mbxNumber": "MB56",
+    "series": "MBX Adventure",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
   },
   {
-    "modelName": "MBX Field Car",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/6e/MBX-2024-056.jpg/revision/latest?cb=20240901103459",
-    "mbxNumber": "MB56",
-    "series": "MBX Adventure",
+    "modelName": "MBX Load Lifter",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d5/Load_Lifter_%282024_1-100%29.jpg/revision/latest?cb=20241031235817",
+    "mbxNumber": "MB69",
+    "series": "MBX Road Trip",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
