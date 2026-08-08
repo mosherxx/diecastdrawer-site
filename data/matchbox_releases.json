@@ -594,19 +594,19 @@
     "isReleased": true
   },
   {
-    "modelName": "2024 Audi RS 5 Sportback (New)",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/e4/Rs5_26.jpg/revision/latest?cb=20260708220254",
-    "mbxNumber": "MB91",
-    "series": "MBX Road Trip",
+    "modelName": "2024 Audi RS 3 Sportback (New)",
+    "imageURL": null,
+    "mbxNumber": "MB104",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2026,
     "isReleased": false
   },
   {
-    "modelName": "2024 Audi RS3 Sportback (New)",
-    "imageURL": null,
-    "mbxNumber": "MB104",
-    "series": "MBX Metro",
+    "modelName": "2024 Audi RS 5 Sportback (New)",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/e4/Rs5_26.jpg/revision/latest?cb=20260708220254",
+    "mbxNumber": "MB91",
+    "series": "MBX Road Trip",
     "category": "Mainline",
     "year": 2026,
     "isReleased": false
