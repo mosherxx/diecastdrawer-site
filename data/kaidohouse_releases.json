@@ -1,5 +1,45 @@
 [
   {
+    "modelName": "KAIDO STAR-TASTIC V1",
+    "productCode": "KHMG309",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260810171539610.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Honda Civic (EF) Kaido Works HKS",
+    "productCode": "KHMG303",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260810171357718.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Nissan Skyline GT-R R34 Kaido House Flames V1",
+    "productCode": "KHMG294",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260810171120919.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "BMW M3 KH REDBORO",
+    "productCode": "KHMG293",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260810170836961.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
     "modelName": "Chevrolet Silverado Dually KAIDO Koi V1",
     "productCode": "KHMG291",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/07/20260714050523911.jpg",
