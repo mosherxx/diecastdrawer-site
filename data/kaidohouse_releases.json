@@ -1278,25 +1278,5 @@
     "marques": [
       "Kaido House"
     ]
-  },
-  {
-    "modelName": "Nissan Skyline GT-R (R32) LBWK Kaido Works AMOCULTURE",
-    "productCode": "MGT01238",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/05/20260502045653640.JPG",
-    "isReleased": false,
-    "marque": "Full Collection",
-    "marques": [
-      "Kaido House"
-    ]
-  },
-  {
-    "modelName": "Nissan Skyline GT-R (R32) Kaido Works TAS 2025",
-    "productCode": "MGT01217",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/04/20260416181117611.JPG",
-    "isReleased": false,
-    "marque": "Full Collection",
-    "marques": [
-      "Kaido House"
-    ]
   }
 ]
