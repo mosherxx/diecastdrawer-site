@@ -1,5 +1,53 @@
 [
   {
+    "modelName": "Ford GT Mk IV Rangoon Red CM64-MKIV-04",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/ee1000b96o785c152a90155469c05bb5_3e78d154-71cb-4ed1-ae54-18cecddd0ca9.jpg?v=1787590879",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-ford-gt-mk-iv-rangoon-red-cm64-mkiv-04",
+    "scale": "1/64",
+    "series": "CM64-MKIV-04",
+    "make": "Ford"
+  },
+  {
+    "modelName": "Mclaren 750S Spider Onyx Black CM64-750S-08",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/d5d3a0080998614f01e8de3a6b4f7334.jpg?v=1787422302",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-750s-spider-onyx-black-cm64-750s-08",
+    "scale": "1/64",
+    "series": "CM64-750S-08",
+    "make": "McLaren"
+  },
+  {
+    "modelName": "Ford Dark Horse Grabber Blue with Black Hood Stripes CM64-Darkhorse-03",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/6fb59cfd1a02e4e12bc36f10a9d1731e.jpg?v=1787422297",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-ford-darkhorse-grabber-blue-with-black-hood-stripes-cm64-darkhorse-03",
+    "scale": "1/64",
+    "series": "CM64-Darkhorse-03",
+    "make": "Ford"
+  },
+  {
+    "modelName": "Toyota GT86 Pandem Widebody V3.5 Metallic red CM64-RB86-05",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/a22d2f8919e1d8723f80fd4f696ed458.jpg?v=1787422289",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-gt86-pandem-widebody-v3-5-metallic-red-cm64-rb86-05",
+    "scale": "1/64",
+    "series": "CM64-RB86-05",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Dodge Challenger SRT Hellcat Redeye Widebody Torred Clearcoat CM64-REDEYEWB-03B",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/c125178fa15bf80a257ad82a733eb404.jpg?v=1787422278",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-dodge-challenger-srt-hellcat-redeye-widebody-torred-clearcoat-cm64-redeyewb-03",
+    "scale": "1/64",
+    "series": "CM64-REDEYEWB-03B",
+    "make": "Dodge"
+  },
+  {
+    "modelName": "Dodge Demon 170 Matte Black CM64-Demon170-01B",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/ccc82a122c634da0cc6077f704254ace.jpg?v=1787422262",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-dodge-demon-170-matte-black-cm64-demon170-01b",
+    "scale": "1/64",
+    "series": "CM64-Demon170-01B",
+    "make": "Dodge"
+  },
+  {
     "modelName": "Pandem BMW M3 E30 Metallic gunmetal gray CM64-E30-03",
     "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/c3600c3ff091d86ec67253929ee37ffc.jpg?v=1784181759",
     "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-pandem-bmw-m3-e30-metallic-gunmetal-gray-cm64-e30-3",
