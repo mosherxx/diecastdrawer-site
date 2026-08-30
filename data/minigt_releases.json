@@ -1,5 +1,15 @@
 [
   {
+    "modelName": "Scania 770S A6x4NA Car Transporter V8 50th anniversary + Car transporter Red",
+    "productCode": "MGT01350",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830040613616.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
     "modelName": "Lamborghini Huracan GT3 EVO2 #45 DEX Wayne Taylor Racing 2025 IMSA Chevrolet Grand Prix Class Winner",
     "productCode": "MGT01370",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260818193159362.JPG",
@@ -588,8 +598,8 @@
   {
     "modelName": "Toyota GR86 LB★Nation Advan",
     "productCode": "MGT01173",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/04/20260420175616450.JPG",
-    "isReleased": false,
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830003829892.JPG",
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -629,7 +639,7 @@
   {
     "modelName": "Chevrolet Corvette Z06 GT3.R #13 AWA 2025 IMSA Daytona 24 Hrs",
     "productCode": "MGT01171",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/04/20260420174627195.JPG",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830004056179.JPG",
     "isReleased": true,
     "marque": "Full Collection",
     "marques": [
@@ -1040,7 +1050,7 @@
   {
     "modelName": "Toleman TG184 #20 Johnny Cecotto 1984 Monaco Grand Prix",
     "productCode": "MGT01193",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260119011220687.JPG",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830002602558.JPG",
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
@@ -1070,8 +1080,8 @@
   {
     "modelName": "Lamborghini Revuelto Verde Gea Matte",
     "productCode": "MGT01136",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260119010629071.JPG",
-    "isReleased": false,
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830005221199.JPG",
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1102,7 +1112,7 @@
   {
     "modelName": "Chevrolet Corvette Z06 GT3.R Road America Test car",
     "productCode": "MGT01186",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260104234448205.JPG",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830002706894.JPG",
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
@@ -1112,8 +1122,8 @@
   {
     "modelName": "Nissan LB-Super Silhouette S15 SILVIA #555 Team MINI GT Liberty Walk 2025 Formula Drift Halloween Special",
     "productCode": "MGT01185",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260104233828129.JPG",
-    "isReleased": false,
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830002742315.JPG",
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1194,8 +1204,8 @@
   {
     "modelName": "Porsche 911(992) GT3 RS Weissach RingTaxi.com",
     "productCode": "MGT01178",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/12/20251214235016541.JPG",
-    "isReleased": false,
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830003218414.JPG",
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1204,8 +1214,8 @@
   {
     "modelName": "LB★WORKS Lamborghini Huracán GT RONIN",
     "productCode": "MGT01177",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/12/20251214234548443.JPG",
-    "isReleased": false,
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830003640449.JPG",
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1224,8 +1234,8 @@
   {
     "modelName": "Ford Mustang Mach 1 Grabber Blue",
     "productCode": "MGT01138",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/12/20251214234022465.JPG",
-    "isReleased": false,
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830005114543.JPG",
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1275,8 +1285,8 @@
   {
     "modelName": "Porsche 911 GT3 R #77 AO Racing 2025 IMSA Petit Le Mans",
     "productCode": "MGT01143",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260106205236797.JPG",
-    "isReleased": false,
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830005015364.JPG",
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection",
@@ -1465,8 +1475,8 @@
   {
     "modelName": "Nissan Z VeilSide FFZ400 Seiran Blue",
     "productCode": "MGT01167",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/11/20251122061408567.JPG",
-    "isReleased": false,
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830004327031.JPG",
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1525,8 +1535,8 @@
   {
     "modelName": "Bentley Batur Scarab Green",
     "productCode": "MGT01161",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/11/20251118021917241.JPG",
-    "isReleased": false,
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830004424703.JPG",
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1535,8 +1545,8 @@
   {
     "modelName": "Nissan Skyline GT-R Dark Metal Gray (NISMO BNR34 CRS Version)",
     "productCode": "MGT01160",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/11/20251118020547775.JPG",
-    "isReleased": false,
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830004736116.JPG",
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1565,8 +1575,8 @@
   {
     "modelName": "Nissan Silvia (S15) LB-Super Silhouette #555 Team MINI GT Liberty Walk 2025 Formula Drift",
     "productCode": "MGT01157",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/11/20251118015504452.JPG",
-    "isReleased": false,
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830004915307.JPG",
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1768,7 +1778,7 @@
     "modelName": "Toyota Supra (A80) Top Secret GT-300 Top Secret Red Chrome",
     "productCode": "MGT01132",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/05/20260519185036731.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
