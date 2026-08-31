@@ -1,5 +1,66 @@
 [
   {
+    "modelName": "Volkswagen ID.Buzz DHL Electric",
+    "productCode": "MGT01376",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260831064020372.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Mercedes-AMG G 63 Silver Metallic",
+    "productCode": "MGT01375",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260831063859777.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Lotus 78 #6 Ronnie Peterson 1978 S. African GP Winner",
+    "productCode": "MGT01374",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260831063520721.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Aston Martin Valhalla Podium Green",
+    "productCode": "MGT01373",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260831063344775.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Cadillac V-Series.R #40 Cadillac Wayne Taylor Racing 2025 IMSA Daytona 24 Hrs",
+    "productCode": "MGT01372",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260831063036363.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "IMSA"
+    ]
+  },
+  {
+    "modelName": "Lamborghini Huracan GT3 EVO2 #93 Wall Racing 2025 Bathurst 12 Hrs",
+    "productCode": "MGT01371",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260831062908855.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
     "modelName": "Scania 770S A6x4NA Car Transporter V8 50th anniversary + Car transporter Red",
     "productCode": "MGT01350",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830040613616.JPG",
