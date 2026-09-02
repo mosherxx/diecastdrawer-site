@@ -11633,7 +11633,7 @@
   {
     "modelName": "Porsche 911 RSR Turbo 2.1 #22 Martini Racing 1974 Le Mans 24 Hrs",
     "productCode": "QZ00801",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260804220834860.jpg",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260901172231274.jpg",
     "isReleased": false,
     "marque": "QubeCarz",
     "marques": [
@@ -11644,7 +11644,7 @@
   {
     "modelName": "Toyota Supra (A80) VeilSide Combat Combat Grey",
     "productCode": "QZ00901",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260804220246495.jpg",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260901172046881.jpg",
     "isReleased": false,
     "marque": "QubeCarz",
     "marques": [
@@ -11655,7 +11655,7 @@
   {
     "modelName": "Lamborghini Revuelto Arancio Dec lucido",
     "productCode": "QZ01302",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260804215052666.jpg",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260901171800976.jpg",
     "isReleased": false,
     "marque": "QubeCarz",
     "marques": [
@@ -11666,7 +11666,7 @@
   {
     "modelName": "Lamborghini Countach 500S White",
     "productCode": "QZ01201",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260804214347200.jpg",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260901171439966.jpg",
     "isReleased": false,
     "marque": "QubeCarz",
     "marques": [
@@ -11677,7 +11677,7 @@
   {
     "modelName": "Mazda RX-7 VeilSide Fortune7 Yellow",
     "productCode": "QZ01003",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260804214154218.jpg",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260901171253696.jpg",
     "isReleased": false,
     "marque": "QubeCarz",
     "marques": [
@@ -11688,8 +11688,74 @@
   {
     "modelName": "Nissan SILVIA (S15) LB-Super Silhouette Fausto Racing #555 Halloween Special",
     "productCode": "QZ00504",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260804212210944.jpg",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260901171003094.jpg",
     "isReleased": false,
+    "marque": "QubeCarz",
+    "marques": [
+      "Full Collection",
+      "QubeCarz"
+    ]
+  },
+  {
+    "modelName": "Toyota TRD 3000GT White",
+    "productCode": "QZ00601",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260901165203455.jpg",
+    "isReleased": true,
+    "marque": "QubeCarz",
+    "marques": [
+      "Full Collection",
+      "QubeCarz"
+    ]
+  },
+  {
+    "modelName": "Nissan SILVIA (S15) LB-Super Silhouette Fausto Racing #555",
+    "productCode": "QZ00503",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260901164947329.jpg",
+    "isReleased": true,
+    "marque": "QubeCarz",
+    "marques": [
+      "Full Collection",
+      "QubeCarz"
+    ]
+  },
+  {
+    "modelName": "Mazda RX-7 VeilSide Fortune7 Red",
+    "productCode": "QZ01002",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260901164748968.jpg",
+    "isReleased": true,
+    "marque": "QubeCarz",
+    "marques": [
+      "Full Collection",
+      "QubeCarz"
+    ]
+  },
+  {
+    "modelName": "Porsche 911 Carrera RS 2.7 Black/Red",
+    "productCode": "QZ00702",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260901164456466.jpg",
+    "isReleased": true,
+    "marque": "QubeCarz",
+    "marques": [
+      "Full Collection",
+      "QubeCarz"
+    ]
+  },
+  {
+    "modelName": "Lamborghini Revuelto Verde Selvans",
+    "productCode": "QZ01301",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260901163041178.jpg",
+    "isReleased": true,
+    "marque": "QubeCarz",
+    "marques": [
+      "Full Collection",
+      "QubeCarz"
+    ]
+  },
+  {
+    "modelName": "Nissan LB-ER34 Super Silhouette SKYLINE Red/Black",
+    "productCode": "QZ00402",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260901162838257.jpg",
+    "isReleased": true,
     "marque": "QubeCarz",
     "marques": [
       "Full Collection",
@@ -11700,7 +11766,7 @@
     "modelName": "Nissan GT-R (R35) LB★WORKS Type 1, Rear Wing ver 2 Baby Blue",
     "productCode": "QZ00302",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260116004909524.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "QubeCarz",
     "marques": [
       "Full Collection",
@@ -11711,7 +11777,7 @@
     "modelName": "Nissan GT-R (R35) LB★WORKS Type 1, Rear Wing ver 1 GT Works ’70",
     "productCode": "QZ00204",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260116004744352.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "QubeCarz",
     "marques": [
       "Full Collection",
@@ -11722,7 +11788,7 @@
     "modelName": "Nissan Skyline Kenmeri Liberty Walk #23 Heritage",
     "productCode": "QZ00102",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260116004327050.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "QubeCarz",
     "marques": [
       "Full Collection",
@@ -11733,7 +11799,7 @@
     "modelName": "Nissan LB-Super Silhouette S15 SILVIA Auto Finesse SEMA 2023",
     "productCode": "QZ00502",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/08/20250810172453547.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "QubeCarz",
     "marques": [
       "Full Collection",
@@ -11744,7 +11810,7 @@
     "modelName": "Nissan LB-Super Silhouette S15 SILVIA Liberty Walk Presentation",
     "productCode": "QZ00501",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/08/20250810172234534.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "QubeCarz",
     "marques": [
       "Full Collection",
@@ -11755,7 +11821,7 @@
     "modelName": "Nissan LB-ER34 Super Silhouette SKYLINE Black",
     "productCode": "QZ00401",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/08/20250810171928600.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "QubeCarz",
     "marques": [
       "Full Collection",
@@ -11766,7 +11832,7 @@
     "modelName": "Nissan GT-R R35 LB★WORKS Type 1, Rear Wing ver 2 LB Gold",
     "productCode": "QZ00301",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/08/20250810171431535.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "QubeCarz",
     "marques": [
       "Full Collection",
@@ -11777,7 +11843,7 @@
     "modelName": "Nissan GT-R R35 LB★WORKS Type 1, Rear Wing ver 1 Matte Grey",
     "productCode": "QZ00201",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/08/20250809225731680.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "QubeCarz",
     "marques": [
       "Full Collection",
@@ -11788,7 +11854,7 @@
     "modelName": "Nissan Skyline Kenmeri Liberty Walk Baby Blue",
     "productCode": "QZ00101",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/08/20250809211917233.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "QubeCarz",
     "marques": [
       "Full Collection",
