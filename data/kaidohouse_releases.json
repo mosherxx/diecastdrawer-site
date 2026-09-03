@@ -1,5 +1,15 @@
 [
   {
+    "modelName": "Honda Civic (EF) KaidoManga Vl",
+    "productCode": "KHMG260",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260903044056576.jpg",
+    "isReleased": true,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
     "modelName": "KAIDO STAR-TASTIC V1",
     "productCode": "KHMG309",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260810171539610.jpg",
@@ -223,7 +233,7 @@
     "modelName": "Nissan Silvia S13-R Circuit Spec V1",
     "productCode": "KHMG251",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260111223440666.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Kaido House",
     "marques": [
       "Kaido House"

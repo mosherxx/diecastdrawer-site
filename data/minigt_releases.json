@@ -1,5 +1,55 @@
 [
   {
+    "modelName": "BMW M4 CS Black Sapphire",
+    "productCode": "MGT01213",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260903043738299.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Nissan Skyline Kenmeri Liberty Walk Nissan Racing '75 concept",
+    "productCode": "MGT01212",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260903043533494.JPG",
+    "isReleased": true,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Subaru Impreza WRC98 #17 2000 Rally New Zealand",
+    "productCode": "MGT01211",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260903043248434.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Mercedes-AMG G 63 Dark Blue Metallic",
+    "productCode": "MGT01210",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260903042900278.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Volkswagen ID. Buzz Mizu Design",
+    "productCode": "MGT01209",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260903042657015.JPG",
+    "isReleased": true,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
     "modelName": "Volkswagen ID.Buzz DHL Electric",
     "productCode": "MGT01376",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260831064020372.JPG",
@@ -53,7 +103,7 @@
   {
     "modelName": "Lamborghini Huracan GT3 EVO2 #93 Wall Racing 2025 Bathurst 12 Hrs",
     "productCode": "MGT01371",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260831062908855.JPG",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260903041632072.JPG",
     "isReleased": false,
     "marque": "Full Collection",
     "marques": [
@@ -985,7 +1035,7 @@
     "modelName": "Hyundai KONA N Phantom Black",
     "productCode": "MGT01206",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/02/20260211202305953.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection",
@@ -1112,7 +1162,7 @@
     "modelName": "Toleman TG184 #20 Johnny Cecotto 1984 Monaco Grand Prix",
     "productCode": "MGT01193",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830002602558.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1316,7 +1366,7 @@
     "modelName": "Toyota Supra VeilSide Combat V-II Black",
     "productCode": "MGT01107",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/12/20251214233217055.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
