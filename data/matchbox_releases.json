@@ -19,7 +19,7 @@
   },
   {
     "modelName": "'18 Toyota 4Runner",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d8/2018_toyota_4runner_2026.jpg/revision/latest?cb=20260426160507",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c7/Toyota_4Runner_-_4.jpg/revision/latest?cb=20260816143315",
     "mbxNumber": "MB77",
     "series": "MBX Adventure",
     "category": "Mainline",
@@ -496,7 +496,7 @@
   },
   {
     "modelName": "2023 BMW M2",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/2/29/Bmw_m2_2026.jpg/revision/latest?cb=20260524165146",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/9e/M2purple1.png/revision/latest?cb=20260806195635",
     "mbxNumber": "MB70",
     "series": "MBX Road Trip",
     "category": "Mainline",
@@ -684,15 +684,6 @@
     "isReleased": true
   },
   {
-    "modelName": "2024 Land Rover Discovery Sport (New)",
-    "imageURL": null,
-    "mbxNumber": "MB112",
-    "series": "MBX Road Trip",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "2024 Mercedes-Benz Sprinter Ambulance(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b4/2026MatchboxMercedes-BenzSprinterAmbulance.png/revision/latest?cb=20260502205647",
     "mbxNumber": "MB35",
@@ -784,7 +775,7 @@
   },
   {
     "modelName": "BMW i4 Police",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/0/09/Bmw_i4_2026.jpg/revision/latest?cb=20260524165215",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f3/Bmwi4fire.png/revision/latest?cb=20260803000118",
     "mbxNumber": "MB74",
     "series": "MBX Rescue",
     "category": "Mainline",
@@ -793,7 +784,7 @@
   },
   {
     "modelName": "Blaze Blaster III",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/97/53_Blaze_Blaster_III.jpg/revision/latest?cb=20251223054809",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/73/Blaze_Blaster_III_-_3.jpg/revision/latest?cb=20260703015720",
     "mbxNumber": "MB53",
     "series": "MBX Rescue",
     "category": "Mainline",
@@ -805,6 +796,15 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f3/66_Blaze_Buster_ll.webp/revision/latest?cb=20260130122023",
     "mbxNumber": "MB66",
     "series": "MBX Rescue",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Bucket Tipper(New)",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c4/Bucket_26.jpg/revision/latest?cb=20260708221415",
+    "mbxNumber": "MB116",
+    "series": "MBX Construction",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -847,7 +847,7 @@
   },
   {
     "modelName": "Ford Police Interceptor",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d8/Ford_police_interceptor_2026.jpg/revision/latest?cb=20260428154430",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f3/Inerceptor2026-1.png/revision/latest?cb=20260703153826",
     "mbxNumber": "MB88",
     "series": "MBX Rescue",
     "category": "Mainline",
@@ -856,7 +856,7 @@
   },
   {
     "modelName": "Freightliner M2 106 Plus (New)",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f3/Freight_m2_plus_2026.jpg/revision/latest?cb=20260426155404",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/99/Freightliner_M2_106_Plus_-_1.jpg/revision/latest?cb=20260804213214",
     "mbxNumber": "MB58",
     "series": "MBX Metro",
     "category": "Mainline",
@@ -883,7 +883,7 @@
   },
   {
     "modelName": "Ground Grinder",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b6/Mbx_ground_grinder_2026.jpg/revision/latest?cb=20260428154842",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/e0/Ground_Grinder_-_3.jpg/revision/latest?cb=20260816145244",
     "mbxNumber": "MB97",
     "series": "MBX Construction",
     "category": "Mainline",
@@ -892,7 +892,7 @@
   },
   {
     "modelName": "Holden VF Commodore SSV",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/fd/Commodore_26.jpg/revision/latest?cb=20260621191908",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/2/20/HoldenYellow1.png/revision/latest?cb=20260806195529",
     "mbxNumber": "MB84",
     "series": "MBX Road Trip",
     "category": "Mainline",
@@ -936,10 +936,10 @@
     "isReleased": true
   },
   {
-    "modelName": "MBX Bucket Tipper(New)",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c4/Bucket_26.jpg/revision/latest?cb=20260708221415",
-    "mbxNumber": "MB116",
-    "series": "MBX Construction",
+    "modelName": "Land Rover Discovery Sport (New)",
+    "imageURL": null,
+    "mbxNumber": "MB112",
+    "series": "MBX Road Trip",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -1018,7 +1018,7 @@
   },
   {
     "modelName": "MBX Turf Hauler II",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/50/Turf_Hauler_ll_2026.jpg/revision/latest?cb=20260426160431",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/0/00/MBX_Turf_Hauler_II_-_3.jpg/revision/latest?cb=20260804230714",
     "mbxNumber": "MB75",
     "series": "MBX Construction",
     "category": "Mainline",
@@ -1036,7 +1036,7 @@
   },
   {
     "modelName": "Mercedes-AMG SL 63",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/a5/Mercedes_sl63_2026.jpg/revision/latest?cb=20260524164937",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/34/Mercedes-AMG_SL_63_-_3.jpg/revision/latest?cb=20260816143453",
     "mbxNumber": "MB31",
     "series": "MBX Road Trip",
     "category": "Mainline",
@@ -1756,7 +1756,7 @@
   },
   {
     "modelName": "2023 Toyota GR Supra",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/8b/Toyota_gr_supra_.jpg/revision/latest?cb=20260304090108",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/38/2023_Toyota_GR_Supra_-_2.jpg/revision/latest?cb=20260118141946",
     "mbxNumber": "MB43",
     "series": "MBX Road Trip",
     "category": "Mainline",
