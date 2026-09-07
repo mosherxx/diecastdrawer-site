@@ -1,5 +1,45 @@
 [
   {
+    "modelName": "Chevrolet Camaro Kaido Racing Team V1",
+    "productCode": "KHMG319",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260907030533274.JPEG",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Nissan Fairlady Z Kaido GT GULF V1",
+    "productCode": "KHMG317",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260907030402328.JPEG",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (R34) TAMIYA x KAIDO HOUSE \"The Hornet\" V2",
+    "productCode": "KHMG315",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260907030200524.JPEG",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (R33) Kaido Stock Car V1",
+    "productCode": "KHMG313",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260907025603952.JPEG",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
     "modelName": "Honda Civic (EF) KaidoManga Vl",
     "productCode": "KHMG260",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260903044056576.jpg",
