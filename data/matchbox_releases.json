@@ -1173,7 +1173,7 @@
     "modelName": "'18 Toyota 4Runner",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/2/2e/4runner_white.jpg/revision/latest?cb=20260104030456",
     "mbxNumber": "MB9",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1182,7 +1182,7 @@
     "modelName": "'18 Toyota 4Runner(Super Chase)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/2/25/MBX_SC_25_r_.jpg/revision/latest?cb=20250430063829",
     "mbxNumber": "SC2",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1191,7 +1191,7 @@
     "modelName": "'67 Alfa Romeo Duetto (New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/2/28/2025Matchbox%2767AlfaRomeoDuetto.png/revision/latest?cb=20251115195508",
     "mbxNumber": "MB60",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1200,7 +1200,7 @@
     "modelName": "'70 Datsun 510 Rally",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/8a/2025Matchbox1970Datsun510Rally.png/revision/latest?cb=20250121075343",
     "mbxNumber": "MB51",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1209,7 +1209,7 @@
     "modelName": "1940 Dodge V-Series Truck",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/7e/1940_Dodge_V_Series_.jpg/revision/latest?cb=20260304085817",
     "mbxNumber": "MB119",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1218,7 +1218,7 @@
     "modelName": "1941 Plymouth Coupe",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/1/11/1941_Plymouth_-_2.jpg/revision/latest?cb=20251008133938",
     "mbxNumber": "MB66",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1227,7 +1227,7 @@
     "modelName": "1960 Chevy El Camino",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d8/2025Matchbox1960ChevyElCamino.png/revision/latest?cb=20250401053049",
     "mbxNumber": "MB28",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1236,7 +1236,7 @@
     "modelName": "1963 Chevy Corvette",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/80/Chevy_Corvette_1963_%282025%2C_1-125%29.jpg/revision/latest?cb=20260304091012",
     "mbxNumber": "MB83",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1245,7 +1245,7 @@
     "modelName": "1963 Mercedes-Benz 230 SL",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/5f/1963_Mecedes-Benz_Gold.jpg/revision/latest?cb=20241117091536",
     "mbxNumber": "MB46",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1254,7 +1254,7 @@
     "modelName": "1964 Jeep Wagoneer",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/ae/1964_Jeep_Wagoneer_Brown.jpg/revision/latest?cb=20260304085453",
     "mbxNumber": "MB2",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1263,7 +1263,7 @@
     "modelName": "1964 Lincoln Continental",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f0/2025Matchbox1964LincolnContinental.png/revision/latest?cb=20251115005428",
     "mbxNumber": "MB85",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1272,7 +1272,7 @@
     "modelName": "1965 Shelby Cobra 427(Super Chase)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/4a/MBX1965ShelbyCobra427SuperChase.jpg/revision/latest?cb=20250818104228",
     "mbxNumber": "SC3",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1281,7 +1281,7 @@
     "modelName": "1966 Chevelle Wagon(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/38/Chevrolet_Chevelle_Wagon%2C_1966_%282025_1-125%29.jpg/revision/latest?cb=20250601043517",
     "mbxNumber": "MB124",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1290,7 +1290,7 @@
     "modelName": "1966 Land Rover Gen II",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/cb/%2765_Land_Rover_Gen_II_Safari2025.jpg/revision/latest?cb=20250922155406",
     "mbxNumber": "MB82",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1299,7 +1299,7 @@
     "modelName": "1968 Chevy C10",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/3c/Mb1430_110-125_2025r.jpg/revision/latest?cb=20250313215316",
     "mbxNumber": "MB110",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1308,7 +1308,7 @@
     "modelName": "1968 Ford Mustang Fastback(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d8/2025Matchbox1968FordMustangFastback.png/revision/latest?cb=20251129214747",
     "mbxNumber": "MB67",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": false
@@ -1317,7 +1317,7 @@
     "modelName": "1969 Camaro SS-396",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/97/JBP27MBX.png/revision/latest?cb=20250628031836",
     "mbxNumber": "MB72",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1326,7 +1326,7 @@
     "modelName": "1970 Citroën 2CV(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f4/1970_citroen_2cv_2025.png/revision/latest?cb=20250604045620",
     "mbxNumber": "MB115",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1335,7 +1335,7 @@
     "modelName": "1970 Ford Bronco",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f0/1970_Ford_Bronco_.jpg/revision/latest?cb=20260304085948",
     "mbxNumber": "MB59",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1344,7 +1344,7 @@
     "modelName": "1977 Jaguar XJ6C",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/83/JaguarXJ6C_mb.png/revision/latest?cb=20250515203550",
     "mbxNumber": "MB6",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1353,7 +1353,7 @@
     "modelName": "1980 AMC Eagle",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f9/2025Matchbox1980AMCEagle.png/revision/latest?cb=20250413014340",
     "mbxNumber": "MB69",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1362,7 +1362,7 @@
     "modelName": "1983 Ford Fiesta MK2",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/94/1983FordFiesta%282%29.png/revision/latest?cb=20241114000935",
     "mbxNumber": "MB84",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1371,7 +1371,7 @@
     "modelName": "1985 Porsche 911 Rally",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b5/Mb120_2025.jpg/revision/latest?cb=20250317071229",
     "mbxNumber": "MB120",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1380,7 +1380,7 @@
     "modelName": "1986 Volvo 240",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/a6/2025Volvo240.png/revision/latest?cb=20251121140552",
     "mbxNumber": "MB122",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1389,7 +1389,7 @@
     "modelName": "1990 Volkswagen Golf Country",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c2/%2790_Volkswagen_Golf_%282025%2C_Teal%29.jpg/revision/latest?cb=20250310171505",
     "mbxNumber": "MB22",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1398,7 +1398,7 @@
     "modelName": "1992 Mazda Autozam AZ-1",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/93/1992_Mazda_Autozam_Yellow.png/revision/latest?cb=20250630011309",
     "mbxNumber": "MB79",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1407,7 +1407,7 @@
     "modelName": "1994 Lexus LS 400",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/9c/1994_Lexus_LS_400.jpg/revision/latest?cb=20260304085843",
     "mbxNumber": "MB36",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1416,7 +1416,7 @@
     "modelName": "1994 Mitsubishi 3000GT",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/bc/2025Matchbox1994Mitsubishi3000GT.png/revision/latest?cb=20251105043433",
     "mbxNumber": "MB88",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1425,7 +1425,7 @@
     "modelName": "1995 BMW 318 ti (New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/ea/BMW_318I_.png/revision/latest?cb=20260331195555",
     "mbxNumber": "MB5",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1434,7 +1434,7 @@
     "modelName": "1997 Acura Integra Type R(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/a0/Acura_Integra_Type_R.png/revision/latest?cb=20250122194011",
     "mbxNumber": "MB52",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1443,7 +1443,7 @@
     "modelName": "2004 Maserati MC-12(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/7a/Maserati_MC12%2C_2004_%282025%2C_1-125%29.jpg/revision/latest?cb=20260619231244",
     "mbxNumber": "MB86",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1452,7 +1452,7 @@
     "modelName": "2004 Mazda RX-8",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/a3/MB1358_Mazda_RX-8.jpg/revision/latest?cb=20250310165036",
     "mbxNumber": "MB10",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1461,7 +1461,7 @@
     "modelName": "2012 BMW 3 Series Touring",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/de/Mb_1283_2025_.jpg/revision/latest?cb=20250223215116",
     "mbxNumber": "MB11",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1479,7 +1479,7 @@
     "modelName": "2016 Fiat 500X",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/9f/2025Matchbox2016Fiat500X.png/revision/latest?cb=20251126200404",
     "mbxNumber": "MB35",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1497,7 +1497,7 @@
     "modelName": "2016 Nissan Sentra",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/cd/2025Matchbox2016NissanSentra.png/revision/latest?cb=20251125201035",
     "mbxNumber": "MB91",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1506,7 +1506,7 @@
     "modelName": "2017 Honda Civic Hatchback",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/6c/%2717_Honda_Civic_%28Bright_Blue%29.jpeg/revision/latest?cb=20250601025725",
     "mbxNumber": "MB74",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1515,7 +1515,7 @@
     "modelName": "2018 Dodge Durango",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f1/2025Matchbox2018DodgeDurango.png/revision/latest?cb=20251127195049",
     "mbxNumber": "MB107",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1524,7 +1524,7 @@
     "modelName": "2018 Renault Kangoo Express",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d5/2018_Renault_Kangoo_Express_City_Service.png/revision/latest?cb=20250630011509",
     "mbxNumber": "MB70",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1533,7 +1533,7 @@
     "modelName": "2019 Audi TT RS Coupé",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b3/AUDITT25.jpg/revision/latest?cb=20250505231452",
     "mbxNumber": "MB53",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1542,7 +1542,7 @@
     "modelName": "2019 Subaru Forester",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/a3/2025Matchbox2019SubaruForester.png/revision/latest?cb=20251225015317",
     "mbxNumber": "MB1",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1551,7 +1551,7 @@
     "modelName": "2019 Volkswagen Beetle Convertible",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/1/1d/Volkswagen_Beetle_2018_.png/revision/latest?cb=20250630012352",
     "mbxNumber": "MB118",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1560,7 +1560,7 @@
     "modelName": "2020 Corvette C8",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/48/2020_Corvette_C8_-_3.jpg/revision/latest?cb=20251016023707",
     "mbxNumber": "MB90",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1569,7 +1569,7 @@
     "modelName": "2020 Mercedes-Benz CLA Shooting Brake",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/0/04/2025Matchbox2020MercedesBenzCLAShootingBrake.png/revision/latest?cb=20250102070714",
     "mbxNumber": "MB61",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1578,7 +1578,7 @@
     "modelName": "2021 Cadillac CT5-V(Super Chase)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f5/Cadillac_CT5-V_%282025_Super_Chase%29.jpg/revision/latest?cb=20250317184935",
     "mbxNumber": "SC4",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1587,7 +1587,7 @@
     "modelName": "2021 Ford Bronco",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/3c/2021_Ford_Bronco_-_3.jpg/revision/latest?cb=20251018002326",
     "mbxNumber": "MB30",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1596,7 +1596,7 @@
     "modelName": "2021 Ford Mustang Mach-E",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/79/2025Matchbox%2721FordMustangMach-E.png/revision/latest?cb=20251128195935",
     "mbxNumber": "MB39",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1605,7 +1605,7 @@
     "modelName": "2021 Koenigsegg Gemera",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/94/MB1362_-_2021_Koenigsegg_Gemera.jpg/revision/latest?cb=20250320165818",
     "mbxNumber": "MB55",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1614,7 +1614,7 @@
     "modelName": "2021 Lexus LC 500(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c9/LC500_Convertible.png/revision/latest?cb=20250122194801",
     "mbxNumber": "MB44",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1623,7 +1623,7 @@
     "modelName": "2021 Morgan 3 Wheeler(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f7/2025_Matchbox_2021_Morgan_3_Wheeler.png/revision/latest?cb=20250120010021",
     "mbxNumber": "MB57",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1632,7 +1632,7 @@
     "modelName": "2022 Ford Bronco Sport",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/5d/2025Matchbox2022FordBroncoSport.png/revision/latest?cb=20251006032906",
     "mbxNumber": "MB87",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1641,7 +1641,7 @@
     "modelName": "2022 Ford F-150 Lightning",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/4c/2022_Ford_F-150_Lightning_-_2.jpg/revision/latest?cb=20251106005550",
     "mbxNumber": "MB38",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1650,7 +1650,7 @@
     "modelName": "2022 Infiniti QX80",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/57/2025Matchbox2022InfinitiQX80.png/revision/latest?cb=20250316210903",
     "mbxNumber": "MB54",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1659,7 +1659,7 @@
     "modelName": "2022 Jeep Wagoneer",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/91/Wagoneer_blue.jpg/revision/latest?cb=20260103174412",
     "mbxNumber": "MB125",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1668,7 +1668,7 @@
     "modelName": "2022 Renault Mégane",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/bf/2022_renault_megane.jpg/revision/latest?cb=20250910224823",
     "mbxNumber": "MB103",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1677,7 +1677,7 @@
     "modelName": "2022 Renault Twizy",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d6/2022_Renault_Twizy_%28Orange%2C_2025%29.webp/revision/latest?cb=20250408191426",
     "mbxNumber": "MB33",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1686,7 +1686,7 @@
     "modelName": "2023 Alfa Romeo Tonale",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f6/Mb49.jpg/revision/latest?cb=20250315194800",
     "mbxNumber": "MB49",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1695,7 +1695,7 @@
     "modelName": "2023 BMW M2(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/2/27/2025_Matchbox_2023_BMW_M2.png/revision/latest?cb=20250121232700",
     "mbxNumber": "MB77",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1713,7 +1713,7 @@
     "modelName": "2023 Chevy Corvette Z06 Convertible (New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b2/2025Matchbox2023ChevroletCorvetteZ06.png/revision/latest?cb=20251120205726",
     "mbxNumber": "MB40",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1731,7 +1731,7 @@
     "modelName": "2023 Ford E-Transit Custom (New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/e5/2025Matchbox2023FordE-TransitCustom.png/revision/latest?cb=20251124083636",
     "mbxNumber": "MB117",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1740,7 +1740,7 @@
     "modelName": "2023 Jeep Avenger",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c7/2023_Jeep_Avenger_.jpg/revision/latest?cb=20260304085641",
     "mbxNumber": "MB63",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1749,7 +1749,7 @@
     "modelName": "2023 Nissan Ariya Pole to Pole (New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/fb/Ariya_Coast_to_Coast.png/revision/latest?cb=20250122200547",
     "mbxNumber": "MB18",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1758,7 +1758,7 @@
     "modelName": "2023 Toyota GR Supra",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/38/2023_Toyota_GR_Supra_-_2.jpg/revision/latest?cb=20260118141946",
     "mbxNumber": "MB43",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1767,7 +1767,7 @@
     "modelName": "2023 Toyota Prius Prime(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b9/ToyotaPriusPrime.jpg/revision/latest?cb=20241208103555",
     "mbxNumber": "MB102",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1776,7 +1776,7 @@
     "modelName": "2023 Toyota RAV4 TRD (New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/7c/ToyotaRAV4.jpg/revision/latest?cb=20250611120436",
     "mbxNumber": "MB17",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1785,7 +1785,7 @@
     "modelName": "2024 BMW 7-Series(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/81/BMW_7_Ser_2024_mb.jpg/revision/latest?cb=20250509173528",
     "mbxNumber": "MB100",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1794,7 +1794,7 @@
     "modelName": "2024 Cadillac Lyriq(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c7/Cadillac_Lyriq_%282025%29.jpg/revision/latest?cb=20250824102238",
     "mbxNumber": "MB14",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1803,7 +1803,7 @@
     "modelName": "2024 Chevy Silverado EV",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d5/2024_Chevrolet_Silverado_EV_Red.jpg/revision/latest?cb=20260304090018",
     "mbxNumber": "MB108",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1812,7 +1812,7 @@
     "modelName": "2024 Fiat Topolino",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f6/2024_Fiat_toplino_.jpg/revision/latest?cb=20260304090135",
     "mbxNumber": "MB25",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1821,7 +1821,7 @@
     "modelName": "2024 Ford Explorer BEV(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/59/2025Matchbox2024FordExplorerBEV.png/revision/latest?cb=20250102071818",
     "mbxNumber": "MB7",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1830,7 +1830,7 @@
     "modelName": "2024 Mercedes-Benz EQB(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/2/2d/Mercedes_EQB_rear_mb.jpg/revision/latest?cb=20250509230929",
     "mbxNumber": "MB101",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1839,7 +1839,7 @@
     "modelName": "2024 Range Rover PHEV (New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/65/2025Matchbox2024RangeRoverPHEV.png/revision/latest?cb=20251030043837",
     "mbxNumber": "MB32",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1848,7 +1848,7 @@
     "modelName": "2024 Subaru WRX S4 STI (New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/ac/2025Matchbox2024SubaruWRXS4STI.png/revision/latest?cb=20251101201439",
     "mbxNumber": "MB31",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1866,7 +1866,7 @@
     "modelName": "2025 Polaris RZR Pro R 4 Sport (New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/7e/2025Matchbox2025PolarisRZRProR4Sport.png/revision/latest?cb=20251030042932",
     "mbxNumber": "MB105",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1875,7 +1875,7 @@
     "modelName": "2025 Ram 1500 REV(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/1/1c/RAM_1500_REV_2025_mb.jpg/revision/latest?cb=20250424175705",
     "mbxNumber": "MB73",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1884,7 +1884,7 @@
     "modelName": "Audi R8(Super Chase)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/1/1e/Audi_R8_SuperChase_2025.jpg/revision/latest?cb=20250131032408",
     "mbxNumber": "SC1",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1893,7 +1893,7 @@
     "modelName": "Audi e-tron",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/a4/Audi_e-tron_%28Yellow%29.jpeg/revision/latest?cb=20250601030638",
     "mbxNumber": "MB98",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1902,7 +1902,7 @@
     "modelName": "BMW 1M",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/7d/2025MatchboxBMW1M.png/revision/latest?cb=20251116052751",
     "mbxNumber": "MB21",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1929,7 +1929,7 @@
     "modelName": "Citroën ë-C4",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/0/0f/Mb1425_2025.jpg/revision/latest?cb=20250315080614",
     "mbxNumber": "MB94",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1938,7 +1938,7 @@
     "modelName": "Coast 2 Coast(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/0/0c/2025MatchboxCoast2Coast.png/revision/latest?cb=20250708030353",
     "mbxNumber": "MB89",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1947,7 +1947,7 @@
     "modelName": "Express Delivery",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/76/Express_Delivery_%28UPS%2C_2025%29.jpg/revision/latest?cb=20260411015700",
     "mbxNumber": "MB68",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -1974,7 +1974,7 @@
     "modelName": "Ford Police Interceptor",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/e9/Nyc_taxi.jpg/revision/latest?cb=20250910224505",
     "mbxNumber": "MB29",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2001,7 +2001,7 @@
     "modelName": "Garbage King",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b0/2025MatchboxGarbageKing.png/revision/latest?cb=20251130040450",
     "mbxNumber": "MB99",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2028,7 +2028,7 @@
     "modelName": "Holden VF Commodore SSV",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/1/19/Holden_Commodore_SSV_3rd_Release.jpg/revision/latest?cb=20250727163417",
     "mbxNumber": "MB106",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2055,7 +2055,7 @@
     "modelName": "Jeep Cherokee Trailhawk",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/2/2d/14_Jeep_Cherokee_Trailhawk.jpg/revision/latest?cb=20250717000603",
     "mbxNumber": "MB45",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2064,7 +2064,7 @@
     "modelName": "Karma Revero",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/34/Karma_revero.jpg/revision/latest?cb=20250910224933",
     "mbxNumber": "MB112",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2073,7 +2073,7 @@
     "modelName": "MBX EV School Bus(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/cd/2025_Matchbox_MBX_EV_School_Bus.png/revision/latest?cb=20250121233245",
     "mbxNumber": "MB123",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2082,7 +2082,7 @@
     "modelName": "MBX EV Trash Truck(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/64/MBX_EV_Trash_Truck.png/revision/latest?cb=20250630010926",
     "mbxNumber": "MB62",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2091,7 +2091,7 @@
     "modelName": "MBX Field Car",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/1/14/MBX_Field_Car_-_National_Parks.jpeg/revision/latest?cb=20250226024221",
     "mbxNumber": "MB23",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2100,7 +2100,7 @@
     "modelName": "MBX Field Car Convertible(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/62/FieldCarConvertible.jpg/revision/latest?cb=20241024121549",
     "mbxNumber": "MB93",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2109,7 +2109,7 @@
     "modelName": "MBX Garbage Scout",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/9d/MBX_Garbage_Scout_%28West_Coast%29.jpeg/revision/latest?cb=20250414121743",
     "mbxNumber": "MB97",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2145,7 +2145,7 @@
     "modelName": "Mercedes-AMG SL 63",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f2/Mercedes-AMG_SL63_%28Orange%29.png/revision/latest?cb=20250829152449",
     "mbxNumber": "MB26",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2154,7 +2154,7 @@
     "modelName": "Morgan Plus Four",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/6c/Morgan_Plus_Four_%28Blue%2C_2025%29.jpg/revision/latest?cb=20250324100959",
     "mbxNumber": "MB81",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2163,7 +2163,7 @@
     "modelName": "Opel Astra",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b2/Opel_Astra_-_2.jpg/revision/latest?cb=20260321022917",
     "mbxNumber": "MB114",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2181,7 +2181,7 @@
     "modelName": "Polaris Ranger EV",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/80/Polaris_Ranger_EV_%282025_1-125%29.jpg/revision/latest?cb=20250206212523",
     "mbxNumber": "MB111",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2190,7 +2190,7 @@
     "modelName": "Porsche 911 Carrera Cabriolet",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/5b/911_cabriolet_front.jpg/revision/latest?cb=20251231060041",
     "mbxNumber": "MB27",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2199,7 +2199,7 @@
     "modelName": "Porsche 911 Targa",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/4e/Porsche_911_Targa_%28Red%29.png/revision/latest?cb=20250830020555",
     "mbxNumber": "MB34",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2208,7 +2208,7 @@
     "modelName": "Porsche 918 Spyder",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/0/02/Porsche_918_spyder.jpg/revision/latest?cb=20250928011707",
     "mbxNumber": "MB15",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2217,7 +2217,7 @@
     "modelName": "Porsche Cayenne Turbo",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/7e/Porsche_Cayenne_Turbo_%28Violet%29.jpeg/revision/latest?cb=20250414022315",
     "mbxNumber": "MB19",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2226,7 +2226,7 @@
     "modelName": "Porsche Macan S",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c0/Porsche_macan_s_2025.png/revision/latest?cb=20250604043647",
     "mbxNumber": "MB64",
-    "series": "MBX Road Trip",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2235,7 +2235,7 @@
     "modelName": "Radical SR3 XXR",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/0/09/2025MatchboxRadicalSR3XXR.png/revision/latest?cb=20251007034445",
     "mbxNumber": "MB71",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2280,7 +2280,7 @@
     "modelName": "Tesla Model 3",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/3f/Tesla_model_3_2025.png/revision/latest?cb=20250603193117",
     "mbxNumber": "MB4",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2289,7 +2289,7 @@
     "modelName": "Tesla Model S",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/99/Tesla_Model_S_%282025_1-125%29.jpg/revision/latest?cb=20250206235948",
     "mbxNumber": "MB42",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2298,7 +2298,7 @@
     "modelName": "Toyota MR2",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/2/2a/Toyota_MR2_%282025%2C_1-125%29.jpg/revision/latest?cb=20260815225326",
     "mbxNumber": "MB8",
-    "series": "MBX Showroom",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2307,7 +2307,7 @@
     "modelName": "Volkswagen Beetle 4x4",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/42/Beetle_4x4_.jpg/revision/latest?cb=20250910223140",
     "mbxNumber": "MB12",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2316,7 +2316,7 @@
     "modelName": "Volkswagen ID.4",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b8/Volkswagen_ID.4_%28Light_Green%2C_2025%29.jpg/revision/latest?cb=20250316230010",
     "mbxNumber": "MB92",
-    "series": "MBX City",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2025,
     "isReleased": true
@@ -2343,7 +2343,7 @@
     "modelName": "'19 Jeep Renegade",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/39/Jeep_Renegade_%282024%29.jpg/revision/latest?cb=20240109033429",
     "mbxNumber": "MB16",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2379,7 +2379,7 @@
     "modelName": "1948 Willys Jeepster",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/1/19/1948_Willly_Jeepster_2024.jpg/revision/latest?cb=20240120224845",
     "mbxNumber": "MB10",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2397,7 +2397,7 @@
     "modelName": "1960 Chevy El Camino",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/cc/Blue_Chevy_El_Camino.jpg/revision/latest?cb=20241117091134",
     "mbxNumber": "MB2",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2424,7 +2424,7 @@
     "modelName": "1964 Jeep Wagoneer(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/0/02/Jeep_Wagoneer%2C_1964.jpg/revision/latest?cb=20241021090424",
     "mbxNumber": "MB38",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2460,7 +2460,7 @@
     "modelName": "1968 Chevy C10(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/cd/MB2024-68ChevyC10_%28Large%29.JPG/revision/latest?cb=20240526020556",
     "mbxNumber": "MB19",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2469,7 +2469,7 @@
     "modelName": "1970 Ford Bronco(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f7/MB2024-70Bronco_%28Large%29.JPG/revision/latest?cb=20240526020607",
     "mbxNumber": "MB29",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2478,7 +2478,7 @@
     "modelName": "1970 Ford Ranchero",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b8/Ford_Ranchero_%282024%29.jpg/revision/latest?cb=20240109070110",
     "mbxNumber": "MB83",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2487,7 +2487,7 @@
     "modelName": "1972 Lotus Europa",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/57/MBX-2024-093.jpg/revision/latest?cb=20240420184653",
     "mbxNumber": "MB93",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2496,7 +2496,7 @@
     "modelName": "1975 Opel Kadett C GT/E",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/0/02/MB2024-OpelKadett_%28Large%29.JPG/revision/latest?cb=20240526020641",
     "mbxNumber": "MB40",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2523,7 +2523,7 @@
     "modelName": "1980 AMC Eagle",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/fb/MBX-2024-022.jpg/revision/latest?cb=20240601201925",
     "mbxNumber": "MB22",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2550,7 +2550,7 @@
     "modelName": "1985 Nissan Pathfinder(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/86/1985Pathfinder.jpg/revision/latest?cb=20241113104856",
     "mbxNumber": "MB54",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2577,7 +2577,7 @@
     "modelName": "1994 Lexus LS 400",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/3e/MBX-2024-026.jpg/revision/latest?cb=20240816194316",
     "mbxNumber": "MB26",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2586,7 +2586,7 @@
     "modelName": "1994 Mitsubishi 3000GT",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/53/2024MatchboxMitsubishi3000GT.png/revision/latest?cb=20240324192510",
     "mbxNumber": "MB74",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2613,7 +2613,7 @@
     "modelName": "2012 BMW 3 Series Touring",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/63/2024Matchbox2012BMW3SeriesTouring.png/revision/latest?cb=20240324191735",
     "mbxNumber": "MB34",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2631,7 +2631,7 @@
     "modelName": "2018 Dodge Charger",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/b5/Dodge_Charger_%282024%2C_white%29.jpg/revision/latest?cb=20240109065852",
     "mbxNumber": "MB81",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2658,7 +2658,7 @@
     "modelName": "2019 Mazda3",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/8f/MBX-2024-077.jpg/revision/latest?cb=20240816194835",
     "mbxNumber": "MB77",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2676,7 +2676,7 @@
     "modelName": "2019 Subaru Forester",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/a7/Subaru_Forester_%282024%29.jpg/revision/latest?cb=20240109092721",
     "mbxNumber": "MB78",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2685,7 +2685,7 @@
     "modelName": "2019 Volkswagen Beetle Convertible",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/57/Volkswagen_Beetle_Convertible_%282024_1-100%29.jpg/revision/latest?cb=20250408010803",
     "mbxNumber": "MB52",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2694,7 +2694,7 @@
     "modelName": "2020 Land Rover Defender",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/ab/Land_Rover_Defender_%282024%29.jpg/revision/latest?cb=20240109052618",
     "mbxNumber": "MB61",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2712,7 +2712,7 @@
     "modelName": "2021 Cadillac CT5-V",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c3/MBX-2024-037.jpg/revision/latest?cb=20240601202036",
     "mbxNumber": "MB37",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2721,7 +2721,7 @@
     "modelName": "2021 Koenigsegg Gemera",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/6a/Koenigsegg_Gemera_%282024%29.jpg/revision/latest?cb=20250120010917",
     "mbxNumber": "MB1",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2739,7 +2739,7 @@
     "modelName": "2022 Ford Bronco Sport",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/6f/MBX-2024-044.jpg/revision/latest?cb=20240601202153",
     "mbxNumber": "MB44",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2748,7 +2748,7 @@
     "modelName": "2022 Ford F-150 Lightning",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c3/2022_Ford_F-150_Lightning_%282024_1-100%29.jpg/revision/latest?cb=20250831102846",
     "mbxNumber": "MB28",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2757,7 +2757,7 @@
     "modelName": "2022 Infiniti QX80(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/1/1e/MBX-2024-033.jpg/revision/latest?cb=20240601202004",
     "mbxNumber": "MB33",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2766,7 +2766,7 @@
     "modelName": "2022 Jeep Wagoneer(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/bb/MBX-2024-097.jpg/revision/latest?cb=20240901103707",
     "mbxNumber": "MB97",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2784,7 +2784,7 @@
     "modelName": "2022 Porsche Macan",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/ff/MBX-2024-011.jpg/revision/latest?cb=20240901103255",
     "mbxNumber": "MB11",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2811,7 +2811,7 @@
     "modelName": "2023 Alfa Romeo Tonale(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/46/2024Matchbox2023AlfaRomeoTonale.png/revision/latest?cb=20241231203645",
     "mbxNumber": "MB50",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2829,7 +2829,7 @@
     "modelName": "2023 Ford Police Interceptor Utility(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/50/Ford_Police_Interceptor_Utility_%282024%29_-2.jpg/revision/latest?cb=20240801095950",
     "mbxNumber": "MB36",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2838,7 +2838,7 @@
     "modelName": "2023 Jeep Avenger",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/7/78/MBX-2024-046.jpg/revision/latest?cb=20240816194630",
     "mbxNumber": "MB46",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2847,7 +2847,7 @@
     "modelName": "2023 Toyota GR Supra(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d2/%2723ToyotaSupra.jpg/revision/latest?cb=20240918124336",
     "mbxNumber": "MB39",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2856,7 +2856,7 @@
     "modelName": "2024 Chevy Silverado EV(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/56/2024_Chevy_Silverado_EV.jpg/revision/latest?cb=20241201103308",
     "mbxNumber": "MB12",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2928,7 +2928,7 @@
     "modelName": "Freightliner M2 106",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/4c/2024FBCM1Red.png/revision/latest?cb=20240524134844",
     "mbxNumber": "MB76",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2946,7 +2946,7 @@
     "modelName": "Holden VF Commodore SSV",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f5/20204CommodoreOrange.png/revision/latest?cb=20240511024142",
     "mbxNumber": "MB68",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2973,7 +2973,7 @@
     "modelName": "Karma GS-6",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/4b/Karma_gs-6_2024.jpg/revision/latest?cb=20240120223709",
     "mbxNumber": "MB91",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2982,7 +2982,7 @@
     "modelName": "Lamborghini LM002",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/be/2024MB96LamborghiniLM002.jpeg/revision/latest?cb=20240220081953",
     "mbxNumber": "MB96",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -2991,7 +2991,7 @@
     "modelName": "MBX Field Car",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/6e/MBX-2024-056.jpg/revision/latest?cb=20240901103459",
     "mbxNumber": "MB56",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -3000,7 +3000,7 @@
     "modelName": "MBX Load Lifter",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/d/d5/Load_Lifter_%282024_1-100%29.jpg/revision/latest?cb=20241031235817",
     "mbxNumber": "MB69",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -3045,7 +3045,7 @@
     "modelName": "Nissan NV Van",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f1/Nissan_NV_Van_%282024%29.jpg/revision/latest?cb=20250305170126",
     "mbxNumber": "MB63",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -3063,7 +3063,7 @@
     "modelName": "Polaris RZR",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/3/37/Polaris_RZR_2024_MBX_Adventure.png/revision/latest?cb=20240506133030",
     "mbxNumber": "MB80",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -3072,7 +3072,7 @@
     "modelName": "Polaris Ranger",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/5d/PolarisRangerEVWhite.webp/revision/latest?cb=20240314140530",
     "mbxNumber": "MB7",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -3081,7 +3081,7 @@
     "modelName": "Porsche 911 Carrera Cabriolet(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/5/50/992Convertible.jpg/revision/latest?cb=20241029140316",
     "mbxNumber": "MB79",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -3090,7 +3090,7 @@
     "modelName": "Porsche 911 GT3",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c5/Porsche_911_GT3_%282024%29.jpg/revision/latest?cb=20240109092325",
     "mbxNumber": "MB73",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -3135,7 +3135,7 @@
     "modelName": "Ram Work Truck",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/e/ea/MBX-2024-023.jpg/revision/latest?cb=20240901103324",
     "mbxNumber": "MB23",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -3144,7 +3144,7 @@
     "modelName": "Rivian R1T",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/ae/Matchbox_Rivian_R1T_MB1282.jpg/revision/latest?cb=20240206200640",
     "mbxNumber": "MB17",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -3198,7 +3198,7 @@
     "modelName": "Tesla Roadster",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/44/MBX2024TeslaRoadsterBlack.png/revision/latest?cb=20240511023449",
     "mbxNumber": "MB48",
-    "series": "MBX Road Trip",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -3207,7 +3207,7 @@
     "modelName": "Toyota Hilux Pickup",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f7/MBX-2024-035.jpg/revision/latest?cb=20240816194521",
     "mbxNumber": "MB35",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true
@@ -3216,7 +3216,7 @@
     "modelName": "Volkswagen Beetle 4x4",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/f7/MBX-2024-043.jpg/revision/latest?cb=20240816194606",
     "mbxNumber": "MB43",
-    "series": "MBX Adventure",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2024,
     "isReleased": true

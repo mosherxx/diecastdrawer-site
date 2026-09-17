@@ -1,5 +1,55 @@
 [
   {
+    "modelName": "BMW Z3 Hellrot",
+    "productCode": "MGT01386",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260916205308350.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Lamborghini Urus Performante Viola Pasifae",
+    "productCode": "MGT01381",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260916204318058.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Land Rover Defender 110 1998 Camel Trophy Tierra del Fuego CT.24 Italy",
+    "productCode": "MGT01380",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260916204118729.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Cadillac Eldorado Biarritz 1959 Black",
+    "productCode": "MGT01379",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260916203652030.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Lamborghini Huracán LB★WORKS Lime Metallic",
+    "productCode": "MGT01377",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260916190057822.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
     "modelName": "BMW M4 CS Black Sapphire",
     "productCode": "MGT01213",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260903043738299.JPG",
