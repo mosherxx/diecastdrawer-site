@@ -1,5 +1,130 @@
 [
   {
+    "modelName": "Nissan LB-Silhouette WORKS GT35GT-RR Ver.1 XLARGE",
+    "productCode": "MGT01013",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917203614388.jpg",
+    "isReleased": true,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "Regional Exclusive"
+    ]
+  },
+  {
+    "modelName": "Nissan NISMO R34GT-R Z-Tune Z-Tune Silver",
+    "productCode": "MGT01329",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917202542287.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Aston Martin DB5 Fiesta Red",
+    "productCode": "MGT01305",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917202119747.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Porsche 911 (992) GT3 RS Weissach Package Gulf Orange",
+    "productCode": "MGT01304",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917202000767.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "McLaren F1 Blue Black Metallic",
+    "productCode": "MGT01303",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917201811152.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Ford XB Falcon GT #25 1975 Bathurst 1000 Australia Exclusive",
+    "productCode": "MGT01244",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917201331732.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "Regional Exclusive"
+    ]
+  },
+  {
+    "modelName": "Ford XB Falcon GT #33 1974 Bathurst 1000 Australia Exclusive",
+    "productCode": "MGT01243",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917201126652.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "Regional Exclusive"
+    ]
+  },
+  {
+    "modelName": "BMW 750IL Black Sapphire",
+    "productCode": "MGT01242",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917200850340.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "BMW M Hybrid V8 GTP #25 BMW M Team RLL 2024 IMSA Daytona 24 Hrs",
+    "productCode": "MGT01241",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917200547799.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "IMSA"
+    ]
+  },
+  {
+    "modelName": "Ford Mustang GT3 #65 Ford Multimatic Motorsports 2025 IMSA Daytona 24 Hrs Winner",
+    "productCode": "MGT01240",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917200340743.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "IMSA"
+    ]
+  },
+  {
+    "modelName": "Aston Martin AMR24 #18 Lance Stroll 2024 F1 2024 Canadian GP",
+    "productCode": "MGT01114",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917200010245.JPG",
+    "isReleased": true,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Aston Martin AMR24 #14 Fernando Alonso 2024 F1 2024 Canadian GP",
+    "productCode": "MGT01113",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917195839281.JPG",
+    "isReleased": true,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
     "modelName": "BMW Z3 Hellrot",
     "productCode": "MGT01386",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260916205308350.JPG",
@@ -687,7 +812,7 @@
     "modelName": "Mazda MX-5 (NA) Pandem Mint Green",
     "productCode": "MGT01249",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/05/20260515175127911.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
