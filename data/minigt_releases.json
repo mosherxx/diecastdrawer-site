@@ -1,5 +1,27 @@
 [
   {
+    "modelName": "Ford Mustang convertible 1964 “Goldfinger”",
+    "productCode": "MGT00928",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260921185713592.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "007 Movie Car",
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Aston Martin V12 Vanquish \"Die Another Day\"",
+    "productCode": "MGT00926",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260921185021975.jpg",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "007 Movie Car",
+      "Full Collection"
+    ]
+  },
+  {
     "modelName": "Nissan LB-Silhouette WORKS GT35GT-RR Ver.1 XLARGE",
     "productCode": "MGT01013",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917203614388.jpg",

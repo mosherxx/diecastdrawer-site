@@ -18,19 +18,19 @@
     "isReleased": true
   },
   {
-    "modelName": "'18 Toyota 4Runner",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c7/Toyota_4Runner_-_4.jpg/revision/latest?cb=20260816143315",
-    "mbxNumber": "MB77",
-    "series": "MBX Offroad",
+    "modelName": "'67 Alfa Romeo Duetto",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/83/2025_2nd_elease_Alfa_1967_Alfa_Romeo_Duetto.jpg/revision/latest?cb=20260104163317",
+    "mbxNumber": "MB4",
+    "series": "MBX Highway",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
   },
   {
-    "modelName": "'67 Alfa Romeo Duetto",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/83/2025_2nd_elease_Alfa_1967_Alfa_Romeo_Duetto.jpg/revision/latest?cb=20260104163317",
-    "mbxNumber": "MB4",
-    "series": "MBX Highway",
+    "modelName": "'71 Porsche 914",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c3/Porsche_914_2026.jpg/revision/latest?cb=20260428154750",
+    "mbxNumber": "MB95",
+    "series": "MBX Countryside",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -153,15 +153,6 @@
     "isReleased": true
   },
   {
-    "modelName": "1971 Porsche 914",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c3/Porsche_914_2026.jpg/revision/latest?cb=20260428154750",
-    "mbxNumber": "MB95",
-    "series": "MBX Countryside",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "1974 Ford F-100 Ranger (New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c4/Ford_F-100_Ranger.jpg/revision/latest?cb=20260512134403",
     "mbxNumber": "MB69",
@@ -243,7 +234,7 @@
     "isReleased": true
   },
   {
-    "modelName": "1995 BMW 318 ti",
+    "modelName": "1995 BMW 318 Ti",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/cc/318black.png/revision/latest?cb=20260703184400",
     "mbxNumber": "MB79",
     "series": "MBX Highway",
@@ -1125,7 +1116,7 @@
     "isReleased": true
   },
   {
-    "modelName": "SHERP N1200(New)",
+    "modelName": "SHERP N 1200(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/43/SHERP2026-1.png/revision/latest?cb=20260703160042",
     "mbxNumber": "MB82",
     "series": "MBX Offroad",
@@ -1138,6 +1129,15 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/b/bc/Skidster_-_7.jpg/revision/latest?cb=20260603231413",
     "mbxNumber": "MB52",
     "series": "MBX Construction",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Toyota 4Runner",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c7/Toyota_4Runner_-_4.jpg/revision/latest?cb=20260816143315",
+    "mbxNumber": "MB77",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
