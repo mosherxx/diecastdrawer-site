@@ -1,14 +1,5 @@
 [
   {
-    "modelName": "'16 Chevy Colorado Extreme",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/4e/2016_Chevy_Colorado_%282026%29.png/revision/latest?cb=20260304060702",
-    "mbxNumber": "MB5",
-    "series": "MBX Offroad",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "'17 Toyota Land Cruiser 78",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/68/Toyota_Land_Cruiser_78_%282026_1-125_version%29.jpg/revision/latest?cb=20260423093752",
     "mbxNumber": "MB40",
@@ -22,6 +13,15 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/8/83/2025_2nd_elease_Alfa_1967_Alfa_Romeo_Duetto.jpg/revision/latest?cb=20260104163317",
     "mbxNumber": "MB4",
     "series": "MBX Highway",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "'68 Dodge D-200",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/9e/D200_26.jpg/revision/latest?cb=20260708221523",
+    "mbxNumber": "MB123",
+    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -94,15 +94,6 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c2/Shelby_Cobra_427_S.C_%282026%29.jpg/revision/latest?cb=20260604074111",
     "mbxNumber": "MB64",
     "series": "MBX Highway",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
-    "modelName": "1968 Dodge D200",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/9/9e/D200_26.jpg/revision/latest?cb=20260708221523",
-    "mbxNumber": "MB123",
-    "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
@@ -327,6 +318,15 @@
     "modelName": "2015 Honda Ridgeline(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/f/fe/2015_Honda_Ridgeline.jpg/revision/latest?cb=20260531131940",
     "mbxNumber": "MB20",
+    "series": "MBX Offroad",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "2016 Chevy Colorado Extreme",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/4e/2016_Chevy_Colorado_%282026%29.png/revision/latest?cb=20260304060702",
+    "mbxNumber": "MB5",
     "series": "MBX Offroad",
     "category": "Mainline",
     "year": 2026,
@@ -630,7 +630,7 @@
     "isReleased": true
   },
   {
-    "modelName": "2024 Chevrolet Silverado PPV(New)",
+    "modelName": "2024 Chevrolet Silverado PPV Truck(New)",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/4/42/Chevy_silverado_ppv_2026.jpg/revision/latest?cb=20260524165323",
     "mbxNumber": "MB92",
     "series": "MBX Rescue",
@@ -801,7 +801,7 @@
     "isReleased": true
   },
   {
-    "modelName": "Chevy K-1500",
+    "modelName": "Chevy K1500 Pickup",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/a/a2/51_Chevy_K-1500.jpg/revision/latest?cb=20251223055603",
     "mbxNumber": "MB51",
     "series": "MBX Offroad",
@@ -999,15 +999,6 @@
     "isReleased": true
   },
   {
-    "modelName": "MBX Service Truck",
-    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/6e/Ups_truck_26.jpg/revision/latest?cb=20260708220327",
-    "mbxNumber": "MB98",
-    "series": "MBX Metro",
-    "category": "Mainline",
-    "year": 2026,
-    "isReleased": true
-  },
-  {
     "modelName": "MBX Turf Hauler II",
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/0/00/MBX_Turf_Hauler_II_-_3.jpg/revision/latest?cb=20260804230714",
     "mbxNumber": "MB75",
@@ -1138,6 +1129,15 @@
     "imageURL": "https://static.wikia.nocookie.net/matchbox/images/c/c7/Toyota_4Runner_-_4.jpg/revision/latest?cb=20260816143315",
     "mbxNumber": "MB77",
     "series": "MBX Offroad",
+    "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "UPS Delivery Truck",
+    "imageURL": "https://static.wikia.nocookie.net/matchbox/images/6/6e/Ups_truck_26.jpg/revision/latest?cb=20260708220327",
+    "mbxNumber": "MB98",
+    "series": "MBX Metro",
     "category": "Mainline",
     "year": 2026,
     "isReleased": true
