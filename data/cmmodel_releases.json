@@ -1,5 +1,53 @@
 [
   {
+    "modelName": "Ford GTD Lightning Blue with Vivid Black Hood CM64-GTD-03",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/bb7fdd6e7549b9f01d8695a4509620d2.jpg?v=1789767009",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-darwinpro-720se-gtr-pearle-99-yellow-cm64-720se2gtr-03-copy",
+    "scale": "1/64",
+    "series": "CM64-GTD-03",
+    "make": "Ford"
+  },
+  {
+    "modelName": "DarwinPRO 720SE²GTR Pearle #99 Yellow CM64-720Se2GTR-03",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/8bb09cfb07a31941d9a082fb9b772c89.jpg?v=1789766889",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-gr-supra-nitro-yellow-cm64-supra-03-copy",
+    "scale": "1/64",
+    "series": "CM64-720Se2GTR-03",
+    "make": ""
+  },
+  {
+    "modelName": "Toyota GR Supra Nitro Yellow CM64-Supra-03",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/0bfc1313eea255f054401e10441daded.jpg?v=1789766757",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-dodge-viper-vxi-acr-white-with-blue-and-red-stripes-cm64-vipervxi-sp01-copy",
+    "scale": "1/64",
+    "series": "CM64-Supra-03",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Dodge Viper VXI ACR White with blue and red stripes CM64-ViperVXI-SP01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/f92efccccd72625e5de3cf4e2fff0d1d.jpg?v=1789766631",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-p1-gtr-harrods-51-cm64-p1gtr-n01-copy-1",
+    "scale": "1/64",
+    "series": "CM64-ViperVXI-SP01",
+    "make": "Dodge"
+  },
+  {
+    "modelName": "DarwinPRO 720SE²NWB Matt Black CM64-Se²NWB-01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/5749c9d30fbe44fba19c2a440da80651.jpg?v=1789766467",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-mclaren-p1-gtr-harrods-51-cm64-p1gtr-n01-copy",
+    "scale": "1/64",
+    "series": "CM64-Se²NWB-01",
+    "make": ""
+  },
+  {
+    "modelName": "McLaren P1 GTR Harrods #51 CM64-P1GTR-N01",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/c5eada58badf6fbc649eed4cb7975790.jpg?v=1789766314",
+    "productURL": "https://horizondiecast.com/products/preorder-cm-model-1-64-toyota-sequoia-cyan-cm64-sequoia-07-copy",
+    "scale": "1/64",
+    "series": "CM64-P1GTR-N01",
+    "make": "McLaren"
+  },
+  {
     "modelName": "McLaren 720Se² GTR Darwin PRO - Malaysia Custom Black CM64-720se GTR-02",
     "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/Capture_88b6647a-45a1-48ae-a3c3-eba81981bbcd.jpg?v=1788907899",
     "productURL": "https://horizondiecast.com/products/cm-model-1-64-pagani-huayra-tricolor-copy",
