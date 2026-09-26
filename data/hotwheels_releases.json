@@ -61,7 +61,7 @@
   },
   {
     "modelName": "'71 AMC Javelin AMX",
-    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/0/02/RWBjavAMXgasserRLC.jpg/revision/latest?cb=20260924231903",
     "toyNumber": "JJY58",
     "colNumber": "",
     "series": "2026 RLC Exclusive",
@@ -233,6 +233,16 @@
     "modelName": "Ferrari F40",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
     "toyNumber": "JJY72",
+    "colNumber": "",
+    "series": "2026 RLC Exclusive",
+    "category": "RLC",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (BNR32)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JJY54",
     "colNumber": "",
     "series": "2026 RLC Exclusive",
     "category": "RLC",
