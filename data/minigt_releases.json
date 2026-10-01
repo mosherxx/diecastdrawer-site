@@ -1062,7 +1062,7 @@
     "modelName": "Aston Martin DB5 “Skyfall”",
     "productCode": "MGT00913",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/04/20260420171804882.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",
@@ -1095,7 +1095,7 @@
     "modelName": "BMW M4 GT3 EVO #90 FIST Team AAI 2025 China GT",
     "productCode": "MGT01215",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260929201038380.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection",
@@ -1117,7 +1117,7 @@
     "modelName": "BMW Z3 “GoldenEye”",
     "productCode": "MGT00914",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/04/20260420164118621.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",
@@ -1139,7 +1139,7 @@
     "modelName": "Aston Martin DB5 “Casino Royale”",
     "productCode": "MGT00909",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/04/20260420162901657.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",
@@ -1201,7 +1201,7 @@
     "modelName": "Nissan LB-Super Silhouette 180SX White",
     "productCode": "MGT01181",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/04/20260416180137398.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1323,7 +1323,7 @@
     "modelName": "Hyundai RN22e (VP1)",
     "productCode": "MGT01208",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/02/20260211203812463.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection",
@@ -1334,7 +1334,7 @@
     "modelName": "Hyundai Concept N Vision 74 (VP2)",
     "productCode": "MGT01207",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/02/20260211203024111.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection",
@@ -1397,7 +1397,7 @@
     "modelName": "Nissan LB-ER34 Super Silhouette SKYLINE Suppaiman Okinawa w/Gold Wheel",
     "productCode": "MGT01162",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/02/20260211194001197.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection",
@@ -1544,7 +1544,7 @@
     "modelName": "Chevrolet Corvette Z06 GT3.R Road America Test car",
     "productCode": "MGT01186",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/08/20260830002706894.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1584,7 +1584,7 @@
     "modelName": "Nissan LB-Super Silhouette 180SX 2026 TAS",
     "productCode": "MGT01163",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260104232209043.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1626,7 +1626,7 @@
     "modelName": "Honda NS-X Prototype Midship Sports 1989 Ayrton Senna w/ Figure",
     "productCode": "MGT01075",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/12/20251217174805246.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1676,7 +1676,7 @@
     "modelName": "Bugatti W16 Mistral Yellow",
     "productCode": "MGT01137",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/12/20251214233517178.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1696,7 +1696,7 @@
     "modelName": "BMW M4 M-Performance Daytona Violet",
     "productCode": "MGT01112",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/12/20251214010911412.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1812,7 +1812,7 @@
     "modelName": "Ford Mustang GTD Spirit of America",
     "productCode": "MGT01097",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260114052904002.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1947,7 +1947,7 @@
     "modelName": "BMW M3 M Performance Touring Sao Paulo Yellow",
     "productCode": "MGT01102",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260114053407107.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -2017,7 +2017,7 @@
     "modelName": "BMW M5 Alpine White",
     "productCode": "MGT01092",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/05/20260519182608883.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -2118,7 +2118,7 @@
     "modelName": "Nissan LB-ER34 Super Silhouette SKYLINE MINI GT Give x Diecast Talk — For Susan G. Komen",
     "productCode": "MGT01095",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/10/20251016172913441.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection",
@@ -2139,7 +2139,7 @@
     "modelName": "Ford Mustang Dark Horse 2024 Grabber Blue",
     "productCode": "MGT01141",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260114055037781.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -2179,7 +2179,7 @@
     "modelName": "BMW M3 Competition Touring Portimao Blue Metallic",
     "productCode": "MGT01090",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260114052341049.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -2199,7 +2199,7 @@
     "modelName": "LB★WORKS Lamborghini Aventador Limited Edition Orange MDX 2025",
     "productCode": "MGT01133",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/11/20251102052703930.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -2412,7 +2412,7 @@
     "modelName": "Lancia Stratos HF #4 1978 Rally Sanremo Winner",
     "productCode": "MGT01084",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260929174432669.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -2502,7 +2502,7 @@
     "modelName": "Bugatti Bolide Presentation",
     "productCode": "MGT01063",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/07/20250705222627516.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -2748,7 +2748,7 @@
     "modelName": "Abarth 595 LB-WORKS x Abas Works Grey",
     "productCode": "MGT00995",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/07/20250718185527309.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -3193,7 +3193,7 @@
     "modelName": "BMW i7 xDrive60 Alpine White / Black Sapphire",
     "productCode": "MGT00959",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/04/20250409214021475.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -3255,7 +3255,7 @@
     "modelName": "Mazda RX-7 LB-Super Silhouette Advan",
     "productCode": "MGT00983",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/07/20250718195823930.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -3285,7 +3285,7 @@
     "modelName": "Lamborghini Countach LPI 800-4 Verde Medio",
     "productCode": "MGT00976",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/05/20250511194630634.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -3559,7 +3559,7 @@
     "modelName": "Nissan LB-ER34 Super Silhouette SKYLINE Black",
     "productCode": "MGT00844",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/04/20250427171535194.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -4349,7 +4349,7 @@
     "modelName": "Lamborghini Aventador SVJ 63 Roadster Nero Aldebaran",
     "productCode": "MGT00803",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240930075653909.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -4379,7 +4379,7 @@
     "modelName": "MAZDA RX-7 LB-Super Silhouette Liberty Walk Black",
     "productCode": "MGT00785",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240908041839652.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -4399,7 +4399,7 @@
     "modelName": "Nissan Z LB★NATION WORKS LB Gold",
     "productCode": "MGT00782",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/05/20250510045015073.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -4419,7 +4419,7 @@
     "modelName": "Lamborghini Aventador SVJ 63 Blu Aegir",
     "productCode": "MGT00784",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240930075553919.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -4429,7 +4429,7 @@
     "modelName": "Nissan LB-Super Silhouette S15 SILVIA Auto Finesse SEMA 2023",
     "productCode": "MGT00781",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240908041652938.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -4551,7 +4551,7 @@
     "modelName": "Aston Martin Valkyrie Hyper Red",
     "productCode": "MGT00766",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240908003318174.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -4571,7 +4571,7 @@
     "modelName": "BMW M3 M Performance Touring Alpine White",
     "productCode": "MGT00776",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240908041227771.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -4601,7 +4601,7 @@
     "modelName": "MAZDA RX-7 LB-Super Silhouette #41 Numero Reserve",
     "productCode": "MGT00773",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240908040931318.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -4622,7 +4622,7 @@
     "modelName": "Nissan LB-Super Silhouette S15 SILVIA LBWK KUMA",
     "productCode": "MGT00743",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240930075132911.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -4675,7 +4675,7 @@
     "modelName": "Toyota GR86 LB★Nation White",
     "productCode": "MGT00769",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240908003428563.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -4812,7 +4812,7 @@
     "modelName": "Honda NSX GT3 EVO AlphaTauri Yuki Tsunoda 2023 Red Bull Formula Nurburgring",
     "productCode": "MGT00761",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240908003134226.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -4822,7 +4822,7 @@
     "modelName": "Ford Mustang Shelby GT500 Heritage Edition",
     "productCode": "MGT00758",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240908002600264.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -4842,7 +4842,7 @@
     "modelName": "Honda Civic Type R #3 2023 Pace Car Blue",
     "productCode": "MGT00753",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240908002350125.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -5019,7 +5019,7 @@
     "modelName": "Aston Martin Valkyrie Sunburst Yellow",
     "productCode": "MGT00744",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240908000805596.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -5110,7 +5110,7 @@
     "modelName": "Cadillac V-Series.R #311 Action Express Racing 2023 Le Mans 24 Hrs",
     "productCode": "MGT00736",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240908000241300.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -5141,7 +5141,7 @@
     "modelName": "Lamborghini Countach LPI 800-4 New Giallo Orion",
     "productCode": "MGT00733",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240907235934333.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -5151,7 +5151,7 @@
     "modelName": "Nissan Z LB★NATION WORKS Seiran Blue",
     "productCode": "MGT00732",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240907235840301.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -5211,7 +5211,7 @@
     "modelName": "Lancia Stratos HF 1975 Rally Sanremo Winner #11",
     "productCode": "MGT00628",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/06/20240606081615337.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -5231,7 +5231,7 @@
     "modelName": "BMW M4 CSL Black Sapphire",
     "productCode": "MGT00703",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240907233117580.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -5292,7 +5292,7 @@
     "modelName": "Honda Civic Type R #2 2023 Pace Car White",
     "productCode": "MGT00721",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240907235518255.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -5302,7 +5302,7 @@
     "modelName": "Lamborghini Countach LPI 800-4 Rosso Mars",
     "productCode": "MGT00720",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240907235433087.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -5312,7 +5312,7 @@
     "modelName": "Cadillac V-Series.R #2 Cadillac Racing 2023 Le Mans 24 Hrs 3rd Place",
     "productCode": "MGT00716",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240907233452621.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -5383,7 +5383,7 @@
     "modelName": "Hyundai i20 N Rally1 Hybrid #11 2023 Rally Monte Carlo 3rd Place",
     "productCode": "MGT00710",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240908071914501.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -5887,7 +5887,7 @@
     "modelName": "Nissan Z Performance 2023 SUPER GT Safety Car 2022 SUPER GT SERIES",
     "productCode": "MGT00620",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/05/20250509001029483.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection",
@@ -5939,7 +5939,7 @@
     "modelName": "Ford GT Triple Yellow",
     "productCode": "MGT00613",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/10/20241004004515580.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -5949,7 +5949,7 @@
     "modelName": "Aston Martin Valkyrie Aston Martin Racing Green",
     "productCode": "MGT00600",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240930103045121.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -5959,7 +5959,7 @@
     "modelName": "Nissan LB-Super Silhouette S15 SILVIA #23 2022 Goodwood Festival of Speed",
     "productCode": "MGT00618",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/05/20250509000922832.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -6061,7 +6061,7 @@
     "modelName": "BMW M3 #3 JPS Team BMW 1987 ATCC Championship Winner",
     "productCode": "MGT00608",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2023/11/20231122041746620.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection",
@@ -6136,7 +6136,7 @@
     "modelName": "Bugatti Divo Blu Bugatti",
     "productCode": "MGT00601",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/10/20241003174114877.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -6290,7 +6290,7 @@
     "modelName": "Lamborghini Huracán GT3 EVO #88 “Weibo Primez LAMBORGHINI GT3” JLOC 2022 SUPER GT SERIES",
     "productCode": "MGT00572",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/10/20241010073122196.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection",
@@ -6314,7 +6314,7 @@
     "modelName": "Bugatti Chiron Pur Sport White",
     "productCode": "MGT00569",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2024/10/20241003005854845.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -11795,7 +11795,7 @@
     "modelName": "Figurine: Team Liberty Walk",
     "productCode": "MGTAC27",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2023/09/20230908052525855.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Accessories",
     "marques": [
       "Accessories",
@@ -12245,7 +12245,7 @@
   {
     "modelName": "Honda NSX-GT \"Type S\" GT500 #64 \"Modulo NSX-GT\" Modulo Nakajima Racing 2023 SUPER GT Series",
     "productCode": "MGT00992",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/04/20250409064753278.JPG",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260930202557949.JPG",
     "isReleased": true,
     "marque": "Super GT Series",
     "marques": [
