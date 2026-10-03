@@ -1,14 +1,16 @@
+#!/usr/bin/env python3
 """
-Tarmac Works 1/64 scraper — Shopify storefront.
+Scrape Tarmac Works 1/64 releases from the official store.
 
-Tarmac migrated to Shopify, which exposes a public, auth-free products feed at
-    /products.json?limit=250&page=N
-This is stable and clean (no HTML rendering, no WooCommerce). We pull all
-products, keep the 1/64 ones, and extract the Tarmac product code.
+The site is Shopify, so we use the public products.json endpoint on the
+"tarmac-works" collection rather than rendering pages with Playwright. That is
+faster, far more stable, and needs no browser in CI.
 
-If the endpoint is unreachable, the existing feed is preserved (never wiped).
+Collection: https://www.tarmacworks.com/collections/tarmac-works
+(~312 products total, ~286 of them 1/64)
 
-Outputs: data/tarmac_releases.json
+Output: data/tarmac_releases.json
+Schema: modelName, imageURL, productURL, scale, series, make
 """
 
 import json
@@ -16,143 +18,140 @@ import os
 import re
 import sys
 import time
-from typing import Optional
 
 import requests
 
-SITE      = "https://www.tarmacworks.com"
-OUTPUT    = "data/tarmac_releases.json"
-PER_PAGE  = 250          # Shopify max
-MAX_PAGES = 40
+BASE = "https://www.tarmacworks.com"
+COLLECTION = "tarmac-works"
+OUT_PATH = os.path.join("data", "tarmac_releases.json")
 
 HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/124.0.0.0 Safari/537.36"
-    ),
+    "User-Agent": "Mozilla/5.0 (compatible; DiecastDrawerBot/1.0; "
+                  "+https://github.com/mosherxx/diecastdrawer-site)",
     "Accept": "application/json",
 }
 
+# Tarmac's own product lines, used as the `series` label.
+SERIES_TAGS = ["GLOBAL64", "HOBBY64+", "HOBBY64", "TRUCK64", "ROAD64",
+               "COLLAB64", "PARTS64", "HOBBY43", "HOBBY18"]
 
-def fetch_page(page: int) -> Optional[list]:
-    url = f"{SITE}/products.json"
-    for attempt in range(1, 4):
-        try:
-            r = requests.get(url, headers=HEADERS,
-                             params={"limit": PER_PAGE, "page": page}, timeout=30)
-            if r.status_code == 200:
-                try:
-                    return r.json().get("products", [])
-                except ValueError:
-                    print(f"  non-JSON response (page {page})", flush=True)
-                    return None
-            body = (r.text or "")[:160].replace("\n", " ")
-            print(f"  HTTP {r.status_code} (page {page}, attempt {attempt}): {body}", flush=True)
-        except requests.RequestException as e:
-            print(f"  request error (page {page}, attempt {attempt}): {e}", flush=True)
-        time.sleep(2 * attempt)
-    return None
+KNOWN_MAKES = [
+    "Alfa Romeo", "Audi", "Bentley", "BMW", "Datsun", "Dodge", "Ferrari",
+    "FIAT", "Ford", "Honda", "Hyundai", "Koenigsegg", "Lancia", "Land Rover",
+    "Lexus", "Liberty Walk", "Mazda", "McLaren", "Mercedes-AMG",
+    "Mercedes-Benz", "Mitsubishi", "Nissan", "Opel", "Pagani", "PANDEM",
+    "Porsche", "Renault", "RWB", "Saab", "Subaru", "Toyota", "Veilside",
+    "Vertex", "Volkswagen", "Volvo",
+]
 
 
-def extract_code(text: str) -> str:
-    """Tarmac code like T64-030-CW or T64G-TF078-CS."""
-    m = re.search(r"\bT\d{2}[A-Z]?(?:G)?-[A-Z0-9]+-\d+\b", text or "")
-    return m.group(0) if m else ""
-
-
-def is_164(prod: dict) -> bool:
-    """Keep 1/64 items. Tarmac tags scale in product_type/tags/title."""
-    tags = prod.get("tags", [])
-    if isinstance(tags, list):
-        tags_str = " ".join(tags)
-    else:
-        tags_str = str(tags)
-    hay = " ".join([
-        prod.get("product_type", "") or "",
-        prod.get("title", "") or "",
-        tags_str,
-    ]).lower()
-    return bool(re.search(r"1[\s:/\-]?64", hay))
-
-
-def best_image(prod: dict) -> Optional[str]:
-    imgs = prod.get("images") or []
-    if imgs:
-        return imgs[0].get("src")
-    return None
-
-
-def first_sku(prod: dict) -> str:
-    for v in prod.get("variants", []) or []:
-        if v.get("sku"):
-            return v["sku"]
+def detect_make(title):
+    lowered = title.lower()
+    for make in KNOWN_MAKES:
+        if make.lower() in lowered:
+            return make
     return ""
 
 
-def scrape() -> list[dict]:
+def detect_series(title, tags):
+    haystack = (title + " " + " ".join(tags)).upper()
+    for tag in SERIES_TAGS:          # longest-first ordering matters (HOBBY64+)
+        if tag in haystack:
+            return tag
+    return ""
+
+
+def is_164(title, tags, variants):
+    """Keep only 1/64 scale products."""
+    blob = (title + " " + " ".join(tags)).lower()
+    if "1/64" in blob or "1:64" in blob:
+        return True
+    # Explicitly exclude other scales when they're named.
+    if any(s in blob for s in ("1/18", "1:18", "1/43", "1:43")):
+        return False
+    return False
+
+
+def clean_title(raw):
+    """'1/64 Pagani Utopia Green - Tarmac Works GLOBAL64' -> trimmed name."""
+    name = raw
+    name = re.sub(r"^\s*1\s*[:/]\s*64\s*", "", name)
+    name = re.sub(r"\s*-\s*Tarmac Works.*$", "", name, flags=re.I)
+    name = name.replace("&amp;", "&").strip(" -\u2013\u2014|,")
+    return re.sub(r"\s+", " ", name).strip()
+
+
+def extract_code(product):
+    """Tarmac codes (T64G-063-WH) appear in image filenames."""
+    for img in product.get("images") or []:
+        src = img.get("src") or ""
+        m = re.search(r"/(T\d{2}[A-Z]?-[A-Z0-9\-]+?)_", src)
+        if m:
+            return m.group(1)
+    return ""
+
+
+def fetch_page(page):
+    url = f"{BASE}/collections/{COLLECTION}/products.json?limit=250&page={page}"
+    resp = requests.get(url, headers=HEADERS, timeout=30)
+    resp.raise_for_status()
+    return resp.json().get("products", [])
+
+
+def main():
     releases, seen = [], set()
-    any_data = False
-    for page in range(1, MAX_PAGES + 1):
-        products = fetch_page(page)
-        if products is None:
+
+    for page in range(1, 10):
+        try:
+            products = fetch_page(page)
+        except Exception as exc:
+            print(f"WARN page {page} failed: {exc}", file=sys.stderr)
             break
-        any_data = True
         if not products:
             break
-        kept_before = len(releases)
-        for prod in products:
-            if not is_164(prod):
+
+        kept = 0
+        for p in products:
+            raw_title = (p.get("title") or "").strip()
+            if not raw_title:
                 continue
-            name = (prod.get("title") or "").strip()
-            if not name or name in seen:
+            tags = p.get("tags") or []
+            if not is_164(raw_title, tags, p.get("variants") or []):
                 continue
-            seen.add(name)
-            code = extract_code(name) or extract_code(first_sku(prod))
+
+            name = clean_title(raw_title)
+            if not name or name.lower() in seen:
+                continue
+            seen.add(name.lower())
+
+            images = p.get("images") or []
+            image_url = images[0].get("src") if images else None
+            if image_url and image_url.startswith("//"):
+                image_url = "https:" + image_url
+
+            handle = p.get("handle", "")
             releases.append({
-                "modelName":   name,
-                "imageURL":    best_image(prod),
-                "productURL":  f"{SITE}/products/{prod.get('handle','')}",
-                "productCode": code,
-                "scale":       "1/64",
+                "modelName": name,
+                "imageURL": image_url,
+                "productURL": f"{BASE}/collections/{COLLECTION}/products/{handle}" if handle else None,
+                "scale": "1/64",
+                "series": detect_series(raw_title, tags) or extract_code(p),
+                "make": detect_make(raw_title),
             })
-        print(f"  page {page}: {len(products)} products, "
-              f"{len(releases) - kept_before} were 1/64 ({len(releases)} total)", flush=True)
-        if len(products) < PER_PAGE:
-            break
-        time.sleep(0.4)
+            kept += 1
 
-    if not any_data:
-        print("  products.json unreachable — keeping existing feed.", flush=True)
-        return []
-    print(f"  Scraped {len(releases)} Tarmac Works 1/64 releases.", flush=True)
-    return releases
+        print(f"page {page}: {len(products)} products, {kept} kept (1/64)")
+        time.sleep(1)
 
+    if not releases:
+        print("ERROR no Tarmac releases scraped - leaving feed untouched.", file=sys.stderr)
+        sys.exit(1)
 
-def merge_with_existing(new: list[dict]) -> list[dict]:
-    if not os.path.exists(OUTPUT):
-        return new
-    with open(OUTPUT) as f:
-        existing = json.load(f)
-    existing_map = {r["modelName"]: r for r in existing}
-    for item in new:
-        name = item["modelName"]
-        if name in existing_map:
-            if not item.get("imageURL") and existing_map[name].get("imageURL"):
-                item["imageURL"] = existing_map[name]["imageURL"]
-            if not item.get("productCode") and existing_map[name].get("productCode"):
-                item["productCode"] = existing_map[name]["productCode"]
-        existing_map[name] = item
-    return sorted(existing_map.values(), key=lambda x: x["modelName"])
+    os.makedirs("data", exist_ok=True)
+    with open(OUT_PATH, "w", encoding="utf-8") as fh:
+        json.dump(releases, fh, indent=2, ensure_ascii=False)
+    print(f"OK wrote {len(releases)} Tarmac Works 1/64 releases -> {OUT_PATH}")
 
 
 if __name__ == "__main__":
-    os.makedirs("data", exist_ok=True)
-    scraped = scrape()
-    if not scraped:
-        print("  No new data scraped — leaving existing feed untouched.", flush=True)
-        sys.exit(0)
-    merged = merge_with_existing(scraped)
-    with open(OUTPUT, "w") as f:
-        json.dump(merged, f, indent=2, ensure_ascii=False)
-    print(f"  Saved {len(merged)} items to {OUTPUT}", flush=True)
+    main()
