@@ -116,6 +116,10 @@ def main():
             if not raw_title:
                 continue
             tags = p.get("tags") or []
+            # Keep everything Tarmac lists, including the "OTHER BRANDS" group
+            # (American Diorama, Mijo Exclusives...) — Tarmac distributes those
+            # and collectors track them alongside the in-house lines. Only the
+            # scale filter applies.
             if not is_164(raw_title, tags, p.get("variants") or []):
                 continue
 

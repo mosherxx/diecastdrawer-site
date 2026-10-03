@@ -42,6 +42,8 @@ jobs:
       - name: Scrape BBR
         run: python scripts/scrape_bbr.py
         continue-on-error: true
+      - name: Merge feeds (keep historic entries)
+        run: python scripts/merge_feeds.py
       - name: Check for changes
         id: changes
         run: |
