@@ -2580,6 +2580,16 @@
     "isReleased": true
   },
   {
+    "modelName": "Corvette C7 Z06 (3rd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JPD53",
+    "colNumber": "113",
+    "series": "NightspeedDollar General Exclusive",
+    "category": "Premium",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Custom '66 Toronado",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/9/91/OldsToronado.jpg/revision/latest?cb=20260103100431",
     "toyNumber": "JJH45",
@@ -3680,6 +3690,16 @@
     "isReleased": true
   },
   {
+    "modelName": "'94 Audi Avant RS2 (3rd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JPD54",
+    "colNumber": "175",
+    "series": "WagonsDollar General Exclusive",
+    "category": "Premium",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
     "modelName": "Subaru Impreza WRX",
     "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/2005SubaruImpreza.jpg/revision/latest?cb=20260410125327",
     "toyNumber": "JJK19",
@@ -4036,6 +4056,16 @@
     "colNumber": "199",
     "series": "HW J-Imports",
     "category": "Mainline",
+    "year": 2026,
+    "isReleased": true
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (BNR34) (3rd Color)",
+    "imageURL": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+    "toyNumber": "JPD52",
+    "colNumber": "199",
+    "series": "HW J-ImportsDollar General Exclusive",
+    "category": "Premium",
     "year": 2026,
     "isReleased": true
   },
