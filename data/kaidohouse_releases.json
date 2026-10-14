@@ -1,5 +1,45 @@
 [
   {
+    "modelName": "Honda NSX Kaido House Nostalgic Classics",
+    "productCode": "KHMG322",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013172821094.JPEG",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Datsun KAIDO 510 Wagon Police",
+    "productCode": "KHMG321",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013172710770.JPEG",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Chevrolet Silverado Dually Kaido Racing Team V1",
+    "productCode": "KHMG320",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013172532801.JPEG",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Subaru Impreza WRX STI KAIDO WORKS V1",
+    "productCode": "KHMG318",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013172427882.JPEG",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
     "modelName": "Chevrolet Camaro Kaido Racing Team V1",
     "productCode": "KHMG319",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260907030533274.JPEG",

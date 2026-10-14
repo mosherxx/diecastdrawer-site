@@ -1,5 +1,75 @@
 [
   {
+    "modelName": "Mercedes-AMG EQS 53 Blue",
+    "productCode": "MGT01418",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013174929373.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Toyota 2000GT Pegasus White",
+    "productCode": "MGT01417",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013174602011.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Lamborghini Countach LB-WORKS Army Green",
+    "productCode": "MGT01416",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013174341541.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "BMW Z3 Titanium Silver",
+    "productCode": "MGT01415",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013174147385.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Ducati Panigale V4 S Giallo w/ figure",
+    "productCode": "MGT01414",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013173942203.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Porsche 911 GT3 RS STAPLE x INOZETEK",
+    "productCode": "MGT01353",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013173611777.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "LB-Silhouette WORKS GT NISSAN 35GT-RR Ver.2 INOZETEK Edition",
+    "productCode": "MGT01352",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013173113647.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
     "modelName": "Aston Martin AMR24 #18 Lance Stroll 2024 F1 2024 Las Vegas GP",
     "productCode": "MGT01413",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260929060118829.jpg",
