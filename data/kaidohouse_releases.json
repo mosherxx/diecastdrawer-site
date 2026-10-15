@@ -193,7 +193,7 @@
     "modelName": "Chevrolet Silverado Dually Kaido Splash V1",
     "productCode": "KHMG285",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/05/20260524002542490.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Kaido House",
     "marques": [
       "Kaido House"
@@ -203,7 +203,7 @@
     "modelName": "Nissan Silvia S13-R Kaido Splash V1",
     "productCode": "KHMG284",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/05/20260524001953199.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Kaido House",
     "marques": [
       "Kaido House"
@@ -293,7 +293,7 @@
     "modelName": "Volkswagen T1 GReddy Pickup V1",
     "productCode": "KHMG261",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/01/20260111223908154.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Kaido House",
     "marques": [
       "Kaido House"
@@ -453,7 +453,7 @@
     "modelName": "Nissan Skyline GT-R (R34) Kaido Works V4",
     "productCode": "KHMG241",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/11/20251122072808268.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Kaido House",
     "marques": [
       "Kaido House"
@@ -473,7 +473,7 @@
     "modelName": "Honda NSX TAMIYA x KAIDO HOUSE \"AVANTE\" V1",
     "productCode": "KHMG238",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/11/20251102205915730.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Kaido House",
     "marques": [
       "Kaido House"

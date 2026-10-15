@@ -219,7 +219,7 @@
     "modelName": "Aston Martin DB5 Fiesta Red",
     "productCode": "MGT01305",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260929205723638.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -271,7 +271,7 @@
     "modelName": "BMW 750IL Black Sapphire",
     "productCode": "MGT01242",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260929204957382.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -403,7 +403,7 @@
     "modelName": "Mercedes-AMG G 63 Dark Blue Metallic",
     "productCode": "MGT01210",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260903042900278.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -875,7 +875,7 @@
     "modelName": "McLaren F1 GTR 1995 Presentation",
     "productCode": "MGT01318",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260616181346270.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1292,7 +1292,7 @@
     "modelName": "MAZDA RX-7 LB-Super Silhouette Police",
     "productCode": "MGT01231",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260929204233152.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1302,7 +1302,7 @@
     "modelName": "Shelby GT500 Dragon Snake Concept Chrome Silver",
     "productCode": "MGT01230",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260929203941990.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1312,7 +1312,7 @@
     "modelName": "Bugatti Bolide Yellow",
     "productCode": "MGT01229",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/04/20260414174139491.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1726,7 +1726,7 @@
     "modelName": "Ford Puma Rally1 #55 M-Sport Ford WRT 2025 Rally Monte-Carlo",
     "productCode": "MGT01176",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/12/20251214234319888.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -2127,7 +2127,7 @@
     "modelName": "McLaren MCL38 #81 Oscar Piastri 2024 F1 2024 Hungarian GP Winner",
     "productCode": "MGT01146",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/11/20251102051615984.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -2137,7 +2137,7 @@
     "modelName": "McLaren MCL38 #4 Lando Norris 2024 F1 2024 Hungarian GP 2nd Place",
     "productCode": "MGT01145",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/11/20251102041450375.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -2319,7 +2319,7 @@
     "modelName": "McLaren MP4/6 #1 Ayrton Senna 1991 Japanese Grand Prix 2nd Place",
     "productCode": "MGT01120",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/08/20250828204207651.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -2370,7 +2370,7 @@
     "modelName": "Mercedes-Benz 190E 2.5-16 Evolution II #37 1995 SE Asia Touring Car Championship",
     "productCode": "MGT01125",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2025/08/20250826060619677.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -11609,7 +11609,7 @@
     "modelName": "Porsche 911 (992.1) Rubystone Red Set",
     "productCode": "MGTS0021",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/02/20260211211206362.jpg",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "MINI GT Set",
     "marques": [
       "Full Collection",
@@ -11732,7 +11732,7 @@
     ]
   },
   {
-    "modelName": "Sikorsky S58T Helicopter 1985 Camel Trophy",
+    "modelName": "Camel Trophy S58T Helicopter",
     "productCode": "MGTAC38",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/06/20260601000618411.JPG",
     "isReleased": false,
@@ -12073,7 +12073,7 @@
     ]
   },
   {
-    "modelName": "Lamborghini Revuelto Arancio Dec lucido",
+    "modelName": "Lamborghini Revuelto Arancio Dac lucido",
     "productCode": "QZ01302",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260901171800976.jpg",
     "isReleased": false,
