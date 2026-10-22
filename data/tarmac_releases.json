@@ -1088,6 +1088,14 @@
     "make": "Porsche"
   },
   {
+    "modelName": "VERTEX Silvia (S 14) - Hello Kitty Pink Chrome China Special Edition",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-018-HK2_M02_1b158186-ccb6-4230-9631-e25233168982.jpg?v=1764837777",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-vertex-silvia-s-14-hello-kitty-pink-chrome-china-special-edition-global64",
+    "scale": "1/64",
+    "series": "GLOBAL64",
+    "make": "Vertex"
+  },
+  {
     "modelName": "Mazda RX-7 VeilSide Fortune7 Grey Metallic / Black",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-075-GY_M03.jpg?v=1764836266",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-mazda-rx-7-veilside-fortune7-grey-metallic-black-global64",
@@ -1126,6 +1134,14 @@
     "scale": "1/64",
     "series": "HOBBY64",
     "make": "Toyota"
+  },
+  {
+    "modelName": "Audi R8 LMS GT3 evo II Tarmac Works 10th Anniversary",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-043-10TH_M02_ef006921-283f-4b85-a90b-6bc9fd8aad5b.jpg?v=1764833784",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-audi-r8-lms-gt3-evo-ii-tarmac-works-10th-anniversary-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Audi"
   },
   {
     "modelName": "Honda Civic EG6 Tarmac Works 10th Anniversary",
@@ -1422,6 +1438,14 @@
     "scale": "1/64",
     "series": "HOBBY64",
     "make": "Ferrari"
+  },
+  {
+    "modelName": "Porsche 911 GT3 R DTM Champion 2023 #91",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-084-23DTM91_M01.jpg?v=1752409811",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-porsche-911-gt3-r-dtm-champion-2023-91-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Porsche"
   },
   {
     "modelName": "Ferrari 348 Challenge Yellow",
@@ -1768,6 +1792,14 @@
     "make": "Mercedes-Benz"
   },
   {
+    "modelName": "Ford Sierra RS Cosworth Rally of New Zealand 1989 #16",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-058-89NZR16_M02.jpg?v=1734338307",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-ford-sierra-rs-cosworth-rally-of-new-zealand-1989-saeed-al-hajri-steve-bond-16-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Ford"
+  },
+  {
     "modelName": "Renault 5 MAXI Turbo European Hill-Climb Championship 1987 Giovanni Rossi #35",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-TL061-87EHC35_M02.jpg?v=1734338169",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-renault-5-maxi-turbo-european-hill-climb-championship-1987-giovanni-rossi-35-hobby64",
@@ -1806,6 +1838,14 @@
     "scale": "1/64",
     "series": "HOBBY64",
     "make": "Toyota"
+  },
+  {
+    "modelName": "RWB Backdate Violetta idlers 12 hours 2016",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-046-VI_M01.jpg?v=1732249061",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-rwb-backdate-violetta-idlers-12-hours-2016-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "RWB"
   },
   {
     "modelName": "Volvo 240 Turbo ETCC Zolder 1984 Winner Ulf Granberg / Robert L. Kvist #22",
@@ -1873,7 +1913,7 @@
   },
   {
     "modelName": "Toyota Supra Turbo (MA70) BTCC 1988 Chris Hodgetts #1",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-064-88BTC01_M02.jpg?v=1728806203",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-064-88BTC01_M02.jpg?v=1792604052",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/toyota-supra-turbo-ma70-btcc-1988-chris-hodgetts-1-hobby64",
     "scale": "1/64",
     "series": "HOBBY64",
@@ -1894,6 +1934,14 @@
     "scale": "1/64",
     "series": "GLOBAL64",
     "make": "Mercedes-Benz"
+  },
+  {
+    "modelName": "Pandem Mazda RX-7 FC3S White / purple",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-066-WP_M03.jpg?v=1792604236",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-pandem-mazda-rx-7-fc3s-white-purple-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Mazda"
   },
   {
     "modelName": "Mitsubishi Lancer GSR Evolution II Silver - TWOC Members Only Model Special Edition",
@@ -1926,6 +1974,14 @@
     "scale": "1/64",
     "series": "ROAD64",
     "make": "Mercedes-AMG"
+  },
+  {
+    "modelName": "Toyota Supra Turbo (MA70) ETCC 1987 #15",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-064-87ETC15_M01.jpg?v=1792603972",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-toyota-supra-turbo-ma70-etcc-1987-15-road64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Toyota"
   },
   {
     "modelName": "Old & New 997 Gray Metallic",
@@ -2032,6 +2088,14 @@
     "make": "Toyota"
   },
   {
+    "modelName": "J Collection 1/64 Toyota Sprinter Trueno (AE86) Red/Black",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/JC64-001-RD_a2.jpg?v=1709718494",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/j-collection-toyota-sprinter-trueno-ae86-red-black",
+    "scale": "1/64",
+    "series": "",
+    "make": "Toyota"
+  },
+  {
     "modelName": "Renault 5 Turbo Monte Carlo Rally 1981 #9 Winner",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-TL060-81MCR09_M01.jpg?v=1787738989",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works1-64-renault-5-turbo-monte-carlo-rally-1981-9-winner-hobby64",
@@ -2062,6 +2126,14 @@
     "scale": "1/64",
     "series": "",
     "make": "BMW"
+  },
+  {
+    "modelName": "Toyota Supra Turbo (MA70) Macau Guia Race 1989 #3 - Macau GP 2023 Special Edition",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-064-89MGP03_a1.jpg?v=1703230110",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-toyota-supra-turbo-ma70-macau-guia-race-1989-3-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Toyota"
   },
   {
     "modelName": "Nissan Skyline 2000 GT-R (KPGC10) Silver",
@@ -2128,12 +2200,36 @@
     "make": ""
   },
   {
+    "modelName": "Land Rover Defender 90 Silver Metallic",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-019-SL_M01.jpg?v=1792605288",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-land-rover-defender-90-silver-metallic-global64",
+    "scale": "1/64",
+    "series": "GLOBAL64",
+    "make": "Land Rover"
+  },
+  {
     "modelName": "Lancia Delta HF Integrale Martini 6",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64R-TL049-MR6_a1.jpg?v=1689666935",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-lancia-delta-hf-integrale-martini-6-road64",
     "scale": "1/64",
     "series": "ROAD64",
     "make": "Lancia"
+  },
+  {
+    "modelName": "Figures Set - Girls Night Out - American Diorama x Tarmac Works COLLAB64",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64F-008-PU_a1.jpg?v=1689665366",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/american-diorama-x-tarmac-works-1-64-figures-set-girls-night-out-collab64",
+    "scale": "1/64",
+    "series": "COLLAB64",
+    "make": ""
+  },
+  {
+    "modelName": "Toyota Hilux One Piece Thousand Sunny with Oil Can",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-041-OP22_d1.jpg?v=1687235292",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-toyota-hilux-thousand-sunny-with-oil-can-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Toyota"
   },
   {
     "modelName": "Volkswagen Caddy - Moon Equipped",
