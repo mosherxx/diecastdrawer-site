@@ -1,5 +1,13 @@
 [
   {
+    "modelName": "EVA RT PRODUCTION MODEL-02 S15",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-023-EVA02_M01.jpg?v=1793571780",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-eva-rt-production-model-02-s15-tarmac-works-global64",
+    "scale": "1/64",
+    "series": "GLOBAL64",
+    "make": ""
+  },
+  {
     "modelName": "VERTEX Toyota Aristo JZS161 Black - TOC Members Only Model",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-081-BK_M03.jpg?v=1791756693",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-vertex-toyota-aristo-jzs161-black-toc-members-only-model-global64",
@@ -11,14 +19,6 @@
     "modelName": "VERTEX Toyota Soarer JZZ30 Silver Special Edition",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-080-SL_a1.jpg?v=1791756944",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-aston-martin-dbs-superleggera-brown-metallic-tarmac-works-x-ixo-models-global64-1",
-    "scale": "1/64",
-    "series": "GLOBAL64",
-    "make": "Toyota"
-  },
-  {
-    "modelName": "VERTEX Toyota Soarer JZZ30 Silver Special Edition (Blister)",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-080-SL-B_g.jpg?v=1791757030",
-    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-vertex-toyota-soarer-jzz30-silver-special-edition-blister-tarmac-works-global64",
     "scale": "1/64",
     "series": "GLOBAL64",
     "make": "Toyota"
@@ -2574,6 +2574,14 @@
     "scale": "1/64",
     "series": "",
     "make": "Honda"
+  },
+  {
+    "modelName": "VERTEX Toyota Soarer JZZ30 Silver Special Edition (Blister)",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-080-SL-B_g.jpg?v=1791757030",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-vertex-toyota-soarer-jzz30-silver-special-edition-blister-tarmac-works-global64",
+    "scale": "1/64",
+    "series": "GLOBAL64",
+    "make": "Toyota"
   },
   {
     "modelName": "1/64 6-Car Display Case - Tarmac Works",
