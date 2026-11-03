@@ -1,11 +1,83 @@
 [
   {
+    "modelName": "Koenigsegg Agera RS Dark Blue Carbon Fiber / Orange Accents",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-TL005-DBCF_M03.jpg?v=1793573272",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-koenigsegg-agera-rs-dark-blue-carbon-fiber-orange-accents-tarmac-works-global64",
+    "scale": "1/64",
+    "series": "GLOBAL64",
+    "make": "Koenigsegg"
+  },
+  {
+    "modelName": "Toyota GR Corolla Widebody Beige - Designed by Jon Sibal",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-063-BE_M02.jpg?v=1793573123",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-toyota-gr-corolla-widebody-beige-designed-by-jon-sibal-tarmac-works-global64",
+    "scale": "1/64",
+    "series": "GLOBAL64",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "HKS Toyota GR86 Black",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-038-BK2_M01.jpg?v=1793714461",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-hks-toyota-gr86-black-tarmac-works-global64",
+    "scale": "1/64",
+    "series": "GLOBAL64",
+    "make": "Toyota"
+  },
+  {
     "modelName": "EVA RT PRODUCTION MODEL-02 S15",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-023-EVA02_M01.jpg?v=1793571780",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-eva-rt-production-model-02-s15-tarmac-works-global64",
     "scale": "1/64",
     "series": "GLOBAL64",
     "make": ""
+  },
+  {
+    "modelName": "Aston Martin DBS Superleggera Green Metallic",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-004-GR_M03.jpg?v=1793714658",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-aston-martin-dbs-superleggera-green-metallic-tarmac-works-x-ixo-models-global64",
+    "scale": "1/64",
+    "series": "GLOBAL64",
+    "make": ""
+  },
+  {
+    "modelName": "LB-KAIDO WORKS Nissan R32 Skyline Hobby Expo China 2026 CLDC Special Edition",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-097-26HEC_M01_1_b464e880-4426-4959-aa85-10f28119c83a.jpg?v=1793562516",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-lb-kaido-works-nissan-r32-skyline-hobby-expo-china-2026-cldc-special-edition-tarmac-works-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Nissan"
+  },
+  {
+    "modelName": "Toyota Hiace Widebody Monsters University with Tarmac Cards",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-038-MI_M02_1.jpg?v=1793562019",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-toyota-hiace-widebody-monsters-university-with-tarmac-cards-tarmac-works-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Mercedes-AMG GT4 Greater Bay Area GT Cup (GT 4) Macau 2025 #12 Mooneyes",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-006-25MGP12_M03.jpg?v=1793560401",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-mercedes-amg-gt4-greater-bay-area-gt-cup-gt-4-macau-2025-12-mooneyes-tarmac-works-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Mercedes-AMG"
+  },
+  {
+    "modelName": "Honda Civic TYPE R FK8 NASA Western Endurance Racing Championship 2021 #72 Student Driver (by Daniel Wu)",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-TL014-SD72_M01a_1_8a79184d-fbdb-4666-82d1-fa1641807a30.jpg?v=1793560008",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-honda-civic-type-r-fk8-nasa-western-endurance-racing-championship-2021-72-student-driver-by-daniel-wu-tarmac-works-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Honda"
+  },
+  {
+    "modelName": "Porsche 911 GT3 R Nürburgring 24h 2024 #33",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-084-24NUR33_M01.jpg?v=1793559233",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-porsche-911-gt3-r-nurburgring-24h-2024-33-tarmac-works-x-ixo-models-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Porsche"
   },
   {
     "modelName": "VERTEX Toyota Aristo JZS161 Black - TOC Members Only Model",
