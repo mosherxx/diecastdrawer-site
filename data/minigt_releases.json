@@ -1,5 +1,16 @@
 [
   {
+    "modelName": "Porsche 911 GT3 Cup #288 610 Racing 2024 China Endurance Championship",
+    "productCode": "MGT01429",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261103221106608.jpg",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "Regional Exclusive"
+    ]
+  },
+  {
     "modelName": "Land Rover Defender 110 Royal HK Police Tai Po District HK Exclusive",
     "productCode": "MGT01313",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261019165351331.JPG",
@@ -8,6 +19,28 @@
     "marques": [
       "Full Collection",
       "Regional Exclusive"
+    ]
+  },
+  {
+    "modelName": "Tuk-Tuk \"Octopussy\"",
+    "productCode": "MGT00929",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013180504892.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "007 Movie Car",
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "AMC Hornet X Hatchback “The Man with the Golden Gun”",
+    "productCode": "MGT00921",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013180011290.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "007 Movie Car",
+      "Full Collection"
     ]
   },
   {
@@ -12059,6 +12092,72 @@
     "marques": [
       "Accessories",
       "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (BNR32 Gr. A SPEC) 1991 Bathurst 1000 Winner",
+    "productCode": "QZ01401",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261103224339324.jpg",
+    "isReleased": false,
+    "marque": "QubeCarz",
+    "marques": [
+      "Full Collection",
+      "QubeCarz"
+    ]
+  },
+  {
+    "modelName": "Porsche 911 Carrera RS 2.7 White/Blue",
+    "productCode": "QZ00701",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261103223629932.jpg",
+    "isReleased": false,
+    "marque": "QubeCarz",
+    "marques": [
+      "Full Collection",
+      "QubeCarz"
+    ]
+  },
+  {
+    "modelName": "Lamborghini Countach 500S Black",
+    "productCode": "QZ01202",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261103224035785.jpg",
+    "isReleased": false,
+    "marque": "QubeCarz",
+    "marques": [
+      "Full Collection",
+      "QubeCarz"
+    ]
+  },
+  {
+    "modelName": "Nissan GT-R (R35) LB★WORKS Type 1, Rear Wing ver 2 Velocity Blue",
+    "productCode": "QZ00303",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261103223319715.jpg",
+    "isReleased": false,
+    "marque": "QubeCarz",
+    "marques": [
+      "Full Collection",
+      "QubeCarz"
+    ]
+  },
+  {
+    "modelName": "Toyota TRD 3000GT Silver",
+    "productCode": "QZ00603",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261103223538759.jpg",
+    "isReleased": false,
+    "marque": "QubeCarz",
+    "marques": [
+      "Full Collection",
+      "QubeCarz"
+    ]
+  },
+  {
+    "modelName": "Porsche 911 GT3 RS Acid Green",
+    "productCode": "QZ01101",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261103223853360.jpg",
+    "isReleased": false,
+    "marque": "QubeCarz",
+    "marques": [
+      "Full Collection",
+      "QubeCarz"
     ]
   },
   {
