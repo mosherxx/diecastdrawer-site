@@ -1,5 +1,76 @@
 [
   {
+    "modelName": "Porsche 911 GT3 R (992) #9 Bingo Racing with LM Corsa 2026 Japan Cup Sugo Race 2 Winner",
+    "productCode": "MGT01435",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261104175138616.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "LB★WORKS Lamborghini Huracán GT Ruby Purple",
+    "productCode": "MGT01424",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261104174826159.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Honda Prelude Moonlit White Pearl",
+    "productCode": "MGT01422",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261104174343699.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Mazda MX-5 (NA) Pandem Classic Red",
+    "productCode": "MGT01421",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261104174052189.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Chevrolet Corvette ZR1 Torch Red",
+    "productCode": "MGT01420",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261104173718594.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Aston Martin Valkyrie Escaping White",
+    "productCode": "MGT01419",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261104173502346.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Porsche 911 GT3 R (992) #77 AO Racing \"Skeleton Rexy\" 2026 IMSA Petit Le Mans",
+    "productCode": "MGT01436",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261104173011389.jpg",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "IMSA"
+    ]
+  },
+  {
     "modelName": "Porsche 911 GT3 Cup #288 610 Racing 2024 China Endurance Championship",
     "productCode": "MGT01429",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261103221106608.jpg",
@@ -11612,6 +11683,28 @@
       "Full Collection",
       "Limited Edition",
       "Regional Exclusive"
+    ]
+  },
+  {
+    "modelName": "INOZETEK x TBC Set 2026 Show Edition",
+    "productCode": "MGTS0028",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261104180432387.JPG",
+    "isReleased": false,
+    "marque": "MINI GT Set",
+    "marques": [
+      "Full Collection",
+      "MINI GT Set"
+    ]
+  },
+  {
+    "modelName": "INOZETEK x Liberty Walk R32 Set 2026 Show Edition",
+    "productCode": "MGTS0027",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261104175652521.JPG",
+    "isReleased": false,
+    "marque": "MINI GT Set",
+    "marques": [
+      "Full Collection",
+      "MINI GT Set"
     ]
   },
   {
