@@ -1,5 +1,56 @@
 [
   {
+    "modelName": "BMW M5 (G90) Borusan Turkish Blue",
+    "productCode": "MGT01442",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261110185701535.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Lamborghini Huracan GT3 EVO2 #78 Forte Racing 2025 IMSA Daytona 24 Hrs",
+    "productCode": "MGT01441",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261110185427476.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection",
+      "IMSA"
+    ]
+  },
+  {
+    "modelName": "Jaguar C-X75 Satin Grey",
+    "productCode": "MGT01440",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261110185244108.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Aston Martin Valkyrie Cobalt Blue",
+    "productCode": "MGT01439",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261110185031484.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "No. 24 NASCAR Next Gen Garage 56 Chevrolet Camaro ZL1 Prepared by Hendrick Motorsports 2023 24 Hours of Le Mans",
+    "productCode": "MGT01188",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261110184515061.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
     "modelName": "Porsche 911 GT3 R (992) #9 Bingo Racing with LM Corsa 2026 Japan Cup Sugo Race 2 Winner",
     "productCode": "MGT01435",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261104175138616.JPG",
@@ -90,28 +141,6 @@
     "marques": [
       "Full Collection",
       "Regional Exclusive"
-    ]
-  },
-  {
-    "modelName": "Tuk-Tuk \"Octopussy\"",
-    "productCode": "MGT00929",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013180504892.JPG",
-    "isReleased": false,
-    "marque": "Full Collection",
-    "marques": [
-      "007 Movie Car",
-      "Full Collection"
-    ]
-  },
-  {
-    "modelName": "AMC Hornet X Hatchback “The Man with the Golden Gun”",
-    "productCode": "MGT00921",
-    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013180011290.JPG",
-    "isReleased": false,
-    "marque": "Full Collection",
-    "marques": [
-      "007 Movie Car",
-      "Full Collection"
     ]
   },
   {

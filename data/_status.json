@@ -1,0 +1,77 @@
+{
+  "lastCheck": "2026-11-12T12:11:06.004532+00:00",
+  "feeds": {
+    "hotwheels": {
+      "count": 4255,
+      "ok": true,
+      "note": "ok",
+      "changedThisRun": false,
+      "lastChanged": null,
+      "firstSeen": "2026-11-12T12:11:06.036551+00:00",
+      "lastCheck": "2026-11-12T12:11:06.036578+00:00"
+    },
+    "matchbox": {
+      "count": 986,
+      "ok": true,
+      "note": "ok",
+      "changedThisRun": false,
+      "lastChanged": null,
+      "firstSeen": "2026-11-12T12:11:06.042446+00:00",
+      "lastCheck": "2026-11-12T12:11:06.042458+00:00"
+    },
+    "minigt": {
+      "count": 1213,
+      "ok": true,
+      "note": "ok",
+      "changedThisRun": true,
+      "lastChanged": "2026-11-12T12:11:06.051216+00:00",
+      "firstSeen": "2026-11-12T12:11:06.051207+00:00",
+      "lastCheck": "2026-11-12T12:11:06.051217+00:00"
+    },
+    "kaidohouse": {
+      "count": 139,
+      "ok": true,
+      "note": "ok",
+      "changedThisRun": false,
+      "lastChanged": null,
+      "firstSeen": "2026-11-12T12:11:06.054408+00:00",
+      "lastCheck": "2026-11-12T12:11:06.054417+00:00"
+    },
+    "poprace": {
+      "count": 639,
+      "ok": true,
+      "note": "ok",
+      "changedThisRun": false,
+      "lastChanged": null,
+      "firstSeen": "2026-11-12T12:11:06.059143+00:00",
+      "lastCheck": "2026-11-12T12:11:06.059154+00:00"
+    },
+    "tarmac": {
+      "count": 379,
+      "ok": true,
+      "note": "ok",
+      "changedThisRun": false,
+      "lastChanged": null,
+      "firstSeen": "2026-11-12T12:11:06.063139+00:00",
+      "lastCheck": "2026-11-12T12:11:06.063147+00:00"
+    },
+    "cmmodel": {
+      "count": 114,
+      "ok": true,
+      "note": "ok",
+      "changedThisRun": false,
+      "lastChanged": null,
+      "firstSeen": "2026-11-12T12:11:06.066223+00:00",
+      "lastCheck": "2026-11-12T12:11:06.066229+00:00"
+    },
+    "bbr": {
+      "count": 66,
+      "ok": true,
+      "note": "ok",
+      "changedThisRun": false,
+      "lastChanged": null,
+      "firstSeen": "2026-11-12T12:11:06.069103+00:00",
+      "lastCheck": "2026-11-12T12:11:06.069110+00:00"
+    }
+  }
+}
