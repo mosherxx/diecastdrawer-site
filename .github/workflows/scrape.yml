@@ -1,26 +1,37 @@
 name: Scrape Diecast Releases
 on:
   schedule:
-    # Runs every day at 07:00 UTC or 8AM CET — adjust as needed
+    # 07:00 UTC daily (08:00 CET winter / 09:00 CEST summer)
     - cron: '0 7 * * *'
   workflow_dispatch:
-    # Also allows manual trigger from GitHub Actions tab
+
 jobs:
   scrape:
-    runs-on: ubuntu-latest
+    # Pinned: ubuntu-latest moved to 26.04 and its apt mirrors broke the
+    # Playwright browser install. Bump deliberately, not by surprise.
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Install dependencies
-        run: |
-          pip install playwright requests beautifulsoup4
-          playwright install chromium --with-deps
+
+      - name: Install Python dependencies
+        run: pip install playwright requests beautifulsoup4
+
+      # Only needed by scrapers that render pages in a browser. Non-fatal and
+      # without --with-deps (the runner already has Chromium's libraries; the
+      # optional fonts were what made apt fail). If it breaks, only the
+      # browser-based scraper fails — every other brand still updates.
+      - name: Install Playwright browser
+        run: playwright install chromium
+        continue-on-error: true
+
       - name: Scrape Pop Race
         run: python scripts/scrape_poprace.py
         continue-on-error: true
@@ -42,15 +53,24 @@ jobs:
       - name: Scrape BBR
         run: python scripts/scrape_bbr.py
         continue-on-error: true
+
+      # Keep historic entries when a source drops older stock.
+      # No continue-on-error: never commit an unmerged feed.
       - name: Merge feeds (keep historic entries)
         run: python scripts/merge_feeds.py
+
+      # Fails the run (and emails you) on a missing feed or a count collapse.
+      # Runs BEFORE commit on purpose: a broken scrape leaves yesterday's good
+      # data in place instead of committing the damage.
+      - name: Check feed health
+        run: python scripts/check_feeds.py
+
       - name: Check for changes
         id: changes
         run: |
-          # --quiet only sees tracked-file edits; new JSON feeds are untracked,
-          # so stage first, then check the staged diff (catches new + modified).
           git add data/
           git diff --cached --quiet || echo "changed=true" >> $GITHUB_OUTPUT
+
       - name: Commit and push if changed
         if: steps.changes.outputs.changed == 'true'
         run: |
