@@ -1,14 +1,14 @@
 {
-  "lastCheck": "2026-11-13T15:10:58.275798+00:00",
+  "lastCheck": "2026-11-14T14:01:20.088866+00:00",
   "feeds": {
     "hotwheels": {
-      "count": 4255,
+      "count": 4256,
       "ok": true,
       "note": "ok",
       "changedThisRun": true,
-      "lastChanged": "2026-11-13T15:10:58.320571+00:00",
+      "lastChanged": "2026-11-14T14:01:20.115929+00:00",
       "firstSeen": "2026-11-12T12:11:06.036551+00:00",
-      "lastCheck": "2026-11-13T15:10:58.320574+00:00"
+      "lastCheck": "2026-11-14T14:01:20.115931+00:00"
     },
     "matchbox": {
       "count": 986,
@@ -17,7 +17,7 @@
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.042446+00:00",
-      "lastCheck": "2026-11-13T15:10:58.338446+00:00"
+      "lastCheck": "2026-11-14T14:01:20.126865+00:00"
     },
     "minigt": {
       "count": 1213,
@@ -26,7 +26,7 @@
       "changedThisRun": false,
       "lastChanged": "2026-11-12T12:11:06.051216+00:00",
       "firstSeen": "2026-11-12T12:11:06.051207+00:00",
-      "lastCheck": "2026-11-13T15:10:58.347736+00:00"
+      "lastCheck": "2026-11-14T14:01:20.132486+00:00"
     },
     "kaidohouse": {
       "count": 139,
@@ -35,7 +35,7 @@
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.054408+00:00",
-      "lastCheck": "2026-11-13T15:10:58.351997+00:00"
+      "lastCheck": "2026-11-14T14:01:20.135399+00:00"
     },
     "poprace": {
       "count": 639,
@@ -44,7 +44,7 @@
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.059143+00:00",
-      "lastCheck": "2026-11-13T15:10:58.359231+00:00"
+      "lastCheck": "2026-11-14T14:01:20.140002+00:00"
     },
     "tarmac": {
       "count": 379,
@@ -53,16 +53,16 @@
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.063139+00:00",
-      "lastCheck": "2026-11-13T15:10:58.365080+00:00"
+      "lastCheck": "2026-11-14T14:01:20.143907+00:00"
     },
     "cmmodel": {
-      "count": 114,
+      "count": 120,
       "ok": true,
       "note": "ok",
-      "changedThisRun": false,
-      "lastChanged": null,
+      "changedThisRun": true,
+      "lastChanged": "2026-11-14T14:01:20.147287+00:00",
       "firstSeen": "2026-11-12T12:11:06.066223+00:00",
-      "lastCheck": "2026-11-13T15:10:58.369431+00:00"
+      "lastCheck": "2026-11-14T14:01:20.147288+00:00"
     },
     "bbr": {
       "count": 66,
@@ -71,7 +71,7 @@
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.069103+00:00",
-      "lastCheck": "2026-11-13T15:10:58.373340+00:00"
+      "lastCheck": "2026-11-14T14:01:20.150047+00:00"
     }
   }
 }
