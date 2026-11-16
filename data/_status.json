@@ -1,14 +1,14 @@
 {
-  "lastCheck": "2026-11-15T14:35:47.391077+00:00",
+  "lastCheck": "2026-11-16T16:49:20.266330+00:00",
   "feeds": {
     "hotwheels": {
       "count": 4256,
       "ok": true,
       "note": "ok",
-      "changedThisRun": true,
+      "changedThisRun": false,
       "lastChanged": "2026-11-15T14:35:47.427559+00:00",
       "firstSeen": "2026-11-12T12:11:06.036551+00:00",
-      "lastCheck": "2026-11-15T14:35:47.427561+00:00"
+      "lastCheck": "2026-11-16T16:49:20.344655+00:00"
     },
     "matchbox": {
       "count": 986,
@@ -17,7 +17,7 @@
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.042446+00:00",
-      "lastCheck": "2026-11-15T14:35:47.442428+00:00"
+      "lastCheck": "2026-11-16T16:49:20.351787+00:00"
     },
     "minigt": {
       "count": 1213,
@@ -26,7 +26,7 @@
       "changedThisRun": false,
       "lastChanged": "2026-11-12T12:11:06.051216+00:00",
       "firstSeen": "2026-11-12T12:11:06.051207+00:00",
-      "lastCheck": "2026-11-15T14:35:47.449912+00:00"
+      "lastCheck": "2026-11-16T16:49:20.359974+00:00"
     },
     "kaidohouse": {
       "count": 139,
@@ -35,7 +35,7 @@
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.054408+00:00",
-      "lastCheck": "2026-11-15T14:35:47.453291+00:00"
+      "lastCheck": "2026-11-16T16:49:20.363964+00:00"
     },
     "poprace": {
       "count": 639,
@@ -44,7 +44,7 @@
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.059143+00:00",
-      "lastCheck": "2026-11-15T14:35:47.459146+00:00"
+      "lastCheck": "2026-11-16T16:49:20.370560+00:00"
     },
     "tarmac": {
       "count": 379,
@@ -53,7 +53,7 @@
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.063139+00:00",
-      "lastCheck": "2026-11-15T14:35:47.464030+00:00"
+      "lastCheck": "2026-11-16T16:49:20.375960+00:00"
     },
     "cmmodel": {
       "count": 120,
@@ -62,7 +62,7 @@
       "changedThisRun": false,
       "lastChanged": "2026-11-14T14:01:20.147287+00:00",
       "firstSeen": "2026-11-12T12:11:06.066223+00:00",
-      "lastCheck": "2026-11-15T14:35:47.467634+00:00"
+      "lastCheck": "2026-11-16T16:49:20.379997+00:00"
     },
     "bbr": {
       "count": 66,
@@ -71,7 +71,7 @@
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.069103+00:00",
-      "lastCheck": "2026-11-15T14:35:47.471068+00:00"
+      "lastCheck": "2026-11-16T16:49:20.383632+00:00"
     }
   }
 }
