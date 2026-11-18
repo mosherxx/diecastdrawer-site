@@ -1,5 +1,45 @@
 [
   {
+    "modelName": "CHEVROLET CAMARO KAIDO KATSU",
+    "productCode": "KHMG328",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261117174927875.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "KAIDO STAR FLAMES V1",
+    "productCode": "KHMG327",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261117174447496.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Lancia Delta HF Integrale Kaido Works® Launch V1",
+    "productCode": "KHMG325",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261117174013294.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (R32) KAIDO WORKS ADVAN",
+    "productCode": "KHMG314",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261117173323574.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
     "modelName": "Honda NSX Kaido House Nostalgic Classics",
     "productCode": "KHMG322",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013172821094.JPEG",

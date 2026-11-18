@@ -144,6 +144,28 @@
     ]
   },
   {
+    "modelName": "Tuk-Tuk \"Octopussy\"",
+    "productCode": "MGT00929",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261117172321022.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "007 Movie Car",
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "AMC Hornet X Hatchback “The Man with the Golden Gun”",
+    "productCode": "MGT00921",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261117171725554.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "007 Movie Car",
+      "Full Collection"
+    ]
+  },
+  {
     "modelName": "Mercedes-AMG EQS 53 Blue",
     "productCode": "MGT01418",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/10/20261013174929373.JPG",
