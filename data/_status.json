@@ -1,23 +1,23 @@
 {
-  "lastCheck": "2026-11-19T16:22:38.890734+00:00",
+  "lastCheck": "2026-11-20T15:59:43.638838+00:00",
   "feeds": {
     "hotwheels": {
       "count": 4256,
       "ok": true,
       "note": "ok",
       "changedThisRun": true,
-      "lastChanged": "2026-11-19T16:22:38.935749+00:00",
+      "lastChanged": "2026-11-20T15:59:43.671850+00:00",
       "firstSeen": "2026-11-12T12:11:06.036551+00:00",
-      "lastCheck": "2026-11-19T16:22:38.935752+00:00"
+      "lastCheck": "2026-11-20T15:59:43.671851+00:00"
     },
     "matchbox": {
       "count": 986,
       "ok": true,
-      "note": "stale 7d (warn)",
+      "note": "stale 8d (warn)",
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.042446+00:00",
-      "lastCheck": "2026-11-19T16:22:38.955077+00:00"
+      "lastCheck": "2026-11-20T15:59:43.685039+00:00"
     },
     "minigt": {
       "count": 1215,
@@ -26,7 +26,7 @@
       "changedThisRun": false,
       "lastChanged": "2026-11-18T16:15:29.173431+00:00",
       "firstSeen": "2026-11-12T12:11:06.051207+00:00",
-      "lastCheck": "2026-11-19T16:22:38.967077+00:00"
+      "lastCheck": "2026-11-20T15:59:43.691396+00:00"
     },
     "kaidohouse": {
       "count": 143,
@@ -35,43 +35,43 @@
       "changedThisRun": false,
       "lastChanged": "2026-11-18T16:15:29.176285+00:00",
       "firstSeen": "2026-11-12T12:11:06.054408+00:00",
-      "lastCheck": "2026-11-19T16:22:38.971148+00:00"
+      "lastCheck": "2026-11-20T15:59:43.694063+00:00"
     },
     "poprace": {
       "count": 639,
       "ok": true,
-      "note": "stale 7d (warn)",
+      "note": "stale 8d (warn)",
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.059143+00:00",
-      "lastCheck": "2026-11-19T16:22:38.978360+00:00"
+      "lastCheck": "2026-11-20T15:59:43.699099+00:00"
     },
     "tarmac": {
       "count": 379,
       "ok": true,
-      "note": "stale 7d (warn)",
+      "note": "stale 8d (warn)",
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.063139+00:00",
-      "lastCheck": "2026-11-19T16:22:38.984191+00:00"
+      "lastCheck": "2026-11-20T15:59:43.702916+00:00"
     },
     "cmmodel": {
       "count": 120,
       "ok": true,
-      "note": "stale 5d (warn)",
+      "note": "stale 6d (warn)",
       "changedThisRun": false,
       "lastChanged": "2026-11-14T14:01:20.147287+00:00",
       "firstSeen": "2026-11-12T12:11:06.066223+00:00",
-      "lastCheck": "2026-11-19T16:22:38.988455+00:00"
+      "lastCheck": "2026-11-20T15:59:43.705559+00:00"
     },
     "bbr": {
       "count": 66,
       "ok": true,
-      "note": "stale 7d (warn)",
+      "note": "stale 8d (warn)",
       "changedThisRun": false,
       "lastChanged": null,
       "firstSeen": "2026-11-12T12:11:06.069103+00:00",
-      "lastCheck": "2026-11-19T16:22:38.992299+00:00"
+      "lastCheck": "2026-11-20T15:59:43.707857+00:00"
     }
   }
 }
