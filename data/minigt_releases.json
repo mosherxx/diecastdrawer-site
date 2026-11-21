@@ -1,5 +1,25 @@
 [
   {
+    "modelName": "Nissan GT-R NISMO GT3 #24 Woodstock Peanuts x MINI GT Collection",
+    "productCode": "MGT01359",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261117180531833.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
+    "modelName": "Nissan GT-R NISMO GT3 #23 Snoopy Peanuts x MINI GT Collection",
+    "productCode": "MGT01349",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261117180250766.JPG",
+    "isReleased": false,
+    "marque": "Full Collection",
+    "marques": [
+      "Full Collection"
+    ]
+  },
+  {
     "modelName": "BMW M5 (G90) Borusan Turkish Blue",
     "productCode": "MGT01442",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261110185701535.JPG",
