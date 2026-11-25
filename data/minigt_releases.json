@@ -425,7 +425,7 @@
     "modelName": "McLaren F1 Blue Black Metallic",
     "productCode": "MGT01303",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/09/20260917201811152.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "Full Collection"
@@ -1224,7 +1224,7 @@
     "modelName": "Land Rover Defender 110 Crew Cab “Skyfall”",
     "productCode": "MGT00918",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/05/20260506055019915.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",
@@ -1235,7 +1235,7 @@
     "modelName": "Aston Martin DBS “Casino Royale”",
     "productCode": "MGT00917",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/05/20260506054637200.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",
@@ -1384,7 +1384,7 @@
     "modelName": "Aston Martin V8 Vantage “The Living Daylights” – Weapons Off",
     "productCode": "MGT00916",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/04/20260420163353380.JPG",
-    "isReleased": false,
+    "isReleased": true,
     "marque": "Full Collection",
     "marques": [
       "007 Movie Car",

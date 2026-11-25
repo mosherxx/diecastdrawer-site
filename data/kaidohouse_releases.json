@@ -1,5 +1,45 @@
 [
   {
+    "modelName": "Kaido House BBS Tent V2",
+    "productCode": "KHMG307",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261125034545433.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Nissan Skyline GT-R (R32) SERI V1",
+    "productCode": "KHMG306",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261125034352893.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "BMW M3 Kaido GT V3",
+    "productCode": "KHMG301",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261125034233503.jpg",
+    "isReleased": false,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
+    "modelName": "Volkswagen T1 Street Battle Spec V1",
+    "productCode": "KHMG292",
+    "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261125034117034.jpg",
+    "isReleased": true,
+    "marque": "Kaido House",
+    "marques": [
+      "Kaido House"
+    ]
+  },
+  {
     "modelName": "CHEVROLET CAMARO KAIDO KATSU",
     "productCode": "KHMG328",
     "imageURL": "https://minigt.tsm-models.com/upload/picfile/2026/11/20261117174927875.jpg",

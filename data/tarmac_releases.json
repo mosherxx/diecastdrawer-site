@@ -1248,22 +1248,6 @@
     "make": "Mitsubishi"
   },
   {
-    "modelName": "WERK83 1/64 BMW 320i STW 1995 Champion",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/WK83-034e_a2.jpg?v=1767679982",
-    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/werk83-1-64-bmw-320i-stw-1995-champion",
-    "scale": "1/64",
-    "series": "",
-    "make": "BMW"
-  },
-  {
-    "modelName": "WERK83 - 1/64 BMW 320i Macau Guia Race 1996",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/WK83-034h_a2.jpg?v=1767680038",
-    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/werk83-1-64-bmw-320i-macau-guia-race-1996",
-    "scale": "1/64",
-    "series": "",
-    "make": "BMW"
-  },
-  {
     "modelName": "Porsche 911 GT3 Cup (type 996) Presentation - TWOC Members Only Model",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-069-PRE_M01_b086ec51-b4ff-43fd-ac70-db42dc8a31dc.jpg?v=1764838174",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-porsche-911-gt3-cup-type-996-presentation-twoc-members-only-model-global64",
@@ -2264,22 +2248,6 @@
     "make": "Pagani"
   },
   {
-    "modelName": "Catch22 1/64 BMW 320i Macau Guia Race 2004 #15 Winner",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/C22-E46W-04M15_a.jpg?v=1705459391",
-    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/catch22-1-64-bmw-320i-macau-guia-race-2004-15-winner",
-    "scale": "1/64",
-    "series": "",
-    "make": "BMW"
-  },
-  {
-    "modelName": "Catch22 1/64 BMW 320i FIA WTCC - Guia Race of Macau 2005 #1",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/C22-E46W-05M01_a1.jpg?v=1705459415",
-    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/catch22-1-64-bmw-320i-fia-wtcc-guia-race-of-macau-2005-1",
-    "scale": "1/64",
-    "series": "",
-    "make": "BMW"
-  },
-  {
     "modelName": "Toyota Supra Turbo (MA70) Macau Guia Race 1989 #3 - Macau GP 2023 Special Edition",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-064-89MGP03_a1.jpg?v=1703230110",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-toyota-supra-turbo-ma70-macau-guia-race-1989-3-hobby64",
@@ -2344,14 +2312,6 @@
     "make": "Mitsubishi"
   },
   {
-    "modelName": "Catch22 1/64 320i E46 Super Production Macau Guia Race 2003 #1 Winner",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/C22-E46-White_a.jpg?v=1692676677",
-    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/catch22-1-64-320i-e46-super-production-macau-guia-race-2003-1-winner",
-    "scale": "1/64",
-    "series": "",
-    "make": ""
-  },
-  {
     "modelName": "Land Rover Defender 90 Silver Metallic",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-019-SL_M01.jpg?v=1792605288",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/tarmac-works-1-64-land-rover-defender-90-silver-metallic-global64",
@@ -2398,22 +2358,6 @@
     "scale": "1/64",
     "series": "",
     "make": ""
-  },
-  {
-    "modelName": "Werk83 1/64 BMW M3 Sedan Yellow",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/products/WK83-034c_a1.jpg?v=1681788980",
-    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/werks83-1-64-bmw-m3-sedan-yellow",
-    "scale": "1/64",
-    "series": "",
-    "make": "BMW"
-  },
-  {
-    "modelName": "Werk83 1/64 BMW 318i BTCC 1993 Champion #22",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/products/T6WK83-034d_a1.jpg?v=1681788885",
-    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/werks83-1-64-bmw-318i-btcc-1993-champion-22",
-    "scale": "1/64",
-    "series": "",
-    "make": "BMW"
   },
   {
     "modelName": "Model Car Collection VOL.1 - 6 Cars Set with Volkswagen Type II (T2) Panel Van Special Edition",
@@ -2726,6 +2670,62 @@
     "scale": "1/64",
     "series": "",
     "make": "Honda"
+  },
+  {
+    "modelName": "WERK83 1/64 BMW 320i STW 1995 Champion",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/WK83-034e_a2.jpg?v=1767679982",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/werk83-1-64-bmw-320i-stw-1995-champion",
+    "scale": "1/64",
+    "series": "",
+    "make": "BMW"
+  },
+  {
+    "modelName": "WERK83 - 1/64 BMW 320i Macau Guia Race 1996",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/WK83-034h_a2.jpg?v=1767680038",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/werk83-1-64-bmw-320i-macau-guia-race-1996",
+    "scale": "1/64",
+    "series": "",
+    "make": "BMW"
+  },
+  {
+    "modelName": "Catch22 1/64 BMW 320i Macau Guia Race 2004 #15 Winner",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/C22-E46W-04M15_a.jpg?v=1705459391",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/catch22-1-64-bmw-320i-macau-guia-race-2004-15-winner",
+    "scale": "1/64",
+    "series": "",
+    "make": "BMW"
+  },
+  {
+    "modelName": "Catch22 1/64 BMW 320i FIA WTCC - Guia Race of Macau 2005 #1",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/C22-E46W-05M01_a1.jpg?v=1705459415",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/catch22-1-64-bmw-320i-fia-wtcc-guia-race-of-macau-2005-1",
+    "scale": "1/64",
+    "series": "",
+    "make": "BMW"
+  },
+  {
+    "modelName": "Catch22 1/64 320i E46 Super Production Macau Guia Race 2003 #1 Winner",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/C22-E46-White_a.jpg?v=1692676677",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/catch22-1-64-320i-e46-super-production-macau-guia-race-2003-1-winner",
+    "scale": "1/64",
+    "series": "",
+    "make": ""
+  },
+  {
+    "modelName": "Werk83 1/64 BMW M3 Sedan Yellow",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/products/WK83-034c_a1.jpg?v=1681788980",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/werks83-1-64-bmw-m3-sedan-yellow",
+    "scale": "1/64",
+    "series": "",
+    "make": "BMW"
+  },
+  {
+    "modelName": "Werk83 1/64 BMW 318i BTCC 1993 Champion #22",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/products/T6WK83-034d_a1.jpg?v=1681788885",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/werks83-1-64-bmw-318i-btcc-1993-champion-22",
+    "scale": "1/64",
+    "series": "",
+    "make": "BMW"
   },
   {
     "modelName": "Nissan S-Cargo Sprite",
