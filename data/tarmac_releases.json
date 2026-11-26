@@ -1,6 +1,6 @@
 [
   {
-    "modelName": "VERTEX Toyota Aristo JZS161 Nob Taniguchi Special Spec.",
+    "modelName": "VERTEX Toyota Aristo JZS161 Nob Taniguchi Special Spec. Special Edition",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-081-NT_M02_116c7d5e-6c6d-4825-a17c-ba314944a14e.jpg?v=1795529222",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-vertex-toyota-aristo-jzs161-nob-taniguchi-special-spec-tarmac-works-global64",
     "scale": "1/64",
@@ -72,7 +72,7 @@
     "make": "Ford"
   },
   {
-    "modelName": "Audi R8 LMS GT3 evo II 24h of SPA 2023 #16 - UNO Racing",
+    "modelName": "Audi R8 LMS GT3 evo II 24h of SPA 2023 #16 - Uno Racing Special Edition",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-043-23SPA16_M03.jpg?v=1795528588",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-audi-r8-lms-gt3-evo-ii-24h-of-spa-2023-16-uno-racing-tarmac-works-hobby64",
     "scale": "1/64",
@@ -80,7 +80,7 @@
     "make": "Audi"
   },
   {
-    "modelName": "Mercedes-AMG GT3 Shanghai 8 Hours - Initial D Presentation - Climax Racing",
+    "modelName": "Mercedes-AMG GT3 Shanghai 8 Hours Initial D Presentation Special Edition",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-062-26SH_M02.jpg?v=1795528494",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-mercedes-amg-gt3-shanghai-8-hours-initial-d-presentation-climax-racing-tarmac-works-hobby64",
     "scale": "1/64",
@@ -88,7 +88,7 @@
     "make": "Mercedes-AMG"
   },
   {
-    "modelName": "Porsche 911 GT3 R Nürburgring 24h 2025 #33",
+    "modelName": "Porsche 911 GT3 R Nürburgring 24h 2025 #33 Special Edition",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-084-25NUR33_M02.jpg?v=1795528472",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-porsche-911-gt3-r-nurburgring-24h-2025-33-tarmac-works-x-ixo-models-hobby64",
     "scale": "1/64",
@@ -96,7 +96,7 @@
     "make": "Porsche"
   },
   {
-    "modelName": "Ferrari F40 GT Italian GT Championship 1993 #5",
+    "modelName": "Ferrari F40 GT Italian GT Championship 1993 #5 Special Edition",
     "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-076-93IGT05_M02_364a8aae-e9e7-40c3-a1ed-319a64b6f509.jpg?v=1795528421",
     "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-ferrari-f40-gt-italian-gt-championship-1993-5-tarmac-works-x-ixo-models-hobby64",
     "scale": "1/64",
@@ -2670,6 +2670,46 @@
     "scale": "1/64",
     "series": "",
     "make": "Honda"
+  },
+  {
+    "modelName": "VERTEX Toyota Aristo JZS161 Nob Taniguchi Special Spec.",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-081-NT_M02_116c7d5e-6c6d-4825-a17c-ba314944a14e.jpg?v=1795529222",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-vertex-toyota-aristo-jzs161-nob-taniguchi-special-spec-tarmac-works-global64",
+    "scale": "1/64",
+    "series": "GLOBAL64",
+    "make": "Toyota"
+  },
+  {
+    "modelName": "Audi R8 LMS GT3 evo II 24h of SPA 2023 #16 - UNO Racing",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-043-23SPA16_M03.jpg?v=1795528588",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-audi-r8-lms-gt3-evo-ii-24h-of-spa-2023-16-uno-racing-tarmac-works-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Audi"
+  },
+  {
+    "modelName": "Mercedes-AMG GT3 Shanghai 8 Hours - Initial D Presentation - Climax Racing",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-062-26SH_M02.jpg?v=1795528494",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-mercedes-amg-gt3-shanghai-8-hours-initial-d-presentation-climax-racing-tarmac-works-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Mercedes-AMG"
+  },
+  {
+    "modelName": "Porsche 911 GT3 R Nürburgring 24h 2025 #33",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-084-25NUR33_M02.jpg?v=1795528472",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-porsche-911-gt3-r-nurburgring-24h-2025-33-tarmac-works-x-ixo-models-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Porsche"
+  },
+  {
+    "modelName": "Ferrari F40 GT Italian GT Championship 1993 #5",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-076-93IGT05_M02_364a8aae-e9e7-40c3-a1ed-319a64b6f509.jpg?v=1795528421",
+    "productURL": "https://www.tarmacworks.com/collections/tarmac-works/products/1-64-ferrari-f40-gt-italian-gt-championship-1993-5-tarmac-works-x-ixo-models-hobby64",
+    "scale": "1/64",
+    "series": "HOBBY64",
+    "make": "Ferrari"
   },
   {
     "modelName": "WERK83 1/64 BMW 320i STW 1995 Champion",

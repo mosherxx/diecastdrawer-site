@@ -16,6 +16,14 @@
     "make": "Ferrari"
   },
   {
+    "modelName": "1:64Ferrari 599 XX EVO #512 Yellow",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/BBRFER64048.jpg?v=1795467010",
+    "productURL": "https://horizondiecast.com/products/preorder-bbr-models-1-64ferrari-599-xx-evo-512-yellow-bbrfer64048",
+    "scale": "1/64",
+    "series": "BBRFER64048",
+    "make": "Ferrari"
+  },
+  {
     "modelName": "Alfa Romeo Giulia GTA",
     "imageURL": "https://static.wikia.nocookie.net/bbr-diecast-models/images/6/6e/DIE6405.jpg",
     "productURL": "https://bbr-diecast-models.fandom.com/wiki/Alfa_Romeo_Giulia_GTA",
@@ -192,6 +200,14 @@
     "make": "Ferrari"
   },
   {
+    "modelName": "Ferrari 296 Speciale Piloti",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/BBRFER64049_bfc46f82-fe39-4d2e-9223-b89cfe38c911.jpg?v=1795467159",
+    "productURL": "https://horizondiecast.com/products/preorder-bbr-1-64-ferrari-296-speciale-piloti-bbrfer64049",
+    "scale": "1/64",
+    "series": "BBRFER64049",
+    "make": "Ferrari"
+  },
+  {
     "modelName": "Ferrari 296 Speciale – Grigio Silverstone Opaco",
     "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/image_1c37d3b1-d42b-4022-b2da-cf5b74bc1b69.jpg?v=1772996228",
     "productURL": "https://horizondiecast.com/products/preorder-bbr-1-64-ferrari-296-speciale-grigio-silverstone-opaco-bbrfer64043-1",
@@ -333,6 +349,22 @@
     "productURL": "https://bbr-diecast-models.fandom.com/wiki/Ferrari_Daytona_SP3_Rosso_Imola",
     "scale": "1/64",
     "series": "BBRFER64019",
+    "make": "Ferrari"
+  },
+  {
+    "modelName": "Ferrari F50 Rosso Corsa Open Top",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/BBRFER64050.jpg?v=1795466723",
+    "productURL": "https://horizondiecast.com/products/preorder-bbr-1-64-ferrari-f50-rosso-corsa-open-top-bbrfer64050",
+    "scale": "1/64",
+    "series": "BBRFER64050",
+    "make": "Ferrari"
+  },
+  {
+    "modelName": "Ferrari F80 Rosso Corsa",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0267/1116/3054/files/BBRFER64047.jpg?v=1795466786",
+    "productURL": "https://horizondiecast.com/products/preorder-bbr-1-64-ferrari-f80-rosso-corsa-bbrfer64047",
+    "scale": "1/64",
+    "series": "BBRFER64047",
     "make": "Ferrari"
   },
   {
